@@ -1,0 +1,40 @@
+name: Venezuela News Fetch
+
+on:
+  schedule:
+    # 6 AM EST  = 11:00 UTC
+    - cron: "0 11 * * *"
+    # 6 PM EST  = 23:00 UTC
+    - cron: "0 23 * * *"
+  workflow_dispatch:   # allow manual trigger from the Actions tab
+
+permissions:
+  contents: write      # needed to push docs/venezuela_news.json back to the repo
+
+jobs:
+  fetch-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run news fetcher
+        run: python venezuela_news_fetcher.py
+
+      - name: Commit and push updated JSON
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/venezuela_news.json
+          # Only commit if there are actual changes
+          git diff --cached --quiet || git commit -m "chore: update venezuela_news.json [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+          git push
