@@ -1,7 +1,119 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-05T11:59:28Z",
+  "last_updated": "2026-04-06T00:04:32Z",
   "stories": [
+    {
+      "title": "The Conversation | Maduro and Flores: a trial that will cost a lot of money",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/alianzas/la-conversa-maduro-y-flores-un-juicio-que-costara-mucho-dinero/",
+      "published_date": "2026-04-05T23:27:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump postponed for the third time the ultimatum to Iran for the reopening of Hormuz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-aplazo-por-tercera-vez-el-ultimatum-a-iran-para-la-reapertura-de-ormuz/",
+      "published_date": "2026-04-05T21:46:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Easter message of the Maduro-Flores: a call for peace after 90 days in federal custody",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-mensaje-pascual-de-los-maduro-flores-un-llamado-a-la-paz-tras-90-dias-bajo-custodia-federal/",
+      "published_date": "2026-04-05T20:49:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Three months of Delcy Rodríguez in power: How much longer can Chavismo stretch the electoral calendar?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/tres-meses-de-delcy-rodriguez-en-el-poder-cuanto-mas-puede-estirar-el-chavismo-el-calendario-electoral/",
+      "published_date": "2026-04-05T20:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shipwreck in the Mediterranean: 70 people are missing",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/naufragio-en-el-mediterraneo-hay-70-personas-desaparecidas/",
+      "published_date": "2026-04-05T19:25:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump confirmed sending weapons to protesters in Iran through Kurdish militias",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-confirmo-el-envio-de-armamento-a-los-manifestantes-de-iran-a-traves-de-milicias-kurdas/",
+      "published_date": "2026-04-05T19:09:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From making caricatures in Punto Fijo to portraying Maduro in court: the artistic path of Jorge Torrealba",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/de-hacer-caricaturas-en-punto-fijo-a-retratar-a-maduro-en-la-corte-el-camino-artistico-de-jorge-torrealba/",
+      "published_date": "2026-04-05T18:45:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Irán advierte a Trump de que arrastra a EE UU a un infierno viviente con su imprudencia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/iran-advierte-a-trump-de-que-arrastra-a-ee-uu-a-un-infierno-viviente-con-su-imprudencia/",
+      "published_date": "2026-04-05T17:39:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They are looking for people who speak Spanish to live in Italy for free: requirements and conditions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/buscan-a-personas-que-hablen-espanol-para-vivir-en-italia-gratis-requisitos-y-condiciones/",
+      "published_date": "2026-04-05T17:16:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Ambassador of Iran met with groups on January 23: he participated in a radio program where they incited Trump's assassination",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/embajador-de-iran-se-reunio-con-colectivos-del-23-de-enero-participo-en-programa-radial-donde-incitaron-al-magnicidio-de-trump/",
+      "published_date": "2026-04-05T15:48:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inter Miami tied at the premiere of its new stadium with goals from Messi and Suárez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/inter-miami-empato-en-el-estreno-de-su-nuevo-estadio-con-goles-de-messi-y-suarez/",
+      "published_date": "2026-04-05T15:35:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump toughens his stance against Iran: he threatens massive attacks if negotiations fail",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-endurece-su-postura-contra-iran-amenaza-con-ataques-masivos-si-falla-la-negociacion/",
+      "published_date": "2026-04-05T15:20:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Conversation | Maduro and Flores: a trial that will cost a lot of money",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/604178/la-conversa-maduro-y-flores-un-juicio-que-costara-mucho-dinero/",
+      "published_date": "2026-04-05T15:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dozens of planes and CIA participation: how was the operation in which they rescued the crew member of the US F-15 fighter shot down by Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/decenas-de-aviones-y-participacion-de-la-cia-como-fue-la-operacion-en-la-que-rescataron-al-tripulante-del-caza-f-15-de-ee-uu-derribado-por-iran/",
+      "published_date": "2026-04-05T14:22:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Comando Con Vzla announced a meeting with the diaspora in Madrid: \"Venezuelan style\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/comando-con-vzla-anuncio-un-encuentro-con-la-diaspora-en-madrid-a-la-venezolana/",
+      "published_date": "2026-04-05T12:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump confirmed the successful rescue of the second pilot downed in Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-confirmo-el-rescate-exitoso-de-segundo-piloto-derribado-en-iran-cinco-fallecidos-durante-la-operacion/",
+      "published_date": "2026-04-05T12:15:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The question",
       "source": "El Nacional",
@@ -31,116 +143,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The New Map of Power: The Hegseth Doctrine and the Birth of Greater North America",
+      "title": "Cardinal Baltazar Porras considers that elections and economic recovery must be simultaneous",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-nuevo-mapa-de-poder-la-doctrina-hegseth-y-el-nacimiento-de-la-gran-america-del-norte/",
-      "published_date": "2026-04-05T05:08:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/cardenal-baltazar-porras-considera-que-elecciones-y-recuperacion-economica-deben-ser-simultaneas/",
+      "published_date": "2026-04-05T22:53:46Z",
+      "category": "Military"
     },
     {
-      "title": "María Corina Machado asks Venezuelans to continue moving forward: \"We are close to returning to life\"",
+      "title": "Keiko Fujimori thanks support in the polls one week before the elections in Peru",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-pide-a-los-venezolanos-seguir-avanzando-estamos-cerca-del-retorno-a-la-vida/",
-      "published_date": "2026-04-05T00:51:51Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/keiko-fujimori-agradece-apoyo-en-los-sondeos-a-una-semana-de-las-elecciones-en-peru/",
+      "published_date": "2026-04-05T22:32:46Z",
+      "category": "Military"
     },
     {
-      "title": "Provide 3 months after Maduro's capture: AN can declare absolute absence from office",
+      "title": "Activist Carlos Julio Rojas denounces presence of police during the burning of Judas in La Candelaria",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/provea-al-cumplirse-3-meses-de-la-captura-de-maduro-an-puede-declarar-ausencia-absoluta-del-cargo/",
-      "published_date": "2026-04-04T22:08:18Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/activista-carlos-julio-rojas-denuncia-presencia-de-policias-durante-quema-de-judas-en-la-candelaria/",
+      "published_date": "2026-04-05T21:51:11Z",
+      "category": "Military"
     },
     {
-      "title": "Venezuela modernizes its legal framework: the new Mining Law seeks to attract foreign capital and international arbitration",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/venezuela-moderniza-su-marco-legal-la-nueva-ley-de-minas-busca-atraer-capital-extranjero-y-arbitraje-internacional/",
-      "published_date": "2026-04-04T21:30:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Representative of Iran left Argentina after being declared persona non grata",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/representante-de-iran-abandono-argentina-tras-ser-declarado-persona-non-grata/",
-      "published_date": "2026-04-04T20:44:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGO raises to 27 political prisoners released in Cuba under agreement with the Vatican",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ong-eleva-a-27-los-presos-politicos-excarcelados-en-cuba-bajo-acuerdo-con-el-vaticano/",
-      "published_date": "2026-04-04T20:36:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Portugal says it is willing to maintain diplomatic work with Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/portugal-dice-estar-dispuesto-a-mantener-un-trabajo-diplomatico-con-venezuela/",
-      "published_date": "2026-04-04T19:51:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Three months after Maduro's capture, his son calls for reconciliation in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/tres-meses-despues-de-la-captura-de-maduro-su-hijo-llama-a-la-reconciliacion-en-venezuela/",
-      "published_date": "2026-04-04T19:17:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pedro Pascal films the film that Joaquín Phoenix abandoned in the streets of Mexico City",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/pedro-pascal-filma-en-calles-de-ciudad-de-mexico-la-pelicula-que-joaquin-phoenix-abandono/",
-      "published_date": "2026-04-04T18:47:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran claims to have attacked US targets in Kuwait and the United Arab Emirates with drones",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/iran-afirma-haber-atacado-con-drones-objetivos-de-ee-uu-en-kuwait-y-emiratos-arabes-unidos/",
-      "published_date": "2026-04-04T18:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Easter: the 4 most unusual traditions celebrated in the world",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/pascua-las-4-tradiciones-mas-insolitas-que-se-celebran-en-el-mundo/",
-      "published_date": "2026-04-04T18:23:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They arrested a mother who had abandoned her newborn baby near a hospital in Portuguesa",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/detuvieron-a-madre-en-portuguesa-abandono-a-su-bebe-recien-nacida-cerca-del-hospital-jm-casal-ramos/",
-      "published_date": "2026-04-04T17:12:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump gives 48 hours to reach agreement on Hormuz or he will unleash hell on Iran",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-da-48-horas-para-lograr-acuerdo-sobre-ormuz-o-desatara-un-infierno-sobre-iran/",
-      "published_date": "2026-04-04T16:42:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Manchester City destroyed Liverpool in the Cup with a hat trick from Haaland",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-manchester-city-destrozo-al-liverpool-en-la-copa-con-un-triplete-de-haaland/",
-      "published_date": "2026-04-04T15:41:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Three months since Maduro's capture and the “constitutional clock” is ticking without talking about elections",
+      "title": "Mrs. Carmen Navas still has not received an official response regarding the whereabouts of her son Víctor Quero",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/604091/tres-meses-de-la-captura-de-maduro-y-el-reloj-constitucional-corre-sin-hablar-de-elecciones/",
-      "published_date": "2026-04-04T15:40:19Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/604182/la-senora-carmen-navas-sigue-sin-obtener-respuesta-oficial-del-paradero-de-su-hijo-victor-quero/",
+      "published_date": "2026-04-05T19:51:48Z",
+      "category": "Military"
     },
     {
-      "title": "Crew member of US fighter plane that crashed in Iran is wanted by both sides",
+      "title": "Mrs. Carmen Navas still has not received a response for the disappearance of her son, NGO denounces",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/senora-carmen-navas-sigue-sin-recibir-respuesta-por-desaparicion-de-su-hijo-denuncia-ong/",
+      "published_date": "2026-04-05T18:39:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Union leader reaffirms call for march towards Miraflores to demand salary improvement this #9Apr",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/borrador-automatico-tripulante-de-avion-caza-estadounidense-que-se-estrello-en-iran-es-buscado-por-ambos-bandos/",
-      "published_date": "2026-04-04T14:48:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/dirigente-sindical-reafirma-convocatoria-a-marcha-hacia-miraflores-para-exigir-mejora-salarial-este-9abr/",
+      "published_date": "2026-04-05T13:11:13Z",
+      "category": "Military"
     },
     {
       "title": "They took the dictator and left the dictatorship",
@@ -241,46 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Preventive prison for businesswoman for falsifying Ronaldinho's passport in Paraguay",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/prision-preventiva-para-empresaria-por-falsificar-pasaporte-de-ronaldinho-en-paraguay/",
-      "published_date": "2026-04-04T13:11:15Z",
-      "category": "Military"
+      "title": "Trump threatens Iran to attack power plants and bridges if it does not open the Strait of Hormuz within 48 hours",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacionales/trump-amenaza-a-iran-con-atacar-plantas-electricas-y-puentes-si-en-48-horas-no-abre-el-estrecho-de-ormuz/",
+      "published_date": "2026-04-05T19:38:05Z",
+      "category": "Energy"
     },
     {
-      "title": "Do they deserve forgiveness?",
+      "title": "OPEC+ once again raises production quotas by 206,000 barrels per day",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/merecen-el-perdon/",
-      "published_date": "2026-04-04T05:17:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/la-opep-vuelve-a-subir-cuotas-de-produccion-en-206-000-barriles-por-dia/",
+      "published_date": "2026-04-05T18:39:50Z",
+      "category": "Energy"
     },
     {
-      "title": "The gigantic comedy of the Labor Constituent Assembly",
+      "title": "Gas station worker arrested in Cojedes for demanding payments in foreign currency",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/la-gigantesca-comica-de-la-constituyente-laboral/",
-      "published_date": "2026-04-04T05:16:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "On this day April 4",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/tal-dia-como-hoy-4-de-abril/",
-      "published_date": "2026-04-04T05:02:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGO reported that 49 political prisoners with serious illnesses face a slow death sentence",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ong-denuncio-que-49-presos-politicos-con-enfermedades-graves-enfrentan-una-condena-a-muerte-lenta/",
-      "published_date": "2026-04-03T23:54:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "María Elvira Salazar on Delcy Rodríguez: \"It is only a short solution until there are elections in Venezuela\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/maria-elvira-salazar-sobre-delcy-rodriguez-es-solo-una-solucion-corta-hasta-que-haya-elecciones-en-venezuela/",
-      "published_date": "2026-04-03T23:27:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/detenido-trabajador-de-gasolinera-en-cojedes-exigia-pagos-en-divisas/",
+      "published_date": "2026-04-05T14:07:00Z",
+      "category": "Energy"
     },
     {
       "title": "Analysis of the environment: The time of Washington, that of Chavismo and that of the people",
@@ -402,25 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Reuters: Delcy Rodríguez administration prepares to assume control of Citgo",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/reuters-administracion-de-delcy-rodriguez-se-prepara-para-asumir-control-de-citgo/",
-      "published_date": "2026-04-01T19:16:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The US allows foreign companies to operate with Venezuelan oil under strict conditions",
+      "title": "Javier Milei: \"I tell my friends Abascal and Díaz Ayuso: the enemy is the left\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ee-uu-permite-a-empresas-extranjeras-operar-con-petroleo-de-venezuela-bajo-estrictas-condiciones/",
-      "published_date": "2026-04-01T17:30:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Reuters: Shell maintains advanced talks with Venezuela to acquire more gas extraction areas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/reuters-shell-mantiene-conversaciones-avanzadas-con-venezuela-para-adquirir-mas-areas-de-extraccion-de-gas/",
-      "published_date": "2026-04-01T16:29:10Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/javier-milei-yo-les-digo-a-mis-amigos-abascal-y-diaz-ayuso-el-enemigo-es-la-izquierda/",
+      "published_date": "2026-04-05T19:49:37Z",
+      "category": "Economy"
     },
     {
       "title": "April bullets",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Eating fish at Holy Week, an expensive tradition in Venezuela",
+      "title": "Celta de Vigo destroys Valencia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-celta-de-vigo-hace-pedazos-al-valencia/",
+      "published_date": "2026-04-06T00:01:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Universidad Central wins again and Trujillanos continues without scoring points in the Venezuelan League",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/universidad-central-vuelve-a-ganar-y-trujillanos-sigue-sin-sumar-puntos-en-liga-venezolana/",
+      "published_date": "2026-04-05T23:55:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cojedes | Service station firefighter arrested for demanding foreign currency to supply fuel",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/comer-pescado-en-semana-santa-una-tradicion-cara-en-venezuela/",
-      "published_date": "2026-04-01T12:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Armando.info: Petro's circle that agreed with Maduro and the Venezuelan military",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/armando-info-el-circulo-de-petro-que-pacto-con-maduro-y-los-militares-venezolanos/",
-      "published_date": "2026-04-05T11:38:08Z",
+      "url": "https://elpitazo.net/regiones/los-llanos/cojedes-detenido-bombero-de-estacion-de-servicio-por-exigir-divisas-para-surtir-combustible/",
+      "published_date": "2026-04-05T23:36:59Z",
       "category": "Local Events"
     },
     {
-      "title": "Braulio Jatar: First democracy, then stability and recovery",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/braulio-jatar-primero-democracia-despues-estabilidad-y-recuperacion/",
-      "published_date": "2026-04-05T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Nacional: new stage in its career",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-nacional-nueva-etapa-en-su-trayectoria/",
-      "published_date": "2026-04-05T05:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Without justice there is no transition",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/sin-justicia-no-hay-transicion/",
-      "published_date": "2026-04-05T05:22:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Washington-Caracas agreement, an optimistic vision",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-acuerdo-washington-caracas-una-vision-optimista/",
-      "published_date": "2026-04-05T05:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Turn for resurrection",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/turno-para-la-resurreccion/",
-      "published_date": "2026-04-05T05:18:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Simón Díaz: the singer who made his country with the tune",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/simon-diaz-el-cantor-que-hizo-patria-con-la-tonada/",
-      "published_date": "2026-04-05T05:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tired of living, tired of others living? About euthanasia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/cansado-de-vivir-cansado-de-que-otros-vivan-sobre-la-eutanasia/",
-      "published_date": "2026-04-05T05:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Little by little...but, quickly (II)",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/poco-a-pocopero-rapidito-ii/",
-      "published_date": "2026-04-05T05:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "active shooter",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/tirador-activo/",
-      "published_date": "2026-04-05T05:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The lineage of misfits: anti-Gomecista liberal and nationalist caudillism (III)",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/la-estirpe-de-los-inadaptados-el-caudillismo-liberal-y-nacionalista-antigomecista-iii/",
-      "published_date": "2026-04-05T05:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Social leader Alcedo Mora celebrates 11 years of forced disappearance: he had reported corruption in PDVSA",
+      "title": "Caracas | Firefighters recover body of a woman in the Guaire River",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/dirigente-social-alcedo-mora-cumple-11-anos-de-desaparicion-forzada-habia-denunciado-corrupcion-en-pdvsa/",
-      "published_date": "2026-04-05T00:58:18Z",
+      "url": "https://elpitazo.net/sucesos/caracas-bomberos-recuperan-cuerpo-de-una-mujer-en-el-rio-guaire/",
+      "published_date": "2026-04-05T22:44:47Z",
       "category": "Local Events"
     },
     {
-      "title": "María Corina Machado asks to continue advancing in the rebirth of Venezuela: \"We are close to returning to life\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-pide-seguir-avanzando-en-el-renacer-de-venezuela-estamos-cerca-del-retorno-a-la-vida/",
-      "published_date": "2026-04-05T00:26:45Z",
+      "title": "Israel authorizes up to 100 worshipers at the Western Wall in Jerusalem",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/israel-autoriza-hasta-100-fieles-en-el-muro-occidental-de-jerusalen/",
+      "published_date": "2026-04-05T22:44:07Z",
       "category": "Local Events"
     },
     {
-      "title": "We are all responsible, according to Machado",
+      "title": "Historic: NASA reveals the hidden side of the Moon seen by the Artemis II crew",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/historico-la-nasa-revela-la-cara-oculta-de-la-luna-vista-por-la-tripulacion-de-artemis-ii/",
+      "published_date": "2026-04-05T21:42:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fake News Hunters denounce unauthorized use of their image to fabricate a false denial",
       "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/604165/plan-de-maria-corina-machado-asdrubal-aguiar/",
-      "published_date": "2026-04-05T00:03:03Z",
+      "url": "https://runrun.es/noticias/604195/cazadores-de-fake-news-denuncia-uso-no-autorizado-de-su-imagen-para-fabricar-un-falso-desmentido/",
+      "published_date": "2026-04-05T21:35:56Z",
       "category": "Local Events"
     },
     {
-      "title": "El Inmejorable broadcasts US races without paying for the rights, betting center owners denounce",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/el-inmejorable-retransmite-carreras-de-ee-uu-sin-pagar-por-los-derechos-denuncian-duenos-de-centros-de-apuestas/",
-      "published_date": "2026-04-04T23:58:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lennin Pérez, member of Cuarto Poder, died after fighting colon cancer",
+      "title": "Viacrucis of Petare turns 40 years old",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/fallecio-lennin-perez-integrante-de-cuarto-poder-tras-luchar-contra-el-cancer-de-colon/",
-      "published_date": "2026-04-04T22:43:54Z",
+      "url": "https://www.elnacional.com/2026/04/viacrucis-de-petare-cumple-40-anos/",
+      "published_date": "2026-04-05T21:26:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezuelan Prison Observatory denounces the death of an inmate in Uribana due to lack of medical care",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/observatorio-venezolano-de-prisiones-denuncia-muerte-de-un-recluso-en-uribana-por-falta-de-atencion-medica/",
-      "published_date": "2026-04-04T22:24:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barcelona beat Atlético with a goal from Lewandowski and consolidates its position at the top",
+      "title": "Artemis II astronauts prepare for lunar flyby",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/barcelona-vencio-al-atletico-con-gol-de-lewandowski-y-se-afianza-en-la-cima/",
-      "published_date": "2026-04-04T22:03:58Z",
+      "url": "https://www.elnacional.com/2026/04/astronautas-de-artemis-ii-se-preparan-para-sobrevuelo-lunar/",
+      "published_date": "2026-04-05T21:21:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Saime announces special identification operation in Caracas communities starting #Apr6",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/saime-anuncia-operativo-especial-de-cedulacion-en-comunidades-de-caracas-a-partir-del-6abr/",
-      "published_date": "2026-04-04T22:03:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Out loud, a book that documents and criticizes contemporary Venezuela",
+      "title": "16-year-old teenager drowned in the Las Aguas de Moisés tourist center",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/en-voz-alta-un-libro-que-documenta-y-critica-la-venezuela-contemporanea/",
-      "published_date": "2026-04-04T21:03:11Z",
+      "url": "https://www.elnacional.com/2026/04/adolescente-de-16-anos-murio-ahogado-en-el-centro-turistico-las-aguas-de-moises/",
+      "published_date": "2026-04-05T21:14:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Meryl Streep to star in TV adaptation of The Corrections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/meryl-streep-protagonizara-la-adaptacion-a-la-television-de-the-corrections/",
+      "published_date": "2026-04-05T21:00:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother and daughter die in tragic traffic accident in Bolívar",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/madre-e-hija-mueren-en-tragico-accidente-de-transito-en-bolivar/",
+      "published_date": "2026-04-05T20:59:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cardinal Porras questions slowness of benefits with the Amnesty Law",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/cardenal-porras-cuestiona-lentitud-de-beneficios-con-la-ley-de-amnistia/",
+      "published_date": "2026-04-05T20:13:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is polarization preventing the recovery of democracy?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/604189/la-polarizacion-esta-impidiendo-la-recuperacion-de-la-democracia/",
+      "published_date": "2026-04-05T20:11:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Julio Rojas denounces judicial blockade: \"They are waiting for orders from above to process amnesty\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/carlos-julio-rojas-denuncia-bloqueo-judicial-esperan-ordenes-de-arriba-para-procesar-amnistia/",
+      "published_date": "2026-04-05T19:55:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Secret Service investigates report of shots fired near White House",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-servicio-secreto-investiga-un-reporte-de-disparos-cerca-de-la-casa-blanca/",
+      "published_date": "2026-04-05T18:49:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The culinary trick to flavor strawberries without adding sugar",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-truco-culinario-para-dar-sabor-a-las-fresas-sin-anadir-azucar/",
+      "published_date": "2026-04-05T18:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They reported a boat capsize in Chichiriviche: seven people were injured, including three minors",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/reportaron-vuelco-de-lancha-en-chichiriviche-7-personas-resultaron-heridas-entre-ellas-tres-menores/",
+      "published_date": "2026-04-05T17:59:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“There must be autonomy for there to be balance”: The Easter message of Cardinal Baltazar Porras",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/604168/tiene-que-haber-autonomia-para-que-haya-equilibrio-el-mensaje-pascual-del-cardenal-baltazar-porras/",
+      "published_date": "2026-04-05T17:47:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Potro” Álvarez plot: PNB commissioner investigated in the riferos case is released",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/trama-potro-alvarez-liberan-a-comisario-de-la-pnb-investigado-por-caso-de-los-riferos/",
+      "published_date": "2026-04-05T17:33:17Z",
       "category": "Local Events"
     }
   ]
