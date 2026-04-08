@@ -1,7 +1,112 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-08T05:33:32Z",
+  "last_updated": "2026-04-08T15:01:43Z",
   "stories": [
+    {
+      "title": "Spanish Foreign Minister confirms willingness to receive María Corina Machado but clarifies that there is no official request",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/canciller-espanol-confirma-disposicion-de-recibir-a-maria-corina-machado-pero-aclara-que-no-hay-peticion-oficial/",
+      "published_date": "2026-04-08T14:39:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United States and Iran observe a precarious truce",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/estados-unidos-e-iran-observan-una-precaria-tregua/",
+      "published_date": "2026-04-08T13:22:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Pope welcomes with satisfaction and hope the announcement of the truce in the war in Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-papa-acoge-con-satisfaccion-y-esperanza-el-anuncio-de-la-tregua-en-la-guerra-de-iran/",
+      "published_date": "2026-04-08T12:48:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oscar Awards announce the dates of their 99th and 100th editions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/premios-oscar-anuncian-las-fechas-de-su-edicion-99-y-100/",
+      "published_date": "2026-04-08T12:45:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy Rodríguez and opposition led by Juan Guaidó dispute control of Citgo and other Venezuelan assets in the US.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-y-oposicion-liderada-por-juan-guaido-disputan-control-de-citgo-y-otros-activos-de-venezuela-en-ee-uu/",
+      "published_date": "2026-04-08T12:39:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One year since the tragedy in Jet Set: the persistent mourning of the Venezuelan community in Santo Domingo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/un-ano-de-la-tragedia-en-jet-set-el-duelo-persistente-de-la-comunidad-venezolana-en-santo-domingo/",
+      "published_date": "2026-04-08T12:26:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What is the far side of the Moon and why is it important to investigate it?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/que-es-el-lado-oculto-de-la-luna-y-por-que-es-importante/",
+      "published_date": "2026-04-08T12:22:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Orion capsule begins its critical return to Earth",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/la-capsula-orion-inicia-su-critico-retorno-a-la-tierra/",
+      "published_date": "2026-04-08T12:03:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"The Iran ceasefire deal is a temporary victory for Trump that could come at a high cost\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-acuerdo-de-cese-el-fuego-con-iran-es-una-victoria-temporal-para-trump-que-podria-tener-un-alto-costo/",
+      "published_date": "2026-04-08T11:18:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the ten points of Iran's plan to negotiate an end to the war with the United States?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/cuales-son-los-diez-puntos-del-plan-de-iran-para-negociar-el-fin-de-la-guerra-con-estados-unidos/",
+      "published_date": "2026-04-08T10:47:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oil falls below $100 and world stock markets rise due to truce in Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-petroleo-cae-por-debajo-de-100-dolares-y-las-bolsas-mundiales-escalan-por-tregua-en-iran/",
+      "published_date": "2026-04-08T10:33:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The main reactions to the ceasefire between the US and Iran: \"Let there be serious and sustainable dialogue\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/las-principales-reacciones-al-alto-el-fuego-entre-ee-uu-e-iran-que-haya-dialogo-serio-y-sostenible/",
+      "published_date": "2026-04-08T09:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US and Iran claim victory after agreeing to a two-week ceasefire",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/una-victoria-total-ee-uu-e-iran-cantan-victoria-tras-acordar-un-alto-el-fuego-de-dos-semanas/",
+      "published_date": "2026-04-08T09:45:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wilfrido Vargas pays tribute to Rubby Pérez with Eternamente Rubby",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/wilfrido-vargas-rinde-tributo-a-rubby-perez/",
+      "published_date": "2026-04-08T08:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Arsenal beat Sporting Lisbon in the Champions League",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/arsenal-vence-al-sporting-de-lisboa-en-la-champions/",
+      "published_date": "2026-04-08T05:36:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Delcy in the empire",
       "source": "El Nacional",
@@ -38,109 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Remittances sustain economies, but empty homes",
+      "title": "North Korea conducts third ballistic missile test in two days",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/las-remesas-sostienen-economias-pero-vacian-hogares/",
-      "published_date": "2026-04-08T05:16:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/corea-del-norte-realiza-tercera-prueba-de-un-misil-balistico/",
+      "published_date": "2026-04-08T14:34:11Z",
+      "category": "Military"
     },
     {
-      "title": "On April 8, 1911, Emile Michelle Cioran was born.",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-8-de-abril-de-1911-nace-emile-michelle-cioran/",
-      "published_date": "2026-04-08T05:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGO denounces that court denied amnesty to 16-year-old teenager",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ong-denuncia-que-tribunal-nego-amnistia-a-adolescente-de-16-anos/",
-      "published_date": "2026-04-08T00:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump postpones possible attack on Iran: what is known about the decision",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-aplaza-posible-ataque-a-iran-lo-que-se-sabe-de-la-decision/",
-      "published_date": "2026-04-07T23:24:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They denounce implementation of state policy against university autonomy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/denuncia-la-implementacion-de-una-politica-estatal-contra-autonomia-universitaria/",
-      "published_date": "2026-04-07T22:55:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ILO urges setting minimum wage in Venezuela under consensual methods",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/604362/oit-insta-fijar-salario-minimo-en-venezuela-en-consonancia-con-metodos-consensuados/",
-      "published_date": "2026-04-07T21:12:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Judge prevents Maduro's defense from sharing evidence with Diosdado Cabello and other defendants",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/juez-impide-a-defensa-de-maduro-compartir-pruebas-con-diosdado-cabello-y-otros-acusados/",
-      "published_date": "2026-04-07T18:44:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Transparency Venezuela warns about irregularities in nominations for prosecutor and ombudsman",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/denuncian-candidatos-no-idoneos-para-fiscal-y-defensor-del-pueblo/",
-      "published_date": "2026-04-07T18:03:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Corina Machado and Colombian candidate De la Espriella agree on a joint vision for the region",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/machado-y-de-la-espriella-acuerdan-vision-conjunta-para-la-region/",
-      "published_date": "2026-04-07T17:22:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The echo machinery: This is how the network of 44 media outlets that globalizes the ruling party's script operates",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/604313/la-maquinaria-del-eco-asi-opera-la-red-de-44-medios-que-globaliza-el-guion-del-oficialismo/",
-      "published_date": "2026-04-07T16:58:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Netanyahu confirms Israeli bombings of railways and bridges in Iran",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/netanyahu-confirma-bombardeos-a-vias-ferreas-y-puentes-en-iran/",
-      "published_date": "2026-04-07T16:57:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"We saw things that no human being has ever seen\": the amazement of the Artemis II crew and the new images of the far side of the Moon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/vimos-cosas-que-ningun-ser-humano-ha-visto-jamas-el-asombro-de-la-tripulacion-de-artemis-ii-y-las-nuevas-imagenes-del-lado-oculto-de-la-luna/",
-      "published_date": "2026-04-07T16:55:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Sooner rather than later Maduro will be back” and other pearls from Diosdado",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/604310/mas-temprano-que-tarde-maduro-estara-de-vuelta-y-otras-perlas-de-diosdado/",
-      "published_date": "2026-04-07T16:43:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colombian government inspected public media after complaints of sexual harassment in the press",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/gobierno-colombiano-inspecciono-medio-publico-tras-denuncias-de-acoso-sexual-en-la-prensa/",
-      "published_date": "2026-04-07T16:09:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran warns the US that it will respond “beyond the region” if it carries out its threats",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/iran-advierte-a-ee-uu-que-respondera-mas-alla-de-la-region-si-cumple-sus-amenazas/",
-      "published_date": "2026-04-07T15:38:40Z",
-      "category": "Diplomacy"
+      "title": "Cojedes ranchers demand immediate action due to increase in invasions and thefts on farms",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/ganaderos-de-cojedes-exigen-accion-inmediata-ante-aumento-de-invasiones-y-robos-en-fincas/",
+      "published_date": "2026-04-08T13:33:39Z",
+      "category": "Military"
     },
     {
       "title": "Venezuela as a sign in Trump's speech",
@@ -269,18 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "President of the Colombian oil company Ecopetrol temporarily leaves office",
+      "title": "The Colombian government orders Caracol TV to protect victims of alleged sexual harassment",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/presidente-de-la-petrolera-colombiana-ecopetrol-se-separa-del-cargo-de-manera-temporal/",
-      "published_date": "2026-04-07T14:49:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/el-gobierno-colombiano-ordena-a-caracol-tv-proteger-a-victimas-de-presunto-acoso-sexual/",
+      "published_date": "2026-04-08T13:42:12Z",
+      "category": "Energy"
     },
     {
-      "title": "Civil organizations warn that US licenses for Venezuelan gold facilitate \"illicit laundering\" and ecocide",
+      "title": "Netflix published the first image of the Mafalda series",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/organizaciones-civiles-alertan-de-que-licencias-de-ee-uu-para-el-oro-venezolano-facilitan-el-blanqueo-ilicito-y-el-ecocidio/",
-      "published_date": "2026-04-07T14:19:19Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/netflix-publico-la-primera-imagen-de-la-nueva-serie-de-mafalda/",
+      "published_date": "2026-04-08T13:05:32Z",
+      "category": "Energy"
     },
     {
       "title": "The rescue of the Republic",
@@ -409,18 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Ismael Rivera was inspired by a personal miracle to sing \"El Nazareno\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/ismael-rivera-se-inspiro-en-un-milagro-personal-para-cantar-el-nazareno/",
-      "published_date": "2026-04-03T18:41:24Z",
-      "category": "Energy"
+      "title": "ILO urges the government to increase the minimum wage and apply labor reforms",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/oit-urge-a-delcy-rodriguez-a-aumentar-el-salario-minimo/",
+      "published_date": "2026-04-08T14:03:27Z",
+      "category": "Economy"
     },
     {
-      "title": "Venezuela: wealth without direction, the truth that must be told",
+      "title": "AN official party postpones approval of the Mines Law for the third time",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/venezuela-riqueza-sin-direccion-la-verdad-que-debe-contarse/",
-      "published_date": "2026-04-03T05:19:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/an-oficialista-aplaza-por-tercera-vez-aprobacion-de-ley-de-minas/",
+      "published_date": "2026-04-08T11:42:00Z",
+      "category": "Economy"
     },
     {
       "title": "Chinese drama: jobless youth",
@@ -549,18 +563,88 @@
       "category": "Economy"
     },
     {
-      "title": "Credit and legal security: key factors for investment",
+      "title": "Rains cause flooding and service failures in several regions of Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-credito-y-la-seguridad-juridica-factores-clave-para-la-inversion/",
-      "published_date": "2026-04-05T05:07:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/04/lluvias-causan-inundaciones-y-fallas-de-servicios-en-varias-regiones-de-venezuela/",
+      "published_date": "2026-04-08T14:55:17Z",
+      "category": "Local Events"
     },
     {
-      "title": "Petro attacks the Clinton list: \"It only serves to persecute political oppositions\"",
+      "title": "Francis Quiñones and his son cling to faith while crying out for a pardon",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/el-megafono/ddhh-olvidados/604384/francis-quinones-y-su-hijo-se-aferran-a-la-fe-mientras-claman-por-un-indulto/",
+      "published_date": "2026-04-08T14:40:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "IVSS denounces scams against people with the Bank of Venezuela and the Patria System",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/ivss-denuncia-estafas-a-personas-con-el-banco-de-venezuela-y-el-sistema-patria/",
+      "published_date": "2026-04-08T13:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UCV students in Maracay denounced the closure of the dining room and demanded a response from the minister",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/petro-arremete-contra-la-lista-clinton-solo-sirve-para-perseguir-oposiciones-politicas/",
-      "published_date": "2026-04-04T23:45:03Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/04/estudiantes-de-la-ucv-en-maracay-denunciaron-el-cierre-del-comedor-y-exigieron-respuesta-a-la-ministra/",
+      "published_date": "2026-04-08T13:20:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How life has changed in Sucre due to the water crisis after the Turimiquire failure",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/como-ha-cambiado-la-vida-en-sucre-por-la-crisis-de-agua-luego-de-la-falla-en-turimiquire/",
+      "published_date": "2026-04-08T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hurry | Workers accuse the mayor of Pedro Camejo of firing them due to political differences",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/apure-trabajadores-acusan-al-alcalde-de-pedro-camejo-de-despedirlos-por-diferencias-politicas/",
+      "published_date": "2026-04-08T12:51:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cicpc arrests a woman accused of causing the death of her newborn baby",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/cicpc-arresta-a-una-mujer-senalada-de-causar-la-muerte-de-su-bebe-recien-nacida/",
+      "published_date": "2026-04-08T12:46:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rehabilitation of 30 medical centers announced amid persistent hospital crisis in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/crisis-hospitalaria-anuncian-rehabilitacion-de-30-centros-medicos/",
+      "published_date": "2026-04-08T12:41:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cristopher Varela was a wall and La Guaira stopped the favorite Fluminense",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/cristopher-varela-fue-un-muro-y-la-guaira-freno-al-favorito-fluminense/",
+      "published_date": "2026-04-08T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Santo Domingo commemorates the first anniversary of the tragedy at the Jet Set nightclub with a vigil",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/santo-domingo-conmemora-con-una-vigilia-el-primer-aniversario-de-la-tragedia-en-la-discoteca-jet-set/",
+      "published_date": "2026-04-08T11:41:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chancellor of Spain assured that he was willing to meet with María Corina Machado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/canciller-de-espana-aseguro-estar-dispuesto-a-reunirse-con-maria-corina-machado/",
+      "published_date": "2026-04-08T10:22:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arbeloa affirms that Madrid can win in Munich",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/arbeloa-afirma-que-el-madrid-puede-ganar-en-munich/",
+      "published_date": "2026-04-08T06:50:00Z",
+      "category": "Local Events"
     },
     {
       "title": "May it not decline",
@@ -616,90 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/colombia-el-lugar-donde-el-alma-tambien-encuentra-equilibrio/",
       "published_date": "2026-04-08T05:09:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Do we have the leadership for the transition today?",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/604378/rodrigato-froilan-barrios-n/",
-      "published_date": "2026-04-08T04:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristopher Varela was a wall and La Guaira stopped the favorite Fluminense",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/cristopher-varela-fue-un-muro-y-la-guaira-freno-al-favorito-fluminense/",
-      "published_date": "2026-04-08T00:39:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ricardo Arjona added Oscar D'León and Elena Rose as guests on his tour in Miami",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ricardo-arjona-sumo-a-oscar-dleon-y-elena-rose-como-invitados-en-su-gira-en-miami/",
-      "published_date": "2026-04-08T00:16:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump suspends attack on Iran for two weeks",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/trump-suspende-por-dos-semanas-el-ataque-a-iran/",
-      "published_date": "2026-04-08T00:15:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump claims to be the most popular politician in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-afirma-ser-el-politico-mas-popular-en-venezuela-2/",
-      "published_date": "2026-04-08T00:13:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Astronauts from the Artemis II mission reached the far side of the moon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/astronautas-de-la-mision-artemis-ii-llegaron-a-la-cara-oculta-de-la-luna/",
-      "published_date": "2026-04-08T00:11:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez defends religious coexistence and announces national message for this Wednesday",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-defiende-convivencia-religiosa-y-anuncia-mensaje-nacional-para-este-miercoles/",
-      "published_date": "2026-04-08T00:10:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court grants full freedom to Nélida Sánchez, coordinator of Súmate",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/tribunal-concede-libertad-plena-a-nelida-sanchez-coordinadora-de-sumate/",
-      "published_date": "2026-04-07T22:22:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court denies dismissal of Mass Communication student",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/tribunal-niega-sobreseimiento-a-estudiante-de-comunicacion-social/",
-      "published_date": "2026-04-07T22:14:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bayern Munich was more effective and beat Madrid 2-1",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/bayern-munich-fue-mas-efectivo-y-vencio-al-madrid-2-1/",
-      "published_date": "2026-04-07T22:08:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lara l Young man murders his pregnant wife while they were praying in Barquisimeto",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/lara-l-joven-asesina-a-su-esposa-embarazada-mientras-oraban-en-barquisimeto/",
-      "published_date": "2026-04-07T22:07:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When talent becomes light and brown",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/604367/lindsayca-orlando-viera-blanco/",
-      "published_date": "2026-04-07T22:05:10Z",
       "category": "Local Events"
     }
   ]
