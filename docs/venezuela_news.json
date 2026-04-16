@@ -1,7 +1,105 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-15T23:53:38Z",
+  "last_updated": "2026-04-16T12:02:07Z",
   "stories": [
+    {
+      "title": "General blackout affects Maracaibo and 8 other municipalities of Zulia this #16Apr",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/apagon-general-en-maracaibo-y-otros-8-municipios-de-zulia-este-16abr/",
+      "published_date": "2026-04-16T11:51:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "4 potential scenarios to which the conflict between the US and Iran may lead",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/4-potenciales-escenarios-a-los-que-puede-dirigirse-el-conflicto-entre-ee-uu-e-iran/",
+      "published_date": "2026-04-16T10:52:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The movie Onslaught and the series Kisses, Kitty dominate Netflix Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/solaz/la-pelicula-embestida-y-la-serie-besos-kitty-dominan-netflix-venezuela/",
+      "published_date": "2026-04-16T10:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 14 dead and 29 injured after a bus falls into an abyss in Ecuador",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/al-menos-14-muertos-y-29-heridos-tras-caida-de-autobus-a-un-abismo-en-ecuador/",
+      "published_date": "2026-04-16T10:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The luxury of pacifism: Leo XIV against Iran and the renunciation of reality",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-lujo-del-pacifismo-leon-xiv-frente-a-iran-y-la-renuncia-a-la-realidad/",
+      "published_date": "2026-04-16T05:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump's navel",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-ombligo-de-trump/",
+      "published_date": "2026-04-16T05:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "No way out of Stalinism",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/sin-salida-del-estalinismo/",
+      "published_date": "2026-04-16T05:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "On constitutional loyalty",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/sobre-la-lealtad-constitucional/",
+      "published_date": "2026-04-16T05:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russians, go home!",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/rusos-vayanse-a-casa/",
+      "published_date": "2026-04-16T05:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Suprageocommunicationality and Cosmostatism: five proposals to transform Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/suprageocomunicacionalidad-y-cosmoestadismo-cinco-propuestas-para-transformar-a-venezuela/",
+      "published_date": "2026-04-16T05:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela and Colombia coordinate border security actions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/venezuela-y-colombia-coordinan-acciones-de-seguridad-fronteriza/",
+      "published_date": "2026-04-16T00:25:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Pentagon intensifies its plans for military intervention in Cuba, according to the media",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-pentagono-intensifica-sus-planes-de-intervencion-militar-en-cuba-segun-medios/",
+      "published_date": "2026-04-16T00:23:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "316 migrants arrive in Venezuela on a repatriation flight from the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/llegan-a-venezuela-316-migrantes-en-vuelo-de-repatriacion-desde-estados-unidos/",
+      "published_date": "2026-04-16T00:05:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What happens with the Economic War bonus? Public employees report late payment",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/que-pasa-con-el-bono-de-guerra-empleados-publicos-quedaron-a-la-espera/",
+      "published_date": "2026-04-15T23:59:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Amnesty International calls for transparency in prisoner releases in Cuba",
       "source": "El Nacional",
@@ -45,102 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Clippve affirms that they prevent officials from the Colombian Embassy from visiting the Venezuelan prison",
+      "title": "Crime and democracy: the Latin American crossroads",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/clippve-afirmo-que-impiden-visita-de-funcionarios-de-la-embajada-de-colombia-a-carcel-venezolana/",
-      "published_date": "2026-04-15T20:53:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/criminalidad-y-democracia-la-encrucijada-latinoamericana/",
+      "published_date": "2026-04-16T05:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez is committed to a \"long-term\" relationship between Venezuela and the United States",
+      "title": "Political science turned into a disease",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-apuesta-por-una-relacion-a-largo-plazo-entre-venezuela-y-estados-unidos/",
-      "published_date": "2026-04-15T20:27:03Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/la-ciencia-politica-convertida-en-enfermedad/",
+      "published_date": "2026-04-16T05:06:00Z",
+      "category": "Military"
     },
     {
-      "title": "Relatives denounce a new method of intimidation: they take away their corrective lenses to enter El Rodeo I",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/familiares-denuncian-nuevo-metodo-de-intimidacion-les-quitan-los-lentes-correctivos-para-ingresar-a-el-rodeo-i/",
-      "published_date": "2026-04-15T20:22:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Court closes case against journalist Román Camacho",
+      "title": "On this day April 16",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/tribunal-cierra-caso-contra-periodista-roman-camacho/",
-      "published_date": "2026-04-15T19:23:48Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/tal-dia-como-hoy-16-de-abril/",
+      "published_date": "2026-04-16T05:02:00Z",
+      "category": "Military"
     },
     {
-      "title": "Banking Association foresees that the effects of easing sanctions against the BCV will materialize in the second half",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/asociacion-bancaria-preve-que-efectos-de-flexibilizacion-de-sanciones-al-bcv-se-materialicen-en-el-segundo-semestre/",
-      "published_date": "2026-04-15T19:05:27Z",
-      "category": "Diplomacy"
+      "title": "El Mañanero of April 16: relatives of political prisoners make the first claim to Larry Davoe",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/605242/el-mananero-del-16-de-abril-familiares-de-presos-politicos-hacen-el-primer-reclamo-a-larry-davoe/",
+      "published_date": "2026-04-16T04:05:00Z",
+      "category": "Military"
     },
     {
-      "title": "Is a turn towards the center possible in Venezuela? Iris de Franca and Carlos Valero debated it in #ConLaLuz",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/es-posible-un-giro-hacia-el-centro-en-venezuela-iris-de-franca-y-carlos-valero-lo-debatieron-en-conlaluz/",
-      "published_date": "2026-04-15T18:51:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They denounce non-compliance with the release of an Italian-Venezuelan detained since 2024",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/denuncian-incumplimiento-de-excarcelacion-de-italo-venezolano-detenido-desde-2024/",
-      "published_date": "2026-04-15T18:50:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US will not renew temporary relaxation of sanctions for Russian and Iranian oil",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ee-uu-no-renovara-la-relajacion-temporal-de-sanciones-para-el-petroleo-ruso-e-irani/",
-      "published_date": "2026-04-15T18:46:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Death toll rises to nine in shooting at the hands of 14-year-old student in Türkiye",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/suben-a-nueve-los-muertos-en-el-tiroteo-a-manos-de-un-alumno-de-14-anos-en-turquia/",
-      "published_date": "2026-04-15T17:58:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez hires a lawyer and lobbyist in Washington to improve relations with the US and prepare for an eventual presidential campaign",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-contrata-abogado-y-lobista-en-washington-para-mejorar-relaciones-con-eeuu-y-preparar-eventual-campana-presidencial/",
-      "published_date": "2026-04-15T17:49:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela registers slight recovery in air traffic in April",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/venezuela-registra-una-ligera-recuperacion-del-trafico-aereo-en-abril/",
-      "published_date": "2026-04-15T17:42:32Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pope Leo XIV from Cameroon: \"Enough of wars!\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/papa-leon-xiv-desde-camerun-basta-ya-de-guerras/",
-      "published_date": "2026-04-15T17:35:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Asesinaron a un venezolano a un mes de haber llegado a Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/asesinaron-a-un-venezolano-a-un-mes-de-haber-llegado-a-colombia/",
-      "published_date": "2026-04-15T16:52:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Edmundo González thanks the International Medal of Madrid: “I receive it on behalf of the Venezuelans”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/edmundo-gonzalez-agradece-la-medalla-internacional-de-madrid/",
-      "published_date": "2026-04-15T16:47:13Z",
-      "category": "Diplomacy"
+      "title": "Censorship and death marked violations of freedom of expression in March",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/605262/censura-y-muerte-marcaron-violaciones-a-la-libertad-de-expresion-en-marzo/",
+      "published_date": "2026-04-15T23:18:00Z",
+      "category": "Military"
     },
     {
       "title": "Hermes Pérez warns of technical challenges for BCV's return to the SWIFT system",
@@ -248,39 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "\"Padrino López's appointment in Agriculture is a consolation prize,\" says analyst",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/nombramiento-de-padrino-lopez-en-agricultura-es-un-premio-de-consolacion-dice-analista/",
-      "published_date": "2026-04-14T21:20:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuela registered 75 violations of freedom of expression in the first quarter of the year",
+      "title": "Repsol regains control of its oil operations in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/venezuela-registro-75-violaciones-de-libertad-de-expresion-en-el-primer-trimestre-del-ano/",
-      "published_date": "2026-04-14T17:54:52Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/repsol-recupera-el-control-de-sus-operaciones-petroliferas-en-venezuela/",
+      "published_date": "2026-04-16T09:46:00Z",
+      "category": "Energy"
     },
     {
-      "title": "The Madrid Press Association awards the CNP and the SNTP with the Victoria Prego Award for Freedom of Expression",
+      "title": "imperial madurismo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/la-asociacion-de-prensa-de-madrid-galardona-al-cnp-y-al-sntp-con-el-premio-victoria-prego-a-la-libertad-de-expresion/",
-      "published_date": "2026-04-14T17:05:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "SNTP and the CNP, awarded the Victoria Prego Award for Freedom of Expression",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605063/sntp-y-al-cnp-son-galardonados-con-el-premio-victoria-prego-a-la-libertad-de-expresion/",
-      "published_date": "2026-04-14T16:24:35Z",
-      "category": "Military"
-    },
-    {
-      "title": "Seven arrested in Haiti for stampede that left 25 dead",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/siete-detenidos-en-haiti-por-estampida-que-dejo-25-muertos/",
-      "published_date": "2026-04-14T15:37:31Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/el-madurismo-imperial/",
+      "published_date": "2026-04-16T05:22:00Z",
+      "category": "Energy"
     },
     {
       "title": "Perpendicular rays of the sun, aphelion and other climate misinformation in Venezuela",
@@ -409,18 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "Court summons members of Fundaredes to continue the trial",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/tribunal-cita-miembros-de-fundaredes-para-continuidad-de-juicio/",
-      "published_date": "2026-04-13T23:31:36Z",
-      "category": "Energy"
+      "title": "The new role of the United States in Venezuela: what is expected of John Barrett as chargé d'affaires",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/john-barrett-venezuela-tutela-economica-mineria/",
+      "published_date": "2026-04-16T08:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Two oil tankers turn around upon reaching Hormuz after the US blockade",
+      "title": "Caracas FC defeated Independiente Petrolero and remains undefeated in the Copa Sudamericana",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/dos-petroleros-dan-media-vuelta-al-llegar-a-ormuz-tras-bloqueo-de-ee-uu/",
-      "published_date": "2026-04-13T23:27:44Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/caracas-fc-vencio-a-independiente-petrolero-y-sigue-invicto-en-la-copa-sudamericana/",
+      "published_date": "2026-04-16T00:56:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Banking Association foresees that with the OFAC license the BCV will have access to better tools to manage the exchange system",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/asociacion-bancaria-preve-que-el-bcv-tenga-mejores-herramientas-para-administrar-el-sistema-cambiario/",
+      "published_date": "2026-04-16T00:29:51Z",
+      "category": "Economy"
     },
     {
       "title": "Agricultural producers demand greater state support for oil and mining priorities in Venezuela",
@@ -542,164 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "They question the use of extraordinary income to increase salaries",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605043/cuestionan-uso-de-ingresos-extraordinarios-para-aumentar-salarios/",
-      "published_date": "2026-04-14T14:05:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Maradona's birthplace becomes a soup kitchen",
+      "title": "Champions: Atlético-Arsenal and PSG-Bayern in the semifinals",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/la-casa-natal-de-maradona-se-convierte-en-un-comedor-social/",
-      "published_date": "2026-04-14T06:00:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/04/champions-atletico-arsenal-y-psg-bayern-en-semifinales/",
+      "published_date": "2026-04-16T11:29:01Z",
+      "category": "Local Events"
     },
     {
-      "title": "The GDP that is not eaten",
+      "title": "Venezuela ties with Brazil in the South American Youth medal table",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-pib-que-no-se-come/",
-      "published_date": "2026-04-14T05:12:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Academy of Political and Social Sciences urges elections to be held due to presidential vacancy",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605230/academia-de-ciencias-politicas-y-sociales-exhorta-a-efectuar-elecciones-ante-vacancia-presidencial/",
-      "published_date": "2026-04-15T23:08:16Z",
+      "url": "https://www.elnacional.com/2026/04/venezuela-empata-con-brasil-en-el-medallero/",
+      "published_date": "2026-04-16T11:22:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Sntp and CNP applaud amnesty for some journalists, but demand an end to selective denials and judicial delays",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/sntp-y-cnp-aplauden-amnistia-a-algunos-periodistas-pero-exigen-cese-de-denegaciones-selectivas-y-dilaciones-judiciales/",
-      "published_date": "2026-04-15T22:47:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mechanic dies in Acarigua and relatives face pain and ordeal due to disabled morgue",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/fallece-mecanico-en-acarigua-y-familiares-enfrentan-dolor-y-calvario-por-morgue-inhabilitada/",
-      "published_date": "2026-04-15T22:43:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid dies on the shore against Bayern and says goodbye to a blank season",
+      "title": "UCV fell in the Libertadores against Independiente del Valle",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-real-madrid-muere-en-la-orilla-ante-el-bayern-y-despide-una-temporada-en-blanco/",
-      "published_date": "2026-04-15T21:54:34Z",
+      "url": "https://www.elnacional.com/2026/04/ucv-cayo-en-la-libertadores-ante-independiente-del-valle/",
+      "published_date": "2026-04-16T11:09:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Ayuso and María Corina Machado prepare a meeting in Madrid",
+      "title": "Trump announces meeting between leaders of Israel and Lebanon",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ayuso-maria-corina-machado-encuentro-madrid/",
-      "published_date": "2026-04-15T21:16:17Z",
+      "url": "https://www.elnacional.com/2026/04/trump-anuncia-reunion-entre-los-lideres-de-israel-y-libano/",
+      "published_date": "2026-04-16T10:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Táchira | Cicpc seizes 440 kilos of drugs hidden in vegetables",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/tachira-cicpc-incauta-440-kilos-de-droga-escondida-en-hortalizas/",
-      "published_date": "2026-04-15T20:54:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pregnant teenager and her baby die after brutal beating by her partner in Barinas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/adolescente-embarazada-y-su-bebe-mueren-tras-brutal-golpiza-de-su-pareja-en-barinas/",
-      "published_date": "2026-04-15T20:39:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado and Edmundo González will receive decorations in Madrid",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-y-edmundo-gonzalez-recibiran-condecoraciones-en-madrid/",
-      "published_date": "2026-04-15T20:07:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Journalist Román Camacho receives full freedom and denounces irregularities in the Prosecutor's Office",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/periodista-roman-camacho-recibe-libertad-plena-y-denuncia-irregularidades-en-la-fiscalia/",
-      "published_date": "2026-04-15T19:52:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They denounce impunity six months after the attack against Venezuelan activists in Colombia",
+      "title": "Floods in the Dominican Republic and Haiti leave at least 19 dead",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/denuncian-impunidad-a-seis-meses-de-ataque-contra-activistas-venezolanos-en-colombia/",
-      "published_date": "2026-04-15T19:11:07Z",
+      "url": "https://www.elnacional.com/2026/04/inundaciones-en-republica-dominicana-y-haiti-dejan-al-menos-19-muertos/",
+      "published_date": "2026-04-16T10:34:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez, between reforms, criticism and without an electoral calendar",
+      "title": "The US killed three people in another attack on alleged drug boats in the Pacific",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-entre-reformas-criticas-y-sin-un-calendario-electoral-en-venezuela/",
-      "published_date": "2026-04-15T18:25:13Z",
+      "url": "https://www.elnacional.com/2026/04/ee-uu-mato-a-tres-personas-en-otro-ataque-a-presuntas-narcolanchas-en-el-pacifico/",
+      "published_date": "2026-04-16T10:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Why is there no money to increase pensions in Venezuela?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/por-que-no-hay-dinero-para-aumentar-las-pensiones-en-venezuela/",
-      "published_date": "2026-04-15T18:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fordisi proposes a $600 salary increase for education workers",
+      "title": "Transition to irreplaceable Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/fordisi-plantea-aumento-salarial-de-600-dolares-en-educacion/",
-      "published_date": "2026-04-15T18:01:10Z",
+      "url": "https://www.elnacional.com/2026/04/transicion-a-la-venezuela-irremprasable/",
+      "published_date": "2026-04-16T05:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "They activate a free day to stop the advance of skin cancer",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605208/activan-jornada-gratuita-para-frenar-el-avance-del-cancer-de-piel/",
-      "published_date": "2026-04-15T17:41:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Decent wage now”: unions protest in front of the TSJ to demand a decision on a lawsuit for constitutional omission",
+      "title": "And where are they... where are they?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/gremios-protestan-frente-al-tsj-para-exigir-salarios-dignos/",
-      "published_date": "2026-04-15T17:35:00Z",
+      "url": "https://www.elnacional.com/2026/04/y-donde-estan-donde-estan/",
+      "published_date": "2026-04-16T05:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Paloma Valencia proposes an alliance with María Corina Machado for the reconstruction of Venezuela",
+      "title": "The vote is no longer enough: the crisis of contemporary democracy",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/paloma-valencia-plantea-alianza-con-maria-corina-machado/",
-      "published_date": "2026-04-15T17:30:21Z",
+      "url": "https://www.elnacional.com/2026/04/el-voto-ya-no-basta-la-crisis-de-la-democracia-contemporanea/",
+      "published_date": "2026-04-16T05:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Metro Los Teques restricts service for maintenance work",
+      "title": "Abuse: Humanity's Lingering Wound",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/metro-los-teques-restringe-el-servicio-por-labores-de-mantenimiento/",
-      "published_date": "2026-04-15T17:07:14Z",
+      "url": "https://www.elnacional.com/2026/04/maltrato-la-herida-persistente-de-la-humanidad/",
+      "published_date": "2026-04-16T05:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Luis Arráez lights up to strengthen his offensive average",
+      "title": "Look from the wound",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/luis-arraez-se-enciende-para-afianzar-su-promedio-ofensivo/",
-      "published_date": "2026-04-15T16:44:21Z",
+      "url": "https://www.elnacional.com/2026/04/mirar-desde-la-herida/",
+      "published_date": "2026-04-16T05:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "“Enough of hot towels”: University teachers, unions and retirees protest in the TSJ for a better salary",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/basta-de-panitos-calientes-docentes-universitarios-gremios-y-jubilados-protestan-en-el-tsj-por-un-mejor-salario/",
-      "published_date": "2026-04-15T16:29:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trotamundos defeated Marinos and took first place in the SPB",
+      "title": "The educational collapse in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trotamundos-vencio-a-marinos-y-asalto-el-primer-lugar-de-la-spb/",
-      "published_date": "2026-04-15T15:57:24Z",
+      "url": "https://www.elnacional.com/2026/04/el-colapso-educativo-en-venezuela/",
+      "published_date": "2026-04-16T05:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The generational change of freedom arises in Nicaragua: \"La Comanda\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/surge-en-nicaragua-el-relevo-generacional-de-la-libertad/",
+      "published_date": "2026-04-16T05:12:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guayana Esequiba: what would happen if we do not appear before the Court on May 4?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/guayana-esequiba-que-sucederia-si-no-comparecemos-el-4-de-mayo-por-ante-la-corte/",
+      "published_date": "2026-04-16T05:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV and Gareth Gore, a private audience that demands an explanation",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/leon-xiv-y-gareth-gore-una-audiencia-privada-que-exige-explicacion/",
+      "published_date": "2026-04-16T05:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hokum: folk horror becomes a symbol of revenge",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/hokum-el-horror-folk-se-convierte-en-simbolo-de-venganza/",
+      "published_date": "2026-04-16T05:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "With Macron yes, with Sánchez no",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/con-macron-si-con-sanchez-no/",
+      "published_date": "2026-04-16T05:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "River Plate sweated to beat Carabobo at the Monumental stadium",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/river-plate-sudo-para-vencer-a-carabobo-en-el-estadio-monumental/",
+      "published_date": "2026-04-16T03:07:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sentence of Hugo “El Pollo” Carvajal postponed again",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/aplazan-nuevamente-sentencia-de-hugo-el-pollo-carvajal/",
+      "published_date": "2026-04-16T01:45:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Court closes case against journalist Román Camacho",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/tribunal-cierra-caso-contra-periodista-roman-camacho-2/",
+      "published_date": "2026-04-16T01:02:30Z",
       "category": "Local Events"
     }
   ]
