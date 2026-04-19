@@ -1,7 +1,84 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-18T23:44:03Z",
+  "last_updated": "2026-04-19T11:39:35Z",
   "stories": [
+    {
+      "title": "Relatives of political prisoners completed 100 days of vigils in front of prisons",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/familiares-de-presos-politicos-cumplieron-100-dias-de-vigilias-frente-a-carceles/",
+      "published_date": "2026-04-19T11:25:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jacobo Borges: “When I sleep I usually write what I am going to dream”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/jacobo-borges-al-dormir-suelo-escribir-que-voy-a-sonar/",
+      "published_date": "2026-04-19T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why hasn't Delcy Rodríguez appointed executive vice president?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/por-que-delcy-rodriguez-designado-vicepresidente-ejecutivo/",
+      "published_date": "2026-04-19T06:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Venezuelan debt: from default to reconstruction",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/la-deuda-venezolana-del-default-a-la-reconstruccion/",
+      "published_date": "2026-04-19T05:23:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Teresa Carreño turns 43 years old",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-teresa-carreno-cumple-43-anos/",
+      "published_date": "2026-04-19T05:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Religious fanaticism and the war between Iran and Israel by Ángel",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-fanatismo-religioso-y-la-guerra-entre-iran-e-israel-por-angel/",
+      "published_date": "2026-04-19T05:12:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The nonno and AI",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-nonno-y-la-ia/",
+      "published_date": "2026-04-19T05:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The female Vinotinto won gold at the South American Youth Games",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/la-vinotinto-femenina-conquisto-el-oro-en-los-juegos-sudamericanos-de-la-juventud/",
+      "published_date": "2026-04-19T01:04:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Attack in Lebanon: A French blue helmet dies and Guterres demands to respect the ceasefire",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ataque-en-libano-muere-un-casco-azul-frances-y-guterres-exige-respetar-el-alto-el-fuego/",
+      "published_date": "2026-04-19T00:43:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ernesto Villegas advocated holding elections, but \"free of sanctions\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ernesto-villegas-abogo-por-celebrar-elecciones-pero-libres-de-sanciones/",
+      "published_date": "2026-04-19T00:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Edmundo González thanks the Community of Madrid for the medal: \"This distinction recognizes the achievements of the Venezuelan people\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/edmundo-gonzalez-agradece-medalla-de-la-comunidad-de-madrid-esta-distincion-reconoce-la-gesta-del-pueblo-venezolano/",
+      "published_date": "2026-04-19T00:03:16Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "In which of the three stages of the United States plan is Venezuela located?",
       "source": "El Pitazo",
@@ -66,81 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "María Corina Machado receives the Madrid Gold Medal: \"From here we begin to prepare this new phase\"",
+      "title": "The new cosmic chess board: why the Moon is the final frontier of political power?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-recibe-la-medalla-de-oro-de-madrid-desde-aqui-comenzamos-a-preparar-esta-nueva-fase/",
-      "published_date": "2026-04-18T17:53:08Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/el-nuevo-tablero-de-ajedrez-cosmico-por-que-la-luna-es-la-frontera-final-del-poder-politico/",
+      "published_date": "2026-04-19T05:14:00Z",
+      "category": "Military"
     },
     {
-      "title": "Calixto Ortega affirmed that relations with the IMF do not respond to any financing plan",
+      "title": "Central axes: constitutional reform, role of the FANB and Delcy Rodríguez",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/calixto-ortega-afirmo-que-relaciones-con-el-fmi-no-responden-a-ningun-plan-de-financiamiento/",
-      "published_date": "2026-04-18T16:31:01Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/ejes-centrales-reforma-constitucional-rol-de-la-fanb-y-delcy-rodriguez/",
+      "published_date": "2026-04-19T05:13:00Z",
+      "category": "Military"
     },
     {
-      "title": "Venezuelan diaspora in Italy expresses mixed feelings after María Corina Machado's visit to Rome",
+      "title": "Jesús Manuel Subero: living memory and urgent duty",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/diaspora-venezolana-en-italia-expresa-sentimientos-encontrados-tras-visita-de-maria-corina-machado-a-roma/",
-      "published_date": "2026-04-18T16:10:24Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/jesus-manuel-subero-memoria-viva-y-deber-urgente/",
+      "published_date": "2026-04-19T05:07:00Z",
+      "category": "Military"
     },
     {
-      "title": "Venezuela's return to the international financial community strengthens the stabilization phase outlined by the United States",
+      "title": "On this day April 19",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/regreso-de-venezuela-a-la-comunidad-financiera-internacional-afianza-la-fase-de-estabilizacion-trazada-por-ee-uu/",
-      "published_date": "2026-04-18T15:34:08Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/tal-dia-como-hoy-19-abril/",
+      "published_date": "2026-04-19T05:02:00Z",
+      "category": "Military"
     },
     {
-      "title": "The Pope regrets that his words were interpreted as a debate with Trump",
+      "title": "North Korea tests new ballistic missiles",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-papa-lamenta-que-sus-palabras-se-interpretaran-como-un-debate-con-trump/",
-      "published_date": "2026-04-18T15:23:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vox accuses Sánchez of meeting with \"the worst drug dictators\" at the Barcelona summit",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/vox-acusa-a-sanchez-de-reunirse-con-los-peores-narcodictadores-en-la-cumbre-de-barcelona/",
-      "published_date": "2026-04-18T15:13:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iranian vessels fire at oil tanker in Hormuz, says maritime agency",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/embarcaciones-iranies-disparan-contra-un-petrolero-en-ormuz-segun-agencia-maritima/",
-      "published_date": "2026-04-18T13:40:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alexis Montilla, founder of the Los Aleros and La Venezuela de Antier theme parks, died",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/fallecio-alexis-montilla-fundador-de-los-parques-tematicos-los-aleros-y-la-venezuela-de-antier/",
-      "published_date": "2026-04-18T13:12:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump assured that he will seek \"a new dawn\" for Cuba",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-aseguro-que-buscara-un-nuevo-amanecer-para-cuba/",
-      "published_date": "2026-04-18T12:33:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran closes the Strait of Hormuz again due to the blockade of its ports by the US",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/iran-vuelve-a-cerrar-el-estrecho-de-ormuz-ante-el-bloqueo-de-sus-puertos-por-parte-de-eeuu/",
-      "published_date": "2026-04-18T11:48:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Petro makes a mistake in Barcelona",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/petro-se-equivoca-en-barcelona/",
-      "published_date": "2026-04-18T05:23:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/corea-del-norte-realiza-nuevos-disparos-de-prueba-de-misiles-balisticos/",
+      "published_date": "2026-04-19T00:19:17Z",
+      "category": "Military"
     },
     {
       "title": "Two months after the amnesty: Penal Forum registers 477 political prisoners",
@@ -248,39 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "A brain tumor and an unjust prison break the health of Orlando Laufer",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/el-megafono/ddhh-olvidados/605449/un-tumor-cerebral-y-una-prision-injusta-quiebran-la-salud-de-orlando-laufer/",
-      "published_date": "2026-04-18T16:28:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGO warns of a “judicial crossroads” and proposes procedural pardon as an immediate solution",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605511/ong-alerta-una-encrucijada-judicial-y-plantea-el-indulto-procesal-como-solucion-inmediata/",
-      "published_date": "2026-04-18T15:35:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "María Corina Machado warns that there cannot be elections in Venezuela without changing the CNE",
+      "title": "The fall of an authoritarian democracy",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-advierte-que-no-puede-haber-elecciones-en-venezuela-sin-cambiar-al-cne/",
-      "published_date": "2026-04-18T15:07:16Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/la-caida-de-una-democracia-autoritaria/",
+      "published_date": "2026-04-19T05:17:00Z",
+      "category": "Energy"
     },
     {
-      "title": "INTT will carry out operations for vehicle procedures in 10 states",
+      "title": "National production: a fundamental challenge",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/intt-realizara-operativos-para-tramites-vehiculares-en-10-estados/",
-      "published_date": "2026-04-18T12:36:21Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/produccion-nacional-un-reto-fundamental/",
+      "published_date": "2026-04-19T05:08:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Peruvian Prosecutor's Office intervenes warehouse of presidential election minutes",
+      "title": "The wandering step: the 'secret arc' between Thomas Mann and Gustavo Díaz Solís",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/fiscalia-de-peru-interviene-almacen-de-actas-de-las-presidenciales/",
-      "published_date": "2026-04-18T11:23:59Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/el-paso-errante-el-arco-secreto-entre-thomas-mann-y-gustavo-diaz-solis/",
+      "published_date": "2026-04-19T04:01:00Z",
+      "category": "Energy"
     },
     {
       "title": "María Corina Machado gives a powerful speech in Madrid and promises that she will return to Venezuela with Edmundo González",
@@ -402,25 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "New blackout paralyzes Zulia since the early hours of this Thursday, April 16",
+      "title": "Relaxation of financial sanctions, a step to achieve economic stability, according to experts",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/nuevo-apagon-masivo-paraliza-zulia-desde-la-madrugada-de-este-jueves-16-de-abril/",
-      "published_date": "2026-04-16T15:52:11Z",
-      "category": "Energy"
+      "url": "https://efectococuyo.com/economia/flexibilizacion-de-sanciones-financieras-paso-estabilidad-economica/",
+      "published_date": "2026-04-19T06:06:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Steven Spielberg on his film Disclosure Day: “There is more truth than fiction”",
+      "title": "sleeping with the enemy",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/steven-spielberg-sobre-disclosure-day-hay-mas-verdad-que-ficcion/",
-      "published_date": "2026-04-16T13:00:15Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/durmiendo-con-el-enemigo/",
+      "published_date": "2026-04-19T05:01:00Z",
+      "category": "Economy"
     },
     {
-      "title": "imperial madurismo",
+      "title": "What it means for Venezuela's economy that the US has eased sanctions against the country's state banks",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-madurismo-imperial/",
-      "published_date": "2026-04-16T05:22:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/que-significa-para-la-economia-de-venezuela-que-ee-uu-haya-suavizado-las-sanciones-contra-los-bancos-estatales-del-pais/",
+      "published_date": "2026-04-18T23:32:00Z",
+      "category": "Economy"
     },
     {
       "title": "March food basket was $692.32: minimum wage only covers 0.04%",
@@ -542,164 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "March food basket was $692.32, according to Cendas-FVM",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/canasta-alimentaria-de-marzo-fue-de-69232-dolares-segun-el-cendas-fvm/",
-      "published_date": "2026-04-17T15:47:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The US applauds the return of Venezuela to the IMF and reaffirms collaboration with Caracas",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-aplaude-el-regreso-de-venezuela-al-fmi-y-reafirma-colaboracion-con-caracas/",
-      "published_date": "2026-04-17T15:36:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Petro proposes temporary \"co-governance\" between ruling parties and opponents in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/petro-plantea-gobierno-temporal-de-chavismo-y-oposicion/",
-      "published_date": "2026-04-17T14:36:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Venezuela defeats Bolivia and seals its qualification for the U-17 World Cup in Qatar",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/venezuela-vence-a-bolivia-y-sella-su-clasificacion-al-mundial-sub-17-de-qatar/",
-      "published_date": "2026-04-18T23:40:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aramburu and Herrera champions: Real Sociedad beat Atletico on penalties in the Copa del Rey",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/aramburu-y-herrera-campeones-real-sociedad-vencio-en-penales-al-atletico-en-la-copa-del-rey/",
-      "published_date": "2026-04-18T23:13:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 phrases from María Corina Machado in Spain",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/10-frases-de-maria-corina-machado-en-espana/",
-      "published_date": "2026-04-18T23:06:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The bodies of 50 minors and 6 adults are found in a cemetery in Trinidad and Tobago",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/hallan-los-cadaveres-de-50-menores-y-6-adultos-en-un-cementerio-de-trinidad-y-tobago/",
-      "published_date": "2026-04-18T22:49:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Vinotinto U-17 beat Bolivia 1-0 and took the last place for the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/la-vinotinto-sub-17-vencio-a-bolivia-1-0-y-tomo-el-ultimo-cupo-para-el-mundial/",
-      "published_date": "2026-04-18T22:40:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who is Catalina Ramos, the activist who made María Corina Machado cry in Spain",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/quien-es-catalina-ramos-la-activista-que-hizo-llorar-a-maria-corina-machado-en-espana/",
-      "published_date": "2026-04-18T22:38:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saime updates passport fees: these are the prices",
+      "title": "In Zulia they are still waiting for the singing morocotas",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605530/saime-actualiza-tarifas-del-pasaporte-estos-son-los-precios/",
-      "published_date": "2026-04-18T22:25:40Z",
+      "url": "https://runrun.es/rr-es-plus/605454/en-el-zulia-todavia-esperan-por-las-morocotas-de-canto/",
+      "published_date": "2026-04-19T10:59:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Hezbollah leader says his formation will respond if Israel violates ceasefire",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/lider-de-hezbola-dice-que-su-formacion-respondera-si-israel-viola-el-alto-el-fuego/",
-      "published_date": "2026-04-18T21:00:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia's #MeToo movement exposes abuses within the media",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-movimiento-metoo-de-colombia-expone-los-abusos-dentro-de-los-medios-de-comunicacion/",
-      "published_date": "2026-04-18T20:28:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado: Today the return home begins and I will do it with Edmundo González Urrutia",
+      "title": "Venezuela: geopolitical crossroads Elections or economic macro adjustments?",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/maria-corina-machado-hoy-comienza-el-regreso-a-casa/",
-      "published_date": "2026-04-18T20:23:15Z",
+      "url": "https://efectococuyo.com/opinion/venezuela-encrucijada-geopolitica-elecciones-economicos/",
+      "published_date": "2026-04-19T10:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Seven dead in tragic accident on the Central Western Lara-Zulia highway",
+      "title": "Environment analysis: Better than before, but far from good",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/siete-muertos-en-tragico-accidente-en-la-carretera-centro-occidental-lara-zulia/",
-      "published_date": "2026-04-18T20:14:05Z",
+      "url": "https://www.elnacional.com/2026/04/analisis-de-entorno-mejor-que-antes-pero-lejos-de-estar-bien/",
+      "published_date": "2026-04-19T09:03:00Z",
       "category": "Local Events"
     },
     {
-      "title": "María Corina Machado receives the Madrid Gold Medal: \"From here we begin to prepare this new phase\"",
+      "title": "PUD and Machado roadmap: assumes US plan, but stimulates the electoral environment",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/hoja-ruta-plataforma-unitaria-machado-plan-eeuu-estimula-electoral/",
+      "published_date": "2026-04-19T06:51:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The US calls for free elections, María Corina presses and Delcy buys time: Can Tutelage force clean elections?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/eeuu-elecciones-libres-machado-presiona-gana-tiempo-tutelaje/",
+      "published_date": "2026-04-19T06:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The 100% illicit State of Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-recibe-la-medalla-de-oro-de-madrid-desde-aqui-comenzamos-a-preparar-esta-nueva-fase-2/",
-      "published_date": "2026-04-18T20:11:06Z",
+      "url": "https://www.elnacional.com/2026/04/el-estado-100-ilicito-de-venezuela/",
+      "published_date": "2026-04-19T05:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pope Leo XIV arrives in Angola on an African tour overshadowed by Trump",
+      "title": "Is progress hypocrisy?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-papa-leon-xiv-llega-a-angola-en-una-gira-africana-eclipsada-por-trump/",
-      "published_date": "2026-04-18T20:02:34Z",
+      "url": "https://www.elnacional.com/2026/04/progreso-es-hipocresia/",
+      "published_date": "2026-04-19T05:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "This is the key posture to stretch the lower back and prevent pain",
+      "title": "We don't know how to read!",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/esta-es-la-postura-clave-para-estirar-la-zona-lumbar-y-prevenir-el-dolor/",
-      "published_date": "2026-04-18T19:48:00Z",
+      "url": "https://www.elnacional.com/2026/04/no-sabemos-leer-2/",
+      "published_date": "2026-04-19T05:21:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Between the Venezuelan urgency and Washington's patience",
+      "title": "The urgency of the unifying moral message",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/entre-la-urgencia-venezolana-y-la-paciencia-de-washington/",
-      "published_date": "2026-04-18T19:18:00Z",
+      "url": "https://www.elnacional.com/2026/04/la-urgencia-del-mensaje-moral-unificador/",
+      "published_date": "2026-04-19T05:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Photos | Thousands of people welcome María Corina Machado in Madrid",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/fotos-miles-de-personas-reciben-a-maria-corina-machado-en-madrid/",
-      "published_date": "2026-04-18T19:09:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado does not regret having given the Nobel Prize to Trump",
+      "title": "saturnal labyrinth",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/maria-corina-machado-no-se-arrepiente-de-haberle-regalado-el-nobel-a-trump/",
-      "published_date": "2026-04-18T18:55:00Z",
+      "url": "https://www.elnacional.com/2026/04/laberinto-saturnal/",
+      "published_date": "2026-04-19T05:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "\"Freedom\": the cry that shook Madrid during the reception of María Corina Machado in Puerta del Sol",
+      "title": "Protectorate vs elections or elections vs protectorate",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/libertad-el-grito-que-estremecio-madrid-durante-el-recibimiento-de-maria-corina-machado-en-puerta-del-sol/",
-      "published_date": "2026-04-18T18:53:40Z",
+      "url": "https://www.elnacional.com/2026/04/protectorado-vs-elecciones-o-elecciones-vs-protectorado/",
+      "published_date": "2026-04-19T05:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "“Today the return home begins” and other pearls by María Corina Machado from Madrid",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605517/hoy-comienza-el-regreso-a-casa-y-otras-perlas-de-maria-corina-machado-desde-madrid/",
-      "published_date": "2026-04-18T18:49:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maritime agency alerts of three incidents off Oman amid tensions over Hormuz",
+      "title": "April 19: Municipality Day",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/organismo-maritimo-alerta-de-tres-incidentes-frente-a-oman-en-medio-de-tensiones-por-ormuz/",
-      "published_date": "2026-04-18T17:54:16Z",
+      "url": "https://www.elnacional.com/2026/04/19-de-abril-dia-del-municipio/",
+      "published_date": "2026-04-19T05:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transition in Venezuela: two proposals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/transicion-en-venezuela-dos-propuestas/",
+      "published_date": "2026-04-19T05:13:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Little by little...but, quickly (4)",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/poco-a-pocopero-rapidito-4/",
+      "published_date": "2026-04-19T05:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "In pusillo nemo magnus",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/in-pusillo-nemo-magnus/",
+      "published_date": "2026-04-19T05:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "body memory",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/la-memoria-corporal/",
+      "published_date": "2026-04-19T05:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Freites Gallery: selection of critical texts",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/galeria-freites-seleccion-de-textos-criticos/",
+      "published_date": "2026-04-19T04:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Antonio Arráiz, ceramist",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/antonio-arraiz-ceramista/",
+      "published_date": "2026-04-19T04:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armando Barrios and the renewal of authenticity",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/armando-barrios-y-la-renovacion-de-una-autenticidad/",
+      "published_date": "2026-04-19T04:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conversation with Pedro León Zapata. Fragment",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/conversacion-con-pedro-leon-zapata-fragmento/",
+      "published_date": "2026-04-19T04:03:00Z",
       "category": "Local Events"
     }
   ]
