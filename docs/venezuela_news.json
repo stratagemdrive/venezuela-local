@@ -1,9 +1,79 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-23T23:55:41Z",
+  "last_updated": "2026-04-24T12:02:15Z",
   "stories": [
     {
-      "title": "Without funds or private lawyers: Maduro goes to public defense",
+      "title": "Nahuel Gallo will testify as a witness in the case of crimes against humanity against Nicolás Maduro in Argentina",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/citan-a-nahuel-gallo-como-testigo-clave-en-caso-contra-maduro/",
+      "published_date": "2026-04-24T11:54:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bolivia and Chile express their willingness to reestablish diplomatic relations after 50 years",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/bolivia-y-chile-expresan-su-voluntad-de-restablecer-relaciones-diplomaticas-tras-50-anos/",
+      "published_date": "2026-04-24T11:32:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "John Barrett in Caracas: Trump's key diplomat to implement the three-phase plan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/john-barrett-en-caracas-el-diplomatico-clave-de-trump-para-implementar-el-plan-de-tres-fases/",
+      "published_date": "2026-04-24T11:02:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump announces extension of truce in Lebanon, but no progress on Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-anuncia-prorroga-de-la-tregua-en-libano-pero-ningun-avance-sobre-iran/",
+      "published_date": "2026-04-24T10:43:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Netflix: what were the most watched series and movies in Venezuela this week?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/netflix-las-series-y-peliculas-mas-vistas-en-venezuela-esta-semana-2/",
+      "published_date": "2026-04-24T10:42:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They arrest a US soldier who won US$400,000 by betting on Maduro's capture with privileged information",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/detienen-a-un-soldado-de-ee-uu-que-gano-us400-000-al-apostar-por-la-captura-de-maduro-con-informacion-privilegiada/",
+      "published_date": "2026-04-24T10:36:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "IVC's commitment to fight traditional channels",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/la-apuesta-de-ivc-para-dar-la-pelea-a-los-canales-tradicionales/",
+      "published_date": "2026-04-24T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The doctor who certified the death revealed that Maradona had been dead for at least two hours",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/medico-que-certifico-el-fallecimiento-de-maradona-revelo-que-el-astro-llevaba-al-menos-dos-horas-muerto/",
+      "published_date": "2026-04-24T01:07:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least 25 members or associates of the Mexican Mafia arrested in Southern California",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/arrestan-al-menos-a-25-miembros-o-asociados-de-la-mafia-mexicana-en-el-sur-de-california/",
+      "published_date": "2026-04-24T00:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Táchira | Citizens demand that the Ombudsman review the health status of political prisoners",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-andes/tachira-ciudadanos-exigen-a-la-defensoria-revisar-el-estado-de-salud-de-los-presos-politicos/",
+      "published_date": "2026-04-24T00:10:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nicolás Maduro's case in New York enters a critical phase: his private lawyers resign and he will be assisted by public defenders",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/sin-fondos-ni-abogados-privados-maduro-pasa-a-defensa-publica/",
       "published_date": "2026-04-23T23:52:52Z",
@@ -73,74 +143,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Foreign Minister of Colombia arrived in Venezuela",
+      "title": "Sánchez downplays the importance of the Pentagon email regarding Spain's suspension from NATO",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/canciller-de-colombia-llego-a-venezuela/",
-      "published_date": "2026-04-23T20:02:38Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/sanchez-resta-importancia-a-correo-del-pentagono-sobre-la-suspension-de-espana-de-la-otan/",
+      "published_date": "2026-04-24T11:41:58Z",
+      "category": "Military"
     },
     {
-      "title": "Trump says he feels no pressure to end war against Iran: 'I have all the time in the world'",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-dice-que-no-siente-presion-por-terminar-la-guerra-contra-iran-tengo-todo-el-tiempo-del-mundo/",
-      "published_date": "2026-04-23T19:36:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump says he feels no pressure to end the war in Iran: 'I have all the time in the world'",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-dice-que-no-siente-presion-por-terminar-la-guerra-en-iran-tengo-todo-el-tiempo-del-mundo/",
-      "published_date": "2026-04-23T19:20:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Much noise and few releases: Foro Penal's figures on the amnesty",
+      "title": "El Mañanero of April 24: the amnesty was not enough for all political prisoners and other news",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/606020/mucho-ruido-y-pocas-excarcelaciones-las-cifras-de-foro-penal-sobre-la-amnistia/",
-      "published_date": "2026-04-23T19:11:49Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/606068/el-mananero-del-24-de-abril-urge-resucitar-el-salario-minimo-y-otras-noticias/",
+      "published_date": "2026-04-24T09:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "The new US chargé d'affaires arrived: \"I am in Venezuela to continue implementing Trump's three-phase plan\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/llego-el-nuevo-encargado-de-negocios-de-ee-uu-estoy-en-venezuela-para-seguir-implementando-el-plan-de-tres-fases-de-trump/",
-      "published_date": "2026-04-23T18:59:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“The elections will not come alone”: they urge citizen and international pressure",
+      "title": "Delcy Rodríguez lost the desire to continue giving amnesty",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605992/las-elecciones-no-llegaran-solas-instan-a-presion-ciudadana-e-internacional/",
-      "published_date": "2026-04-23T18:45:00Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/606069/a-delcy-rodriguez-se-le-quitaron-las-ganas-de-seguir-dando-amnistia/",
+      "published_date": "2026-04-24T02:22:35Z",
+      "category": "Military"
     },
     {
-      "title": "Cidh affirms that 2025 was the year in which a \"dictatorial regime\" was consolidated in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/cidh-afirma-que-2025-fue-el-ano-en-que-se-consolido-un-regimen-dictatorial-en-venezuela/",
-      "published_date": "2026-04-23T16:53:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Former opposition mayor Rafael Ramírez calls on the authorities to \"genuine pacification\"",
+      "title": "Cabello reveals dismissal of more than 12,000 police officers for corruption in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/exalcalde-opositor-rafael-ramirez-llama-a-las-autoridades-a-una-pacificacion-genuina/",
-      "published_date": "2026-04-23T16:32:30Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/cabello-revela-destitucion-de-mas-de-12-000-policias-por-corrupcion-en-venezuela/",
+      "published_date": "2026-04-24T01:46:42Z",
+      "category": "Military"
     },
     {
-      "title": "They activate judicial proceedings for the PDVSA-Cripto plot three years later: Tareck el Aissami was brought to court",
+      "title": "Impidieron entrada de Alfredo Romero a El Rodeo I para visitar a Igbert Marín Chaparro y a Josnars Baduel",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/activan-proceso-judicial-por-trama-pdvsa-cripto-tres-anos-despues-presentaron-ante-tribunales-a-tareck-el-aissami/",
-      "published_date": "2026-04-23T16:05:32Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/impidieron-entrada-de-alfredo-romero-a-el-rodeo-i-para-visitar-a-igbert-marin-chaparro-y-a-josnars-baduel/",
+      "published_date": "2026-04-24T00:39:30Z",
+      "category": "Military"
     },
     {
-      "title": "IACHR: 2025 was the year in which a dictatorial regime was consolidated in Venezuela",
+      "title": "Delcy Rodríguez ends the amnesty law and moves forward with judicial reform",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/cidh-en-2025-se-consolido-un-regimen-dictatorial-en-venezuela/",
-      "published_date": "2026-04-23T15:56:21Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-pone-fin-a-la-ley-de-amnistia-y-avanza-con-una-reforma-judicial/",
+      "published_date": "2026-04-24T00:11:08Z",
+      "category": "Military"
     },
     {
       "title": "US to audit Justice Department's management of Epstein files",
@@ -241,46 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Lamine Yamal gives Barcelona the victory before setting off alarms due to injury",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/lamine-yamal-da-el-triunfo-al-barcelona-antes-de-encender-las-alarmas-por-lesion/",
-      "published_date": "2026-04-23T09:00:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Televen survives with optimism",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/televen-sobrevive-con-optimismo/",
-      "published_date": "2026-04-23T08:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Capriles demands clarity in the case of the five prisoners killed in Yare III",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/capriles-exige-claridad-caso-muertes-presos-yare/",
-      "published_date": "2026-04-23T00:31:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Táchira | Bus with prisoners hits a light pole",
+      "title": "Unconstitutional and arbitrary: this is how NGOs describe the “coming to an end” of the Amnesty Law",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/tachira-autobus-con-presos-impacta-contra-un-poste-de-luz/",
-      "published_date": "2026-04-22T23:39:17Z",
-      "category": "Military"
-    },
-    {
-      "title": "50 days before the World Cup, insecurity and drug trafficking worry the majority of Mexicans",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/a-50-dias-del-mundial-la-inseguridad-y-el-narco-preocupan-a-la-mayoria-de-los-mexicanos/",
-      "published_date": "2026-04-22T21:21:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Capriles demands transparency after riot in Yare III prison that left 5 dead",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/capriles-exige-transparencia-tras-motin-en-carcel-de-yare-iii-que-dejo-5-muertos/",
-      "published_date": "2026-04-22T20:48:47Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/politica/inconstitucional-y-arbitraria-asi-califican-ong-la-llegada-a-su-fin-de-la-ley-de-amnistia/",
+      "published_date": "2026-04-24T11:55:16Z",
+      "category": "Energy"
     },
     {
       "title": "Trinidad and Tobago supports reorganization of Chevron and Shell in the face of negotiations with Venezuela",
@@ -412,13 +419,6 @@
       "title": "Formula 1 will change its rules for the Miami GP",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/la-formula-1-cambiara-sus-reglas-para-el-gp-de-miami/",
-      "published_date": "2026-04-21T06:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Amy Winehouse's father loses lawsuit against his daughter's friends",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/padre-de-amy-winehouse-perdio-demanda-contra-amigas-de-su-hija/",
       "published_date": "2026-04-21T06:00:00Z",
       "category": "Energy"
     },
@@ -563,6 +563,48 @@
       "category": "Economy"
     },
     {
+      "title": "The Futve Women's Futsal League returns",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/?p=2925303",
+      "published_date": "2026-04-24T12:00:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ambitious substitutes: the most effective wildcards in World Cup history",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/suplentes-ambiciosos-los-comodines-mas-efectivos-en-la-historia-de-los-mundiales/",
+      "published_date": "2026-04-24T11:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minnesota imposed its law to beat Denver",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/minnesota-impuso-su-ley-para-vencer-a-denver/",
+      "published_date": "2026-04-24T11:24:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NGOs call it unconstitutional that Delcy Rodríguez announces the end of the amnesty",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ong-tachan-de-inconstitucional-que-delcy-rodriguez-anuncie-el-fin-de-la-amnistia/",
+      "published_date": "2026-04-24T11:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AN plans to debate reform of the labor law amid protests to demand a living wage",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/la-an-preve-debatir-una-reforma-de-la-ley-del-trabajo-en-medio-de-protestas-por-el-salario-minimo/",
+      "published_date": "2026-04-24T01:18:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PUD reiterates willingness to work with the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/pud-reitera-disposicion-de-trabajar-con-ee-uu/",
+      "published_date": "2026-04-24T00:36:13Z",
+      "category": "Local Events"
+    },
+    {
       "title": "College of Engineers presents proposals for productive reactivation of the country: they ask for transparency, legal certainty and professional certification",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/?p=495371",
@@ -577,7 +619,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Five injured and one dead in the US due to a shooting at a Louisiana shopping center",
+      "title": "One dead and five injured in shooting at Louisiana shopping center",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/cinco-heridos-y-un-muerto-en-ee-uu-por-un-tiroteo-en-un-centro-comercial-de-luisiana/",
       "published_date": "2026-04-23T23:50:03Z",
@@ -616,13 +658,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/volcan-kilauea-en-ee-uu-entra-en-erupcion-con-fuentes-de-lava-de-300-metros-de-altura/",
       "published_date": "2026-04-23T21:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ambitious substitutes: the most effective wildcards in World Cup history",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/suplentes-ambiciosos-los-comodines-mas-efectivos-en-la-historia-de-los-mundiales/",
-      "published_date": "2026-04-23T21:52:39Z",
       "category": "Local Events"
     },
     {
@@ -665,41 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/guayana/bolivar-fallece-minero-en-el-dorado-un-arbol-le-cayo-encima/",
       "published_date": "2026-04-23T20:15:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Government installs commission to reform criminal justice system in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/gobierno-instala-comision-para-reformar-sistema-de-justicia-penal-en-venezuela/",
-      "published_date": "2026-04-23T19:57:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan murdered her partner in Chile during an argument",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/venezolana-asesino-a-su-pareja-en-chile-durante-una-discusion/",
-      "published_date": "2026-04-23T19:48:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "18 NGOs outline a route to guide a democratic transition",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/606015/18-ong-trazan-ruta-para-encauzar-una-transicion-democratica/",
-      "published_date": "2026-04-23T19:36:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New US chargé d'affaires, John Barrett, is already in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/nuevo-encargado-de-negocios-de-eeuu-john-barrett-ya-se-encuentra-en-venezuela/",
-      "published_date": "2026-04-23T19:15:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vente Venezuela Party willing to meet with the government to negotiate the transition",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/vente-venezuela-esta-dispuesto-a-negociar-con-el-gobierno/",
-      "published_date": "2026-04-23T18:03:55Z",
       "category": "Local Events"
     }
   ]
