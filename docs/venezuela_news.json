@@ -1,7 +1,70 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-24T23:50:36Z",
+  "last_updated": "2026-04-25T11:42:30Z",
   "stories": [
+    {
+      "title": "Violet, the lost book by Virginia Woolf, is published for the first time in Spanish",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/publican-por-primera-vez-en-espanol-violet-el-libro-perdido-de-virginia-woolf/",
+      "published_date": "2026-04-25T11:38:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Zelensky proposed holding negotiations with Russia in Azerbaijan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/zelenski-propuso-celebrar-negociaciones-con-rusia-en-azerbaiyan/",
+      "published_date": "2026-04-25T11:23:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chargé d'affaires of the United States met with Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/john-barrett-sostiene-reunion-con-delcy-rodriguez/",
+      "published_date": "2026-04-25T01:24:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Michael Jackson's heirs face lawsuit for alleged abuse and manipulation",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/los-herederos-de-michael-jackson-enfrentan-una-demanda-por-presunto-abuso-y-manipulacion/",
+      "published_date": "2026-04-25T01:18:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jorge Arreaza affirms that the amnesty law is still in force",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/jorge-arreaza-afirma-que-la-ley-de-amnistia-sigue-vigente/",
+      "published_date": "2026-04-25T01:11:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: No meeting planned with US in Pakistan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/iran-asegura-que-no-hay-ninguna-reunion-planeada-con-estados-unidos-en-pakistan/",
+      "published_date": "2026-04-25T01:03:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SNTP denounces delay in amnesty for journalist Luis López after more than two months without response",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/sntp-denuncia-retraso-en-amnistia-de-periodista-luis-lopez-tras-mas-de-dos-meses-sin-respuesta/",
+      "published_date": "2026-04-25T00:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Petro visits Delcy Rodríguez in Caracas: what role does Colombia play in the transition in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/petro-visita-a-delcy-rodriguez-en-caracas-que-rol-juega-colombia-en-la-transicion-en-venezuela/",
+      "published_date": "2026-04-25T00:08:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US launches Trade Information Center to promote exports to Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/ee-uu-lanza-centro-de-informacion-comercial-para-impulsar-exportaciones-hacia-venezuela/",
+      "published_date": "2026-04-24T23:54:25Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Peru's electoral body denies López Aliaga and denies hiring 200 Venezuelans and Cubans to manipulate results",
       "source": "El Nacional",
@@ -77,69 +140,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/zoe-kravitz-y-harry-styles-se-habrian-comprometido-tras-meses-de-relacion/",
       "published_date": "2026-04-24T14:48:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Petro will address \"the main challenges on the border\" in Caracas with Delcy Rodríguez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/petro-abordara-en-caracas-con-delcy-rodriguez-los-principales-desafios-en-la-frontera/",
-      "published_date": "2026-04-24T14:41:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US approved Trump's first gold card that allows millionaires to reside in the country",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ee-uu-aprobo-la-primera-tarjeta-dorada-de-trump-que-permite-a-millonarios-residir-en-el-pais/",
-      "published_date": "2026-04-24T13:48:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russell Brand confessed that he had sexual relations with a teenager",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/russell-brand-confeso-que-tuvo-relaciones-con-una-adolescente/",
-      "published_date": "2026-04-24T13:35:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"The relationship between the US and Venezuela will define the future of the hemisphere,\" says John Barrett",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/relacion-de-eeuu-y-venezuela-definira-futuro-del-hemisferio-asegura-john-barrett/",
-      "published_date": "2026-04-24T13:34:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump ignores proposal in which Italy would replace Iran in the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-desconoce-propuesta-en-la-que-italia-sustituiria-a-iran-en-el-mundial/",
-      "published_date": "2026-04-24T13:27:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crocodiles overwhelmed Panteras to establish themselves at the top of the Basketball Super League",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/cocodrilos-arrollo-a-panteras-para-afianzarse-en-la-punta-de-la-superliga-de-baloncesto/",
-      "published_date": "2026-04-24T13:23:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "New images of Maradona's corpse shown in court",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/muestran-en-juicio-nuevas-imagenes-del-cadaver-de-maradona/",
-      "published_date": "2026-04-24T13:21:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US accuses soldier of using classified information about Maduro's capture to bet",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-acusa-a-soldado-de-usar-informacion-clasificada-sobre-captura-de-maduro-para-apostar/",
-      "published_date": "2026-04-24T13:20:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The D4vd singer had child pornography on his phone",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-cantante-d4vd-tenia-pornografia-infantil-en-su-telefono/",
-      "published_date": "2026-04-24T13:17:37Z",
       "category": "Diplomacy"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "Chamber of Commerce of Valencia proposes a solution to sustain commercial activity in the face of electrical failures",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/camara-de-comercio-de-valencia-propone-solucion-para-sostener-la-actividad-comercial-ante-fallas-electricas/",
+      "published_date": "2026-04-25T11:35:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Relatives of Colombians detained in Venezuela ask Gustavo Petro to intervene",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/familiares-de-colombianos-detenidos-en-venezuela-piden-intervencion-de-gustavo-petro/",
@@ -556,11 +563,46 @@
       "category": "Economy"
     },
     {
-      "title": "Cabello questions PSUV militants who criticize Venezuela's return to the IMF",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/cabello-cuestiona-a-militantes-del-psuv-que-critican-el-retorno-de-venezuela-al-fmi/",
-      "published_date": "2026-04-22T17:03:55Z",
-      "category": "Economy"
+      "title": "Rap Sin Grosería rapped to the rhythm of human rights at the UCV",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/con-proposito/606195/rap-sin-groseria-rapeo-al-ritmo-de-los-derechos-humanos-en-la-ucv/",
+      "published_date": "2026-04-25T10:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Channel I relies on technology to win back the audience",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/canal-i-se-afianza-en-la-tecnologia-para-reconquistar-a-la-audiencia/",
+      "published_date": "2026-04-25T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "César Millán will put dogs at the center of the conversation in Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/cesar-millan-quiere-que-latinoamerica-trate-mejor-a-sus-animales/",
+      "published_date": "2026-04-25T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Appeals court declares Trump's suspension of asylum illegal",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/tribunal-de-apelaciones-declara-ilegal-suspension-del-asilo-impulsada-por-trump/",
+      "published_date": "2026-04-25T01:10:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mining sector questions gold quota set by the CVM",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/sector-minero-cuestiona-cuota-en-oro-fijada-por-la-cvm/",
+      "published_date": "2026-04-25T00:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CCCT announces agenda to celebrate its anniversary",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/cultura/ccct-anuncia-agenda-para-celebrar-su-aniversario/",
+      "published_date": "2026-04-25T00:29:04Z",
+      "category": "Local Events"
     },
     {
       "title": "These are the judges that the AN intends to replace in the Supreme Court of Justice",
@@ -658,48 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/nuevo-presidente-del-inh-le-dice-al-potro-que-el-alumno-superara-al-maestro/",
       "published_date": "2026-04-24T19:38:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlos Julio Rojas appeals the denial of amnesty and demanded the definitive dismissal of his case",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/carlos-julio-rojas-apela-la-negativa-de-amnistia-y-exigio-el-sobreseimiento-definitivo-de-su-causa/",
-      "published_date": "2026-04-24T19:30:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The emergency document that the USB presented to Minister Sanjuán to demand solutions",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/606118/el-pliego-de-urgencias-que-la-usb-presento-a-la-ministra-sanjuan-para-exigir-soluciones/",
-      "published_date": "2026-04-24T19:11:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"I never thought I would end up in Africa\": the limbo in which Latin Americans deported by the US to the Congo find themselves",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/nunca-pense-que-terminaria-en-africa-el-limbo-en-el-que-se-encuentran-los-latinoamericanos-deportados-por-ee-uu-al-congo/",
-      "published_date": "2026-04-24T19:09:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colonel accused of guarding the minutes of the presidential elections in Táchira was released",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/excarcelaron-al-coronel-diego-espin-acusado-de-resguardar-actas/",
-      "published_date": "2026-04-24T18:50:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Tren de Barlovento” criminal gang: who are they, where do they operate and why is their rise of concern?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/banda-delictiva-tren-de-barlovento-quienes-son-donde-operan-y-por-que-preocupa-su-auge/",
-      "published_date": "2026-04-24T18:32:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roads in Mérida continue to be affected by rainfall",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/vialidad-en-merida-continua-afectada-por-las-precipitaciones/",
-      "published_date": "2026-04-24T17:42:18Z",
       "category": "Local Events"
     }
   ]
