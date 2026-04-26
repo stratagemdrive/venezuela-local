@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-25T23:49:26Z",
+  "last_updated": "2026-04-26T11:43:12Z",
   "stories": [
+    {
+      "title": "From oil to BCV: learn about the sanctions relaxed by the United States, after removing Maduro",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/petroleo-bcv-sanciones-flexibilizado-estados-unidos-maduro/",
+      "published_date": "2026-04-26T11:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sabastian Sawe, first man to run the marathon in less than two hours",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/sabastian-sawe-primer-hombre-que-corre-el-maraton-en-menos-de-dos-horas/",
+      "published_date": "2026-04-26T11:23:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump assures that what happened will not make him stop the war in Iran",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/trump-asegura-que-lo-sucedido-no-le-va-a-hacer-detener-la-guerra-en-iran/",
+      "published_date": "2026-04-26T03:49:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Secret Service evacuated Trump and Melania from dinner with journalists after hearing explosions",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/servicio-secreto-evacuo-a-trump-y-melania-de-cena-con-periodistas-tras-escuchar-detonaciones/",
+      "published_date": "2026-04-26T01:30:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They strangled a Venezuelan woman in Peru: she was studying nursing",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/estrangularon-a-venezolana-en-peru-estudiaba-enfermeria/",
+      "published_date": "2026-04-26T01:00:09Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Arsenal clings to the corner to regain the lead of the Premier",
       "source": "El Nacional",
@@ -21,6 +56,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/petro-tildo-de-terroristas-a-autores-de-ataque-en-cauca-dejo-7-fallecidos/",
       "published_date": "2026-04-25T23:01:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran made new proposal after canceling envoy trip to Pakistan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-dice-que-iran-hizo-una-nueva-propuesta-tras-cancelar-el-viaje-de-enviados-a-pakistan/",
+      "published_date": "2026-04-25T22:45:00Z",
       "category": "Diplomacy"
     },
     {
@@ -101,46 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Colombia and Venezuela “one step” away from electrical and gas interconnection",
+      "title": "USA: Police confirm correspondents' dinner attacker acted alone",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ee-uu-la-policia-confirma-que-el-atacante-de-la-cena-de-corresponsales-actuo-solo/",
+      "published_date": "2026-04-26T11:16:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Delcy Rodríguez promotes judicial reform: lawyers and human rights defenders are more than skeptical",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/colombia-y-venezuela-a-un-paso-de-la-interconexion-electrica-y-gasifera/",
-      "published_date": "2026-04-25T17:34:54Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-reforma-judicial-abogados-defensores-ddhh-escepticos/",
+      "published_date": "2026-04-26T06:20:00Z",
+      "category": "Military"
     },
     {
-      "title": "NATO says there are \"no provisions\" that provide for the expulsion of its members after reports that the US could try to suspend Spain",
+      "title": "Lawyer Zair Mundaray warns of possible crimes for the use of public funds to defend Maduro",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/abogado-zair-mundaray-advierte-posibles-delitos-por-uso-de-fondos-publicos-para-defensa-de-maduro/",
+      "published_date": "2026-04-26T00:12:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "Hilton hotel chain could resume its commercial operations in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/la-otan-dice-que-no-hay-disposiciones-que-prevean-la-expulsion/",
-      "published_date": "2026-04-25T16:39:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US authorizes defense payments for Maduro and Cilia with Venezuelan funds",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-autoriza-pago-de-defensa-de-maduro-y-cilia-con-fondos-venezolanos/",
-      "published_date": "2026-04-25T16:31:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Who is making the decisions in Iran?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/quien-esta-tomando-las-decisiones-en-iran/",
-      "published_date": "2026-04-25T16:23:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rick Scott asked to reimpose sanctions against Delcy Rodríguez after the end of the amnesty",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/rick-scott-pidio-reimponer-sanciones-contra-delcy-rodriguez/",
-      "published_date": "2026-04-25T16:06:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "On the same day, Rodríguez received representatives from the United States and Colombia in Miraflores",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/606227/en-un-mismo-dia-rodriguez-recibio-en-miraflores-a-representantes-de-estados-unidos-y-colombia/",
-      "published_date": "2026-04-25T15:39:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/cadena-hotelera-hilton-podria-retomar-sus-operaciones-comerciales-en-venezuela/",
+      "published_date": "2026-04-25T23:52:37Z",
+      "category": "Military"
     },
     {
       "title": "Maps of Power: The business of justice in Venezuela",
@@ -255,32 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Texas police may arrest people they suspect are in the US irregularly: what is known",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/policia-de-texas-podra-detener-a-personas-que-sospeche-estan-en-ee-uu-de-forma-irregular-lo-que-se-sabe/",
-      "published_date": "2026-04-24T23:23:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Táchira | Lieutenant Jhoana Bermúdez, detained for handing over minutes on July 28, is released",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/tachira-excarcelan-a-la-teniente-jhoana-bermudez-detenida-por-entregar-actas-el-28-de-julio/",
-      "published_date": "2026-04-24T22:46:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Professional Basketball Super League investigates rigging of results and betting network",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/spb-investigacion-amanos-apuestas-baloncesto-venezuela/",
-      "published_date": "2026-04-24T22:33:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Relatives of political prisoners ask Petro to mediate for the 16 Colombians detained in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/familiares-de-presos-politicos-piden-a-gustavo-petro-que-medie-por-los-16-colombianos-detenidos-en-venezuela/",
-      "published_date": "2026-04-24T22:01:57Z",
-      "category": "Military"
+      "title": "The challenges for the Hydrocarbons Law to generate confidence and improve oil revenues",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/los-desafios-para-que-la-ley-de-hidrocarburos-genere-confianza-y-mejore-los-ingresos-petroleros/",
+      "published_date": "2026-04-26T06:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Pdvsa-Crypto Case| Lawyer Zair Mundaray revealed what happened at the April 24 hearing",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Who gave him power and protected \"Potro\" Álvarez?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/quienes-le-dieron-el-poder-y-protegieron-al-potro-alvarez/",
-      "published_date": "2026-04-22T22:53:00Z",
-      "category": "Energy"
+      "title": "Environment analysis: total dollarization, oil and institutional reconstruction in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/analisis-de-entorno-dolarizacion-total-petroleo-y-reconstruccion-institucional-en-venezuela/",
+      "published_date": "2026-04-26T11:05:00Z",
+      "category": "Economy"
     },
     {
       "title": "The US seeks to reverse the decline in trade with Venezuela with the new Business Information Center",
@@ -556,11 +563,67 @@
       "category": "Economy"
     },
     {
-      "title": "“We also deserve to be heard”: The complaint of USB students to Minister Sanjuán",
+      "title": "Delcy Rodríguez condemns “attempted aggression” against Trump",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-condena-intento-agresion-contra-trump/",
+      "published_date": "2026-04-26T11:38:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine years of impunity for Juan Pablo Pernalete",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/605887/merecemos-tambien-ser-escuchados-el-reclamo-de-estudiantes-de-la-usb-a-ministra-sanjuan/",
-      "published_date": "2026-04-22T20:52:00Z",
-      "category": "Economy"
+      "url": "https://runrun.es/rr-es-plus/606231/nueve-anos-de-impunidad-para-juan-pablo-pernalete/",
+      "published_date": "2026-04-26T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jorge Pizzani overflows in search of continuity",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/jorge-pizzani-se-desborda-a-mansalva-en-busca-de-la-continuidad/",
+      "published_date": "2026-04-26T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The intricate path for a university place in Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/el-intrincado-camino-por-un-cupo-universitario-en-venezuela/",
+      "published_date": "2026-04-26T06:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump is evacuated from dinner after a foiled attack: the attacker was arrested",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/atentado-donald-trump-durante-cena-tirador-muerto/",
+      "published_date": "2026-04-26T01:53:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump and several of his officials were evacuated from a dinner after hearing alleged gunshots",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/trump-y-varios-de-sus-funcionarios-fueron-evacuados-de-una-cena-tras-escuchar-presuntos-disparos/",
+      "published_date": "2026-04-26T01:15:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least three dead after a bus overturns on the highway between Mérida and Barinas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/al-menos-tres-muertos-deja-vuelco-de-autobus-en-la-carretera-entre-merida-y-barinas/",
+      "published_date": "2026-04-26T00:52:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez is committed to Venezuelan workers: \"On May 1 we will take another step and always with caution\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-se-compromete-con-los-trabajadores-venezolanos-el-1-de-mayo-daremos-otro-paso-y-siempre-con-cautela/",
+      "published_date": "2026-04-26T00:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests in nine states: they demanded decent wages, public services and freedom for political prisoners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/protestas-en-nueve-estados-exigieron-salarios-dignos-servicios-publicos-y-libertad-para-los-presos-politicos/",
+      "published_date": "2026-04-26T00:09:53Z",
+      "category": "Local Events"
     },
     {
       "title": "El Pitazo hearing requests that “el Potro” be investigated",
@@ -637,69 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/jhonny-ferreira-deja-la-sub-17-como-tecnico-por-mutuo-acuerdo/",
       "published_date": "2026-04-25T17:47:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actress from The Queen of Flow, showed the consequences of pregnancy: \"I am full of spots, but it is part of the process\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/actriz-de-la-reina-del-flow-mostro-las-secuelas-del-embarazo/",
-      "published_date": "2026-04-25T17:27:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coach stabs engineer friend to death and steals his belongings before escaping",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/entrenador-mata-a-punaladas-a-un-amigo-ingeniero-y-roba-sus-pertenencias-antes-de-escapar/",
-      "published_date": "2026-04-25T16:38:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV appointed José Magdaleno Álvarez Briceño bishop of Guasdualito",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/papa-leon-xiv-nombro-nuevo-obispo-en-guasdualito/",
-      "published_date": "2026-04-25T15:48:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Elections in Palestine: low participation is recorded in the first hours of the process",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/elecciones-en-palestina-en-primeras-horas-del-proceso-se-registra-baja-participacion/",
-      "published_date": "2026-04-25T14:39:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil in suspense due to the injury of Estêvão, a key figure for the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/brasil-en-vilo-por-la-lesion-de-estevao-figura-clave-para-el-mundial/",
-      "published_date": "2026-04-25T13:56:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Celtics recover, LeBron leads the Lakers and the Spurs win without Wemby",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/los-celtics-se-recuperan-lebron-lidera-a-los-lakers-y-los-spurs-ganan-sin-wemby/",
-      "published_date": "2026-04-25T13:46:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marc Márquez achieves pole position in the Spanish MotoGP Grand Prix",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/marc-marquez-logra-la-pole-en-el-gran-premio-de-espana-de-motogp/",
-      "published_date": "2026-04-25T13:24:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eight fictional cars as famous or more famous than their drivers",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ocho-autos-de-ficcion-tan-o-mas-famosos-que-sus-conductores/",
-      "published_date": "2026-04-25T12:23:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Six dead and several injured in Chiapas after armed attack",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/seis-muertos-y-varios-heridos-en-chiapas-luego-de-ataque-armado/",
-      "published_date": "2026-04-25T12:07:07Z",
       "category": "Local Events"
     }
   ]
