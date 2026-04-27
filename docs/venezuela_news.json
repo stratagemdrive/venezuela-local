@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-26T23:50:30Z",
+  "last_updated": "2026-04-27T12:22:58Z",
   "stories": [
+    {
+      "title": "The letter that Hugo \"El pollo\" Carvajal sent to Trump to become a star witness against Nicolás Maduro",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-pollo-carvajal-envio-carta-a-trump-para-testificar-contra-maduro/",
+      "published_date": "2026-04-27T11:34:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran: \"Specific conditions\" have been set to continue negotiations with the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/iran-se-han-fijado-condiciones-especificas-para-continuar-negociacion-con-ee-uu/",
+      "published_date": "2026-04-27T11:06:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Suspect of shooting at gala where Trump was present appears in court",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/sospechoso-de-disparar-en-gala-donde-estaba-trump-comparece-ante-la-justicia/",
+      "published_date": "2026-04-27T10:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hezbollah will not recognize the negotiations between Lebanon and Israel or their results",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/hezbola-no-reconocera-las-negociaciones-entre-libano-e-israel-ni-sus-resultados/",
+      "published_date": "2026-04-27T10:18:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brent exceeds $108 despite Iran's new negotiation proposal to the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-brent-supera-los-108-dolares-pese-a-la-nueva-propuesta-de-negociacion-de-iran-a-ee-uu/",
+      "published_date": "2026-04-27T09:58:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Social organizations in Latin America receive help from a global consulting firm",
       "source": "El Nacional",
@@ -66,13 +101,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Anger and frustration played a trick on the diaspora in Madrid",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/606248/la-rabia-y-frustracion-le-jugo-una-mala-pasada-a-la-diaspora-en-madrid/",
-      "published_date": "2026-04-26T15:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Michael Jackson reigns again: film Michael achieves historic box office debut",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/la-pelicula-michael-logra-debut-historico-en-taquilla/",
@@ -94,6 +122,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "What is known about the White House shooting",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/606244/lo-que-se-sabe-sobre-el-tiroteo-en-la-casa-blanca/",
+      "published_date": "2026-04-26T13:14:06Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Between restrictions and conditions: this is how the financing of the defense of Nicolás Maduro and Cilia Flores will work",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/asi-funcionara-el-financiamiento-de-la-defensa-de-maduro/",
@@ -108,39 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "From oil to BCV: learn about the sanctions relaxed by the United States, after removing Maduro",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/petroleo-bcv-sanciones-flexibilizado-estados-unidos-maduro/",
-      "published_date": "2026-04-26T11:39:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sabastian Sawe, first man to run the marathon in less than two hours",
+      "title": "The prisons of horror and the responsibility of the State",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/sabastian-sawe-primer-hombre-que-corre-el-maraton-en-menos-de-dos-horas/",
-      "published_date": "2026-04-26T11:23:56Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/las-carceles-del-horror-y-la-responsabilidad-del-estado/",
+      "published_date": "2026-04-27T05:18:00Z",
+      "category": "Military"
     },
     {
-      "title": "Trump assures that what happened will not make him stop the war in Iran",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-asegura-que-lo-sucedido-no-le-va-a-hacer-detener-la-guerra-en-iran/",
-      "published_date": "2026-04-26T03:49:55Z",
-      "category": "Diplomacy"
+      "title": "Paratroopers Case: Alexander Granko and editors of the file will testify",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/caso-paracaidistas-alexander-granko-y-redactores-del-expediente-iran-a-declarar/",
+      "published_date": "2026-04-27T00:42:53Z",
+      "category": "Military"
     },
     {
-      "title": "Secret Service evacuated Trump and Melania from dinner with journalists after hearing explosions",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/servicio-secreto-evacuo-a-trump-y-melania-de-cena-con-periodistas-tras-escuchar-detonaciones/",
-      "published_date": "2026-04-26T01:30:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They strangled a Venezuelan woman in Peru: she was studying nursing",
+      "title": "Delcy Rodríguez activated a plan to address \"extraordinary rains\" in seven states",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/estrangularon-a-venezolana-en-peru-estudiaba-enfermeria/",
-      "published_date": "2026-04-26T01:00:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-activo-plan-para-atender-lluvias-extraordinarias-en-siete-estados/",
+      "published_date": "2026-04-27T00:04:25Z",
+      "category": "Military"
     },
     {
       "title": "Alert for computer crimes in Venezuela: they execute electronic scams with AI",
@@ -259,27 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/protesta-frente-a-la-casa-blanca-exigieron-libertad-de-presos-politicos-en-venezuela/",
       "published_date": "2026-04-25T22:27:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Alliance for Freedom of Expression demands independent designation of TSJ and CNE",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/alianza-por-la-libertad-de-expresion-exige-designacion-independiente-de-tsj-y-cne/",
-      "published_date": "2026-04-25T21:48:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bomb attack causes seven deaths in Colombia amid wave of violence",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/atentado-con-bomba-causa-siete-muertos-en-colombia-en-medio-de-ola-de-violencia/",
-      "published_date": "2026-04-25T21:37:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "In front of the White House they demand that they look at the reality of political prisoners in Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/606258/frente-a-la-casa-blanca-exigen-que-miren-la-realidad-de-los-presos-politicos-en-venezuela/",
-      "published_date": "2026-04-25T19:43:16Z",
       "category": "Military"
     },
     {
@@ -563,6 +563,55 @@
       "category": "Economy"
     },
     {
+      "title": "Polar wants to take its beer garden throughout Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/polar-quiere-llevar-su-jardin-cervecero-por-toda-venezuela/",
+      "published_date": "2026-04-27T12:20:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How conspiracy theories surrounding the deaths or disappearances of 10 renowned US scientists are affecting their families",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/como-las-teorias-conspirativas-que-rodean-la-muerte-o-desaparicion-de-10-cientificos-de-renombre-en-ee-uu-estan-afectando-a-sus-familias/",
+      "published_date": "2026-04-27T11:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Number of deaths from a bus accident on the Mérida - Barinas highway rose to 10",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/numero-de-fallecidos-por-accidente-de-autobus-en-la-carretera-merida-barinas-subio-a-10/",
+      "published_date": "2026-04-27T10:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez visits Barbados on her second official trip as acting president",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/delcy-rodriguez-visita-barbados-en-su-segundo-viaje-oficial-como-presidenta-encargada/",
+      "published_date": "2026-04-27T09:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of April 27: The pain lasts after the murder of Juan Pablo Pernalete",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606275/el-mananero-del-27-de-abril-el-dolor-sigue-luego-del-asesinato-de-juan-pablo-pernalete/",
+      "published_date": "2026-04-27T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The number of deaths from an accident on the Mérida - Barinas highway rises to nine: the victims are identified",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/asciende-a-9-la-cifra-de-fallecidos-por-accidente-de-autobus-en-carretera-merida-barinas/",
+      "published_date": "2026-04-27T00:49:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OVP denounced \"silence\" from the Ministry of Penitentiary Service after the riot in Yare III that left five dead",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ovp-denuncio-silencio-del-ministerio-de-servicio-penitenciario-tras-motin-en-yare-iii-reportan-al-menos-cinco-muertos/",
+      "published_date": "2026-04-27T00:22:35Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Arsenal puts pressure on City, PSG eyes the title and Inter is still waiting for the breakthrough",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/el-arsenal-presiona-al-city-el-psg-avista-el-titulo-y-el-inter-aun-aguarda-el-aliron/",
@@ -584,7 +633,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Ipasme worker was arrested for writing an insult to Delcy Rodríguez",
+      "title": "Ipasme worker was arrested for an anonymous writing insulting Delcy Rodríguez",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/trabajador-del-ipasme-fue-detenido-por-insulto-a-delcy-rodriguez/",
       "published_date": "2026-04-26T22:27:54Z",
@@ -651,55 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/jorge-pizzani-se-desborda-a-mansalva-en-busca-de-la-continuidad-2/",
       "published_date": "2026-04-26T21:24:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Channel I relies on technology to win back the audience",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/canal-i-se-afianza-en-la-tecnologia-para-reconquistar-a-la-audiencia-2/",
-      "published_date": "2026-04-26T21:22:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unitary Platform condemned attack against Trump: “Violence contradicts democratic principles”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/plataforma-unitaria-condeno-ataque-contra-trump-la-violencia-contradice-los-principios-democraticos/",
-      "published_date": "2026-04-26T20:53:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "King Charles III maintains plans to visit Trump, despite the failed attack against the president",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/el-rey-carlos-iii-mantiene-planes-de-visita-a-trump-pese-al-atentado-fallido-contra-el-presidente/",
-      "published_date": "2026-04-26T20:43:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A tiramisu of more than 400 meters breaks Guinness record in London",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/un-tiramisu-de-mas-de-400-metros-rompe-record-guinness-en-londres/",
-      "published_date": "2026-04-26T19:37:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Porfi Baloa revives his greatest hits in a Free Cover full of nostalgia",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/porfi-baloa-revive-sus-grandes-exitos-en-un-free-cover-cargado-de-nostalgia/",
-      "published_date": "2026-04-26T19:33:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Márquez wins the Spanish MotoGP GP again",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/marquez-vuelve-a-ganar-el-gp-de-espana-de-motogp/",
-      "published_date": "2026-04-26T18:12:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says attack suspect wrote anti-Christian manifesto",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-dice-que-el-sospechoso-del-atentado-contra-el-escribio-un-manifiesto-anticristiano/",
-      "published_date": "2026-04-26T18:11:00Z",
       "category": "Local Events"
     }
   ]
