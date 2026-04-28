@@ -1,7 +1,77 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-04-28T00:00:03Z",
+  "last_updated": "2026-04-28T12:26:07Z",
   "stories": [
+    {
+      "title": "The Pope received the Archbishop of Canterbury and called for unity",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/el-papa-recibio-a-la-arzobispa-de-canterbury-y-llamo-a-la-unidad/",
+      "published_date": "2026-04-28T12:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TSJ retires Maikel Moreno and seven other magistrates close to Chavismo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/tsj-jubila-a-ocho-magistrados-cercanos-al-chavismo/",
+      "published_date": "2026-04-28T11:51:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Edith Eger, the psychologist who survived Auschwitz thanks to dancing, has died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/fallecio-la-sobreviviente-de-auschwitz-edith-eger/",
+      "published_date": "2026-04-28T11:35:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prosecutor will work with the International Red Cross to attend to prisons after the riot in Yare III",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/fiscal-trabajara-con-la-cruz-roja-internacional-para-atender-las-carceles-tras-motin-en-yare-iii/",
+      "published_date": "2026-04-28T10:42:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US analyzes Iran's latest proposal to reopen the Strait of Hormuz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ee-uu-analiza-la-ultima-propuesta-de-iran-para-reabrir-el-estrecho-de-ormuz/",
+      "published_date": "2026-04-28T10:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy, the pilgrim",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/606311/peregrinacion-de-delcy/",
+      "published_date": "2026-04-28T04:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peace Laboratory: Coexistence program completes 100 days without responding to transitional justice standards",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/laboratorio-de-paz-programa-de-convivencia-cumple-100-dias-sin-responder-a-estandares-de-justicia-transicional/",
+      "published_date": "2026-04-28T01:05:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Judge endorses continuity of the case against Maduro and Cilia Flores with modified licenses",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/juez-avala-continuidad-del-caso-contra-maduro-y-flores-con-licencias-modificadas/",
+      "published_date": "2026-04-28T01:03:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "57 migrants arrive in Venezuela on a repatriation flight from the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/llegan-a-venezuela-57-migrantes-en-un-vuelo-de-repatriacion-procedente-de-estados-unidos/",
+      "published_date": "2026-04-28T00:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuelan Union in Peru proposes the creation of digital consulates due to the lack of active embassies",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/union-venezolana-en-peru-propone-la-creacion-de-consulados-digitales-ante-la-falta-de-embajadas-activas/",
+      "published_date": "2026-04-28T00:00:11Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Delcy Rodríguez made her second international trip as acting president",
       "source": "Runrun.es",
@@ -73,74 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "What benefits does drinking warm water have according to traditional Chinese medicine (and what science says about the renewed fashion)",
+      "title": "Princess Leonor will study Political Science at the Carlos III University",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/que-beneficios-tiene-beber-agua-tibia-segun-la-medicina-tradicional-china-y-que-dice-la-ciencia-ante-la-renovada-moda/",
-      "published_date": "2026-04-27T19:24:38Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/princesa-leonor-estudiara-ciencia-politica-en-la-universidad/",
+      "published_date": "2026-04-28T12:13:40Z",
+      "category": "Military"
     },
     {
-      "title": "US Department of State requests 14.3 million dollars for the operation of its embassy in Venezuela",
+      "title": "Who is \"Marlon\", the guerrilla to whom Petro attributes the attack that left 20 dead in Colombia and for which a US$1.4 million reward is offered",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/departamento-de-estado-de-ee-uu-solicita-143-millones-de-dolares-para-el-funcionamiento-de-su-embajada-en-venezuela/",
-      "published_date": "2026-04-27T19:08:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The death toll from a bus accident on the Mérida-Barinas highway increases to 10",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/aumentan-a-10-los-fallecidos-por-accidente-de-autobus-en-la-carretera-merida-barinas/",
-      "published_date": "2026-04-27T16:50:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Authorities on alert due to rains and presence of troughs near Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/autoridades-en-alerta-por-lluvias-y-presencia-de-vaguada-cerca-de-venezuela/",
-      "published_date": "2026-04-27T16:36:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The 2026 FIFA World Cup will take place in \"an atmosphere of fear\", according to several NGOs",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/deportes/el-mundial-fifa-2026-se-desarrollara-en-un-ambiente-de-miedo-segun-varias-ong/",
-      "published_date": "2026-04-27T16:24:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Visit of Carlos III to the United States continues despite the failed attack against Donald Trump",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/visita-de-carlos-iii-a-ee-uu-se-mantiene-pese-al-atentado-fallido-contra-donald-trump/",
-      "published_date": "2026-04-27T15:53:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What the best airport in the world is like (and what is the secret to making it a paradise for travelers)",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/como-es-el-mejor-aeropuerto-del-mundo/",
-      "published_date": "2026-04-27T15:19:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "John Barrett urges Venezuelan oil companies to seize a 'historic opportunity'",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/john-barrett-insta-a-las-empresas-petroleras-de-venezuela-a-aprovechar-la-oportunidad-historica/",
-      "published_date": "2026-04-27T15:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "WHO: Lack of consensus on patents threatens global health treaty",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/oms-falta-de-consenso-sobre-patentes-amenaza-tratado-sanitario-mundial/",
-      "published_date": "2026-04-27T15:09:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Corina Machado and Edmundo González repudiate new attack against Trump",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/machado-y-edmundo-gonzalez-repudian-atentado-contra-trump/",
-      "published_date": "2026-04-27T14:48:24Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/04/quien-es-marlon-el-guerrillero-al-que-petro-atribuye-el-ataque-que-dejo-20-muertos-en-colombia-y-por-el-que-se-ofrecen-us14-millones-de-recompensa/",
+      "published_date": "2026-04-28T10:26:00Z",
+      "category": "Military"
     },
     {
       "title": "US Justice does not rule out more charges against the man accused of trying to assassinate Trump at the correspondents' dinner",
@@ -269,18 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Trump and his officials were 'likely targets' of alleged attacker at White House correspondents' dinner, attorney general says",
+      "title": "The man with \"the most dangerous job in the world\": the scientist who navigates the radioactive labyrinth under the Chernobyl reactor",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/trump-era-el-probable-objetivo-del-atacante-en-cena-de-corresponsales/",
-      "published_date": "2026-04-26T17:37:40Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/04/el-cientifico-que-recorre-el-laberinto-radioactivo-de-chernobil/",
+      "published_date": "2026-04-28T11:40:03Z",
+      "category": "Energy"
     },
     {
-      "title": "End of the Amnesty Law in Venezuela? NGO proposes modifying it and involving victims",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/fin-de-la-ley-de-amnistia-en-venezuela-ong-propone-modificarla-e-involucrar-a-las-victimas/",
-      "published_date": "2026-04-26T17:10:49Z",
-      "category": "Military"
+      "title": "Ildemaro Vargas crowns his good moment as National Player of the Week",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/ildemaro-vargas-corona-su-buen-momento-como-jugador-de-la-semana-de-la-nacional/",
+      "published_date": "2026-04-28T11:11:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "In Venezuela, less than 30% of oil wells are active, according to the Venezuelan Oil Chamber",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/en-venezuela-menos-del-30-de-los-pozos-petroleros-estan-activos-segun-la-camara-petrolera-venezolana/",
+      "published_date": "2026-04-28T01:31:58Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Bukele among the leaders with the highest approval in Latin America: Delcy Rodríguez is in the penultimate place with 67.6% rejection",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/bukele-entre-los-mandatarios-con-mayor-aprobacion-de-america-latina-delcy-rodriguez-figura-en-el-penultimo-puesto-con-676-de-rechazo/",
+      "published_date": "2026-04-28T00:17:01Z",
+      "category": "Energy"
     },
     {
       "title": "Venezuela and Barbados agree to work together in energy, food production and tourism",
@@ -395,32 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "Pdvsa-Crypto Case| Lawyer Zair Mundaray revealed what happened at the April 24 hearing",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/caso-pdvsa-cripto-abogado-zair-mundaray-revelo-lo-que-paso-en-la-audiencia-del-24-de-abril/",
-      "published_date": "2026-04-25T21:24:29Z",
-      "category": "Energy"
+      "title": "El Mañanero of April 28: They warn of the return of hyperinflation and other news",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606330/el-mananero-del-28-de-abril-advierten-el-regreso-de-la-hiperinflacion-y-otras-noticias/",
+      "published_date": "2026-04-28T09:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Colombian indigenous groups are playing a key role in the transition to renewable energy",
+      "title": "Jorge Rodríguez calls on Venezuelans abroad to return to the country: \"The economic recovery is already noticeable\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/grupos-indigenas-colombianos-estan-desempenando-un-papel-clave-en-la-transicion-a-las-energias-renovables/",
-      "published_date": "2026-04-25T18:20:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/jorge-rodriguez-llama-a-venezolanos-en-el-exterior-a-regresar-al-pais-ya-se-nota-la-recuperacion-economica/",
+      "published_date": "2026-04-28T01:00:05Z",
+      "category": "Economy"
     },
     {
-      "title": "Colombia and Venezuela seal energy alliance: gas and electricity will cross the border",
+      "title": "Hotel donated 2,600 dinners that were going to be served at the White House Correspondents' Gala",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/colombia-y-venezuela-sellan-alianza-energetica-gas/",
-      "published_date": "2026-04-25T14:56:33Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Portuguese | Producers adjust strategies for planting corn in 2026 in the face of climate uncertainty",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/portuguesa-productores-ajustan-estrategias-para-la-siembra-de-maiz-2026-ante-incertidumbre-climatica/",
-      "published_date": "2026-04-24T23:10:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/04/hotel-dono-2-600-cenas-que-se-iban-a-servir-en-la-gala-de-corresponsales-de-la-casa-blanca/",
+      "published_date": "2026-04-28T00:13:40Z",
+      "category": "Economy"
     },
     {
       "title": "Zulia | Dialysis unit in crisis due to lack of nurses: they resign due to low salaries",
@@ -542,25 +563,88 @@
       "category": "Economy"
     },
     {
-      "title": "Petro arrives in Miraflores to meet with Delcy Rodríguez",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/petro-llega-a-miraflores-para-reunirse-con-delcy-rodriguez/",
-      "published_date": "2026-04-24T19:01:51Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Official dollar continues to rise compared to a symbolic minimum wage of 0.26 dollars",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/dolar-oficial-continua-en-alza-frente-a-un-salario-minimo-simbolico-de-026-dolares/",
-      "published_date": "2026-04-24T18:08:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gustavo Petro calls for protests and details key reforms in constituent proposal",
+      "title": "Venezuelan delegation returns after the South American Youth Games",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/petro-detalla-reformas-clave-en-propuesta-de-constituyente/",
-      "published_date": "2026-04-24T13:22:53Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/04/delegacion-venezolana-regresa-tras-los-juegos-suramericanos/",
+      "published_date": "2026-04-28T12:17:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oscar: the documentary that preserves the historical archive of an extrajudicial execution broadcast live",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/oscar-preserva-el-archivo-de-una-ejecucion-extrajudicial/",
+      "published_date": "2026-04-28T12:09:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Record on YouTube: “Despacito” video is the most viewed by a male artist",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/record-en-youtube-video-de-despacito-es-el-mas-visto-de-un-artista-masculino/",
+      "published_date": "2026-04-28T11:47:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salomón Rondón ended up expelled for attacking Keylor Navas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/salomon-rondon-termino-expulsado-por-agredir-a-keylor-navas/",
+      "published_date": "2026-04-28T11:29:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teachers demand resuming negotiation of the collective agreement: \"They are obliged to respond\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/maestros-exigen-retomar-negociacion-de-la-convencion-colectiva-estan-obligados-a-dar-respuesta/",
+      "published_date": "2026-04-28T10:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The number of deaths from a bus accident on the Mérida-Barinas highway rises to 12",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/asciende-a-12-la-cifra-de-fallecidos-por-accidente-de-autobus-en-la-carretera-merida-barinas/",
+      "published_date": "2026-04-28T10:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Indian tycoon offers to take in Pablo Escobar's 80 hippos destined for euthanasia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/magnate-indio-ofrece-acoger-80-hipopotamos-de-pablo-escobar-destinados-a-la-eutanasia/",
+      "published_date": "2026-04-28T09:49:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Origin2U will represent Venezuela at the World of Coffee Brussels",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/origin2u-representara-a-venezuela-en-el-world-of-coffee-brussels/",
+      "published_date": "2026-04-28T01:56:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "9 out of 10 Venezuelans reject that Delcy Rodríguez is in charge of the transition",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606363/9-de-cada-10-venezolanos-rechaza-que-delcy-rodriguez-este-al-frente-de-la-transicion/",
+      "published_date": "2026-04-28T01:17:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former actress gives emotional testimony in new rape trial against Weinstein",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/exactriz-da-emotivo-testimonio-en-nuevo-juicio-por-violacion-contra-weinstein/",
+      "published_date": "2026-04-28T00:48:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Transparency Venezuela: TSJ renewal process advances with at least 12 vacancies",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/04/transparencia-venezuela-proceso-de-renovacion-del-tsj-avanza-con-al-menos-12-vacantes/",
+      "published_date": "2026-04-28T00:20:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Diosdado Cabello on the salary increase: it's easy to ask for $1,000, but where do I get the money?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/diosdado-cabello-sobre-el-aumento-de-sueldo-es-facil-pedir-1-000-dolares-pero-de-donde-saco-la-plata/",
+      "published_date": "2026-04-28T00:16:10Z",
+      "category": "Local Events"
     },
     {
       "title": "Who stole April from us? History of a month turned into a political battlefield in Venezuela",
@@ -616,90 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/juez-federal-autoriza-que-venezuela-pague-la-defensa-de-maduro-y-cilia-flores/",
       "published_date": "2026-04-27T21:58:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Easter Valley | Ipasme worker charged with inciting hatred returned to his job",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/valle-de-la-pascua-trabajador-del-ipasme-imputado-por-instigacion-al-odio-retomo-su-puesto-de-trabajo/",
-      "published_date": "2026-04-27T21:55:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Was the Economic War bonus eliminated?: this is what is known",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/el-bono-de-guerra-economica-fue-eliminado-esto-es-lo-que-se-sabe/",
-      "published_date": "2026-04-27T21:54:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alexander \"N\", alias \"Metro 92, faction leader of the Gulf Cartel, is captured in Tamaulipas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/capturan-en-tamaulipas-a-alexander-n-alias-metro-92-lider-de-faccion-del-cartel-del-golfo/",
-      "published_date": "2026-04-27T21:51:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US State Department requests 14.3 million dollars to strengthen its embassy in Caracas",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/departamento-de-estado-de-eeuu-solicita-143-millones-de-dolares-para-fortalecer-su-embajada-en-caracas/",
-      "published_date": "2026-04-27T21:35:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivar | Workers on funds for defense of Maduro: \"Let their comrades make a cow\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-trabajadores-sobre-fondos-para-defensa-de-maduro-que-sus-camaradas-hagan-una-vaca/",
-      "published_date": "2026-04-27T21:28:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Everyone was running, he was still eating: Who is the man who didn't flinch during the shooting at the Correspondents' Dinner?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/todo-el-mundo-corria-el-seguia-comiendo-quien-es-el-hombre-que-no-se-inmuto-durante-el-tiroteo-en-la-cena-de-corresponsales/",
-      "published_date": "2026-04-27T21:27:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The five demands of Provea to Delcy Rodríguez for a real reform of criminal justice",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/606299/las-cinco-exigencias-de-provea-a-delcy-rodriguez-para-una-real-reforma-de-la-justicia-penal/",
-      "published_date": "2026-04-27T21:23:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguesa Hospital requires 28 bioanalysts and only has eight: the face of attrition in health",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/ocho-bioanalistas-para-un-hospital-que-requiere-28-crisis-reduce-atencion-en-portuguesa/",
-      "published_date": "2026-04-27T21:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miguel Henrique Otero: \"The most embarrassing fact of the dictatorship is the mass murder of all those who were with Óscar Pérez\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/miguel-henrique-otero-el-hecho-mas-bochornoso-de-la-dictadura-es-el-asesinato-masivo-de-todos-los-que-estaban-con-oscar-perez/",
-      "published_date": "2026-04-27T21:15:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vanessa White: \"I am moved because Venezuelans and non-Venezuelans knew all the facets of Oscar\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/vanessa-white-estoy-conmovida-porque-los-venezolanos-y-no-venezolanos-conocieron-todas-las-facetas-de-oscar/",
-      "published_date": "2026-04-27T21:08:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela and the US hire auditing firms to supervise the use of the country's financial resources",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/venezuela-y-eeuu-contratan-firmas-auditoras-para-supervisar-el-uso-de-los-recursos-financieros-del-pais/",
-      "published_date": "2026-04-27T20:56:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez meets with the Prime Minister of Barbados, Mia Mottley",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-se-reune-con-la-primera-ministra-de-barbados-mia-mottley/",
-      "published_date": "2026-04-27T20:46:09Z",
       "category": "Local Events"
     }
   ]
