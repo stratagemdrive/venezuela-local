@@ -1,7 +1,21 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-01T23:58:34Z",
+  "last_updated": "2026-05-02T11:50:45Z",
   "stories": [
+    {
+      "title": "Scandals of magistrates leaving the TSJ include nepotism, corruption and sanctions",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/606895/escandalos-de-magistrados-que-dejan-el-tsj-incluyen-nepotismo-corrupcion-y-sanciones/",
+      "published_date": "2026-05-02T11:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump declares the war with Iran over before Congress upon expiration of the legal deadline",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/trump-declara-concluida-la-guerra-con-iran-ante-el-congreso-al-vencer-plazo-legal/",
+      "published_date": "2026-05-02T00:00:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Donald Trump sends letter to Congress in which he maintains that the war with Iran \"is over\"",
       "source": "El Nacional",
@@ -129,18 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Clippve rejected statements by Ambassador Plasencia about political prisoners: \"The victims are not nonsense\"",
+      "title": "US announces it will withdraw 5,000 troops from Germany amid public dispute between Trump and Chancellor Merz over Iran",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/clippve-rechazo-declaraciones-del-embajador-felix-plasencia-sobre-los-presos-politicos-las-victimas-no-son-una-tonteria/",
-      "published_date": "2026-05-01T14:36:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/ee-uu-anuncia-que-retirara-a-5-000-soldados-de-alemania-en-medio-de-la-disputa-publica-entre-trump-y-el-canciller-merz-por-iran/",
+      "published_date": "2026-05-02T11:43:14Z",
+      "category": "Military"
     },
     {
-      "title": "Iran sends a new proposal for peace negotiations to the US, according to official media",
+      "title": "American company signs memorandum of sale of raw materials and gold in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/iran-envia-una-nueva-propuesta-de-negociaciones-de-paz-a-ee-uu-segun-medios-oficiales/",
-      "published_date": "2026-05-01T14:23:31Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/empresa-estadounidense-firma-memorando-de-compraventa-de-materias-primas-y-oro-en-venezuela/",
+      "published_date": "2026-05-02T11:31:37Z",
+      "category": "Military"
+    },
+    {
+      "title": "Towards a governing board",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/hacia-una-junta-de-gobierno/",
+      "published_date": "2026-05-02T10:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "On this day, May 2",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/tal-dia-como-hoy-2-de-mayo/",
+      "published_date": "2026-05-02T05:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Operation in Guárico leaves seven dead linked to the Llano Train",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/operativo-en-guarico-deja-siete-fallecidos-vinculados/",
+      "published_date": "2026-05-02T00:08:30Z",
+      "category": "Military"
     },
     {
       "title": "Pentagon seals alliances with technology giants to reinforce the use of AI in defense",
@@ -182,13 +217,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/el-portaaviones-uss-gerald-r-ford-abandona-medio-oriente/",
       "published_date": "2026-05-01T17:13:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Officials in Guárico kill seven people identified as members of the Tren del Llano",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/en-operativo-en-guarico-autoridades-matan-a-siete-supuestos-miembros-del-tren-del-llano/",
-      "published_date": "2026-05-01T15:14:41Z",
       "category": "Military"
     },
     {
@@ -234,6 +262,13 @@
       "category": "Military"
     },
     {
+      "title": "Officials in Guárico kill seven people identified as members of the Tren del Llano",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/en-operativo-en-guarico-autoridades-matan-a-siete-supuestos-miembros-del-tren-del-llano/",
+      "published_date": "2026-04-30T22:39:18Z",
+      "category": "Military"
+    },
+    {
       "title": "California prosecutor accuses Britney Spears of driving under the influence of alcohol and drugs",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/fiscalia-de-california-acusa-a-britney-spears-por-conducir-bajo-los-efectos-del-alcohol-y-drogas/",
@@ -245,41 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/04/nahuel-gallo-relata-ante-justicia-argentina-torturas-durante-su-detencion-en-venezuela/",
       "published_date": "2026-04-30T21:17:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Delcy Rodríguez's increase is not enough for the workers who did not let them go",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/606740/el-aumento-de-delcy-rodriguez-no-alcanza-para-los-trabajadores-que-no-dejaron-marchar/",
-      "published_date": "2026-04-30T20:59:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Representative of Venezuela in the US dismisses complaints about political prisoners and described them as \"nonsense\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/embajador-de-venezuela-en-ee-uu-desestima-denuncias-sobre-presos-politicos-y-las-califico-de-tonterias/",
-      "published_date": "2026-04-30T20:56:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Penal Forum registers 454 political prisoners: two with unknown whereabouts",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/606781/foro-penal-registra-454-presos-politicos-dos-con-paradero-desconocido/",
-      "published_date": "2026-04-30T20:44:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nahuel Gallo denounces that he was tortured during his prison in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/nahuel-gallo-denuncia-que-recibio-torturas-durante-su-prision-en-venezuela/",
-      "published_date": "2026-04-30T19:58:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "SNTP and CNP receive the Victoria Prego Award for Freedom of Expression in Madrid",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/sntp-y-cnp-reciben-en-madrid-el-premio-victoria-prego-a-la-libertad-de-expresion/",
-      "published_date": "2026-04-30T19:06:21Z",
       "category": "Military"
     },
     {
@@ -430,7 +430,7 @@
       "category": "Economy"
     },
     {
-      "title": "Workers demand support from the Ombudsman and she replies that they “enjoy” their day",
+      "title": "Workers demand support from the ombudsman and she replies that they “enjoy” their day",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/606876/trabajadores-exigen-apoyo-de-la-defensora-del-pueblo-y-ella-contesta-que-disfruten-su-dia/",
       "published_date": "2026-05-01T20:50:08Z",
@@ -563,6 +563,69 @@
       "category": "Economy"
     },
     {
+      "title": "Damascus will open its largest store in Venezuela in Maracaibo",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/?p=496464",
+      "published_date": "2026-05-02T11:50:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez downplays the importance of the electoral urgency: \"I don't know, one day\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/?p=496686",
+      "published_date": "2026-05-02T11:50:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nobel Peace Prize winner Narges Mohammadi hospitalized after serious deterioration of her health in Iranian prison",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/premio-nobel-de-la-paz-narges-mohammadi-hospitalizada-tras-grave-deterioro-de-su-salud-en-prision-irani/",
+      "published_date": "2026-05-02T11:22:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "University teachers after increase in the comprehensive minimum income: \"They are stealing our right to retire with dignity\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/docentes-universitarios-tras-aumento-del-ingreso-minimo-integral-nos-estan-robando-el-derecho-a-jubilarnos-con-dignidad/",
+      "published_date": "2026-05-02T11:12:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More AI, more misinformation: how this challenge is being faced",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/mas-ia-mas-desinformacion-como-se-esta-enfrentando-este-desafio/",
+      "published_date": "2026-05-02T10:56:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5.7 magnitude earthquake hits western Japan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/terremoto-de-magnitud-57-sacudio-el-oeste-de-japon/",
+      "published_date": "2026-05-02T10:55:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Former F1 driver Alex Zanardi, Paralympic legend and symbol of resistance, has died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fallecio-el-expiloto-de-f1-alex-zanardi-leyenda-del-paralimpismo-y-simbolo-de-resistencia/",
+      "published_date": "2026-05-02T10:39:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Humanitarian emergency, repression and forced migration: why it is not so easy to “get over it and forgive”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606917/emergencia-humanitaria-represion-y-migracion-forzada-por-que-no-es-tan-facil-superarlo-y-perdonar/",
+      "published_date": "2026-05-02T02:05:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More protests, less repression: Venezuela took to the streets in 2026 and the government did not dare to respond as before",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606896/mas-protestas-menos-represion-venezuela-se-lanzo-a-las-calles-en-2026-y-el-gobierno-no-se-atrevio-a-responder-como-antes/",
+      "published_date": "2026-05-02T00:37:36Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Human remains found during Hidrocaribe work on Panamericana Avenue in Cumaná",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/hallan-restos-humanos-durante-trabajos-de-hidrocaribe-en-la-avenida-panamericana-de-cumana/",
@@ -637,69 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/protestas-se-dispararon-tras-la-captura-de-maduro-segun-informe/",
       "published_date": "2026-05-01T20:18:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What bonuses are coming in the Patria system after Delcy Rodríguez's announcement? know the amounts",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/cuales-bonos-estan-llegando-en-el-sistema-patria-despues-del-anuncio-de-delcy-rodriguez-conozca-los-montos/",
-      "published_date": "2026-05-01T19:30:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laser airline's first commercial flight from the United States lands in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/aterriza-en-venezuela-el-primer-vuelo-comercial-de-la-aerolinea-laser-desde-estados-unidos/",
-      "published_date": "2026-05-01T18:19:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sinner after reaching the final of the Master 1000: \"I like to play guided by intuition\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/sinner-tras-meterse-en-la-final-del-master-1000-me-gusta-jugar-guiandome-por-la-intuicion/",
-      "published_date": "2026-05-01T18:07:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Venezuela on Labor Day: they assure that the increase in the comprehensive minimum income does not cover basic needs",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/conmemoran-el-dia-del-trabajador-con-marchas-en-todo-el-pais-aseguran-que-aumento-de-ingreso-minimo-integral-no-cubre-las-necesidades-basicas/",
-      "published_date": "2026-05-01T17:39:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edmundo González on Delcy Rodríguez's announcement: it is a comprehensive non-salary income",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/edmundo-gonzalez-sobre-anuncio-de-delcy-rodriguez-es-un-ingreso-integral-sin-caracter-salarial/",
-      "published_date": "2026-05-01T16:59:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlos Vives releases The Last Album Vol.1: recorded live and with the entire band",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/carlos-vives-lanza-el-ultimo-disco-vol-1-grabado-en-vivo-y-con-toda-la-banda/",
-      "published_date": "2026-05-01T16:50:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Executive evaluates reforming the Labor Law enacted by Chávez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ejecutivo-evalua-reformar-ley-del-trabajo-promulgada-por-chavez-segun-ministro/",
-      "published_date": "2026-05-01T16:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conatel orders to include La Iguana TV in cable services and revokes the measure hours later",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/conatel-ordena-incluir-a-la-iguana-tv-en-servicios-de-cable-y-revoca-la-medida-horas-despues/",
-      "published_date": "2026-05-01T16:13:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cedice Libertad together with the Liberal Network of Latin America and Atlas Network launch essay contest for young people",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cedice-libertad-junto-a-la-red-liberal-de-america-latina-y-atlas-network-lanzan-concurso-de-ensayo-para-jovenes/",
-      "published_date": "2026-05-01T15:53:24Z",
       "category": "Local Events"
     }
   ]
