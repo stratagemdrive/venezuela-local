@@ -1,7 +1,49 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-02T23:55:27Z",
+  "last_updated": "2026-05-03T11:49:40Z",
   "stories": [
+    {
+      "title": "The fever for Panini albums begins in Colombia before the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-fiebre-por-los-albumes-panini-comienza-en-colombia-antes-del-mundial/",
+      "published_date": "2026-05-03T11:34:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marco Rubio will visit the Vatican after the clash between Trump and the Pope",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/marco-rubio-visitara-el-vaticano-tras-el-choque-entre-trump-y-el-papa/",
+      "published_date": "2026-05-03T11:14:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Puerto Rican José Ortiz wins the Kentucky Derby with Golden Tempo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-puertorriqueno-jose-ortiz-gana-el-derby-de-kentucky-con-golden-tempo/",
+      "published_date": "2026-05-03T02:27:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Exxon and Chevron beat Wall Street expectations despite plummeting profits",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/exxon-y-chevron-superan-expectativas-de-wall-street-pese-a-desplome-en-sus-utilidades/",
+      "published_date": "2026-05-03T00:44:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba rules out negotiating political and economic reforms in dialogue with the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/cuba-descarta-negociar-reformas-politicas-en-dialogo-con-ee-uu/",
+      "published_date": "2026-05-03T00:40:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lawyers for Maduro and Cilia Flores ask for two months to prepare motions",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606966/abogados-de-maduro-y-cilia-flores-piden-dos-meses-para-preparar-mociones/",
+      "published_date": "2026-05-03T00:25:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venezuela does not recognize the ICJ but will attend its hearings in Essequibo",
       "source": "Runrun.es",
@@ -101,59 +143,38 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cuba responds to Donald Trump: \"We do not let ourselves be intimidated\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cuba-responde-a-donald-trump-no-nos-dejamos-amedrentar/",
-      "published_date": "2026-05-02T14:59:19Z",
-      "category": "Diplomacy"
+      "title": "The Fanb needs to renew its doctrine (I)",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/la-fanb-necesita-renovar-su-doctrina-i/",
+      "published_date": "2026-05-03T06:50:00Z",
+      "category": "Military"
     },
     {
-      "title": "They call for a march towards the US Embassy in Caracas to demand freedom of association and an end to repression",
+      "title": "Tunisian police arrest 26 members of a gang dedicated to digital scams on social networks",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/convocan-marcha-hacia-la-embajada-de-ee-uu-en-caracas-para-exigir-libertad-sindical-y-el-cese-de-la-represion/",
-      "published_date": "2026-05-02T14:36:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/policia-de-tunez-detiene-a-26-miembros-de-una-banda-dedicada-a-estafas-digitales-en-redes-sociales/",
+      "published_date": "2026-05-03T00:47:28Z",
+      "category": "Military"
     },
     {
-      "title": "Trump affirms that the US will \"take control\" of Cuba \"almost immediately\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-afirma-que-ee-uu-tomara-el-control-de-cuba-casi-de-inmediato/",
-      "published_date": "2026-05-02T13:41:00Z",
-      "category": "Diplomacy"
+      "title": "Venezuela will attend a hearing at the ICJ for a dispute with Guyana, but will not abide by the decision",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/venezuela-asistira-a-audiencia-en-la-cij-por-disputa-con-guyana-pero-no-acatara-decision/",
+      "published_date": "2026-05-03T00:30:46Z",
+      "category": "Military"
     },
     {
-      "title": "Why salt has such a powerful effect on our brain",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/por-que-la-sal-tiene-un-efecto-tan-poderoso-en-nuestro-cerebro/",
-      "published_date": "2026-05-02T13:23:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Robbery in a transport unit on Libertador Avenue left three people injured",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/robo-en-una-unidad-de-transporte-en-la-avenida-libertador-dejo-a-tres-personas-heridas/",
-      "published_date": "2026-05-02T13:17:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Seven days after the tragedy on the Mérida-Barinas highway: open investigations and a road in crisis",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/a-siete-dias-de-la-tragedia-en-la-carretera-merida-barinas-investigaciones-abiertas-y-una-via-en-crisis/",
-      "published_date": "2026-05-02T12:38:40Z",
-      "category": "Diplomacy"
+      "title": "OVP denounces new arbitrary transfers of prisoners: 129 were sent from Yaracuy to Lara",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/occidente/ovp-denuncia-nuevos-traslados-arbitrarios-de-presos-129-fueron-enviados-de-yaracuy-a-lara/",
+      "published_date": "2026-05-03T00:18:19Z",
+      "category": "Military"
     },
     {
       "title": "Germany and NATO are committed to strengthening their defense after partial withdrawal of US troops",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/alemania-y-la-otan-apuestan-por-reforzar-su-defensa/",
       "published_date": "2026-05-02T23:20:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuela will attend a hearing at the ICJ for dispute with Guyana but will not abide by the decision",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/venezuela-asistira-a-audiencia-en-la-cij-por-disputa-con-guyana-pero-no-acatara-decision/",
-      "published_date": "2026-05-02T22:39:46Z",
       "category": "Military"
     },
     {
@@ -259,27 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/tal-dia-como-hoy-2-de-mayo/",
       "published_date": "2026-05-02T05:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Operation in Guárico leaves seven dead linked to the Llano Train",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/operativo-en-guarico-deja-siete-fallecidos-vinculados/",
-      "published_date": "2026-05-02T00:08:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pentagon seals alliances with technology giants to reinforce the use of AI in defense",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/pentagono-sella-alianzas-para-reforzar-uso-de-ia-en-defensa/",
-      "published_date": "2026-05-01T21:30:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Accompanied by the elderly, workers demand the end of the bonus policy before the Ombudsman's Office",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/acompanados-por-tercera-edad-trabajadores-exigen-ante-defensoria-fin-de-bonos/",
-      "published_date": "2026-05-01T21:28:28Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,34 @@
       "category": "Energy"
     },
     {
+      "title": "Environment analysis: Warn in time to avoid having to say “I told you so”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/analisis-de-entorno-advertir-a-tiempo-para-no-tener-que-decir-yo-se-los-dije/",
+      "published_date": "2026-05-03T09:43:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Remittances, bonuses and resignation: portrait of a crisis that does not end",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/remesas-bonos-y-resignacion-retrato-de-una-crisis-que-no-termina/",
+      "published_date": "2026-05-03T06:45:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "John Barrett, Washington's eye in Caracas»: Is he coming to normalize or supervise the three-phase plan?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/john-barrett-ojo-washington-caracas-normalizar-fiscalizar-plan-tres-fases/",
+      "published_date": "2026-05-03T06:15:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The BCV promotes mining to contribute to the diversification of foreign currency sources",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/bcv-impulsa-mineria-para-contribuir-a-la-diversificacion-de-fuentes-de-divisas/",
+      "published_date": "2026-05-03T00:46:41Z",
+      "category": "Economy"
+    },
+    {
       "title": "Henrique Capriles says that the wage fight continues",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/henrique-capriles-dice-que-la-lucha-salarial-sigue/",
@@ -535,32 +563,39 @@
       "category": "Economy"
     },
     {
-      "title": "“There was no salary increase”: Union leaders and economists reject bonus scheme announced by Delcy Rodríguez",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/no-hubo-aumento-de-salario-lideres-sindicales-y-economistas-rechazan-esquema-de-bonos-anunciado-por-delcy-rodriguez/",
-      "published_date": "2026-04-30T22:44:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Public workers call Delcy Rodríguez's announcement on a comprehensive minimum income \"mocking and confusing\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/trabajadores-publicos-tachan-de-burla-y-confuso-el-anuncio-de-delcy-rodriguez-sobre-ingreso-minimo-integral/",
-      "published_date": "2026-04-30T22:37:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Comprehensive minimum income of 240 dollars and 70 for pensioners announces Delcy Rodríguez",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-anuncia-aumento-del-ingreso-minimo-a-240-dolares/",
-      "published_date": "2026-04-30T20:30:16Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Minimum comprehensive income increases to 240 dollars and pensions to 70 dollars",
+      "title": "Micro TDH accelerated and stopped time in Caracas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/ingreso-minimo-integral-alcanzara-el-equivalente-a-240-dolares/",
-      "published_date": "2026-04-30T20:09:53Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/micro-tdh-acelero-y-detuvo-el-tiempo-en-caracas/",
+      "published_date": "2026-05-03T11:29:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armando.Info: A series of entanglements followed the tragedy",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/armando-info-una-serie-de-enredos-siguio-a-la-tragedia/",
+      "published_date": "2026-05-03T09:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Gala or Tech Gala? Bezos and the weight of his technological capital on the big night of fashion",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/met-gala-o-tech-gala-el-peso-del-capital-tecnologico-en-la-moda/",
+      "published_date": "2026-05-03T07:25:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reuters: Exxon Mobil team arrives in Venezuela to evaluate energy resources and facilities",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/reuters-equipo-de-exxon-mobil-llega-a-venezuela-para-evaluar-recursos-e-instalaciones-energeticas-2/",
+      "published_date": "2026-05-03T00:43:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Rolling Stones break the mystery and announce “Foreign Tongues”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/los-rolling-stones-anuncian-foreign-tongues/",
+      "published_date": "2026-05-03T00:19:28Z",
+      "category": "Local Events"
     },
     {
       "title": "Emergency in Brazil: floods and landslides cause six deaths in Pernambuco",
@@ -665,41 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/la-jurisdiccion-especial-para-la-paz-de-colombia-aumenta-a-7-837-el-numero-de-homicidios-que-resultaron-en-el-caso-de-los-falsos-positivos/",
       "published_date": "2026-05-02T18:19:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Airbus supports the idea of ​​a hub in Caracas: shows optimism for Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/airbus-apoya-la-idea-de-un-hub-en-caracas-muestra-optimismo-para-venezuela/",
-      "published_date": "2026-05-02T17:58:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They restrict passage on one of the bridges between Colombia and Venezuela due to structural failures",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/restringen-paso-en-uno-de-los-puentes-entre-colombia-y-venezuela-por-fallas-en-estructura/",
-      "published_date": "2026-05-02T17:47:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The poisonous frog in the Navalny case, a sought-after exotic pet affected by illegal trafficking",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-rana-venenosa-de-caso-navalny-una-cotizada-mascota-exotica-afectada-por-trafico-ilegal/",
-      "published_date": "2026-05-02T17:32:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former mayor Ernesto Paraqueima presents two books written during his detention",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/exalcalde-ernesto-paraqueima-presenta-dos-libros-escritos-durante-su-detencion/",
-      "published_date": "2026-05-02T16:55:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazilian and Spanish-Palestinian activists from the Gaza flotilla are in Israel to be interrogated",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/activistas-brasileno-e-hispanopalestino-de-la-flotilla-para-gaza-estan-en-israel-para-ser-interrogados/",
-      "published_date": "2026-05-02T16:15:00Z",
       "category": "Local Events"
     }
   ]
