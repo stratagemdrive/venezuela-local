@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-03T23:57:45Z",
+  "last_updated": "2026-05-04T12:23:06Z",
   "stories": [
+    {
+      "title": "The Conversation | Freddy Superlano: “If it wasn't for 3E they would have given me 30 years”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/607019/la-conversa-freddy-superlano-si-no-es-por-el-3e-me-hubiesen-metido-30-anos/",
+      "published_date": "2026-05-04T11:56:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vinotinto female sub-17 qualified for the semifinals of the South American",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/vinotinto-femenina-sub-17-clasifico-en-el-suramericano/",
+      "published_date": "2026-05-04T11:51:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran's Foreign Ministry: \"The US must abandon its excessive demands\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/cancilleria-de-iran-ee-uu-debe-abandonar-sus-exigencias-excesivas/",
+      "published_date": "2026-05-04T11:11:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are China's \"teapot refineries\" and how they are cushioning the oil crisis due to the war in Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/que-son-las-refinerias-teteras-de-china-y-como-estan-amortiguando-la-crisis-petrolera-por-la-guerra-en-iran/",
+      "published_date": "2026-05-04T09:56:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pakistan and Iran talk after Trump's response to 14-point Iranian peace plan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/pakistan-e-iran-conversan-tras-la-respuesta-de-trump-al-plan-de-paz-irani-de-14-puntos/",
+      "published_date": "2026-05-04T09:50:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“We all thought he was going to die that day,” confesses Nicolás Maduro's son about #3Jan",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/606977/todos-pensabamos-que-ese-dia-iba-a-morir-confiesa-hijo-de-nicolas-maduro-sobre-el-3-de-enero/",
+      "published_date": "2026-05-04T01:11:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Monsignor Nelson Martínez Rust, bishop emeritus of the Diocese of San Felipe, died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/murio-el-monsenor-nelson-martinez-rust-obispo-emerito-de-la-diocesis-de-san-felipe/",
+      "published_date": "2026-05-04T00:14:45Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Juan Pablo Guanipa returned to Venezuela after his trip to the United States",
       "source": "El Nacional",
@@ -94,59 +143,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Latam offers its routes between South America and the United States for those affected by the cessation of operations of Spirit Airlines",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/latam-ofrece-sus-rutas-entre-sudamerica-y-ee-uu/",
-      "published_date": "2026-05-03T16:42:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"He thought he was going to die that day\": Nicolás Maduro Guerra tells what it was like in the early morning when his father was captured",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/el-pensaba-que-ese-dia-se-moria-nicolas-maduro-guerra-cuenta-como-fue-la-madrugada-cuando-capturaron-a-su-padre/",
-      "published_date": "2026-05-03T16:02:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "What will happen to those who lose citizenship in the United States? Keys to the measure promoted by Trump",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/que-pasara-con-quienes-pierdan-la-ciudadania-en-ee-uu/",
-      "published_date": "2026-05-03T15:34:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Crisis with Iran places Trump before a key decision before the midterm elections",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/crisis-con-iran-coloca-a-trump-ante-una-decision-clave/",
-      "published_date": "2026-05-03T14:49:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Record figure: Venezuela bought 120,000 bpd of diluents from the United States in February",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezuela-compro-a-ee-uu-120-000-bdp-de-diluyentes-en-febrero/",
-      "published_date": "2026-05-03T14:21:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rick Scott ignores Delcy Rodríguez as president: \"She is the head of a cartel\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/rick-scott-desconoce-a-delcy-rodriguez-como-presidenta/",
-      "published_date": "2026-05-03T13:20:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kanye West to perform in Albania in July after being rejected in several countries",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/kanye-west-actuara-en-albania-en-julio-luego-de-que-lo-rechazaran-en-varios-paises/",
-      "published_date": "2026-05-03T13:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Relatives of political prisoners will mobilize in Caracas against torture in detention centers",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/familiares-de-presos-politicos-se-movilizaran-en-caracas-contra-las-torturas-en-centros-de-detencion/",
       "published_date": "2026-05-03T23:53:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Venezuelans inside and outside the country mobilized to demand the release of all political prisoners",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/ultimas-noticias/venezolanos-dentro-y-fuera-del-pais-se-movilizan-para-exigir-la-liberacion-de-todos-los-presos-politicos/",
+      "published_date": "2026-05-03T23:39:46Z",
       "category": "Military"
     },
     {
@@ -161,6 +168,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/tension-diplomatica-petro-afirma-que-armas-que-matan-a-civiles-en-el-cauca-llegan-desde-ecuador/",
       "published_date": "2026-05-03T22:30:13Z",
+      "category": "Military"
+    },
+    {
+      "title": "The Ombudsman's Office promises to investigate the case of Víctor Hugo Quero, a political prisoner who has disappeared since January 2025",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/defensoria-de-pueblo-promete-investigar-caso-de-victor-hugo-quero-preso-politico-desaparecido-desde-enero-de-2025/",
+      "published_date": "2026-05-03T22:08:54Z",
       "category": "Military"
     },
     {
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "OVP denounces new arbitrary transfers of prisoners: 129 were sent from Yaracuy to Lara",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/ovp-denuncia-nuevos-traslados-arbitrarios-de-presos-129-fueron-enviados-de-yaracuy-a-lara/",
-      "published_date": "2026-05-03T00:18:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Germany and NATO are committed to strengthening their defense after partial withdrawal of US troops",
+      "title": "\"Gas Caribe\": the app to manage cylinder refills in Caracas without intermediaries",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/alemania-y-la-otan-apuestan-por-reforzar-su-defensa/",
-      "published_date": "2026-05-02T23:20:56Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/05/gas-caribe-la-app-para-gestionar-recargas-de-cilindros-en-caracas-sin-intermediarios/",
+      "published_date": "2026-05-04T00:39:14Z",
+      "category": "Energy"
     },
     {
       "title": "Antonelli achieves his third consecutive pole in Miami and Colapinto his best classification",
@@ -416,11 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "X-ray of Wilson Ramos' streak that Ildemaro Vargas matched today",
+      "title": "UN allocates two million dollars to address water crisis in Sucre",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/04/radiografia-de-la-racha-de-wilson-ramos-que-hoy-acecha-ildemaro-vargas/",
-      "published_date": "2026-04-30T13:43:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/05/onu-asigna-dos-millones-de-dolares-para-atender-crisis-de-agua-en-sucre/",
+      "published_date": "2026-05-04T00:59:48Z",
+      "category": "Economy"
+    },
+    {
+      "title": "John Barrett, Washington's eye in Caracas: Is he coming to normalize or supervise the three-phase plan?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/john-barrett-ojo-washington-caracas-normalizar-fiscalizar-plan-tres-fases/",
+      "published_date": "2026-05-04T00:09:00Z",
+      "category": "Economy"
     },
     {
       "title": "They hope to strengthen the relationship between Venezuela and Colombia after economic announcements",
@@ -441,13 +455,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/analisis-de-entorno-advertir-a-tiempo-para-no-tener-que-decir-yo-se-los-dije/",
       "published_date": "2026-05-03T09:43:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "John Barrett, Washington's eye in Caracas»: Is he coming to normalize or supervise the three-phase plan?",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/john-barrett-ojo-washington-caracas-normalizar-fiscalizar-plan-tres-fases/",
-      "published_date": "2026-05-03T06:15:00Z",
       "category": "Economy"
     },
     {
@@ -556,11 +563,95 @@
       "category": "Economy"
     },
     {
-      "title": "Pensioners regarding Delcy Rodríguez's announcement: “It's a misery”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/pensionados-sobre-anuncio-de-delcy-rodriguez-es-una-miseria/",
-      "published_date": "2026-05-01T00:20:51Z",
-      "category": "Economy"
+      "title": "San Diego Padres sell for record $3.9 billion",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/los-padres-de-san-diego-se-venden-por-record-de-3-900-millones-de-dolares/",
+      "published_date": "2026-05-04T12:18:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Estudiantes de Mérida was the only winning team of the day",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/estudiantes-de-merida-fue-el-unico-equipo-ganador-de-la-jornada/",
+      "published_date": "2026-05-04T12:14:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dressed to rule: What Kim Jong-un's daughter's clothes and hairstyle show about how she is being groomed to replace North Korea's leader",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un-2/",
+      "published_date": "2026-05-04T12:10:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Heavy rains in Portuguesa left one dead, isolated communities and agricultural losses",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/lluvias-en-portuguesa-dejan-un-muerto-y-zonas-incomunicadas/",
+      "published_date": "2026-05-04T12:05:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Devil Wears Prada 2 is at the top of the box office",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-diablo-viste-a-la-moda-2-se-posiciona-en-la-cima-de-la-taquilla/",
+      "published_date": "2026-05-04T11:57:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Rondón: \"Venezuelan radio is more alive than ever\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/david-rondon-la-radio-venezolana-esta-mas-viva-que-nunca/",
+      "published_date": "2026-05-04T10:41:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least two dead and 37 injured after accident at Monster Truck show in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/al-menos-dos-muertos-y-37-heridos-deja-accidente-en-exhibicion-de-vehiculos-en-colombia/",
+      "published_date": "2026-05-04T10:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hearings begin at the ICJ on border dispute between Venezuela and Guyana",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/comienzan-audiencias-en-la-cij-sobre-litigio-fronterizo-entre-venezuela-y-guyana/",
+      "published_date": "2026-05-04T10:06:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "30 years of trauma: survivor denounces alleged child abuse by a UCV professor",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/denuncia-escrita-presunto-abuso-profesor-ucv-romulo-orta/",
+      "published_date": "2026-05-04T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of May 4: How have the four months been with Delcy Rodríguez in Miraflores?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/607012/el-mananero-del-4-de-mayo-como-han-sido-los-cuatro-meses-con-delcy-rodriguez-en-miraflores/",
+      "published_date": "2026-05-04T04:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They hold men and a vehicle due to noise pollution on Guanta beach: they ignored the presence of a child with autism",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/retienen-a-hombres-y-vehiculo-por-contaminacion-sonica-en-playa-de-guanta-ignoraron-presencia-de-nino-con-autismo/",
+      "published_date": "2026-05-04T00:49:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government reports on the total closure of the border bridge with Colombia for 15 days",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/gobierno-informa-sobre-el-cierre-total-de-puente-fronterizo-con-colombia-durante-15-dias/",
+      "published_date": "2026-05-04T00:20:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ombudsman commits to supporting Víctor Quero's mother in her search",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/asignar-categoria/defensora-del-pueblo-se-compromete-a-apoyar-a-madre-de-victor-quero-en-su-busqueda/",
+      "published_date": "2026-05-04T00:04:41Z",
+      "category": "Local Events"
     },
     {
       "title": "Víctor Quero Case: Ombudsman's Office acts three months after his mother reported forced disappearance",
@@ -609,97 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/ee-uu-escoltara-barcos-que-han-pedido-ayuda-para-salir-del-estrecho-de-ormuz/",
       "published_date": "2026-05-03T22:05:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They close the border bridge between Colombia and Venezuela due to structural failure",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/cierran-paso-por-puente-fronterizo-entre-colombia-y-venezuela-por-falla-estructural/",
-      "published_date": "2026-05-03T21:08:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rains in Portuguesa leave one dead, homes affected, roads collapsed and agricultural losses",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/lluvias-en-portuguesa-dejan-un-fallecido-viviendas-afectadas-vias-colapsadas-y-perdidas-agricolas/",
-      "published_date": "2026-05-03T21:07:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Stray bullet ends the life of a mother in the east of Barquisimeto",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/bala-perdida-acaba-con-la-vida-de-una-madre-en-el-este-de-barquisimeto/",
-      "published_date": "2026-05-03T20:50:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Boston equals the record for the most Venezuelan starts in a Major League game",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/boston-iguala-el-record-de-mas-venezolanos-titulares-en-un-juego-de-grandes-ligas/",
-      "published_date": "2026-05-03T20:38:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What position does Venezuela occupy in the World Press Freedom Index?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/que-posicion-ocupa-venezuela-en-la-clasificacion-mundial-de-la-libertad-de-prensa/",
-      "published_date": "2026-05-03T19:51:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two candidates for the Judicial Nominations Committee were members of the committee that chose the current judges for the TSJ",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/dos-aspirantes-al-comite-de-postulaciones-judiciales-fueron-miembros-del-que-escogio-a-los-actuales-magistrados-al-tsj/",
-      "published_date": "2026-05-03T19:44:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miami GP: Antonelli wins the race and consolidates his leadership in F1",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/gp-de-miami-antonelli-gana-la-carrera-y-afianza-su-liderato-en-la-f1/",
-      "published_date": "2026-05-03T19:40:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ronald Acuña Jr. injured his left leg and went on the injured list",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ronald-acuna-jr-se-lastimo-la-pierna-izquierda-y-entro-en-la-lista-de-lesionados/",
-      "published_date": "2026-05-03T19:33:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado on elections with a renewed CNE: “The country is ready and united”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-sobre-elecciones-con-un-cne-renovado-el-pais-esta-listo-y-unido/",
-      "published_date": "2026-05-03T18:50:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New massacre: four people are murdered in the Colombian city of Cúcuta",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/nueva-masacre-asesinan-a-cuatro-personas-en-la-ciudad-colombiana-de-cucuta/",
-      "published_date": "2026-05-03T18:44:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sinner won his first Madrid Masters 1000 this Sunday",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/sinner-gano-este-domingo-su-primer-masters-1000-de-madrid/",
-      "published_date": "2026-05-03T18:40:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IPYS denounces that the persecution against journalists continues and demands an end to censorship",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ipys-denuncia-que-la-persecucion-contra-periodistas-sigue-y-exige-fin-de-la-censura/",
-      "published_date": "2026-05-03T18:24:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dressed to rule: What Kim Jong-un's daughter's clothes and hairstyle show about how she is being groomed to replace North Korea's leader",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/que-muestran-la-ropa-y-el-peinado-de-la-hija-de-kim-jong-un/",
-      "published_date": "2026-05-03T17:03:02Z",
       "category": "Local Events"
     }
   ]
