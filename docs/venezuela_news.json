@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-05T00:02:05Z",
+  "last_updated": "2026-05-05T12:08:30Z",
   "stories": [
+    {
+      "title": "Why jet fuel is especially vulnerable to the war in Iran (and how it may affect our vacations)",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/por-que-el-combustible-para-aviones-es-especialmente-vulnerable-a-la-guerra-en-iran-y-como-puede-afectar-a-nuestras-vacaciones/",
+      "published_date": "2026-05-05T10:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Passengers on the Saint Helena-Johannesburg flight searched for possible contact with hantavirus",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/buscan-a-pasajeros-de-vuelo-santa-elena-johannesburgo-por-posible-contacto-con-hantavirus/",
+      "published_date": "2026-05-05T10:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "WHO confirms two cases of hantavirus among passengers of a cruise ship anchored off Cape Verde",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/oms-confirma-dos-casos-de-hantavirus-entre-los-pasajeros-de-crucero-anclado-frente-a-cabo-verde/",
+      "published_date": "2026-05-05T09:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Venezuelan tragedy is not the crisis: it is having gotten used to it",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/607089/tragedia-venezolana-nixon-dominguez/",
+      "published_date": "2026-05-05T02:58:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "157 Venezuelan migrants repatriated from the United States arrived",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/157-migrantes-venezolanos-llegaron-al-pais-repatriados-desde-estados-unidos/",
+      "published_date": "2026-05-05T01:22:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Russia declares unilateral truce for May 8 and 9 and threatens Ukraine with a massive attack if it does not comply",
       "source": "El Nacional",
@@ -10,10 +45,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Perkins Rocha: “In Venezuela no one is free”",
+      "title": "Perkins Rocha believes that general elections should be called",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/607067/perkins-rocha-en-venezuela-nadie-es-libre/",
       "published_date": "2026-05-04T23:04:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Technological projects to support people with disabilities will represent Venezuela at the ISEF",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/con-proposito/607048/proyectos-tecnologicos-para-apoyar-a-personas-con-discapacidad-representaran-a-venezuela-en-la-isef/",
+      "published_date": "2026-05-04T21:50:00Z",
       "category": "Diplomacy"
     },
     {
@@ -101,52 +143,59 @@
       "category": "Diplomacy"
     },
     {
-      "title": "IAPA expresses concern over withdrawal of visas from Costa Rican media executives",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-sip-expresa-preocupacion-por-retiro-de-visas-a-directivos-de-medio-costarricense/",
-      "published_date": "2026-05-04T15:59:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Natalia Reyes: “The Platino Awards break down borders in an increasingly divided world”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/natalia-reyes-los-premios-platino-derrumban-fronteras-en-un-mundo-cada-vez-mas-dividido/",
-      "published_date": "2026-05-04T15:31:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Guyana before the ICJ: Dispute with Venezuela over the Essequibo has existential importance",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/guyana-a-la-cij-litigio-por-esequibo-es-de-importancia-existencial/",
-      "published_date": "2026-05-04T15:06:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US and Venezuela advance in energy and mining agreements under the “Energy Dominance” strategy",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-y-venezuela-avanzan-en-acuerdos-energeticos-y-mineros-bajo-la-estrategia-de-dominio-energetico/",
-      "published_date": "2026-05-04T14:14:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuelan Isamar Torres receives the International Leader Award for her book Play Like the Rich",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezolana-isamar-torres-recibe-premio-lider-internacional/",
-      "published_date": "2026-05-04T14:08:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "José Ángel Sánchez won the first vocal direction contest Le mani un suono",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/jose-angel-sanchez-gano-el-primer-concurso-de-direccion-vocal-le-mani-un-suono/",
-      "published_date": "2026-05-04T13:33:50Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "“Project Freedom”: the US militarizes Hormuz while looking towards Venezuelan crude oil",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/venezuela-proveedor-crudo-eeuu-ormuz/",
-      "published_date": "2026-05-04T23:55:21Z",
+      "published_date": "2026-05-05T11:44:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "A Guyanese soldier injured in an attack against a patrol on the border with Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/herido-un-soldado-de-guyana-en-ataque-contra-una-patrulla-en-la-frontera-con-venezuela/",
+      "published_date": "2026-05-05T10:24:56Z",
+      "category": "Military"
+    },
+    {
+      "title": "El Mañanero of May 5: The true pilgrimage is towards the Ombudsman's Office",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/607081/el-mananero-del-5-de-mayo-la-verdadera-peregrinacion-es-hacia-la-defensoria-del-pueblo/",
+      "published_date": "2026-05-05T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Some suggestions to shorten the tutelage",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/606921/tutelaje-de-trump-eddie-ramirez-s/",
+      "published_date": "2026-05-05T04:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Carmen Teresa Navas demands an answer about the whereabouts of her son",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carmen-teresa-navas-exige-respuestas-sobre-el-paradero-de-su-hijo-en-una-protesta-en-altamira/",
+      "published_date": "2026-05-05T01:45:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "FVPE questions Venezuela's strategy before the ICJ due to the Essequibo dispute",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fvpe-cuestiona-estrategia-de-venezuela-ante-la-cij-por-disputa-del-esequibo/",
+      "published_date": "2026-05-05T01:29:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "TSJ ratified as president the person who endorsed the 28J results",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/607078/tsj-ratifico-como-presidenta-a-quien-avalo-resultados-del-28j/",
+      "published_date": "2026-05-05T01:18:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "Copa Airlines resumes operations in Barquisimeto",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/copa-airlines-retoma-operaciones-en-barquisimeto/",
+      "published_date": "2026-05-05T00:52:07Z",
       "category": "Military"
     },
     {
@@ -154,6 +203,13 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/comite-de-madres-en-defensa-de-la-verdad-denuncia-detencion-de-expreso-politico-luis-eduardo-perozo/",
       "published_date": "2026-05-04T23:48:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Portuguesa police rescue a woman and three children in Guanare: the kidnapper was arrested",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/policia-de-portuguesa-rescata-a-mujer-y-tres-ninos-tras-secuestro-en-vivienda-de-guanare/",
+      "published_date": "2026-05-04T23:02:48Z",
       "category": "Military"
     },
     {
@@ -224,62 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/williams-davila-denuncio-hostigamiento-del-sebin-en-tachira/",
       "published_date": "2026-05-04T17:17:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Minister of Labor confirms that there was no increase in the minimum wage: The increase was $200 in war bonuses and 40 in basket tickets",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/ministro-del-trabajo-confirma-que-no-hubo-aumento-del-salario-minimo-el-incremento-fue-200-de-bono-de-guerra-y-40-de-cestatickets/",
-      "published_date": "2026-05-04T15:19:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "WHO: Hantavirus outbreak on cruise ship is not a threat to the general population",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/oms-el-brote-de-hantavirus-en-un-crucero-no-es-una-amenaza-para-la-poblacion-general/",
-      "published_date": "2026-05-04T14:08:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Oscar of the director of Mr Nobody against Putin is found after it disappeared when he had to check it in at an airport",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/encuentran-el-oscar-del-director-de-mr-nobody-against-putin-despues-de-que-desapareciera-cuando-tuvo-que-facturarlo-en-un-aeropuerto/",
-      "published_date": "2026-05-04T14:04:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "More than 260 journalists shake Colombian newsrooms with testimonies of sexual harassment",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/mas-de-260-periodistas-sacuden-las-redacciones-colombianas-con-testimonios-de-acoso-sexual/",
-      "published_date": "2026-05-04T13:40:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Arbeloa: \"Vinícius is very aggressive, intelligent and brave\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/arbeloa-vinicius-es-muy-agresivo-inteligente-y-valiente/",
-      "published_date": "2026-05-04T13:18:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuelans respond to Machado's call and demand the release of political prisoners in El Helicoide",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/venezolanos-responden-al-llamado-de-machado-y-exigen-la-liberacion-de-los-presos-politicos/",
-      "published_date": "2026-05-04T13:11:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Relatives of political prisoners will mobilize in Caracas against torture in detention centers",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/familiares-de-presos-politicos-se-movilizaran-en-caracas-contra-las-torturas-en-centros-de-detencion/",
-      "published_date": "2026-05-03T23:53:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuelans inside and outside the country mobilized to demand the release of all political prisoners",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/ultimas-noticias/venezolanos-dentro-y-fuera-del-pais-se-movilizan-para-exigir-la-liberacion-de-todos-los-presos-politicos/",
-      "published_date": "2026-05-03T23:39:46Z",
       "category": "Military"
     },
     {
@@ -423,7 +423,21 @@
       "category": "Energy"
     },
     {
-      "title": "Tiziana Polesel on adjustment to the minimum comprehensive income: It is a step, but there is much to do",
+      "title": "BCV will inject 1,350 million dollars into banks in May",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/bcv-inyectara-1-350-millones-de-dolares-a-la-banca-en-mayo/",
+      "published_date": "2026-05-05T12:03:01Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Capriles criticizes the government's economic measures and proposes lowering the VAT and eliminating the IGTF",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/capriles-critica-medidas-economicas-del-gobierno-y-propone-bajar-el-iva-y-eliminar-el-igtf/",
+      "published_date": "2026-05-05T00:41:35Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tiziana Polesel on adjustment to the comprehensive minimum income: It is a step, but there is still much to do",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/tiziana-polesel-sobre-ajuste-al-ingreso-minimo-integral-es-un-paso-pero-queda-mucho-por-hacer/",
       "published_date": "2026-05-04T23:54:19Z",
@@ -549,18 +563,46 @@
       "category": "Economy"
     },
     {
-      "title": "Chevron conditions new investments in Venezuela to greater “progress” in the legal and fiscal framework",
+      "title": "Lismar Lyon breaks national record in 100 meter butterfly",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/chevron-condiciona-nuevas-inversiones-en-venezuela-a-mayores-progresos-en-el-marco-legal-y-fiscal/",
-      "published_date": "2026-05-02T12:06:07Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/lismar-lyon-rompe-el-record-nacional-en-los-100-metros-mariposa/",
+      "published_date": "2026-05-05T11:54:47Z",
+      "category": "Local Events"
     },
     {
-      "title": "Is it necessary to condition the salary increase to a reform of the Labor Law? this is what the experts say",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/es-necesario-condicionar-el-aumento-salarial-a-una-reforma-de-la-ley-del-trabajo-esto-dicen-los-expertos/",
-      "published_date": "2026-05-01T21:17:32Z",
-      "category": "Economy"
+      "title": "They appoint Calixto Ortega as governor before the IMF",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/designa-a-calixto-ortega-como-gobernador-ante-el-fmi/",
+      "published_date": "2026-05-05T10:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Rengifo, the athlete who walks on the sky of Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carlos-rengifo-el-atleta-que-camina-sobre-el-cielo-de-caracas/",
+      "published_date": "2026-05-05T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bad Bunny dresses up as an old man for the Met Gala",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/bad-bunny-se-disfraza-de-anciano-para-la-met-gala/",
+      "published_date": "2026-05-05T01:09:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Met Gala 2026: this is what celebrities look like at the extravagant fashion event in New York",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/met-gala-2026-asi-lucen-las-celebridades-en-la-extravagante-cita-de-la-moda-en-nueva-york/",
+      "published_date": "2026-05-05T01:09:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Shooting near the White House leaves two injured",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/tiroteo-cerca-de-la-casa-blanca-deja-dos-heridos/",
+      "published_date": "2026-05-05T00:08:10Z",
+      "category": "Local Events"
     },
     {
       "title": "María Corina Machado: elections in Venezuela should be held in 12 months at most",
@@ -658,48 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/el-chapo-pide-a-las-autoridades-de-ee-uu-que-le-transfieran-a-mexico/",
       "published_date": "2026-05-04T20:48:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The US confirms that tons of medicines were delivered to the Ministry of Health in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ee-uu-confirma-que-toneladas-de-medicamentos-fueron-entregadas-al-ministerio-de-salud-en-venezuela/",
-      "published_date": "2026-05-04T20:26:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LATAM Cargo resumes direct flights between Miami and Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/latam-cargo-retoma-vuelos-directos-entre-miami-y-caracas/",
-      "published_date": "2026-05-04T19:55:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Same script, different face: Delcy Rodríguez's adjustment that repeats the starvation wage formula",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/mismo-libreto-distinto-rostro-el-ajuste-de-delcy-rodriguez-que-repite-la-formula-de-salarios-de-hambre/",
-      "published_date": "2026-05-04T19:27:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rates rise and service worsens: testimonies reveal monthly increases in electricity",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/la-luz-aumenta-y-el-servicio-empeora-testimonios-revelan-incrementos-mensuales-en-la-electricidad/",
-      "published_date": "2026-05-04T19:22:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pope Leo XIV receives in private audience the board of directors of the Venezuelan Episcopal Conference",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/el-papa-leon-xiv-recibe-en-audiencia-privada-a-la-directiva-de-la-conferencia-episcopal-venezolana/",
-      "published_date": "2026-05-04T18:51:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The US extends protection to Citgo for three more months",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-extiende-proteccion-a-citgo-por-tres-meses-mas/",
-      "published_date": "2026-05-04T18:28:49Z",
       "category": "Local Events"
     }
   ]
