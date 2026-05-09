@@ -1,19 +1,138 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-09T11:55:08Z",
+  "last_updated": "2026-05-09T23:57:31Z",
   "stories": [
     {
-      "title": "Iran says it will participate in the World Cup, but asks the organizers for guarantees",
+      "title": "Gendarme Nahuel Gallo narrated the torture suffered in Venezuela: \"They put the shotgun to my head\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/gendarme-nahuel-gallo-narro-las-torturas-sufridas-en-venezuela-me-ponian-la-escopeta-en-la-cabeza/",
+      "published_date": "2026-05-09T23:50:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The cattle prod in the ear and a shotgun in the head: Nahuel Gallo reveals torture he suffered in Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/607677/la-picana-en-la-oreja-y-una-escopeta-en-la-cabeza-nahuel-gallo-revela-torturas-que-sufrio-en-venezuela/",
+      "published_date": "2026-05-09T23:33:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Edgar Ramírez will lead the cast of the film Oh, How Fun!",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/iran-dice-que-participara-en-el-mundial-pero-pide-garantias-a-los-organizadores/",
-      "published_date": "2026-05-09T11:31:04Z",
+      "url": "https://www.elnacional.com/2026/05/edgar-ramirez-encabezara-el-elenco-de-la-pelicula-oh-how-fun/",
+      "published_date": "2026-05-09T23:32:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Francisco Marroquín University in Guatemala conferred an honorary degree in Social Sciences to Marcel Granier",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-universidad-francisco-marroquin-en-guatemala-confirio-el-titulo-honoris-causa-en-ciencias-sociales-a-marcel-granier/",
+      "published_date": "2026-05-09T20:43:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy Rodríguez announced a trip outside Venezuela to \"defend the homeland\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-anuncio-viaje-fuera-de-venezuela-para-defender-la-patria/",
+      "published_date": "2026-05-09T19:13:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Global leaders will meet at an international summit in Medellín",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/lideres-globales-se-reuniran-en-una-cumbre-internacional-en-medellin/",
+      "published_date": "2026-05-09T18:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tareck El Aissami breaks the silence: he denounces torture and points out Tarek William Saab",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/tareck-el-aissami-rompe-el-silencio-denuncia-torturas-y-senala-a-tarek-william-saab/",
+      "published_date": "2026-05-09T18:49:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Strong warning from the DEA for fans who will travel to the United States to watch the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/advertencia-de-la-dea-a-hinchas-que-viajaran-para-ver-el-mundial/",
+      "published_date": "2026-05-09T17:32:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Drunk couple causes crash in Aragua while having sexual relations in the presence of a girl",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/pareja-ebria-causa-choque-en-aragua-mientras-mantenian-relaciones-sexuales/",
+      "published_date": "2026-05-09T17:10:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Activists demand the opening of the embassy in Argentina and the updating of the Electoral Registry",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/607644/activistas-demandan-apertura-de-la-embajada-en-argentina-y-la-actualizacion-del-registro-electoral/",
+      "published_date": "2026-05-09T16:43:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PDVSA seeks to attract international investments by ending sanctions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/pdvsa-busca-atraer-inversiones-internacionales-mediante-cese-de-sanciones/",
+      "published_date": "2026-05-09T15:52:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miguel Rojas receives emotional tribute from the Los Angeles Dodgers after his historic home run",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/miguel-rojas-recibe-emotivo-homenaje-de-los-angeles-dodgers/",
+      "published_date": "2026-05-09T15:49:32Z",
       "category": "Diplomacy"
     },
     {
       "title": "Hantavirus: why science rules out a new pandemic",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/hantavirus-por-que-la-ciencia-descarta-una-nueva-pandemia/",
-      "published_date": "2026-05-09T09:00:00Z",
+      "published_date": "2026-05-09T15:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delivery of the Co-Responsibility and Training bonus for public workers began",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/comenzo-entrega-del-bono-de-corresponsabilidad-y-formacion/",
+      "published_date": "2026-05-09T14:49:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Danny Ocean will be at the opening ceremony of the 2026 World Cup: \"I can't believe it\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/danny-ocean-estara-en-la-ceremonia-inicial-del-mundial-2026/",
+      "published_date": "2026-05-09T14:46:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Encovi 2025: 29% of Venezuelans in Argentina contemplate returning to the country",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/29-de-los-venezolanos-en-argentina-contempla-volver-al-pais/",
+      "published_date": "2026-05-09T13:04:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "María Fernanda Cabal assures that the CIA installed microphones in Maduro's room",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/maria-fernanda-cabal-revela-como-la-cia-infiltro-a-maduro/",
+      "published_date": "2026-05-09T12:46:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rome Masters 1000: Coco Gauff ends the dream of Argentine Solana Sierra",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/masters-1000-de-roma-coco-gauff-acaba-con-el-sueno-de-la-argentina-solana-sierra/",
+      "published_date": "2026-05-09T12:34:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran says it will participate in the World Cup, but asks the organizers for guarantees",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/iran-dice-que-participara-en-el-mundial-pero-pide-garantias-a-los-organizadores/",
+      "published_date": "2026-05-09T11:31:04Z",
       "category": "Diplomacy"
     },
     {
@@ -24,263 +143,179 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The FIA ​​agrees to the use of more thermal than electric engines in F1 from 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-fia-acuerda-el-uso-de-motores-mas-termicos-que-electricos-en-la-f1-a-partir-de-2027/",
-      "published_date": "2026-05-08T23:59:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia and Ukraine confirm truce from May 9 to 11 mediated by the US",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/rusia-y-ucrania-confirman-tregua-del-9-al-11-de-mayo-mediada-por-ee-uu/",
-      "published_date": "2026-05-08T22:43:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Casla Institute condemns the death of Víctor Quero Navas and demands investigation with international standards",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/instituto-casla-condena-muerte-de-victor-quero-navas-y-exige-investigacion-con-estandares-internacionales/",
-      "published_date": "2026-05-08T22:32:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez pays a bonus of 12 bolivars to teachers for Mother's Day: it is not even enough for a piece of candy",
+      "title": "Monteávila University awards its first honorary doctorates",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/delcy-rodriguez-paga-bono-de-12-bolivares-a-las-docentes-por-el-dia-de-las-madres-no-alcanza-ni-para-un-caramelo/",
-      "published_date": "2026-05-08T21:44:35Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/regiones/universidad-monteavila-otorga-sus-primeros-doctorados-honoris-causa/",
+      "published_date": "2026-05-09T23:08:40Z",
+      "category": "Military"
     },
     {
-      "title": "Un Nuevo Tiempo blames the government for the electricity system crisis",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/un-nuevo-tiempo-culpa-al-gobierno-por-la-crisis-del-sistema-electrico/",
-      "published_date": "2026-05-08T21:15:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rick Scott on the death of Víctor Quero Navas: \"Delcy Rodríguez must give immediate answers to the people of Venezuela\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/rick-scott-sobre-la-muerte-de-victor-quero-navas-delcy-rodriguez-debe-dar-respuestas-inmediatas-al-pueblo-de-venezuela/",
-      "published_date": "2026-05-08T21:02:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Florida court convicts four men for murder of former president of Haiti, including a Venezuelan",
+      "title": "21 political prisoners are in forced disappearance: seven are women",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/corte-de-florida-condena-a-cuatro-hombres-por-asesinato-de-expresidente-de-haiti-entre-ellos-un-venezolano/",
-      "published_date": "2026-05-08T20:51:50Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/21-presos-politicos-estan-en-desaparicion-forzada-siete-son-mujeres/",
+      "published_date": "2026-05-09T23:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Rick Scott calls for reimposition of sanctions after Quero's death",
+      "title": "Víctor Quero case: a death that puts the medical union under the microscope",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607618/rick-scott-pide-reimposicion-de-sanciones-a-rodriguez-tras-muerte-de-quero/",
-      "published_date": "2026-05-08T20:38:01Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/607672/caso-victor-quero-una-muerte-que-pone-bajo-la-lupa-al-gremio-medico/",
+      "published_date": "2026-05-09T22:47:57Z",
+      "category": "Military"
     },
     {
-      "title": "The father of Argentine Germán Giuliani dies: his family asks for freedom so that he can attend the funeral",
+      "title": "Víctor Quero case: a death that puts the medical union under the microscope",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/fallece-el-padre-del-argentino-german-giuliani-su-familia-pide-libertad-para-que-pueda-asistir-al-funeral/",
-      "published_date": "2026-05-08T19:49:57Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/caso-victor-quero-una-muerte-que-pone-bajo-la-lupa-al-gremio-medico/",
+      "published_date": "2026-05-09T21:27:21Z",
+      "category": "Military"
     },
     {
-      "title": "Marco Rubio assured that the US will impose new sanctions on Cuba",
+      "title": "Delcy Rodríguez orders an investigation into complaints of charges for the amnesty: “That must stop”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-ordena-investigar-denuncias-de-cobros-por-la-amnistia-eso-debe-cesar/",
+      "published_date": "2026-05-09T21:13:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "This will be the delicate disembarkation of the cruise by sea, land and air: \"It is an unprecedented operation\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/asi-sera-el-delicado-desembarco-del-crucero-por-mar-tierra-y-aire-es-una-operacion-inedita/",
+      "published_date": "2026-05-09T19:17:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "They found the body of Mateo Pérez Rueda, journalist in Antioquia and director of a digital magazine",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/hallaron-el-cuerpo-de-mateo-perez-rueda-periodista-en-antioquia-y-director-de-revista-digital/",
+      "published_date": "2026-05-09T19:10:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Bolsonaro's defense asks Brazil's supreme court to annul his 27-year sentence",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/defensa-de-bolsonaro-pide-a-corte-suprema-de-brasil-anular-su-condena-a-27-anos/",
+      "published_date": "2026-05-09T19:09:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mothers of political prisoners will hold a vigil in El Rodeo I this #10May in memory of Víctor Hugo Quero Navas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/madres-de-presos-politicos-realizaran-vigilia-en-el-rodeo-i/",
+      "published_date": "2026-05-09T17:21:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "CEV condemned the death of Víctor Hugo Quero and asked Pope Leo XIV to intercede for the political prisoners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/cev-condeno-la-muerte-de-victor-hugo-quero/",
+      "published_date": "2026-05-09T16:15:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "PDVSA-Crypto | Tareck El Aissami declares that he was tortured on the orders of Tarek William Saab",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/marco-rubio-aseguro-que-ee-uu-impondra-nuevas-sanciones-a-cuba/",
-      "published_date": "2026-05-08T18:57:49Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/pdvsa-cripto-tareck-el-aissami-declara-que-fue-torturado-por-ordenes-de-tarek-william-saab/",
+      "published_date": "2026-05-09T15:58:05Z",
+      "category": "Military"
     },
     {
-      "title": "The international race to track down passengers who got off before the hantavirus outbreak on a cruise ship was discovered",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-carrera-internacional-para-rastrear-a-los-pasajeros-que-se-bajaron-antes-de-que-se-descubriera-el-brote-de-hantavirus-en-un-crucero/",
-      "published_date": "2026-05-08T18:44:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eugenio Suárez prepares his return with Cincinnati",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/eugenio-suarez-prepara-su-regreso-con-cincinnati/",
-      "published_date": "2026-05-08T18:22:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rick Scott says that the US must \"reinstate\" the sanctions against Delcy Rodríguez for the death of Quero Navas",
+      "title": "Relatives of political prisoners held a vigil at the Helicoide to honor Víctor Hugo Quero",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/rick-scott-dice-que-eeuu-debe-restituir-las-sanciones-contra-delcy-rodriguez-por-muerte-de-quero-navas/",
-      "published_date": "2026-05-08T18:13:32Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-realizaron-vigilia-en-el-helicoide-para-honrar-a-victor-hugo-quero/",
+      "published_date": "2026-05-09T15:45:04Z",
+      "category": "Military"
     },
     {
-      "title": "\"She was affectionate and very professional\": mourning surrounds the last goodbye to the young woman murdered along with her son",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/era-carinosa-y-muy-profesional-el-luto-envuelve-el-ultimo-adios-a-joven-asesinada-junto-con-su-hijo/",
-      "published_date": "2026-05-08T17:35:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Embassy advances talks to attract investors in the energy sector",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/embajada-de-ee-uu-adelanta-conversaciones-para-atraer-inversionistas-en-sector-energetico/",
-      "published_date": "2026-05-08T17:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rick Scott on the death of Víctor Quero: «USA. \"The US must immediately reimpose sanctions against Delcy Rodríguez\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/rick-scott-sobre-muerte-de-victor-quero-ee-uu-debe-reimponer-de-inmediato-las-sanciones-contra-delcy-rodriguez/",
-      "published_date": "2026-05-08T16:41:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Encovi 2025: Venezuelan women bear the greatest burden of the crisis",
+      "title": "They demand to investigate Tarek William Saab, Julio García Zerpa and Alfredo Ruiz for the death of Víctor Quero",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607571/encovi-2025-las-mujeres-venezolanas-llevan-la-mayor-carga-de-la-crisis/",
-      "published_date": "2026-05-08T16:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Russia violated the truce and caused five deaths in Ukrainian territory",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/rusia-viola-la-tregua-y-causo-cinco-muertos-en-territorio-ucraniano/",
-      "published_date": "2026-05-09T11:23:34Z",
+      "url": "https://runrun.es/noticias/607640/exigen-investigar-a-tarek-william-saab-julio-garcia-zerpa-y-alfredo-ruiz-por-la-muerte-de-victor-quero/",
+      "published_date": "2026-05-09T15:02:25Z",
       "category": "Military"
     },
     {
-      "title": "Mexico brings forward the end of the school year for the 2026 World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/mexico-adelanta-fin-del-ano-escolar-por-el-mundial-2026/",
-      "published_date": "2026-05-09T01:26:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carmen Teresa Navas recognized the remains of her son: the burial took place in the Eastern Cemetery",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/carmen-teresa-navas-reconocio-los-restos-de-su-hijo-sepelio-se-realizo-en-el-cementerio-del-este/",
-      "published_date": "2026-05-09T01:05:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Machado: “Release all political prisoners before more die”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607629/machado-liberen-a-todos-los-presos-politicos-antes-de-que-mueran-mas/",
-      "published_date": "2026-05-09T00:07:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Colombian government asks to suspend arrest warrants against 29 members of the Gulf Clan",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/gobierno-colombiano-pide-suspender-ordenes-de-captura-contra-29-miembros-del-clan-del-golfo/",
-      "published_date": "2026-05-08T23:55:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "Laura Fernández assumes the presidency of Costa Rica with the promise of a firm hand against drug trafficking",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/laura-fernandez-asume-la-presidencia-de-costa-rica-con-la-promesa-de-mano-firme-contra-el-narcotrafico/",
-      "published_date": "2026-05-08T23:32:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cofavic and OVP demand a transparent investigation and dismissal of the penitentiary minister after the death of Víctor Hugo Quero",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/cofavic-y-ovp-exigen-investigacion-transparente-y-destitucion-de-ministro-penitenciario-tras-muerte-de-victor-hugo-quero/",
-      "published_date": "2026-05-08T22:19:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Canada raises to six the number of people isolated in the country due to the risk of hantavirus",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/canada-eleva-a-seis-el-numero-de-personas-aisladas-en-el-pais-por-riesgo-de-hantavirus/",
-      "published_date": "2026-05-08T21:42:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "They confirm shipment of 13 kilos of enriched uranium from Venezuela to the United States",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/confirman-envio-de-13-kilos-de-uranio-enriquecido-desde-venezuela-hasta-ee-uu/",
-      "published_date": "2026-05-08T20:25:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "JEP registers 27 deaths of political prisoners in State custody since 2014",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/jep-registra-27-muertes-de-presos-politicos-bajo-custodia-del-estado-desde-2014/",
-      "published_date": "2026-05-08T20:11:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "The remains of Víctor Quero are exhumed while students and relatives of political prisoners demand justice",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607597/exhuman-los-restos-de-victor-quero-mientras-estudiantes-y-familiares-de-presos-politicos-reclaman-justicia/",
-      "published_date": "2026-05-08T19:30:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGO counts with the Quero Navas case 27 deaths of political prisoners in state custody",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-contabiliza-con-el-caso-quero-navas-27-muertes-de-presos-politicos-en-manos-del-estado/",
-      "published_date": "2026-05-08T19:20:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "The father of Argentine lawyer Germán Giuliani, a political prisoner in Venezuela, dies, without being able to reunite with his son",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/fallece-el-padre-del-abogado-argentino-german-giuliani-preso-politico-en-venezuela-sin-poder-reencontrarse-con-su-hijo/",
-      "published_date": "2026-05-08T18:50:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Prosecutor's Office carries out exhumation of the body of Víctor Hugo Quero",
+      "title": "A \"chain of complicity\" hid Víctor Hugo Quero Navas dead and alive for 16 months",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/cicpc-comienza-exhumacion-del-cuerpo-de-victor-hugo-quero/",
-      "published_date": "2026-05-08T15:03:44Z",
+      "url": "https://elpitazo.net/alianzas/una-cadena-de-complicidad-oculto-vivo-y-muerto-a-victor-hugo-quero-navas-por-16-meses/",
+      "published_date": "2026-05-09T14:22:48Z",
       "category": "Military"
     },
     {
-      "title": "María Corina Machado: what happened to Víctor Quero is not just a tragedy, it is a crime against humanity",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-lo-de-victor-quero-no-es-solo-una-tragedia-es-un-crimen-de-lesa-humanidad/",
-      "published_date": "2026-05-08T14:48:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "María Corina Machado describes the death of political prisoner Víctor Hugo Quero Navas as “murder”",
+      "title": "Obstacles, contradictions and uncheckable figures: what the 2 months of the Amnesty Law left behind",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/maria-corina-machado-califica-de-asesinato-la-muerte-del-preso-politico-victor-hugo-quero-navas/",
-      "published_date": "2026-05-08T13:08:07Z",
+      "url": "https://efectococuyo.com/la-humanidad/obstaculizacion-contradicciones-y-cifras-inchequeables-lo-que-dejo-los-2-meses-de-ley-de-amnistia/",
+      "published_date": "2026-05-09T14:00:00Z",
       "category": "Military"
     },
     {
-      "title": "Sheinbaum and Ayuso: the defense of Hernán Cortés that revived the wound of the conquest",
+      "title": "Pope Leo XIV asks that the name of God not be exploited for political or military purposes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ayuso-y-sheinbaum-en-tension-por-hernan-cortes/",
-      "published_date": "2026-05-08T11:00:00Z",
+      "url": "https://www.elnacional.com/2026/05/el-papa-leon-xiv-pide-que-no-se-explote-el-nombre-de-dios-para-fines-politicos-o-militares/",
+      "published_date": "2026-05-09T13:16:03Z",
       "category": "Military"
     },
     {
-      "title": "The Ombudsman's Office hid the death of Víctor Quero",
+      "title": "Justice for Víctor Quero: Relatives of political prisoners said goodbye in front of El Helicoide",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-defensoria-del-pueblo-oculto-la-muerte-de-victor-quero/",
-      "published_date": "2026-05-08T11:00:00Z",
+      "url": "https://www.elnacional.com/2026/05/familiares-de-presos-politicos-homenajearon-a-victor-hugo-quero/",
+      "published_date": "2026-05-09T12:30:19Z",
       "category": "Military"
     },
     {
-      "title": "What was the chain of command when Víctor Hugo Quero was arrested in 2025?",
+      "title": "Lacava offers a $1,000 reward for reporting cryptocurrency farms in Carabobo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cual-era-la-cadena-de-mando-cuando-detuvieron-a-victor-quero/",
-      "published_date": "2026-05-08T11:00:00Z",
+      "url": "https://www.elnacional.com/2026/05/lacava-ofrece-recompensa-por-denunciar-granjas-de-criptomonedas/",
+      "published_date": "2026-05-09T12:22:47Z",
       "category": "Military"
     },
     {
-      "title": "González Urrutia demands that the government respond for the death of Víctor Hugo Quero",
+      "title": "María Corina Machado's demand to the government: \"Release all political prisoners before more die\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/gonzalez-urrutia-exige-al-gobierno-que-responda-por-la-muerte-de-victor-hugo-quero/",
-      "published_date": "2026-05-08T09:52:00Z",
+      "url": "https://www.elnacional.com/2026/05/la-exigencia-de-maria-corina-machado-al-gobierno-liberen-a-todos-los-presos-politicos-antes-de-que-mueran-mas/",
+      "published_date": "2026-05-09T12:01:28Z",
       "category": "Military"
+    },
+    {
+      "title": "Spain faces a complex operation in 24 hours to evacuate the hantavirus cruise ship",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/espana-afronta-en-24-horas-una-compleja-operacion-para-evacuar-el-crucero-del-hantavirus/",
+      "published_date": "2026-05-09T11:59:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "Germán Vargas Lleras, former Colombian vice president, died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fallecio-german-vargas-lleras-ex-vicepresidente-colombiano/",
+      "published_date": "2026-05-09T21:36:13Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Gasoil shortage in Bolívar: transporters ask for attention from the authorities",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/desabastecimiento-de-gasoil-en-bolivar-transportistas-piden-atencion-de-las-autoridades/",
+      "published_date": "2026-05-09T19:29:49Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Rationing, the nightmare in a Venezuela that urgently needs to recover its electrical network",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/racionamientos-la-pesadilla-en-una-venezuela-que-urge-recuperar-su-red-electrica/",
+      "published_date": "2026-05-09T19:21:18Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Fragility of the electrical system threatens Venezuela's economic recovery",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fragilidad-del-sistema-electrico-amenaza-la-recuperacion-economica/",
+      "published_date": "2026-05-09T14:36:58Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Where was the highly enriched uranium that the US took from Venezuela?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/donde-estaba-el-uranio-enriquecido-que-ee-uu-saco-de-venezuela/",
+      "published_date": "2026-05-09T14:05:22Z",
+      "category": "Energy"
     },
     {
       "title": "Blackouts burn appliances and Corpoelec does not respond: how much does it cost to repair them?",
@@ -388,39 +423,32 @@
       "category": "Energy"
     },
     {
-      "title": "US Secretary of Energy: \"We want to have free and fair elections in Venezuela with a stabilized economy\"",
+      "title": "Recovery of the national electrical system requires an investment of 20 billion dollars",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/secretario-de-energia-de-ee-uu-se-quiere-llegar-a-elecciones-libres-y-justas-en-venezuela-con-una-economia-estabilizada/",
-      "published_date": "2026-05-07T20:11:36Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/05/recuperacion-del-sistema-electrico-nacional-requiere-una-inversion-de-20-mil-millones-de-dolares/",
+      "published_date": "2026-05-09T22:42:32Z",
+      "category": "Economy"
     },
     {
-      "title": "Trump says that in Venezuela they dance \"in the streets\" because of oil revenues",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-dice-que-en-venezuela-bailan-en-las-calles-por-los-ingresos-del-petroleo/",
-      "published_date": "2026-05-07T13:44:05Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Trump met with Chevron and Exxon Mobil executives to talk about Venezuela",
+      "title": "Madrid executive insists on \"clear pressure\" from the Mexican government due to Ayuso's visit",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-se-reunio-con-ejecutivos-de-chevron-y-exxon-mobil-para-hablar-sobre-venezuela/",
-      "published_date": "2026-05-07T12:34:48Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/05/ejecutivo-madrileno-insiste-en-presiones-claras-del-gobierno-mexicano-por-visita-de-ayuso/",
+      "published_date": "2026-05-09T18:59:28Z",
+      "category": "Economy"
     },
     {
-      "title": "Find out which are the most popular productions on Netflix Venezuela this week",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/solaz/conoce-cuales-son-las-producciones-mas-populares-en-netflix-venezuela/",
-      "published_date": "2026-05-07T10:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "\"People are dancing in the streets\": Trump highlights the economic impact of the new agreements in Caracas",
+      "title": "FIFA triples the cost of tickets for the World Cup final in New Jersey",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-gente-esta-bailando-en-las-calles-trump-destaca-el-impacto-economico-de-los-nuevos-acuerdos-en-caracas/",
-      "published_date": "2026-05-06T23:24:29Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/05/la-fifa-triplica-el-costo-de-los-boletos-para-la-final-del-mundial-en-nueva-jersey/",
+      "published_date": "2026-05-09T17:07:47Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Facilitate foreign currency transactions and a salary of $200: economists' proposals to rescue income",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/facilitar-transacciones-en-divisas-y-salario-de-200-dolares-las-propuestas-de-economistas-para-rescatar-el-ingreso/",
+      "published_date": "2026-05-09T14:47:18Z",
+      "category": "Economy"
     },
     {
       "title": "Kontigo wants to connect with the domestic idea of ​​savings",
@@ -535,171 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "“There is a fiscal reality”: economist Luis Oliveros explains why it is difficult to increase salaries",
+      "title": "Messi scores and assists in Inter Miami's victory over a decimated Toronto",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/hay-una-realidad-fiscal-economista-luis-oliveros-explica-por-que-es-dificil-aumentar-salarios/",
-      "published_date": "2026-05-06T17:10:51Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/messi-anota-y-asiste-en-triunfo-de-inter-miami-sobre-un-diezmado-toronto/",
+      "published_date": "2026-05-09T23:49:04Z",
+      "category": "Local Events"
     },
     {
-      "title": "Price of the dollar in Venezuela is approaching the highest denomination Venezuelan bill: the loss of value of the national currency grows",
+      "title": "National pride: Vinotinto sub 17 women qualify for the World Cup after 10 years",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/orgullo-nacional-vinotinto-sub-17-femenina-clasifica-al-mundial-despues-de-10-anos/",
+      "published_date": "2026-05-09T22:19:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Víctor Quero's mother asks that those who operated on him at the military hospital appear",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/madre-de-victor-quero-pide-que-aparezcan-quienes-lo-operaron-en-el-hospital-militar/",
+      "published_date": "2026-05-09T22:17:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More than 100 people sick with norovirus on a cruise ship that left Florida",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/mas-de-100-personas-enfermas-con-norovirus-en-un-crucero-que-zarpo-de-florida/",
+      "published_date": "2026-05-09T22:07:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelans in Spain condemned the murder of Víctor Hugo Quero",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/venezolanos-en-espana-condenan-el-asesinato-de-victor-hugo-quero/",
+      "published_date": "2026-05-09T21:57:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez demands a tough hand against judges who charge for the amnesty",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/precio-del-dolar-en-venezuela-se-acerca-al-billete-venezolano-de-mayor-denominacion-crece-la-perdida-de-valor-de-la-moneda-nacional/",
-      "published_date": "2026-05-06T14:46:55Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-exige-mano-dura-contra-jueces-que-cobran-por-la-amnistia/",
+      "published_date": "2026-05-09T21:26:15Z",
+      "category": "Local Events"
     },
     {
-      "title": "#EnchufaDÍN | Congratulate Calixto Ortega Sanchez for his new position",
+      "title": "Delcy Rodríguez recognizes that there are judges who charge for approving the amnesty",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-reconoce-que-hay-jueces-que-cobran-por-aprobar-la-amnistia/",
+      "published_date": "2026-05-09T21:15:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who is the captain of the ship of the hantavirus outbreak?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/quien-es-el-capitan-del-barco-del-brote-de-hantavirus/",
+      "published_date": "2026-05-09T20:35:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mother of Víctor Hugo Quero Navas demanded that the authorities report the details about his death in custody",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/madre-de-victor-hugo-quero-navas-exigio-a-las-autoridades-que-informen-los-detalles-sobre-su-muerte-en-custodia/",
+      "published_date": "2026-05-09T20:04:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "MotoGP: Jorge Martín wins the French Grand Prix sprint and Marc Márquez suffers a fracture",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/motogp-jorge-martin-gana-el-sprint-del-gran-premio-de-francia-y-marc-marquez-sufre-fractura/",
+      "published_date": "2026-05-09T19:23:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez admits that judges would be charging for processing amnesties",
       "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/607155/enchufadin-felicita-a-calixto-ortega-sanchez-por-su-nuevo-cargo-2/",
-      "published_date": "2026-05-06T14:40:49Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BCV projects single-digit inflation in Venezuela starting in May",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/bcv-proyecta-inflacion-de-un-digito-en-venezuela-a-partir-de-mayo/",
-      "published_date": "2026-05-06T13:41:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Real Madrid wants to delay Barcelona's LaLiga",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/el-real-madrid-quiere-retrasar-laliga-del-barcelona/",
-      "published_date": "2026-05-09T11:49:37Z",
+      "url": "https://runrun.es/noticias/607652/delcy-rodriguez-admite-que-jueces-estarian-cobrando-por-tramitar-amnistias/",
+      "published_date": "2026-05-09T18:05:36Z",
       "category": "Local Events"
     },
     {
-      "title": "What is known about the mining accident that left nine dead in Colombia?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/que-se-sabe-del-accidente-minero-que-dejo-nueve-muertos-en-colombia/",
-      "published_date": "2026-05-09T11:08:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feminism does not fit into the logic of capital: Davos 2026",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/opinion/el-feminismo-no-cabe-en-la-logica-del-capital-davos-2026/",
-      "published_date": "2026-05-09T10:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The PUD met with unions and guilds of the coalition to present a political and economic roadmap",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-pud-se-reunio-con-sindicatos-y-gremios-de-la-coalicion-para-presentar-su-hoja-de-ruta-politica-y-economica/",
-      "published_date": "2026-05-09T01:33:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez evaluates the electrical system with governors after the \"milestone in demand\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-evalua-con-gobernadores-el-sistema-electrico-tras-el-hito-en-la-demanda/",
-      "published_date": "2026-05-09T01:11:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hugo Marino's mother: \"I wouldn't want any other mother to have to go through this ordeal\"",
+      "title": "USA | Venezuelan Kevin Manríquez makes history by graduating from university at age 17",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/madre-de-hugo-marino-no-quisiera-que-ninguna-otra-tenga-que-pasar-por-este-calvario/",
-      "published_date": "2026-05-09T00:16:47Z",
+      "url": "https://elpitazo.net/migracion/ee-uu-venezolano-kevin-manriquez-hace-historia-al-graduarse-de-la-universidad-a-los-17-anos/",
+      "published_date": "2026-05-09T18:01:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezuelan State does not have the habit of compensating victims",
+      "title": "The PP will turn to the European institutions to avoid the \"exceptionality\" of Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/pp-recurrira-a-instituciones-para-evitar-la-excepcionalidad-de-delcy-rodriguez/",
+      "published_date": "2026-05-09T17:49:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anger and resignation in Tenerife at the arrival of the ship that transports passengers with hantavirus",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/enojo-y-resignacion-en-tenerife-ante-llegada-de-barco-con-hantavirus/",
+      "published_date": "2026-05-09T17:46:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICE detained the father of Venezuelan soccer player Moisés Tablante",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/ice-detuvo-al-padre-del-futbolista-venezolano-moises-tablante/",
+      "published_date": "2026-05-09T17:03:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos, drawings and testimonies: What do the declassified UFO documents reveal?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/que-revelan-los-documentos-desclasificados-de-los-ovnis/",
+      "published_date": "2026-05-09T16:49:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chile reinforces strategy against the Aragua Train after an increase in kidnappings",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/chile-refuerza-estrategia-contra-el-tren-de-aragua-tras-secuestros/",
+      "published_date": "2026-05-09T16:30:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The chain of command behind the Víctor Hugo Quero case: Who knew that he had died and did not inform his family?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-cadena-de-mando-detras-del-caso-victor-hugo-quero/",
+      "published_date": "2026-05-09T15:39:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A \"chain of complicity\" hid Víctor Hugo Quero Navas dead and alive for 16 months",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/una-cadena-de-complicidad-oculto-vivo-y-muerto-a-victor-hugo-quero-navas-por-16-meses/",
+      "published_date": "2026-05-09T14:28:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A “chain of complicity” hid Víctor Hugo Quero Navas dead and alive for 16 months",
       "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/607544/estado-venezolano-no-tiene-la-costumbre-de-reparar-a-las-victimas/",
-      "published_date": "2026-05-08T23:03:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edmundo González proposes using Venezuelan money under US guardianship to repair the electrical grid",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/edmundo-gonzalez-propone-usar-dinero-venezolano-bajo-tutela-de-eeuu-para-reparar-la-red-electrica/",
-      "published_date": "2026-05-08T22:33:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Messi assures that there are other countries that \"arrive better\" than Argentina to the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/messi-asegura-que-hay-otros-paises-que-llegan-mejor-que-argentina-al-mundial/",
-      "published_date": "2026-05-08T22:30:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The case of Víctor Quero Navas, chronology of deception and state silence",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/el-caso-de-victor-quero-navas-cronologia-de-un-engano-y-silencio-estatal/",
-      "published_date": "2026-05-08T21:55:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Electrical failures continue: various regions of the country recorded another downturn this #8May",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/continuan-las-fallas-electricas-diversas-regiones-del-pais-registraron-otro-bajon-este-8may/",
-      "published_date": "2026-05-08T21:21:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Braves and Dodgers begin series as two great favorites to transcend in the National League",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/bravos-y-dodgers-inician-serie-como-dos-grandes-favoritos-a-trascender-en-la-liga-nacional/",
-      "published_date": "2026-05-08T20:48:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bancamiga and Mastercard present \"Flavors of the soul: culinary universes between origin and avant-garde\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/bancamiga-y-mastercard-presentan-sabores-del-alma-universos-culinarios-entre-el-origen-y-la-vanguardia/",
-      "published_date": "2026-05-08T20:45:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The father of Germán Giuliani, the Argentine lawyer detained in Venezuela for more than 11 months, died",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/murio-el-padre-de-german-giuliani-el-abogado-argentino-detenido-en-venezuela-desde-hace-mas-de-11-meses/",
-      "published_date": "2026-05-08T20:37:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The US begins to declassify government files on UFOs and extraterrestrial life",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-comienza-a-desclasificar-archivos-gubernamentales-sobre-ovnis-y-vida-extraterrestre/",
-      "published_date": "2026-05-08T20:26:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Djokovic says goodbye to the 1,000th Master in Rome after falling with the young Prizmic",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/djokovic-se-despide-del-master-1-000-de-roma-al-caer-con-el-joven-prizmic/",
-      "published_date": "2026-05-08T20:03:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguese | Teachers must travel long distances without money to validate medical permits",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/portuguesa-docentes-deben-recorrer-largas-distancias-sin-dinero-para-convalidar-permisos-medicos/",
-      "published_date": "2026-05-08T20:03:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pentagon publishes secret documents on UFOs",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/el-pentagono-publica-documentos-secretos-sobre-los-ovnis/",
-      "published_date": "2026-05-08T19:40:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They held a vigil in front of Rodeo I in tribute to Víctor Quero Navas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/celebraron-vigilia-frente-al-rodeo-i-en-homenaje-a-victor-quero-navas/",
-      "published_date": "2026-05-08T19:16:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The US sees the removal of 13.5 kg of highly enriched uranium from Venezuela as a “success”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/eeuu-ve-como-exito-remocion-de-135-kg-de-uranio-altamente-enriquecido-desde-venezuela/",
-      "published_date": "2026-05-08T18:36:32Z",
+      "url": "https://runrun.es/noticias/607634/una-cadena-de-complicidad-oculto-vivo-y-muerto-a-victor-hugo-quero-navas-por-16-meses/",
+      "published_date": "2026-05-09T14:20:15Z",
       "category": "Local Events"
     }
   ]
