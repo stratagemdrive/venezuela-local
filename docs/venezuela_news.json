@@ -1,7 +1,28 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-09T00:03:29Z",
+  "last_updated": "2026-05-09T11:55:08Z",
   "stories": [
+    {
+      "title": "Iran says it will participate in the World Cup, but asks the organizers for guarantees",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/iran-dice-que-participara-en-el-mundial-pero-pide-garantias-a-los-organizadores/",
+      "published_date": "2026-05-09T11:31:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hantavirus: why science rules out a new pandemic",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/hantavirus-por-que-la-ciencia-descarta-una-nueva-pandemia/",
+      "published_date": "2026-05-09T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juan Pablo Guanipa links the death of Víctor Quero Navas to a pattern of state abuses in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/juan-pablo-guanipa-vincula-muerte-de-victor-quero-navas-con-patron-de-abusos-estatales-en-venezuela/",
+      "published_date": "2026-05-09T01:19:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The FIA ​​agrees to the use of more thermal than electric engines in F1 from 2027",
       "source": "El Nacional",
@@ -122,25 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Double political discourse puts Venezuela behind on the way to the energy transition",
+      "title": "Russia violated the truce and caused five deaths in Ukrainian territory",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/rusia-viola-la-tregua-y-causo-cinco-muertos-en-territorio-ucraniano/",
+      "published_date": "2026-05-09T11:23:34Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mexico brings forward the end of the school year for the 2026 World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/mexico-adelanta-fin-del-ano-escolar-por-el-mundial-2026/",
+      "published_date": "2026-05-09T01:26:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Carmen Teresa Navas recognized the remains of her son: the burial took place in the Eastern Cemetery",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carmen-teresa-navas-reconocio-los-restos-de-su-hijo-sepelio-se-realizo-en-el-cementerio-del-este/",
+      "published_date": "2026-05-09T01:05:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Machado: “Release all political prisoners before more die”",
       "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/eco-rres/607529/doble-discurso-politico-rezaga-a-venezuela-camino-a-la-transicion-energetica/",
-      "published_date": "2026-05-08T16:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "González Urrutia claims that resources to pay Maduro's lawyers should be used to address the electricity crisis",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/gonzalez-urrutia-reclama-que-recursos-para-pagar-abogados-de-maduro-deben-ser-usados-para-atender-la-crisis-electrica/",
-      "published_date": "2026-05-08T14:41:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“It is an insult to the mother”: Alfredo Romero denounces irregularities in the Víctor Hugo Quero Navas case",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/es-un-insulto-a-la-madre-alfredo-romero-denuncia/",
-      "published_date": "2026-05-08T14:24:31Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/607629/machado-liberen-a-todos-los-presos-politicos-antes-de-que-mueran-mas/",
+      "published_date": "2026-05-09T00:07:13Z",
+      "category": "Military"
     },
     {
       "title": "Colombian government asks to suspend arrest warrants against 29 members of the Gulf Clan",
@@ -192,7 +220,7 @@
       "category": "Military"
     },
     {
-      "title": "NGO counts with the Quero Navas case 27 deaths of political prisoners in the hands of the State",
+      "title": "NGO counts with the Quero Navas case 27 deaths of political prisoners in state custody",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/ong-contabiliza-con-el-caso-quero-navas-27-muertes-de-presos-politicos-en-manos-del-estado/",
       "published_date": "2026-05-08T19:20:53Z",
@@ -255,45 +283,17 @@
       "category": "Military"
     },
     {
-      "title": "La Huerta: the Caracas house that Spain recognized as its own",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-huerta-la-casa-caraquena-que-espana-reconocio-como-suya/",
-      "published_date": "2026-05-08T09:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Golden Globes will allow the use of AI in film and television productions",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/los-globos-de-oro-permitiran-el-uso-de-ia/",
-      "published_date": "2026-05-08T09:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Platino Awards are preparing to receive the most important figures of Ibero-American cinema",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/los-premios-platino-se-preparan-recibir-a-las-figuras-mas-importantes-del-cine-iberoamericano/",
-      "published_date": "2026-05-08T09:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "In vigil at Rodeo I they demanded justice for the death in custody of Víctor Hugo Quero",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607507/en-vigilia-en-el-rodeo-i-exigieron-justicia-por-muerte-victor-hugo-quero/",
-      "published_date": "2026-05-08T05:02:17Z",
-      "category": "Military"
+      "title": "Blackouts burn appliances and Corpoelec does not respond: how much does it cost to repair them?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/apagones-queman-los-electrodomesticos-y-corpoelec-no-responde-cuanto-cuesta-repararlos/",
+      "published_date": "2026-05-09T00:20:29Z",
+      "category": "Energy"
     },
     {
       "title": "“Get over it, forgive us and leave”: Chavismo seeks reconciliation with Venezuelans in exile, but its call for forgiveness reignites debate about impunity",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/superalo-perdonanos-y-vente-el-chavismo-busca-reconciliacion-con-venezolanos-en-el-exilio-pero-su-llamado-al-perdon-reaviva-debate-sobre-impunidad/",
       "published_date": "2026-05-08T23:11:17Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Blackouts burn appliances and Corpoelec does not respond: how much does it cost to repair them?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/apagones-queman-los-electrodomesticos-y-corpoelec-no-responde-cuanto-cuesta-repararlos/",
-      "published_date": "2026-05-08T17:51:29Z",
       "category": "Energy"
     },
     {
@@ -421,6 +421,13 @@
       "url": "https://www.elnacional.com/2026/05/la-gente-esta-bailando-en-las-calles-trump-destaca-el-impacto-economico-de-los-nuevos-acuerdos-en-caracas/",
       "published_date": "2026-05-06T23:24:29Z",
       "category": "Energy"
+    },
+    {
+      "title": "Kontigo wants to connect with the domestic idea of ​​savings",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/kontigo-quiere-conectar-con-la-idea-domestica-de-ahorro/",
+      "published_date": "2026-05-09T09:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Official dollar reaches 500 bolivars: experts consider that the rate should rise to reduce distortions",
@@ -556,11 +563,46 @@
       "category": "Economy"
     },
     {
-      "title": "Infantino defended the prices of World Cup tickets",
+      "title": "Real Madrid wants to delay Barcelona's LaLiga",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/infantino-defendio-los-precios-de-las-entradas-del-mundial/",
-      "published_date": "2026-05-06T13:00:23Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/el-real-madrid-quiere-retrasar-laliga-del-barcelona/",
+      "published_date": "2026-05-09T11:49:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is known about the mining accident that left nine dead in Colombia?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/que-se-sabe-del-accidente-minero-que-dejo-nueve-muertos-en-colombia/",
+      "published_date": "2026-05-09T11:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feminism does not fit into the logic of capital: Davos 2026",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/el-feminismo-no-cabe-en-la-logica-del-capital-davos-2026/",
+      "published_date": "2026-05-09T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The PUD met with unions and guilds of the coalition to present a political and economic roadmap",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-pud-se-reunio-con-sindicatos-y-gremios-de-la-coalicion-para-presentar-su-hoja-de-ruta-politica-y-economica/",
+      "published_date": "2026-05-09T01:33:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez evaluates the electrical system with governors after the \"milestone in demand\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-evalua-con-gobernadores-el-sistema-electrico-tras-el-hito-en-la-demanda/",
+      "published_date": "2026-05-09T01:11:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hugo Marino's mother: \"I wouldn't want any other mother to have to go through this ordeal\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/madre-de-hugo-marino-no-quisiera-que-ninguna-otra-tenga-que-pasar-por-este-calvario/",
+      "published_date": "2026-05-09T00:16:47Z",
+      "category": "Local Events"
     },
     {
       "title": "Venezuelan State does not have the habit of compensating victims",
@@ -658,48 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/eeuu-ve-como-exito-remocion-de-135-kg-de-uranio-altamente-enriquecido-desde-venezuela/",
       "published_date": "2026-05-08T18:36:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NGO denounces that 27 political prisoners have died in state custody in Venezuela since 2014",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/jep-denuncia-que-ya-son-27-los-presos-politicos-muertos-bajo-custodia-en-venezuela-desde-2014/",
-      "published_date": "2026-05-08T18:28:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Santa Paula Medical Group offers affordable rates in diagnosis and prevention for mothers",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/607570/grupo-medico-santa-paula-ofrece-tarifas-accesibles-en-diagnostico-y-prevencion-para-las-madres/",
-      "published_date": "2026-05-08T18:16:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "7% of Venezuelan households received returned migrants in the last year",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/7-de-hogares-venezolanos-recibio-a-migrantes-retornados/",
-      "published_date": "2026-05-08T17:55:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two people who traveled on the cruise ship affected by the hantavirus outbreak are isolated in Chile",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/aislan-en-chile-a-dos-personas-que-viajaron-en-el-crucero-afectado-por-brote-de-hantavirus/",
-      "published_date": "2026-05-08T17:54:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Second tropical wave reaches the country on Sunday",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/segunda-onda-tropical-llega-al-pais-el-domingo/",
-      "published_date": "2026-05-08T17:52:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hugo Marino's mother: \"They took him alive and they have to give him to me alive\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/madre-de-hugo-marino-ellos-se-lo-llevaron-vivo-y-me-lo-tienen-que-entregar-vivo/",
-      "published_date": "2026-05-08T17:32:39Z",
       "category": "Local Events"
     }
   ]
