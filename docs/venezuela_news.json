@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-11T00:00:33Z",
+  "last_updated": "2026-05-11T13:50:14Z",
   "stories": [
+    {
+      "title": "Relatives of political prisoners pay tribute to Víctor Hugo Quero Navas in El Rodeo I",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-rinden-homenaje-a-victor-hugo-quero-navas-en-el-rodeo-i/",
+      "published_date": "2026-05-11T13:39:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two cruise ship passengers test positive as final phase of evacuations begins",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/dos-pasajeros-del-crucero-dan-positivo-mientras-empieza-la-fase-final-de-las-evacuaciones/",
+      "published_date": "2026-05-11T12:19:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Albares rules out activating any special mechanism so that Delcy Rodríguez can travel to Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/albares-descarta-excepcion-especial-para-delcy-rodriguez/",
+      "published_date": "2026-05-11T11:45:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran assures that its peace proposal is not “excessive” after Trump's rejection",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/iran-asegura-que-su-propuesta-de-paz-no-es-excesiva-tras-el-rechazo-de-trump/",
+      "published_date": "2026-05-11T11:40:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The CEV demands to determine responsibilities for the death of Víctor Quero Navas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-cev-exige-determinar-responsabilidades-de-la-muerte-de-victor-quero-navas/",
+      "published_date": "2026-05-11T10:46:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "28 trafficking victims rescued from the Ivory Coast: \"They were promised a paradise in Europe\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/rescatan-de-costa-de-marfil-a-28-victimas-de-trata-les-prometieron-un-paraiso-en-europa/",
+      "published_date": "2026-05-11T10:33:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brent price rises 4.5% after Trump considers Iran's response \"unacceptable\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/precio-del-brent-sube-45-despues-de-considerar-trump-inaceptable-la-respuesta-de-iran/",
+      "published_date": "2026-05-11T09:49:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Trump says Iran will no longer laugh at the United States",
       "source": "El Nacional",
@@ -94,53 +143,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Venezuelans in Buenos Aires protest the consular closure and electoral exclusion",
+      "title": "Universidad Monteávila offers the new career in Operations and Logistics Engineering",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezolanos-en-buenos-aires-protestan-por-el-cierre-consular/",
-      "published_date": "2026-05-10T15:11:19Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/universidad-monteavila-ofrece-la-nueva-carrera-de-ingenieria-de-operaciones-y-logistica/",
+      "published_date": "2026-05-11T13:08:30Z",
+      "category": "Military"
     },
     {
-      "title": "Iran hardens its stance in Hormuz while sending peace proposal to the US",
+      "title": "They report the death in custody of former councilor José Manuel García Sabino in Anzoátegui",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/iran-endurece-su-postura-en-ormuz-mientras-envia-propuesta-a-ee-uu/",
-      "published_date": "2026-05-10T14:41:14Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/denuncian-muerte-bajo-custodia-del-exconcejal-jose-manuel-garcia-sabino-en-anzoategui/",
+      "published_date": "2026-05-11T10:18:00Z",
+      "category": "Military"
     },
     {
-      "title": "Alberto Núñez Feijóo demands that Spain close the doors to Delcy Rodríguez: “She represents the dictatorship”",
+      "title": "The case of Víctor Quero Navas: a crime against humanity",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/alberto-nunez-feijoo-exige-que-espana-cierre-puertas-a-delcy-rodriguez/",
-      "published_date": "2026-05-10T14:22:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/el-caso-de-victor-quero-un-crimen-de-lesa-humanidad/",
+      "published_date": "2026-05-11T07:03:00Z",
+      "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez arrived in the Netherlands due to Venezuela's dispute with Guyana",
+      "title": "Relatives of political prisoners paid tribute to the mother of Víctor Hugo Quero Navas in El Rodeo I",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-llego-a-paises-bajos-por-disputa-de-venezuela-con-guyana/",
-      "published_date": "2026-05-10T14:07:39Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/familiares-de-presos-politicos-rindieron-homenaje-a-la-madre-de-victor-hugo-quero-navas-en-el-rodeo-i/",
+      "published_date": "2026-05-11T00:57:31Z",
+      "category": "Military"
     },
     {
-      "title": "Delsa Solórzano demands to clarify contradictions in the case of Víctor Hugo Quero: “He cannot be buried twice”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delsa-solorzano-exige-esclarecer-contradicciones-en-el-caso-de-victor-quero/",
-      "published_date": "2026-05-10T13:25:56Z",
-      "category": "Diplomacy"
+      "title": "Another prisoner dies in state custody, the PUD denounces",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/muere-otro-preso-bajo-custodia-del-estado-denuncia-la-pud/",
+      "published_date": "2026-05-11T00:31:20Z",
+      "category": "Military"
     },
     {
-      "title": "The US Embassy in Venezuela continues to hire personnel in the country to strengthen its structure",
+      "title": "Argentinian who was traveling on the cruise ship with hantavirus outbreak says that \"it was a disgrace\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/embajada-de-ee-uu-en-venezuela-sigue-contratando-personal/",
-      "published_date": "2026-05-10T13:05:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez defies European sanctions with a diplomatic exemption to defend the Essequibo in The Hague",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-desafia-sanciones-europeas-para-defender-el-esequibo/",
-      "published_date": "2026-05-10T12:36:53Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/argentino-que-viajaba-en-el-crucero-con-brote-de-hantavirus-dice-que-fue-una-desgracia/",
+      "published_date": "2026-05-11T00:03:56Z",
+      "category": "Military"
     },
     {
       "title": "They demand the arrest of a doctor accused of sexual abuse against Yekuana women in a CDI in Amazonas",
@@ -238,48 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/la-peregrinacion-de-fe-y-dolor-de-las-madres-que-esperan-en-venezuela/",
       "published_date": "2026-05-10T11:12:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The dangers of a possible reform of the Labor Law according to union leaders",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/reforma-ley-trabajo-rechazo-dirigentes-sindicales-corregir-politicas-economicas/",
-      "published_date": "2026-05-10T06:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Sedatives, extreme cold and 100 days without a toilet: Tareck El Aissami denounces that he suffered torture in prison",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607690/sedantes-frio-extremo-y-100-dias-sin-aseo-tareck-el-aissami-denuncia-que-sufrio-torturas-en-prision/",
-      "published_date": "2026-05-10T01:17:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nahuel Gallo recounts the torture he received during his imprisonment in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/nahuel-gallo-relata-las-torturas-que-recibio-en-su-encarcelamiento-en-venezuela/",
-      "published_date": "2026-05-10T00:30:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Monteávila University awards its first honorary doctorates",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/universidad-monteavila-otorga-sus-primeros-doctorados-honoris-causa/",
-      "published_date": "2026-05-09T23:08:40Z",
-      "category": "Military"
-    },
-    {
-      "title": "21 political prisoners are in forced disappearance: seven are women",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/21-presos-politicos-estan-en-desaparicion-forzada-siete-son-mujeres/",
-      "published_date": "2026-05-09T23:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Víctor Quero case: a death that puts the medical union under the microscope",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/607672/caso-victor-quero-una-muerte-que-pone-bajo-la-lupa-al-gremio-medico/",
-      "published_date": "2026-05-09T22:47:57Z",
       "category": "Military"
     },
     {
@@ -563,6 +563,83 @@
       "category": "Economy"
     },
     {
+      "title": "Qatar Airways will fly to Venezuela and Colombia starting in July",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/qatar-airways-volara-a-venezuela-y-colombia-a-partir-de-julio/",
+      "published_date": "2026-05-11T13:47:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Danny Ocean was the special guest of the Jonas Brothers in Chile",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/danny-ocean-fue-el-invitado-especial-de-los-jonas-brothers-en-chile/",
+      "published_date": "2026-05-11T13:24:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Qatar Airways will activate commercial flights to Caracas starting July 22",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/qatar-airways-activara-vuelos-comerciales-a-caracas/",
+      "published_date": "2026-05-11T13:09:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICE requests custody of Venezuelan man accused of abusing his teenage stepdaughter",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/ice-pide-custodia-de-venezolano-acusado-de-abusar-de-hijastra/",
+      "published_date": "2026-05-11T12:46:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Knicks eliminated the Sixers and advanced to the Eastern finals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/los-knicks-liquidaron-a-los-sixers-y-pasaron-a-la-final-del-este/",
+      "published_date": "2026-05-11T12:42:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UCV takes the lead in the semifinal phase of the Apertura Tournament",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/ucv-toma-la-delantera-en-la-fase-semifinal-del-torneo-apertura/",
+      "published_date": "2026-05-11T12:30:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Minister of Labor says that the comprehensive minimum income measure is “transitional”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/ministro-dice-que-es-transitoria-medida-de-ingreso-minimo-integral/",
+      "published_date": "2026-05-11T12:26:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"It is not fair that this affects Tierra del Fuego\": how the Argentine province from where the cruise sailed is experiencing the hantavirus crisis that alerts Europe",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/no-es-justo-que-esto-afecte-a-tierra-del-fuego-como-vive-la-provincia-argentina-desde-donde-zarpo-el-crucero-la-crisis-por-el-hantavirus-que-alerta-a-europa/",
+      "published_date": "2026-05-11T10:58:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelan Nathaly Grimán takes gold in women's wrestling",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/nathaly-griman-se-lleva-el-oro-en-lucha-libre-femenina/",
+      "published_date": "2026-05-11T10:31:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of May 11: The chain of command that hid the death of Víctor Quero and other news",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/607718/el-mananero-del-11-de-mayo-la-cadena-de-mando-que-oculto-la-muerte-de-victor-quero-y-otras-noticias/",
+      "published_date": "2026-05-11T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cell phone thief captured in the vicinity of Sambil Chacao: this was his modus operandi",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/capturado-ladron-en-las-inmediaciones-del-sambil-chacao-se-revela-insolito-modus-operandi/",
+      "published_date": "2026-05-11T00:26:08Z",
+      "category": "Local Events"
+    },
+    {
       "title": "They report the death in custody of a former PSUV councilor in Anaco: he had reported corruption in the Mayor's Office",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/607798/denuncian-muerte-bajo-custodia-de-exconcejal-del-psuv-en-anaco-habia-reportado-corrupcion-en-la-alcaldia/",
@@ -623,83 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/los-wizards-ganan-la-primera-opcion-para-elegir-en-el-draft-2026-de-la-nba/",
       "published_date": "2026-05-10T20:16:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan imprisoned for abusing his 16-year-old stepdaughter: ICE requests custody to deport him",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/venezolano-preso-por-abusar-de-su-hijastra-de-16-anos-ice-pide-la-custodia-para-deportarlo/",
-      "published_date": "2026-05-10T19:52:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They captured two subjects for sexual abuse against a woman with disabilities in Carabobo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/capturaron-a-dos-sujetos-por-abuso-sexual-contra-una-mujer-con-discapacidad-en-carabobo/",
-      "published_date": "2026-05-10T19:48:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dybala: \"The derby will probably be my last game in front of the fans\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/dybala-probablemente-el-derbi-sera-mi-ultimo-partido-ante-la-aficion/",
-      "published_date": "2026-05-10T19:10:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Donald Trump reiterates: \"Venezuela is a very happy country right now\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/donald-trump-venezuela-es-un-pais-muy-feliz-ahora-mismo/",
-      "published_date": "2026-05-10T18:58:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is glycation, the silent process that accelerates skin aging",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/que-es-la-glicacion-el-proceso-silencioso-que-acelera-el-envejecimiento-de-la-piel/",
-      "published_date": "2026-05-10T18:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marc Márquez successfully operated on his right foot and shoulder",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/marc-marquez-operado-con-exito-del-pie-y-el-hombro-derechos/",
-      "published_date": "2026-05-10T18:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netflix announces the return of La casa de papel after five years of its last season: The universe continues",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/netflix-anuncia-el-regreso-de-la-casa-de-papel/",
-      "published_date": "2026-05-10T17:59:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edmundo González raises his voice for Samantha Hernández and denounces family persecution: “No one will give him back his adolescence”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/edmundo-gonzalez-alza-la-voz-por-samantha-hernandez/",
-      "published_date": "2026-05-10T17:36:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado insists that she will return to Venezuela soon, but the position of the United States is key",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-insiste-en-que-vuelve-pronto-a-venezuela-pero-es-clave-la-posicion-de-estados-unidos/",
-      "published_date": "2026-05-10T16:08:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keys and irregularities of the Víctor Hugo Quero case",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/claves-e-irregularidades-del-caso-victor-hugo-quero/",
-      "published_date": "2026-05-10T16:08:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tareck El Aissami asked that his trial be public: “If it is the biggest robbery in history, it should be the most transparent trial”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/tareck-el-aissami-pidio-que-su-juicio-sea-publico/",
-      "published_date": "2026-05-10T15:53:56Z",
       "category": "Local Events"
     }
   ]
