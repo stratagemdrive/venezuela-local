@@ -1,7 +1,63 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-16T00:00:25Z",
+  "last_updated": "2026-05-16T11:55:52Z",
   "stories": [
+    {
+      "title": "The State remains silent about the damage caused by the oil spills",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608366/expertos-en-la-ucv-alertan-sobre-los-danos-de-los-derrames-petroleros/",
+      "published_date": "2026-05-16T10:02:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The blackout of press freedom in Venezuela: a film that began from the first day of Chavismo in 1999",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-apagon-de-la-libertad-de-prensa-comenzo-desde-el-primer-dia-del-chavismo/",
+      "published_date": "2026-05-16T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Will we have patience?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/608419/venezuela-tutelada/",
+      "published_date": "2026-05-16T03:14:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They enable a digital platform for Venezuelans abroad to obtain an electronic travel document",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/habilitan-plataforma-digital-para-que-venezolanos-en-el-exterior-obtengan-documento-electronico-de-viaje/",
+      "published_date": "2026-05-16T00:58:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump: We have made a fortune with Venezuelan oil",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/trump-hemos-hecho-una-fortuna-con-el-petroleo-venezolano/",
+      "published_date": "2026-05-16T00:49:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump assures that Cuba will end up aligning with the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/donald-trump-asegura-que-cuba-terminara-alineandose-con-ee-uu/",
+      "published_date": "2026-05-16T00:48:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy Rodríguez met with a delegation from the World Bank",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-se-reunio-con-una-delegacion-del-banco-mundial/",
+      "published_date": "2026-05-16T00:29:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foreign Ministry activates issuance of electronic safe passage for Venezuelans without passports as of #1Jun",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/cancilleria-activa-emision-de-salvoconducto-electronico-para-venezolanos-sin-pasaporte-a-partir-del-1jun/",
+      "published_date": "2026-05-16T00:08:48Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "“Let no one die”: the case of Víctor Quero changed the rules in El Rodeo I",
       "source": "El Pitazo",
@@ -28,6 +84,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/ee-uu-acusara-formalmente-a-raul-castro-por-el-derribo-de-las-avionetas-de-hermanos-al-rescate-segun-miami-herald/",
       "published_date": "2026-05-15T23:05:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Change as a driver of human evolution",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/608422/el-cambio-como-motor-de-evolucion-humana/",
+      "published_date": "2026-05-15T22:46:00Z",
       "category": "Diplomacy"
     },
     {
@@ -80,67 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cidh demands immediate release of all political prisoners in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/cidh-exige-liberacion-inmediata-de-todos-los-presos-politicos-en-venezuela/",
-      "published_date": "2026-05-15T17:07:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US confirms that enriched uranium removed from the IVIC reactor was transferred to California",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608317/estados-unidos-confirma-que-uranio-enriquecido-retirado-de-reactor-del-ivic-fue-trasladado-a-california/",
-      "published_date": "2026-05-15T16:41:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wilyer Abreu carries the Boston offense and matches Arráez among the Creole hitters",
+      "title": "The case of Víctor Quero is neither unique nor new in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/wilyer-abreu-carga-con-la-ofensiva-de-boston-e-iguala-a-arraez-entre-los-bateadores-criollos/",
-      "published_date": "2026-05-15T16:28:02Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/el-caso-de-victor-quero-no-es-unico-ni-nuevo-en-venezuela/",
+      "published_date": "2026-05-16T09:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Trump claims that Rubio looked “very good” in the clothes Maduro wore, but that he “wouldn't wear them”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-afirma-que-rubio-se-veia-muy-bien-con-la-ropa-que-uso-maduro-pero-que-el-no-la-usaria/",
-      "published_date": "2026-05-15T14:51:51Z",
-      "category": "Diplomacy"
+      "title": "Parishioners accompany Víctor Quero's mother at mass in memory of her son",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/feligreses-acompanan-a-madre-de-victor-quero-en-misa-en-memoria-de-su-hijo/",
+      "published_date": "2026-05-16T01:24:13Z",
+      "category": "Military"
     },
     {
-      "title": "What the Thucydides Trap is and why Xi believes it defines the US relationship with China",
+      "title": "Capture of alligator reveals abandonment of Olympic pool at Simón Bolívar University",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/que-es-la-trampa-de-tucidides-y-por-que-xi-cree-que-define-la-relacion-de-ee-uu-con-china/",
-      "published_date": "2026-05-15T14:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Historic summit: Trump and Xi Jinping redefine the global economy and the future of AI",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-y-xi-jinping-redefinen-la-economia-global-y-el-futuro-de-la-ia/",
-      "published_date": "2026-05-15T14:25:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World Bank representatives will visit Caracas to meet with the interim government, according to Bloomberg",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/representantes-del-banco-mundial-visitaran-caracas-para-reunirse-con-el-gobierno-interino-segun-bloomberg/",
-      "published_date": "2026-05-15T13:50:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "One of the leaders of the Aragua Train is extradited to the United States from Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/extraditan-a-ee-uu-desde-colombia-a-uno-de-los-lideres-del-tren-de-aragua/",
-      "published_date": "2026-05-15T13:03:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US wants to indict former Cuban president Raúl Castro",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ee-uu-quiere-imputar-al-expresidente-cubano-raul-castro/",
-      "published_date": "2026-05-15T12:56:54Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/captura-de-caiman-revela-abandono-de-piscina-olimpica-en-la-universidad-simon-bolivar/",
+      "published_date": "2026-05-16T00:19:05Z",
+      "category": "Military"
     },
     {
       "title": "Banks will not open their doors on Monday, May 18 due to a holiday",
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Two people died in Caracas after falling from the mechanical parking lot of the Phelps tower",
+      "title": "Reymond Romero hangs flowers and emotions in Flower Power",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/murieron-dos-personas-en-caracas-al-caer-desde-el-estacionamiento-mecanico-de-la-torre-phelps/",
-      "published_date": "2026-05-15T04:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "OVP denounced that relatives of political prisoners continue sleeping around the El Rodeo I prison",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ovp-denuncio-que-familiares-de-presos-politicos-siguen-durmiendo-en-los-alrededores-de-la-carcel-el-rodeo-i/",
-      "published_date": "2026-05-15T04:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "At least six FARC dissidents died in combat with the Colombian Army",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/al-menos-seis-disidentes-de-las-farc-murieron-en-combate-con-el-ejercito-colombiano/",
-      "published_date": "2026-05-15T01:01:51Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/05/flower-power-cuelga-recuerdos-en-un-estallido-de-colores/",
+      "published_date": "2026-05-16T09:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "PDVSA will investigate the causes of the explosion and fire at an oil facility that left six injured",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Venezuela maintains growth in crude oil production amid its oil opening",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezuela-mantiene-crecimiento-de-la-produccion-de-crudo-en-medio-de-su-apertura-petrolera/",
-      "published_date": "2026-05-13T16:16:47Z",
-      "category": "Energy"
+      "title": "Miraflores agrees to work with the World Bank",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/miraflores-acuerda-trabajar-con-banco-mundial-para-definir-cooperacion-tecnica/",
+      "published_date": "2026-05-16T00:49:21Z",
+      "category": "Economy"
     },
     {
       "title": "Lara | 200 kidney patients at risk due to mass resignation of nurses",
@@ -556,11 +563,46 @@
       "category": "Economy"
     },
     {
-      "title": "The firm Centerview Partners will lead the restructuring of Venezuelan debt",
+      "title": "Venezuela does not need another election",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/venezuela-no-necesita-otra-eleccion/",
+      "published_date": "2026-05-16T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "For the acronym of the acronym, amen",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/608425/por-las-siglas-de-las-siglas-reuben-morales/",
+      "published_date": "2026-05-16T05:58:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Electrical outages leave Baruta without water: failures affected the Tuy I, II and III systems",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/gran-caracas/bajones-electricos-dejan-sin-agua-a-baruta-fallas-afectaron-los-sistemas-tuy-i-ii-y-iii/",
+      "published_date": "2026-05-16T01:27:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Sucre Government announces project to recover the Turimiquire reservoir",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/centerview-partners-liderara-reestructuracion-de-deuda-venezolana/",
-      "published_date": "2026-05-14T15:24:47Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/gobernacion-de-sucre-anuncia-proyecto-para-recuperar-el-embalse-turimiquire/",
+      "published_date": "2026-05-16T00:37:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "USA | ICE detains a Venezuelan doctor: relatives assure that she has complied with all her immigration processes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/ee-uu-ice-detiene-a-medica-venezolana-familiares-aseguran-que-ha-cumplido-con-todos-sus-procesos-migratorios/",
+      "published_date": "2026-05-16T00:14:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Bolivia threatens with jail those who \"destroy\" democracy in the country",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/presidente-de-bolivia-amenaza-con-carcel-a-quienes-destrocen-la-democracia-en-el-pais/",
+      "published_date": "2026-05-16T00:12:19Z",
+      "category": "Local Events"
     },
     {
       "title": "Bank Monday | Venezuelan banks will not work on May 18 for the Ascension of the Lord",
@@ -658,48 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/con-misa-en-la-iglesia-la-candelaria-honraron-la-memoria-de-victor-hugo-quero-navas/",
       "published_date": "2026-05-15T20:32:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Users report failures to make transfers and access banking applications this #15May",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/usuarios-reportan-fallas-en-bancos-de-venezuela-esta-15may/",
-      "published_date": "2026-05-15T20:26:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IACHR demands immediate and unconditional release of all political prisoners in Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608338/cidh-demanda-liberacion-inmediata-e-incondicional-de-todos-los-presos-politicos-en-venezuela/",
-      "published_date": "2026-05-15T20:20:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chelsea and Manchester City fight for the oldest title in football: the FA Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/chelsea-y-manchester-city-luchan-por-el-titulo-mas-antiguo-del-futbol-la-fa-cup/",
-      "published_date": "2026-05-15T19:54:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Which are the best cities in the world for art and culture, according to \"Time Out\" magazine (and the two that are in Latin America)",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cuales-son-las-mejores-ciudades-del-mundo-para-el-arte-y-la-cultura-segun-la-revista-time-outy-las-dos-que-estan-en-america-latina/",
-      "published_date": "2026-05-15T18:50:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gas explosion in Lake Maracaibo: keys to the event",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608321/explosion-de-gas-en-lago-de-maracaibo-claves-sobre-el-hecho/",
-      "published_date": "2026-05-15T17:41:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The number of injured in the explosion and fire at the Lamargas plant in Lake Maracaibo rises to six",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/incendio-en-planta-lamargas-deja-heridos-en-el-lago-de-maracaibo/",
-      "published_date": "2026-05-15T16:56:20Z",
       "category": "Local Events"
     }
   ]
