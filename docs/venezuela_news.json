@@ -1,7 +1,63 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-17T00:00:51Z",
+  "last_updated": "2026-05-17T12:01:53Z",
   "stories": [
+    {
+      "title": "Donald Trump's praise is poisoned gifts",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/los-elogios-de-donald-trump-son-regalos-envenenados/",
+      "published_date": "2026-05-17T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chelsea announced Xabi Alonso as their new coach after a failed spell at Real Madrid",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/chelsea-anuncio-a-xabi-alonso-como-su-nuevo-entrenador-tras-fallido-paso-por-el-real-madrid/",
+      "published_date": "2026-05-17T11:51:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alex Saab: from keychain seller to the top and his second fall into 'disgrace' with Chavismo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/alex-saab-de-vendedor-de-llaveros-llego-a-la-cima-y-su-segunda-caida-en-desgracia-con-el-chavismo/",
+      "published_date": "2026-05-17T11:33:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Environment analysis: State 51?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/analisis-de-entorno-estado-51/",
+      "published_date": "2026-05-17T09:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Justice to heal: recognition of the State is key in the grieving process of victims",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/justicia-para-sanar-reconocimiento-del-estado-es-clave-en-el-proceso-de-duelo-de-las-victimas/",
+      "published_date": "2026-05-17T06:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alex Saab, the great ally of Nicolás Maduro who Delcy Rodríguez deported to the US",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/alex-saab-el-gran-aliado-de-nicolas-maduro-que-delcy-rodriguez-deporto-a-eeuu/",
+      "published_date": "2026-05-17T02:47:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carlos Paparoni pointed out that Alex Saab can be a witness in the Maduro trial in the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carlos-paparoni-senalo-que-alex-saab-puedes-ser-testigo-en-el-juicio-de-maduro-en-ee-uu/",
+      "published_date": "2026-05-17T00:47:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Clandestine grave with 60 bags of human remains found in Mexico",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/hallaron-en-mexico-fosa-clandestina-con-60-bolsas-con-restos-humanos/",
+      "published_date": "2026-05-17T00:22:39Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The drunk driver who killed two people in New York was charged with \"involuntary manslaughter\"",
       "source": "El Nacional",
@@ -87,60 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Department of Justice prepares transfer of Alex Saab to a prison in Miami",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/departamento-de-justicia-de-ee-uu-prepara-traslado-de-alex-saab-a-una-prision-en-miami/",
-      "published_date": "2026-05-16T18:15:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Corina Machado travels to Panama to meet with Venezuelan migrants and President Mulino",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-viaja-a-panama-para-reunirse-con-migrantes-venezolanos-y-el-presidente-mulino/",
-      "published_date": "2026-05-16T17:53:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Accident in Cota Mil left two dead: a motorized couple crashed into an accident car on the road",
+      "title": "Armando.Info: A prison only for the Zulia delegation",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/accidente-en-la-cota-mil-deja-dos-fallecidos-pareja-de-motorizados-se-estrello-contra-un-carro-accidentado-en-la-via/",
-      "published_date": "2026-05-16T17:22:28Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/armando-info-una-carcel-solo-para-la-delegacion-del-zulia/",
+      "published_date": "2026-05-17T11:08:00Z",
+      "category": "Military"
     },
     {
-      "title": "The sound and the fury in Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/608434/el-ruido-y-la-furia/",
-      "published_date": "2026-05-16T17:06:46Z",
-      "category": "Diplomacy"
+      "title": "Are the conditions in place for the restructuring of the external debt?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/condiciones-reestructuracion-deuda-externa-pdvsa-economistas/",
+      "published_date": "2026-05-17T06:50:00Z",
+      "category": "Military"
     },
     {
-      "title": "Cannes surprises by awarding an honorary Palme d'Or to John Travolta for his career in cinema",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cannes-sorprende-al-entregar-una-palma-de-oro-de-honor-a-john-travolta-por-su-trayectoria-en-el-cine/",
-      "published_date": "2026-05-16T16:28:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A soldier dies in Maldives while rescuing the bodies of Italian tourists",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/muere-un-militar-en-maldivas-en-tareas-de-rescate-de-los-cuerpos-de-turistas-italianos/",
-      "published_date": "2026-05-16T16:06:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Luis Florido rejects that former opposition political prisoners insult Trump and urges them to rest",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/luis-florido-rechaza-que-expresos-politicos-opositores-insulten-a-trump-y-los-exhorta-a-descansar/",
-      "published_date": "2026-05-16T15:57:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Spurs overwhelmed the Wolves and qualified for the Western Conference finals",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/los-spurs-arrollaron-a-los-wolves-y-clasificaron-para-las-finales-de-la-conferencia-oeste/",
-      "published_date": "2026-05-16T14:22:13Z",
-      "category": "Diplomacy"
+      "title": "The map and data of the 88 political prisoners that the State keeps behind bars",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/el-mapa-y-los-datos-detras-de-las-88-presas-politicas-que-el-estado-mantiene-tras-las-rejas/",
+      "published_date": "2026-05-17T06:45:00Z",
+      "category": "Military"
     },
     {
       "title": "Followers of Evo Morales took over the airport to avoid the arrest of the former president of Bolivia",
@@ -161,6 +182,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/detuvieron-a-hombre-en-zulia-que-llevaba-315-kilos-de-marihuana-en-bombonas-de-gas/",
       "published_date": "2026-05-16T21:09:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Mothers of political prisoners met in Caracas to demand truth and justice",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/madres-de-presos-politicos-se-reunieron-en-caracas-para-exigir-verdad-y-justicia/",
+      "published_date": "2026-05-16T20:38:00Z",
       "category": "Military"
     },
     {
@@ -255,32 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Lipso Nava shows his untouchables in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/lipso-nava-asoma-a-sus-intocables-en-el-caracas/",
-      "published_date": "2026-05-15T19:23:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "How the migrant smuggling network of \"Doña Lupe\" operated from Mexico, sentenced in the US to 11 years in prison",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/como-operaba-desde-mexico-la-red-de-trafico-de-migrantes-de-dona-lupe-condenada-en-ee-uu-a-11-anos-de-carcel/",
-      "published_date": "2026-05-15T18:12:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGO Justice, Encounter and Forgiveness denounces that there are still 663 political prisoners in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ong-justicia-encuentro-y-perdon-denuncio-que-aun-hay-663-presos-politicos-en-venezuela/",
-      "published_date": "2026-05-15T18:09:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cicpc and GN seize more than 3.5 tons of drugs and dismantle clandestine laboratory in Apure",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/cicpc-y-gn-incautan-mas-de-35-toneladas-de-droga-y-desmantelan-laboratorio-clandestino-en-apure/",
-      "published_date": "2026-05-15T15:59:20Z",
-      "category": "Military"
+      "title": "The morbidity of corruption in the Americas",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/608525/corrupcion-en-las-americas/",
+      "published_date": "2026-05-17T02:26:49Z",
+      "category": "Energy"
     },
     {
       "title": "Reymond Romero hangs flowers and emotions in Flower Power",
@@ -413,13 +420,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/608190/ligia-bolivar-los-logros-en-ddhh-no-son-por-mendigar-al-poder/",
       "published_date": "2026-05-14T11:45:54Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Where is Tarek William Saab?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/donde-esta-tarek-william-saab/",
-      "published_date": "2026-05-13T22:40:00Z",
       "category": "Energy"
     },
     {
@@ -563,6 +563,104 @@
       "category": "Economy"
     },
     {
+      "title": "\"Unite the Kingdom\": the British far-right challenges the Starmer government with a massive protest",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/unite-the-kingdom-la-ultraderecha-britanica-desafia-al-gobierno-de-starmer-con-multitudinaria-protesta/",
+      "published_date": "2026-05-17T11:55:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Landslide left two homes on the brink of collapse in La Pastora",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/deslizamiento-de-tierra-dejo-dos-viviendas-al-borde-del-colapso-en-la-pastora/",
+      "published_date": "2026-05-17T11:38:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pedro Sánchez undergoes a test in the elections in Andalusia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/pedro-sanchez-se-somete-a-una-prueba-en-las-elecciones-en-andalucia/",
+      "published_date": "2026-05-17T11:35:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The lack of administrative continuity: a form of corruption that always goes unpunished",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/falta-continuidad-administrativa-forma-corrupcion-queda-impune/",
+      "published_date": "2026-05-17T10:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Aissami and torture: he experiences firsthand what he dismissed for years",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/el-aissami-y-la-tortura-vive-en-carne-propia-lo-denunciado-por-los-presos-politicos-e-ignorado-por-el-poder/",
+      "published_date": "2026-05-17T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Photos | Alex Saab lands in Miami after being deported by the Delcy Rodríguez administration to the US.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/fotos-alex-saab-aterriza-en-miami-tras-ser-deportado-por-la-administracion-de-delcy-rodriguez-a-ee-uu/",
+      "published_date": "2026-05-17T03:52:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They publish images of Alex Saab's arrival in Miami after being handed over by the government of Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/publican-imagenes-de-la-llegada-de-alex-saab-a-miami-tras-ser-entregado-por-el-gobierno-de-delcy-rodriguez/",
+      "published_date": "2026-05-17T02:24:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alex Saab is already in Miami after being deported by the government of Delcy Rodríguez",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/alex-saab-llego-a-miami-tras-ser-deportado-por-gobierno/",
+      "published_date": "2026-05-17T02:22:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Users report tremor in Caracas the night of this #16May",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/usuarios-reportan-temblor-en-caracas-la-noche-de-este-16may/",
+      "published_date": "2026-05-17T02:17:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tremors were reported in several areas of Venezuela this Saturday night",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/reportaron-temblor-en-varias-zonas-de-venezuela-la-noche-de-este-sabado/",
+      "published_date": "2026-05-17T01:58:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The “Colombian citizen” Alex Saab is no longer a hero: Rodrigato hands him over to the United States.",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608467/el-colombiano-alex-saab-ya-no-es-un-heroe-el-rodrigato-lo-entrega-a-ee-uu/",
+      "published_date": "2026-05-17T01:14:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reactions to Alex Saab's surrender to the United States: \"He made his fortune at the expense of Venezuelan hunger\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/las-reacciones-por-la-entrega-de-alex-saab-a-ee-uu-hizo-su-fortuna-a-costa-del-hambre-de-los-venezolanos/",
+      "published_date": "2026-05-17T00:30:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reactions to the deportation of Álex Saab reopen debate about his nationality and role in Chavismo",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/reacciones-a-deportacion-de-alex-saab-reabren-debate-sobre-su-nacionalidad-y-rol-en-el-chavismo/",
+      "published_date": "2026-05-17T00:23:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Night closures announced on the Valle-Coche highway for two months due to road work",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/anuncian-cierres-nocturnos-en-autopista-valle-coche-durante-dos-meses-por-trabajos-viales/",
+      "published_date": "2026-05-16T23:50:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Bulgaria won its first Eurovision amid controversy over Israel's participation",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/bulgaria-sorprendio-y-conquisto-su-primer-eurovision-en-medio-de-polemica-por-la-participacion-de-israel/",
@@ -602,104 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/vaivenes-discurso-machado-regreso-ajusta-evolucion-hechos-politologos/",
       "published_date": "2026-05-16T20:40:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Magnitude 6 earthquake in Antigua and Barbuda was felt in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/sismo-de-magnitud-6-en-antigua-y-barbuda-se-sintio-en-venezuela/",
-      "published_date": "2026-05-16T20:21:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sheinbaum against foreign pressure after surrender of former officials in the US",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/sheinbaum-en-contra-de-presion-extranjera-tras-entrega-de-exfuncionarios-en-ee-uu/",
-      "published_date": "2026-05-16T20:14:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arbeloa stated that he will be “very happy” if Mourinho directs Real Madrid next season",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/arbeloa-afirmo-que-estara-muy-contento-si-mourinho-dirige-al-real-madrid-la-proxima-temporada/",
-      "published_date": "2026-05-16T20:13:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opposition José Daniel Ferrer affirms that the transition in Cuba will be faster than in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/opositor-jose-daniel-ferrer-afirma-que-la-transicion-en-cuba-sera-mas-rapida-que-en-venezuela/",
-      "published_date": "2026-05-16T19:59:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In 2025, the precariousness of work in Venezuela deepened",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608374/en-2025-se-profundizo-la-precarizacion-del-trabajo-en-venezuela/",
-      "published_date": "2026-05-16T19:56:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rome Masters 1000: Sinner scores in the final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/masters-1000-de-roma-sinner-se-anota-en-la-final/",
-      "published_date": "2026-05-16T19:23:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They murdered a former mayor who worked on the campaign of the Colombian candidate Abelardo de la Espriella",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/asesinaron-a-un-exalcalde-que-trabajaba-en-campana-de-candidato-colombiano-abelardo-de-la-espriella/",
-      "published_date": "2026-05-16T19:05:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Álex Márquez won the sprint race at the Catalonia GP",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/alex-marquez-gano-la-carrera-esprint-en-gp-de-cataluna/",
-      "published_date": "2026-05-16T18:06:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela, Trump and the 51st state: reading beyond the presidential “joke”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/venezuela-trump-estado-51-lectura-mas-alla-de-la-broma-presidencial/",
-      "published_date": "2026-05-16T18:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hundreds of Venezuelans join in prayer to ask for justice for the death of Víctor Quero Navas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/cientos-de-venezolanos-honran-y-piden-justicia-por-la-muerte-de-victor-quero/",
-      "published_date": "2026-05-16T17:58:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mother of Ucevista detained in Caracas demands guarantees for her son: \"I don't want Victor Hugo to happen to him\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/madre-de-ucevista-detenido-en-caracas-exige-garantias-para-su-hijo-no-quiero-que-le-pase-lo-de-victor-hugo/",
-      "published_date": "2026-05-16T17:56:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City wins the FA Cup after beating Chelsea 1-0",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/manchester-city-gana-la-fa-cup-tras-imponerse-1-0-al-chelsea/",
-      "published_date": "2026-05-16T17:47:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan women ask to rescue the value of life after the death of Víctor Quero Navas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/mujeres-venezolanas-piden-rescatar-el-valor-de-la-vida-tras-muerte-de-victor-quero-navas/",
-      "published_date": "2026-05-16T17:05:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 20 thousand people have been repatriated from the United States to Venezuela since February 2025",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/mas-de-20-mil-personas-han-sido-repatriadas-de-estados-unidos-a-venezuela-desde-febrero-de-2025/",
-      "published_date": "2026-05-16T16:26:13Z",
       "category": "Local Events"
     }
   ]
