@@ -1,12 +1,110 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-19T00:16:01Z",
+  "last_updated": "2026-05-19T13:57:43Z",
   "stories": [
+    {
+      "title": "Brent falls to $109, waiting for a solution with Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-brent-cae-hasta-los-109-dolares-a-la-espera-de-una-solucion-con-iran/",
+      "published_date": "2026-05-19T13:21:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Valentina Viso: “I can't do anything other than say 'I'm Venezuelan'”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/valentina-viso-a-mi-no-me-sale-otra-cosa-que-decir-soy-venezolana/",
+      "published_date": "2026-05-19T12:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The \"dictator hunter\": \"I always like to see a dictator in handcuffs, but not at any cost\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-cazador-de-dictadores-siempre-me-agrada-ver-a-un-dictador-esposado-pero-no-a-cualquier-costo/",
+      "published_date": "2026-05-19T12:13:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peru dismantles the band \"El Tren de Aragua Nueva Generación\": they are accused of kidnapping, extortion and torture",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/peru-desarticula-banda-el-tren-de-aragua-nueva-generacion-son-acusados-de-secuestro-extorsion-y-torturas/",
+      "published_date": "2026-05-19T11:28:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Switzerland will open its secret files on Josef Mengele, but what is the relationship of the \"Nazi Angel of Death\" with that country?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/suiza-abrira-sus-archivos-secretos-sobre-josef-mengele/",
+      "published_date": "2026-05-19T11:22:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Transparency Venezuela demands to investigate those who favored Alex Saab",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608819/transparencia-venezuela-exige-investigar-a-quienes-favorecieron-a-alex-saab/",
+      "published_date": "2026-05-19T11:10:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Putin travels to China to reaffirm unbreakable ties after Trump's visit",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/putin-viaja-a-china-para-reafirmar-sus-lazos-inquebrantables-tras-la-visita-de-trump/",
+      "published_date": "2026-05-19T10:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jafar Panahi to be retried in Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/jafar-panahi-sera-juzgado-de-nuevo-en-iran/",
+      "published_date": "2026-05-19T08:58:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carabobo will face Blooming in Santa Cruz de Bolivia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carabobo-enfrentara-al-blooming-en-santa-cruz-de-bolivia/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A plan for Venezuela | Monetary policy (II)",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/608773/dolarizar-la-economia/",
+      "published_date": "2026-05-19T02:55:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saab was put in the pants again and will appear before a judge again on June 24",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608756/a-saab-le-pusieron-la-braga-otra-vez-y-volvera-a-comparecer-ante-un-juez-el-24-de-junio/",
+      "published_date": "2026-05-19T01:30:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Alex Saab is not Venezuelan, he is Colombian”: The pearl of Diosdado Cabello and the questions it unleashes",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608754/alex-saab-no-es-venezolano-es-colombiano-la-perla-de-diosdado-y-las-preguntas-que-desata/",
+      "published_date": "2026-05-19T01:00:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The DEA assures that the case against Alex Saab seeks to dismantle the financial networks linked to Chavismo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/dea-asegura-que-caso-alex-saab-busca-desmontar-redes-financieras-vinculadas-al-chavismo/",
+      "published_date": "2026-05-19T00:52:18Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Venezuela assures that 28,000 migrants have returned to the country",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/venezuela-asegura-que-28-000-migrantes-han-regresado-al-pais/",
       "published_date": "2026-05-19T00:10:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Records reveal that Alex Saab has had a Venezuelan ID since 2018",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/los-rastros-de-alex-saab-en-el-sistema-venezolano-rif-seguro-social-y-registro-electoral/",
+      "published_date": "2026-05-18T23:38:45Z",
       "category": "Diplomacy"
     },
     {
@@ -45,102 +143,102 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Minnesota Prosecutor's Office accuses ICE agent of injuring a Venezuelan during an immigration operation",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/fiscalia-de-minnesota-acusa-a-agente-de-ice-por-herir-a-un-venezolano-durante-un-operativo-migratorio/",
-      "published_date": "2026-05-18T21:33:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alex Saab is charged in Miami for money laundering after his deportation from Venezuela",
+      "title": "Ucab demands immediate independent investigation into the death of political prisoner Víctor Quero and denounces the opacity of the State",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/alex-saab-es-imputado-en-miami-por-lavado-de-dinero-tras-su-deportacion-de-venezuela/",
-      "published_date": "2026-05-18T21:02:44Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/ucab-exige-investigacion-independiente-inmediata-por-muerte-de-preso-politico-victor-quero-y-denuncia-opacidad-del-estado/",
+      "published_date": "2026-05-19T13:51:16Z",
+      "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez says that the deportation of Alex Saab was based on the interests of Venezuela",
+      "title": "Merys Torres, mother of Captain Antonio Sequea, is released from prison",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/excarcelan-a-merys-torres-mama-del-capitan-antonio-sequea/",
+      "published_date": "2026-05-19T13:41:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Merys Torres, mother of Captain Antonio Sequea, released from prison",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-dice-que-deportacion-de-alex-saab-se-dio-basada-en-intereses-de-venezuela/",
-      "published_date": "2026-05-18T19:55:58Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/excarcelada-merys-torres-madre-del-capitan-antonio-sequea/",
+      "published_date": "2026-05-19T13:17:56Z",
+      "category": "Military"
     },
     {
-      "title": "Venezuela asks Trinidad and Tobago for information and compensation for hydrocarbon spill",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezuela-pide-a-trinidad-y-tobago-informacion-e-indemnizacion-por-derrame-de-hidrocarburo/",
-      "published_date": "2026-05-18T17:53:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ABC: Delcy regime ignored its Constitution to extradite Alex Saab",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/abc-regimen-de-delcy-ignoro-su-constitucion-para-extraditar-a-alex-saab/",
-      "published_date": "2026-05-18T17:47:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A minute of silence for Carmen Navas: the PUD call in honor of Víctor Quero's mother",
+      "title": "Zapatero is accused of influence peddling: Spanish police search his offices",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/un-minuto-de-silencio-por-carmen-navas-la-convocatoria-de-la-pud-en-honor-a-la-madre-de-victor-quero/",
-      "published_date": "2026-05-18T15:52:30Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/internacional/zapatero-es-imputado-por-trafico-de-influencias-policia-espanola-registra-sus-oficinas/",
+      "published_date": "2026-05-19T13:01:05Z",
+      "category": "Military"
     },
     {
-      "title": "Transparency Venezuela demands investigation into the Álex Saab case",
+      "title": "Almodóvar pursues the Palme d'Or in Cannes with his Bitter Christmas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/almodovar-persigue-con-su-amarga-navidad-la-palma-de-oro-en-cannes/",
+      "published_date": "2026-05-19T11:49:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Public health system faces a reduction of up to 80% in its operational capacities",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608744/sistema-de-salud-publica-enfrenta-una-reduccion-de-hasta-80-en-sus-capacidades-operativas/",
+      "published_date": "2026-05-19T11:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Although the PPT for Venezuelan adults in Colombia closed permanently, scammers on TikTok offer to get it out “in one day”",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/transparencia-venezuela-exige-investigacion-por-el-caso-alex-saab/",
-      "published_date": "2026-05-18T14:58:52Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/cocuyo-chequea/ppt-estafa-tiktok-venezuela-colombia/",
+      "published_date": "2026-05-19T11:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "Iran announces the creation of a body to manage the Strait of Hormuz",
+      "title": "Delcy Rodríguez orders an investigation into the death of Víctor Hugo Quero Navas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/iran-anuncia-la-creacion-de-un-organismo-para-gestionar-el-estrecho-de-ormuz/",
-      "published_date": "2026-05-18T14:32:16Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-ordena-una-investigacion-sobre-la-muerte-victor-hugo-quero-navas/",
+      "published_date": "2026-05-19T10:08:00Z",
+      "category": "Military"
     },
     {
-      "title": "José Altuve will be out for two weeks due to a left oblique injury",
+      "title": "Teenager Samantha Hernández is released from prison after 7 months in detention",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/jose-altuve-estara-fuera-dos-semanas-por-lesion-en-el-oblicuo-izquierdo/",
-      "published_date": "2026-05-18T13:50:48Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/excarcelan-a-adolescente-samantha-hernandez-tras-7-meses-detenida/",
+      "published_date": "2026-05-19T09:49:00Z",
+      "category": "Military"
     },
     {
-      "title": "Democratic Unitary Platform and the student movement call for tributes for the death of Carmen Teresa Navas",
+      "title": "El Mañanero on May 19: Students were attacked by police officers",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/608759/el-mananero-del-19-de-mayo-estudiantes-fueron-agredidos-por-funcionarios-policiales/",
+      "published_date": "2026-05-19T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Carmen Teresa Navas, the legacy of dignity and courage of a Venezuelan mother",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carmen-teresa-navas-el-legado-de-dignidad-y-valentia-de-una-madre-venezolana/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "It's the fault of others",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/608813/chivos-expiatorios-eddie-ramirez-s/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Samantha Hernández and Merys Torres de Sequea, two Sippenhaft victims released from prison this #18May",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/608784/samantha-hernandez-y-merys-torres-de-sequea-dos-victimas-de-sippenhaft-excarceladas/",
+      "published_date": "2026-05-19T03:24:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Teenage political prisoner Samantha Hernández is released from prison after 7 months in detention",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/plataforma-unitaria-democratica-y-el-movimiento-estudiantil-convocan-homenajes-por-la-muerte-de-carmen-teresa-navas/",
-      "published_date": "2026-05-18T13:47:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Amnesty International and civil society begin Human Rights Day 2026 to propose public policies in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/amnistia-internacional-y-la-sociedad-civil-inician-la-jornada-de-derechos-humanos-2026-para-proponer-politicas-publicas-en-venezuela/",
-      "published_date": "2026-05-18T13:27:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Shai Gilgeous-Alexander confirms his class by receiving the second MVP award",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/shai-gilgeous-alexander-ratifica-su-clase-al-recibir-el-segundo-premio-de-mvp/",
-      "published_date": "2026-05-18T13:20:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cruise ship affected by hantavirus outbreak reaches the end of its voyage",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/crucero-afectado-por-brote-de-hantavirus-llega-al-final-de-su-travesia/",
-      "published_date": "2026-05-18T11:42:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nobel Peace Prize winner Narges Mohammadi discharged and recovering at home",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/nobel-de-la-paz-narges-mohammadi-recibe-el-alta-y-se-recupera-en-casa/",
-      "published_date": "2026-05-18T10:42:00Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/excarcelan-a-adolescente-presa-politica-samantha-hernandez-tras-7-meses-detenida/",
+      "published_date": "2026-05-19T01:28:53Z",
+      "category": "Military"
     },
     {
       "title": "They report that six internet operators block the Chavista portal Venezuela News",
@@ -185,102 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Porras on the death of Carmen Navas: May her testimony move the hearts of the torturers",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608728/baltazar-porras-sobre-muerte-de-carmen-navas-que-su-testimonio-mueva-los-corazones-de-los-torturadores/",
-      "published_date": "2026-05-18T22:31:43Z",
-      "category": "Military"
+      "title": "Zulia | Worker injured in explosion at gas plant operated by PDVSA dies",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/zulia-muere-trabajador-herido-en-explosion-de-planta-de-gas-operada-por-pdvsa/",
+      "published_date": "2026-05-19T13:41:04Z",
+      "category": "Energy"
     },
     {
-      "title": "NGO denounces that the imprisonment of 660 political prisoners extends the punishment to their families",
+      "title": "What happens in Chavismo with the extradition of Alex Saab?: signs of purification and that the “untouchables” are over",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-denuncia-que-la-prision-de-660-presos-politicos-extiende-el-castigo-a-sus-familias/",
-      "published_date": "2026-05-18T22:14:44Z",
-      "category": "Military"
+      "url": "https://efectococuyo.com/politica/que-pasa-chavismo-extradicion-saab-depuracion-intocables-acabaron/",
+      "published_date": "2026-05-19T13:09:01Z",
+      "category": "Energy"
     },
     {
-      "title": "“Serious legal and administrative irregularity”: Government continues without publishing a salary increase in the Gazette",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608716/grave-irregularidad-juridica-y-administrativa-gobierno-sigue-sin-publicar-en-gaceta-aumento-del-salario/",
-      "published_date": "2026-05-18T21:33:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "New Fed chief to be sworn in in Trump's presence on Friday",
+      "title": "Pdvsa-Cripto case: hearing suspended due to Tareck el Aissami's hunger strike",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/nuevo-jefe-de-la-fed-jurara-el-cargo-en-presencia-de-trump-el-viernes/",
-      "published_date": "2026-05-18T20:25:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Miami federal court accuses Alex Saab of money laundering: he could face a maximum sentence of 20 years in prison",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/corte-federal-de-miami-acusa-a-alex-saab-de-lavado-de-dinero/",
-      "published_date": "2026-05-18T19:35:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Aeroméxico announces intentions to reconnect Mexico City and Caracas after a decade of absence",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/aeromexico-anuncia-intenciones-de-reconectar-la-ciudad-de-mexico-y-caracas-tras-una-decada-de-ausencia/",
-      "published_date": "2026-05-18T19:07:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "UCV students protested the deaths of Víctor Quero and Carmen Navas: PNB prevented their progress",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/estudiantes-de-la-ucv-protestaron-por-las-muertes-de-victor-quero-y-carmen-navas-pnb-impidio-su-avance/",
-      "published_date": "2026-05-18T18:19:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "UCV students marched in Caracas for justice for Carmen Teresa Navas and release of political prisoners",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/estudiantes-de-la-ucv-marcharon-en-caracas-por-justicia-para-carmen-teresa-navas-y-liberacion-de-presos-politicos/",
-      "published_date": "2026-05-18T18:08:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carmen Teresa Navas, the legacy of dignity and courage of a Venezuelan mother",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/carmen-teresa-navas-el-legado-de-dignidad-y-valentia-de-una-madre-venezolana/",
-      "published_date": "2026-05-18T17:28:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran announces 6,500 arrests of alleged spies and opponents since the start of the war",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/iran-anuncia-6-500-arrestos-de-supuestos-espias-y-opositores-desde-el-inicio-de-la-guerra/",
-      "published_date": "2026-05-18T17:08:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Inameh warned about the arrival of three tropical waves in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/inameh-alerto-sobre-la-llegada-de-tres-ondas-tropicales-a-venezuela/",
-      "published_date": "2026-05-18T16:29:26Z",
-      "category": "Military"
-    },
-    {
-      "title": "Jorge Alayeto, the oldest Spanish-Venezuelan prisoner of Chavismo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/jorge-alayeto-el-preso-hispanovenezolano-mas-antiguo-del-chavismo/",
-      "published_date": "2026-05-18T16:04:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ron Howard portrays Richard Avedon at the Cannes Film Festival",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ron-howard-retrata-en-cannes-a-richard-avedon/",
-      "published_date": "2026-05-18T13:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Transparency Venezuela demands that the Prosecutor's Office investigate Alex Saab",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/transparencia-venezuela-exige-a-la-fiscalia-investigar-a-alex-saab/",
-      "published_date": "2026-05-18T13:58:50Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/05/pdvsa-cripto-suspenden-audiencia-por-huelga-de-el-aissami/",
+      "published_date": "2026-05-19T12:26:24Z",
+      "category": "Energy"
     },
     {
       "title": "Blackouts in Táchira: merchants ask for the sale of gasoline in pimpinas to keep power plants active",
@@ -402,25 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Explosion and fire at PDVSA plant leaves at least six workers injured",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/explosion-e-incendio-en-la-planta-lamargas-de-pdvsa-en-el-lago-de-maracaibo-deja-al-menos-dos-heridos/",
-      "published_date": "2026-05-15T16:50:52Z",
-      "category": "Energy"
+      "title": "School collapse: the national educational budget does not reach 13%",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/colapso-escolar-el-presupuesto-educativo-nacional-no-llega-a-13/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Gabriela Salvadori, kitchen artist passionate about training new generations",
+      "title": "The concern of hotel owners in the US due to the low number of reservations before the start of the 2026 World Cup",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/gabriela-salvadori-artista-de-la-cocina-apasionada-por-formar-nuevas-generaciones/",
-      "published_date": "2026-05-15T16:15:42Z",
-      "category": "Energy"
-    },
-    {
-      "title": "They found a body inside a grave in the Barquisimeto cemetery",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/hallaron-cadaver-dentro-de-una-fosa-en-el-cementerio-de-barquisimeto/",
-      "published_date": "2026-05-15T12:00:08Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/05/preocupan-las-pocas-de-reservas-antes-del-inicio-del-mundial-2026/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Economy"
     },
     {
       "title": "Pep Guardiola will leave Manchester City at the end of the season",
@@ -434,13 +448,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/internacionales/departamento-de-justicia-de-eeuu-publica-acusacion-contra-alex-saab/",
       "published_date": "2026-05-18T22:36:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "School collapse: the national educational budget does not reach 13%",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/colapso-escolar-el-presupuesto-educativo-nacional-no-llega-a-13/",
-      "published_date": "2026-05-18T21:09:20Z",
       "category": "Economy"
     },
     {
@@ -458,7 +465,7 @@
       "category": "Economy"
     },
     {
-      "title": "A Venezuelan family requires at least 2,697 minimum wages to feed itself, according to a recent Cendas-FVM report",
+      "title": "A family requires at least 2,697 minimum wages to feed itself, according to Cendas-FVM",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/economia/una-familia-venezolana-requiere-de-al-menos-2-697-salarios-minimos-para-alimentarse-segun-reciente-informe-del-cendas-fvm/",
       "published_date": "2026-05-18T15:20:42Z",
@@ -556,17 +563,122 @@
       "category": "Economy"
     },
     {
-      "title": "World Bank will send delegation to Venezuela to meet with government officials",
+      "title": "Rodríguez Zapatero assures that he has \"never\" taken steps in favor of Plus Ultra",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/banco-mundial-enviara-mision-a-venezuela-tras-reactivar-relaciones/",
-      "published_date": "2026-05-15T13:26:06Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/rodriguez-zapatero-asegura-que-jamas-ha-realizado-gestiones-a-favor-de-plus-ultra/",
+      "published_date": "2026-05-19T13:43:58Z",
+      "category": "Local Events"
     },
     {
-      "title": "The traces of Álex Saab in the Venezuelan system: RIF, social security and electoral registration",
+      "title": "The National Court of Spain charges former President Zapatero with influence peddling and money laundering",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/la-audiencia-nacional-de-espana-imputa-al-expresidente-zapatero-por-trafico-de-influencias-y-blanqueo/",
+      "published_date": "2026-05-19T13:26:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to save multiple videos from any Facebook page",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/como-guardar-multiples-videos-de-cualquier-pagina-de-facebook/",
+      "published_date": "2026-05-19T13:07:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Daughter of Carmen Navas demands justice for the death of her mother and brother: \"Everything has been very difficult\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/hija-de-carmen-navas-exige-justicia-por-muerte-de-su-madre-y-hermano-todo-ha-sido-muy-dificil/",
+      "published_date": "2026-05-19T12:25:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unverified X accounts will only be able to post 50 times a day",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/cuentas-no-verificadas-de-x-solo-podran-publicar-50-veces-al-dia/",
+      "published_date": "2026-05-19T11:30:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WHO director acknowledges that there is alarm due to the magnitude and speed of the Ebola outbreak",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/director-de-la-oms-reconoce-que-hay-alarma-por-magnitud-y-rapidez-del-brote-de-ebola/",
+      "published_date": "2026-05-19T10:43:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rodríguez Zapatero is charged with money laundering",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/imputan-a-rodriguez-zapatero-por-lavado-de-dinero/",
+      "published_date": "2026-05-19T08:49:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "With our eyes on Javier Bardem",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/con-los-ojos-puestos-en-javier-bardem/",
+      "published_date": "2026-05-19T04:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Can Venezuela join the US? The legal route before the proposal of the 51st state",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-ruta-juridica-ante-la-propuesta-del-estado-51/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The female Vinotinto prepares to return to the League of Nations",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-vinotinto-femenina-se-prepara-para-la-liga-de-naciones/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carvajal leaves Real Madrid in peace: \"I kept my word\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carvajal-se-va-en-paz-del-real-madrid-cumpli-mi-palabra/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Neuer generates controversy for his return to the Germany team",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/neuer-genera-polemica-por-su-regreso-a-la-seleccion-de-alemania/",
+      "published_date": "2026-05-19T04:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Curfew in Ecuador leaves 5,000 detained in two weeks",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/toque-de-queda-en-ecuador-deja-5-000-detenidos-en-dos-semanas/",
+      "published_date": "2026-05-19T01:02:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relatives confirm release of teenager Samantha Hernández",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/los-rastros-de-alex-saab-en-el-sistema-venezolano-rif-seguro-social-y-registro-electoral/",
-      "published_date": "2026-05-18T23:38:45Z",
+      "url": "https://elpitazo.net/politica/familiares-confirman-liberacion-de-la-adolescente-samantha-hernandez/",
+      "published_date": "2026-05-19T01:00:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump calls San Diego mosque shooting terrible",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/trump-califica-de-terrible-el-tiroteo-en-una-mezquita-de-san-diego/",
+      "published_date": "2026-05-19T00:38:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least four fires linked to electrical failures were recorded in Venezuela in less than 20 days",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/al-menos-cuatro-incendios-vinculados-a-fallas-electricas-se-registraron-en-venezuela-en-menos-de-20-dias/",
+      "published_date": "2026-05-19T00:35:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The keys to the end of residency for humanitarian reasons for Venezuelans in Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/las-claves-del-fin-de-la-residencia-por-razones-humanitarias-para-venezolanos-en-espana/",
+      "published_date": "2026-05-18T23:12:24Z",
       "category": "Local Events"
     },
     {
@@ -588,118 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/bravos-reactivan-a-ronald-acuna-jr-desde-la-lista-de-lesionados/",
       "published_date": "2026-05-18T22:43:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombians in Venezuela ask that a new administration take care of their compatriots in the neighboring country",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/colombianos-en-venezuela-piden-que-nueva-administracion-se-encargue-de-los-connacionales-en-el-vecino-pais/",
-      "published_date": "2026-05-18T22:41:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sntp denounces closure of Venezuela News, media linked to Alex Saab: more than 100 workers were fired",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sntp-denuncia-cierre-de-venezuela-news-medio-vinculado-a-alex-saab-mas-de-100-trabajadores-fueron-despedidos/",
-      "published_date": "2026-05-18T22:31:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivar | Warao community of Cambalache cries out for government help",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-comunidad-warao-de-cambalache-clama-por-ayuda-gubernamental/",
-      "published_date": "2026-05-18T22:26:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US chargé d'affaires visits Venezuelan hospitals to verify distribution of medical supplies",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/encargado-de-negocios-de-ee-uu-visita-hospitales-venezolanos-para-verificar-distribucion-de-insumos-medicos/",
-      "published_date": "2026-05-18T22:17:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "University sector of Portuguesa and Barinas will participate in a 24-hour strike called nationwide",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/sector-universitario-de-portuguesa-y-barinas-participara-en-paro-de-24-horas-convocado-a-nivel-nacional/",
-      "published_date": "2026-05-18T22:13:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Feminist organizations: Death of Carmen Navas must become an immediate demand for justice",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608724/organizaciones-feministas-muerte-de-carmen-navas-debe-convertirse-en-exigencia-inmediata-de-justicia/",
-      "published_date": "2026-05-18T22:11:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The times that the Rodríguez brothers made public their support for Alex Saab, whom they handed over to the US.",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/las-veces-que-los-hermanos-rodriguez-hicieron-publico-su-apoyo-a-alex-saab-al-que-entregaron-a-ee-uu/",
-      "published_date": "2026-05-18T22:05:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kotex perfects feminine rest with the launch of its new Extra Protection Long Night Towel",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/kotex-perfecciona-el-descanso-femenino-con-el-lanzamiento-de-su-nueva-toalla-nocturna-larga-extra-proteccion/",
-      "published_date": "2026-05-18T21:58:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neymar enters Brazil's squad for the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/neymar-entra-en-la-convocatoria-de-brasil-para-el-mundial/",
-      "published_date": "2026-05-18T21:32:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Arsenal wins at home and takes the Premier League title",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/arsenal-gana-en-casa-y-acaricia-el-titulo-de-la-premier-league/",
-      "published_date": "2026-05-18T21:17:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They denounce the presence of an alleged infiltrator recording a student march in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/denuncian-presencia-de-presunto-infiltrado-grabando-marcha-estudiantil-en-caracas/",
-      "published_date": "2026-05-18T21:02:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCV students stood up to the police siege for the memory of Mrs. Carmen Navas",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/608712/estudiantes-de-la-ucv-plantaron-cara-al-cerco-policial-por-la-memoria-de-la-senora-carmen-navas/",
-      "published_date": "2026-05-18T20:49:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez says that Alex Saab's deportation was “for the good of Venezuela” and that his situation is “a matter for him and the US”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-dice-que-deportacion-de-alex-saab-fue-por-el-bien-de-venezuela-y-que-su-situacion-es-asunto-de-el-y-eeuu/",
-      "published_date": "2026-05-18T20:37:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diosdado Cabello on Alex Saab: \"He is not Venezuelan and he presented himself with a fraudulent ID\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/diosdado-cabello-afirmo-que-alex-saab-no-es-venezolano-utilizo-una-cedula-fraudulenta/",
-      "published_date": "2026-05-18T20:20:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aeroméxico announces its intention to operate again in Venezuela after 10 years of suspension of routes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/aeromexico-anuncia-su-intencion-de-volver-a-operar-en-venezuela-tras-10-anos-de-suspension-de-rutas/",
-      "published_date": "2026-05-18T20:13:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scientists search for traces of hantavirus in Ushuaia, the city from where the MV Hondius cruise ship set sail",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cientificos-buscan-rastros-de-hantavirus-en-ushuaia-ciudad-de-donde-zarpo-el-crucero-mv-hondius/",
-      "published_date": "2026-05-18T20:02:03Z",
       "category": "Local Events"
     }
   ]
