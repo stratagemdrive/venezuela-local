@@ -1,7 +1,14 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-21T00:15:09Z",
+  "last_updated": "2026-05-21T14:16:41Z",
   "stories": [
+    {
+      "title": "US deploys nuclear aircraft carrier USS Nimitz to Caribbean amid rising tensions with Cuba",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/eeuu-despliega-el-portaaviones-nuclear-uss-nimitz-en-el-caribe-en-medio-de-crecientes-tensiones-con-cuba/",
+      "published_date": "2026-05-21T13:50:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cuban exile celebrates the indictment of Raúl Castro: \"Impunity has ceased\"",
       "source": "El Nacional",
@@ -136,13 +143,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UCV rejects the Ministry holding universities responsible for failure to pay decreed bonuses",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ucv-rechaza-que-ministerio-responsabilice-a-universidades-por-falla-en-pago-de-bonos-decretados/",
-      "published_date": "2026-05-20T16:12:58Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "\"Destroying a family for 23 years has no forgiveness from God\": the claim of the aunt of former police officer Erasmo Bolívar",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/destruir-a-una-familia-por-23-anos-no-tiene-perdon-de-dios-el-reclamo-de-la-tia-del-expolicia-erasmo-bolivar/",
@@ -178,7 +178,7 @@
       "category": "Military"
     },
     {
-      "title": "Disoriented but free: the three former metropolitan police officers embrace life again after 23 years in prison",
+      "title": "Disoriented but free: the three former metropolitan police officers embrace life after 23 years in prison",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/desorientados-pero-libres-los-tres-expolicias-metropolitanos-abrazan-la-vida-nuevamente-tras-23-anos-en-prision/",
       "published_date": "2026-05-20T21:21:01Z",
@@ -563,6 +563,41 @@
       "category": "Economy"
     },
     {
+      "title": "Lester Toledo announces his return to Venezuela: \"I am going in search of justice\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/lester-toledo-anuncia-su-regreso-a-venezuela-voy-en-busqueda-de-la-justicia/",
+      "published_date": "2026-05-21T14:04:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Carrasco: without guarantees of reintegration there will be no return to migration",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/609134/carlos-carrasco-sin-garantias-de-reinsercion-no-habra-retorno-de-la-migracion/",
+      "published_date": "2026-05-21T13:23:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of May 21: There are more than 300 and they ask that they all be released",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/609060/el-mananero-del-21-de-mayo-son-mas-de-300-y-piden-que-sean-liberados-todos/",
+      "published_date": "2026-05-21T04:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jorge Thielen Armand in Cannes: Every film made in Venezuela can be the last",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/solaz/jorge-thielen-armand-en-cannes-cada-pelicula-que-se-hace-en-venezuela-puede-ser-la-ultima/",
+      "published_date": "2026-05-21T01:20:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rainbow on the asphalt: the canvas of a community that resists discrimination",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/609091/arcoiris-sobre-el-asfalto-el-lienzo-de-una-comunidad-que-resiste-ante-la-discriminacion/",
+      "published_date": "2026-05-21T01:16:53Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Jorge Thielen Armand in Cannes: Every film made in Venezuela can be the last",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/jorge-thielen-armand-en-cannes-cada-pelicula-que-se-hace-en-venezuela-puede-ser-la-ultima/",
@@ -598,7 +633,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Keys | Yulixa Toloza case: chronology of an aesthetic procedure that ended in tragedy",
+      "title": "Keys | Yulixa Toloza case: chronology of a cosmetic procedure that ended in tragedy",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/sucesos/claves-caso-yulixa-toloza-cronologia-de-un-procedimiento-estetico-que-termino-en-tragedia/",
       "published_date": "2026-05-20T22:01:06Z",
@@ -665,41 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/galeria-avanti-estrena-avanti-night-una-experiencia-de-compras-nocturnas-con-descuentos-exclusivos/",
       "published_date": "2026-05-20T20:06:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bancamiga arrives at the CCCT! Closer to you and your business",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/bancamiga-llega-al-ccct-mas-cerca-de-ti-y-de-tu-negocio/",
-      "published_date": "2026-05-20T20:03:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Shopping center transformer explodes in Maracaibo after a power outage",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/zulia-explota-transformador-de-centro-comercial-en-maracaibo-luego-de-un-bajon-electrico/",
-      "published_date": "2026-05-20T19:55:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relatives of political prisoners march in silence to demand releases: \"Let them all be\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/familiares-de-presos-politicos-marchan-en-silencio-para-exigir-liberaciones-que-sean-todos/",
-      "published_date": "2026-05-20T19:54:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Wife of Argentine Germán Giuliani asks that he be included in the 300 people who will be released",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/esposa-del-argentino-german-giuliani-pide-que-sea-incluido-en-las-300-personas-que-seran-excarceladas/",
-      "published_date": "2026-05-20T19:08:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"The one who has to ask for forgiveness is that man\": Andreína Baduel responds to Jorge Rodríguez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/quien-tiene-que-pedir-perdon-es-ese-senor-andreina-baduel-responde-a-jorge-rodriguez/",
-      "published_date": "2026-05-20T19:07:44Z",
       "category": "Local Events"
     }
   ]
