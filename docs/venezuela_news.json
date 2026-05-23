@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-23T00:13:32Z",
+  "last_updated": "2026-05-23T12:03:31Z",
   "stories": [
+    {
+      "title": "Italian Foreign Ministry confirms that Camilla Fabri, wife of Alex Saab, left Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/ministerio-de-exteriores-de-italia-confirma-que-camilla-fabri-esposa-de-alex-saab-abandono-venezuela/",
+      "published_date": "2026-05-23T11:59:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vinotinto sub-17 became champion of the International Canteras de América Tournament and is already looking to the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/vinotinto-sub-17-se-consagro-campeon-del-torneo-internacional-canteras-de-america/",
+      "published_date": "2026-05-23T11:48:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump will not go to his son's wedding because he says it is “important to remain in Washington”",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/destacado-3/trump-no-ira-boda-hijo-dice-importante-permanecer-en-washington/",
+      "published_date": "2026-05-23T02:13:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"We are working to achieve the democratic transition\": Unitary Platform met with María Corina Machado in Panama",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/estamos-trabajando-para-alcanzar-la-transicion-democratica-plataforma-unitaria-se-reunio-con-maria-corina-machado-en-panama/",
+      "published_date": "2026-05-23T00:57:27Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "\"I hope that as a people we understand each other\": Delcy Rodríguez calls for national reconciliation",
       "source": "El Nacional",
@@ -115,32 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "US Ambassador to Argentina met with Nahuel Gallo: “I knew his story firsthand”",
+      "title": "Rick Scott says Delcy Rodríguez's announcement of more \"releases\" of political prisoners is not enough",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/embajador-de-ee-uu-en-argentina-se-reunio-con-nahuel-gallo-conoci-de-primera-mano-su-historia/",
-      "published_date": "2026-05-22T15:52:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/rick-scott-dice-que-anuncio-de-delcy-rodriguez-de-mas-liberaciones-de-presos-politicos-no-es-suficiente/",
+      "published_date": "2026-05-23T11:22:13Z",
+      "category": "Military"
     },
     {
-      "title": "Edmundo González participates in a meeting with María Corina Machado and Venezuelan leaders in Panama",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/edmundo-gonzalez-participa-en-reunion-con-maria-corina-machado-y-dirigentes-venezolanos-en-panama/",
-      "published_date": "2026-05-22T15:52:10Z",
-      "category": "Diplomacy"
+      "title": "The “invisible constitution” of Venezuelans",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/609371/la-constitucion-invisible-de-los-venezolanos-asdrubal-aguiar/",
+      "published_date": "2026-05-23T07:06:41Z",
+      "category": "Military"
     },
     {
-      "title": "Trump sends aircraft carriers to the Caribbean and follows the Venezuelan script in Cuba",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-envia-un-portaaviones-al-caribe-y-sigue-en-cuba-el-guion-de-venezuela/",
-      "published_date": "2026-05-22T15:15:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US verified security standards at Venezuelan airports for new flights",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/ee-uu-verifico-estandares-de-seguridad-en-aeropuertos-venezolanos-para-nuevos-vuelos/",
-      "published_date": "2026-05-22T14:56:18Z",
-      "category": "Diplomacy"
+      "title": "In vigil in honor of Carmen Teresa Navas they ask for the freedom of all political prisoners",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/en-vigilia-en-honor-a-carmen-teresa-navas-piden-la-libertad-de-todos-los-presos-politicos/",
+      "published_date": "2026-05-23T01:23:40Z",
+      "category": "Military"
     },
     {
       "title": "Government reports the release of 395 political prisoners amid discrepancies with NGO figures",
@@ -199,7 +220,7 @@
       "category": "Military"
     },
     {
-      "title": "Heading to Italy or Miami? Conflicting versions about the untimely departure of Alex Saab's family from Caracas",
+      "title": "Heading to Italy or Miami? Conflicting versions about the departure of Alex Saab's family from Caracas",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/reportan-deportacion-de-la-esposa-e-hijos-de-alex-saab-desde-venezuela-a-italia/",
       "published_date": "2026-05-22T19:39:17Z",
@@ -259,27 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/estilista-de-fatima-bosch-nego-haber-agredido-a-la-miss-venezolana-andrea-del-val/",
       "published_date": "2026-05-22T08:34:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "More details revealed about Britney Spears' arrest",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/reporte-policial-revela-nuevos-detalles-sobre-el-arresto-de-britney-spears/",
-      "published_date": "2026-05-22T04:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGOs demand investigation into alleged sexual abuse against political prisoner",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ong-exigen-investigacion-sobre-presunto-abuso-sexual-contra-presa-politica/",
-      "published_date": "2026-05-22T00:17:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Unitary Platform denounces slowness in releases and demands mass releases of political prisoners",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/plataforma-unitaria-denuncia-lentitud-en-excarcelaciones-y-exige-liberaciones-masivas-de-presos-politicos/",
-      "published_date": "2026-05-21T22:12:05Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,20 @@
       "category": "Energy"
     },
     {
+      "title": "Venezuela: Why will the presidential elections be called in 2028?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/opinion/venezuela-por-que-las-elecciones-presidenciales-se-convocaran-en-el-2028/",
+      "published_date": "2026-05-23T04:42:19Z",
+      "category": "Economy"
+    },
+    {
+      "title": "US Chargé d'Affaires met with the Minister of Mines and president of the BCV to promote the economic recovery phase",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/encargado-de-negocios-de-ee-uu-se-reunio-con-el-ministro-de-minas-y-presidente-del-bcv-para-impulsar-la-fase-de-recuperacion-economica/",
+      "published_date": "2026-05-23T01:02:55Z",
+      "category": "Economy"
+    },
+    {
       "title": "The euro begins to displace the dollar in commercial transactions in Venezuela",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/?p=498840",
@@ -549,18 +563,60 @@
       "category": "Economy"
     },
     {
-      "title": "El Confidencial: Zapatero planned to travel to Caracas before his indictment in the Plus Ultra case",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/el-confidencial-zapatero-planeaba-viajar-a-caracas-antes-de-su-imputacion-en-el-caso-plus-ultra/",
-      "published_date": "2026-05-20T19:28:49Z",
-      "category": "Economy"
+      "title": "Three Red Cross volunteers died in the Ebola outbreak in the Democratic Republic of the Congo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/tres-voluntarios-de-la-cruz-roja-murieron-en-el-brote-de-ebola-en-la-republica-democratica-del-congo/",
+      "published_date": "2026-05-23T11:50:45Z",
+      "category": "Local Events"
     },
     {
-      "title": "Google and Samsung challenge the optical market with two models of glasses with AI",
+      "title": "Consumidas brings to light family cracks and traumas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/google-y-samsung-lanzaran-dos-modelos-de-gafas-con-ia/",
-      "published_date": "2026-05-20T12:05:59Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/consumidas-saca-a-la-luz-las-grietas-y-los-traumas-familiares/",
+      "published_date": "2026-05-23T11:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "95% of the diaspora want to rebuild the country, but only 11% have plans to return",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/95-de-la-diaspora-quiere-reconstruir-el-pais-pero-solo-11-tiene-planes-de-regresar/",
+      "published_date": "2026-05-23T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Infieles portrays marital crises with role-playing games",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/infieles-retrata-las-crisis-matrimoniales-con-juegos-de-roles/",
+      "published_date": "2026-05-23T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Less than 50 releases were granted between May 18 and the afternoon of May 22, according to NGOs",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/menos-de-50-excarcelaciones-se-concedieron-entre-el-18-y-la-tarde-del-22-de-mayo-segun-las-ong/",
+      "published_date": "2026-05-23T01:45:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez assures that the number of political prisoners released will exceed 500 \"in the next few hours\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-asegura-que-cifra-de-presos-politicos-excarcelados-superara-los-500-en-las-proximas-horas/",
+      "published_date": "2026-05-23T01:08:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Departure of Alex Saab's family from Venezuela points to an advanced negotiation of the businessman with the United States.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/salida-de-la-familia-de-alex-saab-de-venezuela-apunta-a-una-negociacion-avanzada-del-empresario-con-ee-uu/",
+      "published_date": "2026-05-23T00:30:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "National consultation to reform criminal justice begins June 1",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/consulta-nacional-para-reformar-la-justicia-penal-inicia-el-1-de-junio/",
+      "published_date": "2026-05-23T00:25:59Z",
+      "category": "Local Events"
     },
     {
       "title": "US drill in Caracas will be the first of this magnitude carried out in the country",
@@ -644,62 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/guayana/bolivar-vente-venezuela-el-regreso-de-maria-corina-esta-cerca/",
       "published_date": "2026-05-22T19:23:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alex Saab's wife and children leave Venezuela: the family traveled to Italy",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/esposa-e-hijos-de-alex-saab-salen-de-venezuela-la-familia-viajo-a-italia/",
-      "published_date": "2026-05-22T19:11:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Girl abused by sexagenarian in Caracas park was sold by her mother: she charged $5 for allowing the attacks",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/nina-abusada-por-sexagenario-en-parque-de-caracas-era-vendida-por-su-madre-cobraba-5-dolares-por-permitir-las-agresiones/",
-      "published_date": "2026-05-22T19:05:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intt announces vehicle restriction in the ARC this #23May: these are the schedules and sections affected",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/intt-anuncia-restriccion-vehicular-en-la-arc-este-23may-estos-son-los-horarios-y-tramos-afectados/",
-      "published_date": "2026-05-22T18:52:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sistema Patria activates new survey: find out what it is about",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sistema-patria-activa-nueva-encuesta-conoce-de-que-se-trata/",
-      "published_date": "2026-05-22T18:24:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dogreika Tovar and Jorge Thielen Hedderich present Death Has No Owner at the Cannes Film Festival",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/dogreika-tovar-y-jorge-thielen-hedderich-presentan-la-muerte-no-tiene-dueno/",
-      "published_date": "2026-05-22T18:03:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The service of the Mukumbarí Cable Car System in Mérida is temporarily suspended",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/suspenden-temporalmente-el-servicio-del-sistema-de-telefericos-mukumbari-en-merida/",
-      "published_date": "2026-05-22T17:55:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neymar's injury could be worse than what was announced",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/lesion-de-neymar-podria-ser-peor-de-lo-que-se-anuncio/",
-      "published_date": "2026-05-22T17:53:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Assembly begins process to renew TSJ magistrates",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/asamblea-nacional-comienza-proceso-para-renovar-magistrados-del-tsj/",
-      "published_date": "2026-05-22T17:40:19Z",
       "category": "Local Events"
     }
   ]
