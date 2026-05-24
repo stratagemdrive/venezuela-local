@@ -1,7 +1,98 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-24T00:03:56Z",
+  "last_updated": "2026-05-24T12:04:21Z",
   "stories": [
+    {
+      "title": "Excursion bus from Caracas fell into a river in Choroní and left at least 10 injured",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/autobus-de-excursion-procedente-de-caracas-cayo-a-un-rio-en-choroni-y-dejo-al-menos-10-heridos/",
+      "published_date": "2026-05-24T11:50:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iris Varela rejected the US drill carried out in Caracas with the presence of the Southern Command",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/iris-varela-rechazo-simulacro-de-ee-uu-ejecutado-en-caracas-con-la-presencia-del-comando-sur/",
+      "published_date": "2026-05-24T11:22:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Armando.Info: Alex Saab missed 'Il Ritorno'",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/armando-info-alex-saab-se-perdio-il-ritorno/",
+      "published_date": "2026-05-24T11:12:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From surviving on the street to accompanying travelers: the new life of the dogs of Huellitas Choroní",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/huellitas-choroni-guias-turisticos-con-bufanda-y-cuatro-patas/",
+      "published_date": "2026-05-24T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alex Saab's arrest in the US will aggravate Maduro's situation: analysts' view",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/detencion-alex-saab-eeuu-agravara-situacion-maduro-no-sera-unica-entrega/",
+      "published_date": "2026-05-24T06:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Does Rodríguez Zapatero become another uncomfortable ally for the interim?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/rodriguez-zapatero-convierte-aliado-incomodo-interinato/",
+      "published_date": "2026-05-24T06:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Suspect shot outside White House wounded",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/uncategorized/un-sospechoso-dispara-a-las-afueras-de-la-casa-blanca/",
+      "published_date": "2026-05-24T02:04:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Summit in Panama: The Venezuelan opposition redefines its strategy",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/cumbre-en-panama-la-oposicion-venezolana-redefine-su-estrategia/",
+      "published_date": "2026-05-24T01:14:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump affirmed that he is negotiating the final details to achieve a peace agreement with Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/trump-afirmo-que-esta-negociando-los-ultimos-detalles-para-lograr-un-acuerdo-de-paz-con-iran/",
+      "published_date": "2026-05-24T01:03:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They announce that the Maturín airport will resume international flights",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/anuncian-que-el-aeropuerto-de-maturin-retomara-vuelos-internacionales/",
+      "published_date": "2026-05-24T01:00:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“We want to vote”: Venezuelans support Machado in massive rally in Panama",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/queremos-votar-venezolanos-respaldan-a-machado-en-masiva-concentracion-en-panama/",
+      "published_date": "2026-05-24T00:58:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They arrested a woman in Miranda allegedly linked to extortion for fictitious kidnapping",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/detuvieron-a-mujer-en-miranda-presuntamente-vinculada-a-una-extorsion-por-secuestro-ficticio/",
+      "published_date": "2026-05-24T00:23:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shooting near the White House leaves two injured and forces security to be reinforced",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/tiroteo-cerca-de-la-casa-blanca-deja-dos-heridos-y-obliga-a-reforzar-la-seguridad/",
+      "published_date": "2026-05-24T00:14:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "María Corina Machado met with opposition leaders: who attended?",
       "source": "El Nacional",
@@ -52,95 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump assures that the US and Iran are making progress in negotiations: \"They are getting closer\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-asegura-que-ee-uu-e-iran-avanzan-en-negociaciones-estan-cada-vez-mas-cerca/",
-      "published_date": "2026-05-23T19:13:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cuba accuses the US of attacking the island's medical missions abroad",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/cuba-acusa-a-ee-uu-de-atacar-las-misiones-medicas-de-la-isla-en-el-exterior/",
-      "published_date": "2026-05-23T18:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuelans reacted to US military drill in Caracas: \"This is more than an exercise, it is a warning\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezolanos-reaccionaron-ante-simulacro-militar-de-ee-uu-en-caracas-esto-es-mas-que-un-ejercicio-es-una-advertencia/",
-      "published_date": "2026-05-23T17:55:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marco Rubio says that the US made progress with Iran and anticipated an important announcement in the coming days",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/marco-rubio-dice-que-ee-uu-logro-avances-con-iran-y-anticipo-anuncio-importante-para-los-proximos-dias/",
-      "published_date": "2026-05-23T17:40:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez announced territorial expansion of the Terepaima National Park to protect frontine bears",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-anuncio-expansion-territorial-del-parque-nacional-terepaima-para-resguardar-a-osos-frontinos/",
-      "published_date": "2026-05-23T17:11:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "This time it was a drill, not a real operation like that of 3E",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609380/esta-vez-fue-un-simulacro-no-un-operativo-real-como-el-del-3e/",
-      "published_date": "2026-05-23T16:47:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US military aircraft carry out evacuation drill in Caracas for emergencies",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/aeronaves-militares-de-ee-uu-realizan-simulacro-de-evacuacion-en-caracas-para-casos-de-emergencias/",
-      "published_date": "2026-05-23T15:32:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Minute by Minute: Evacuation drill at the US Embassy in Caracas",
+      "title": "Trump and Delcy, two tutelages over Venezuela: And the people?",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/minuto-a-minuto-simulacro-de-evacuacion-en-la-embajada-de-eeuu-en-caracas/",
-      "published_date": "2026-05-23T15:14:13Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/opinion/trump-delcy-dos-tutelajes-sobre-venezuela-y-el-pueblo/",
+      "published_date": "2026-05-24T10:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "USS Iwo Jima aircraft carrier returned to the Caribbean along with missile cruiser due to US drill authorized by Delcy Rodríguez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/portaviones-uss-iwo-jima-volvio-al-caribe-junto-a-crucero-misilistico-por-simulacro-de-ee-uu-autorizado-por-delcy-rodriguez/",
-      "published_date": "2026-05-23T14:56:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Evacuation drill requested by the US Embassy in Caracas began",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/difundieron-primeras-imagenes-del-simulacro-de-evacuacion-solicitado-por-la-embajada-de-ee-uu-en-caracas/",
-      "published_date": "2026-05-23T14:18:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "At least 82 dead in a coal mine explosion in China",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/al-menos-90-muertos-por-una-explosion-en-una-mina-de-carbon-en-china/",
-      "published_date": "2026-05-23T12:59:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vente Venezuela called a rally in Caracas to celebrate its 14th anniversary",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/vente-venezuela-convoco-concentracion-en-caracas-para-celebrar-su-14-aniversario/",
-      "published_date": "2026-05-23T12:45:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Italian Foreign Ministry confirms that Camilla Fabri, wife of Alex Saab, left Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ministerio-de-exteriores-de-italia-confirma-que-camilla-fabri-esposa-de-alex-saab-abandono-venezuela/",
-      "published_date": "2026-05-23T11:59:57Z",
-      "category": "Diplomacy"
+      "title": "23 years of struggle for the freedom of Erasmo Bolívar: Hope cannot be lost, says María Isabel Bolívar",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/23-anos-de-lucha-por-la-libertad-de-erasmo-bolivar-la-esperanza-no-se-puede-perder-dice-maria-isabel-bolivar/",
+      "published_date": "2026-05-24T00:08:54Z",
+      "category": "Military"
     },
     {
       "title": "Spanish police: Zapatero and his daughters are the main beneficiaries of the Plus Ultra network",
@@ -154,6 +168,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/edmundo-gonzalez-afirmo-que-la-oposicion-tiene-la-madurez-la-fuerza-y-la-gente-para-sacar-adelante-a-venezuela/",
       "published_date": "2026-05-23T22:33:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "The ELN claims responsibility for the killing of six people in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-eln-se-atribuye-matanza-de-seis-personas-en-colombia/",
+      "published_date": "2026-05-23T22:15:00Z",
       "category": "Military"
     },
     {
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Vente Venezuela denounces arrest of activist Yoel Sucre in Barinas",
+      "title": "Unitary Platform debated the institutional crisis and freedom of expression during an assembly in Caucagüita",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/vente-venezuela-denuncia-detencion-de-activista-yoel-sucre-en-barinas/",
-      "published_date": "2026-05-22T23:40:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "SAV Mobile Clinics turn cancer prevention into a key advantage for companies",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/609366/clinicas-moviles-sav-convierten-la-prevencion-oncologica-en-ventaja-clave-para-las-empresas/",
-      "published_date": "2026-05-22T23:18:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Guyana is confident that the ICJ ruling will definitively close the territorial dispute with Venezuela over the Essequibo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/guyana-confia-en-que-el-fallo-de-la-cij-cerrara-definitivamente-el-litigio-territorial-con-venezuela-por-el-esequibo/",
-      "published_date": "2026-05-22T23:00:02Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/05/plataforma-unitaria-debatio-sobre-la-crisis-institucional-y-libertad-de-expresion-durante-asamblea-en-caucaguita/",
+      "published_date": "2026-05-23T22:24:00Z",
+      "category": "Energy"
     },
     {
       "title": "Venezuela has two mobile biosafety laboratories",
@@ -413,13 +420,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/solaz/sabes-que-producciones-lideran-el-ranking-en-netflix-venezuela/",
       "published_date": "2026-05-20T20:42:10Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Conseturismo warns of increased operating costs due to power outages",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/conseturismo-advierte-sobre-aumento-de-costos-operativos-por-cortes-electricos/",
-      "published_date": "2026-05-20T18:40:46Z",
       "category": "Energy"
     },
     {
@@ -563,6 +563,69 @@
       "category": "Economy"
     },
     {
+      "title": "Trump affirmed that attacker killed near the White House had a \"violent history\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/trump-afirmo-que-atacante-abatido-cerca-de-la-casa-blanca-tenia-antecedentes-violentos/",
+      "published_date": "2026-05-24T11:37:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environment analysis: Are we reaching the limit of patience?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/analisis-de-entorno-estamos-llegando-al-limite-de-la-paciencia/",
+      "published_date": "2026-05-24T10:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Jelambi: The lack of Venezuelan narratives worries me",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/carlos-jelambi-la-falta-de-narrativas-venezolanas-me-preocupa/",
+      "published_date": "2026-05-24T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What happens with the seat? Deputies leave the AN to occupy interim positions",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/que-pasa-curul-diputados-an-cargos-interinato/",
+      "published_date": "2026-05-24T06:50:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dani Carvajal's farewell message: With my departure from Real Madrid we put an end to a wonderful era",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-despedida-de-dani-carvajal-del-real-madrid-con-mi-salida-ponemos-fin-a-una-era-maravillosa/",
+      "published_date": "2026-05-24T00:54:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "USA | Shooting near the White House leaves two injured on May 23",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/ee-uu-tiroteo-cerca-de-la-casa-blanca-deja-dos-heridos-este-23-de-mayo/",
+      "published_date": "2026-05-24T00:25:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela reinforces health controls at airports in response to global Ebola alert",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/venezuela-refuerza-controles-sanitarios-en-aeropuertos-ante-alerta-global-por-ebola/",
+      "published_date": "2026-05-24T00:21:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cannes honors the Javis with the Direction Prize",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/cannes-encumbra-a-los-javis-con-el-premio-de-direccion/",
+      "published_date": "2026-05-24T00:12:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“No to the drill” and “Yankee, go home,” Chavistas shouted during a protest in Caracas",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/no-al-simulacro-y-yankee-go-home-gritaron-chavistas-durante-protesta-en-caracas/",
+      "published_date": "2026-05-24T00:11:50Z",
+      "category": "Local Events"
+    },
+    {
       "title": "María Corina Machado: «I trust in Venezuela and that is why the time when I am going to return is approaching»",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/maria-corina-machado-confio-en-venezuela-y-por-eso-se-acerca-el-momento-en-el-que-voy-a-regresar/",
@@ -637,69 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/maria-corina-machado-confirma-su-candidatura-presidencial-bajo-el-plan-de-transicion-respaldado-por-ee-uu/",
       "published_date": "2026-05-23T19:21:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The budget cuts in science and education that led thousands of Argentines to protest",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/los-recortes-presupuestarios-en-ciencia-y-educacion-que-llevaron-a-miles-de-argentinos-a-protestar/",
-      "published_date": "2026-05-23T19:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vente Venezuela denounced arrest of coordinator in Apure",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609385/vente-venezuela-denuncio-detencion-de-coordinar-de-apure/",
-      "published_date": "2026-05-23T18:48:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Men armed with rifles murder an agricultural producer in Jesús María Semprún",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/zulia-hombres-armados-con-fusiles-asesinan-a-productor-agricola-en-jesus-maria-semprun/",
-      "published_date": "2026-05-23T18:06:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vente Venezuela denounces the arbitrary detention of its activism coordinator in Barinas, Yoel Sucre",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/vente-venezuela-denuncia-la-detencion-arbitraria-de-su-coordinador-de-activismo-en-barinas-yoel-sucre/",
-      "published_date": "2026-05-23T18:04:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivia: between democracy and social conflicts",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/bolivia-entre-democracia-y-conflictos-sociales/",
-      "published_date": "2026-05-23T18:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fe y Alegría denounced that nearly 5,000 teachers from poor areas still do not receive the bonus promised by Delcy Rodríguez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/fe-y-alegria-denuncio-que-cerca-de-5-000-maestros-de-zonas-pobres-siguen-sin-recibir-bono-prometido-por-delcy-rodriguez/",
-      "published_date": "2026-05-23T16:52:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Journalist Jesús Gutiérrez reported an attack on his car and blamed Delcy Rodríguez for his safety.",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/periodista-jesus-gutierrez-denuncio-atentado-contra-su-carro-y-responsabilizo-por-su-seguridad-a-delcy-rodriguez/",
-      "published_date": "2026-05-23T15:55:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexican Football Federation complied with FIFA sanction for homophobic shouts",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/federacion-mexicana-de-futbol-cumplio-sancion-de-la-fifa-por-gritos-homofobicos/",
-      "published_date": "2026-05-23T15:22:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "INTT reschedules partial restriction of the ARC for this Sunday #24May",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/intt-reprograma-restriccion-parcial-de-la-arc-para-este-domingo-24may/",
-      "published_date": "2026-05-23T14:32:23Z",
       "category": "Local Events"
     }
   ]
