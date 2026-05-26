@@ -1,7 +1,105 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-25T14:13:18Z",
+  "last_updated": "2026-05-26T00:13:21Z",
   "stories": [
+    {
+      "title": "FIFA reveals the training venues for the World Cup teams",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-fifa-revela-las-sedes-de-entrenamiento-de-las-selecciones-del-mundial/",
+      "published_date": "2026-05-25T23:53:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The referees: the only Venezuelans who have officially been World Cup winners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/los-arbitros-los-unicos-venezolanos-que-han-sido-oficialmente-mundialistas/",
+      "published_date": "2026-05-25T23:47:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "NGO denounces that only one political prisoner was included in the massive pardon decreed by Cuba",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/ong-denuncia-que-en-el-indulto-masivo-decretado-por-cuba-solo-se-incluyo-a-un-preso-politico/",
+      "published_date": "2026-05-25T23:42:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spanish judge orders international arrest of the owner of Plus Ultra",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/juez-espanol-ordena-detencion-internacional-del-dueno-de-plus-ultra/",
+      "published_date": "2026-05-25T21:05:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They issue an international order to arrest Venezuelan Rodolfo Reyes, the main shareholder of Plus Ultra",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/juez-emite-una-orden-internacional-para-detener-al-venezolano-rodolfo-reyes-principal-accionista-de-plus-ultra/",
+      "published_date": "2026-05-25T20:49:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"They must investigate Alex Saab's business in Táchira,\" asks political leader",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/deben-investigar-negocios-de-alex-saab-en-tachira-pide-dirigente-politico/",
+      "published_date": "2026-05-25T20:10:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "126 migrants arrive in Venezuela on a repatriation flight from the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/126-migrantes-llegan-a-venezuela-en-un-vuelo-de-repatriacion-desde-ee-uu/",
+      "published_date": "2026-05-25T20:03:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mexico will receive Iran to establish its concentration for the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/mexico-recibira-a-iran-para-establecer-su-concentracion-de-cara-al-mundial/",
+      "published_date": "2026-05-25T18:11:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "4 dead and almost 100 injured in a Russian bombing against Ukraine",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/4-muertos-y-casi-100-heridos-en-un-bombardeo-ruso-contra-ucrania/",
+      "published_date": "2026-05-25T17:54:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "New details of the second criminal case against Nicolás Maduro in Miami are revealed",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/revelan-nuevos-detalles-de-la-segunda-causa-penal-contra-nicolas-maduro-en-miami/",
+      "published_date": "2026-05-25T16:21:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They register three deaths due to immersion on the coast of Carabobo in the last 15 days",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/registran-tres-muertes-por-inmersion-en-costas-de-carabobo-en-los-ultimos-15-dias/",
+      "published_date": "2026-05-25T16:06:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They arrested five people linked to the murders of two women and a minor",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/detuvieron-a-cinco-personas-vinculadas-a-asesinatos-de-dos-mujeres-y-un-menor/",
+      "published_date": "2026-05-25T15:21:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump affirms that negotiations with Iran are “progressing favorably”",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/trump-afirma-que-las-negociaciones-con-iran-avanzan-favorablemente/",
+      "published_date": "2026-05-25T14:59:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marathons and ultramarathons could be linked to colon cancer",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/los-maratones-y-ultramaratones-podrian-estar-vinculados-al-cancer-de-colon/",
+      "published_date": "2026-05-25T14:51:11Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Pilgrimage to Mecca begins with expectation of possible peace in Iran",
       "source": "El Nacional",
@@ -45,248 +143,199 @@
       "category": "Diplomacy"
     },
     {
-      "title": "“We will restore friendship”: María Corina Machado after her meeting with the Israeli ambassador in Panama",
+      "title": "Magnifica Humanitas: Pope Leo XIV warns about the impact of artificial intelligence on employment",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/restituiremos-la-amistad-maria-corina-machado-tras-su-encuentro-con-embajador-de-israel-en-panama/",
-      "published_date": "2026-05-25T00:03:35Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/inteligencia-artificial-papa-leon-xiv-magnifica-humanitas/",
+      "published_date": "2026-05-26T00:07:10Z",
+      "category": "Military"
     },
     {
-      "title": "Venezuelan kitesurfer who was traveling from Los Roques to Bonaire disappears",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/desaparece-kitesurfista-venezolano-que-viajaba-de-los-roques-a-bonaire/",
-      "published_date": "2026-05-24T23:23:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Unprecedented heat wave in France leaves one dead at sporting event in Paris",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ola-de-calor-sin-precedentes-en-francia-deja-un-muerto-en-evento-deportivo-en-paris/",
-      "published_date": "2026-05-24T22:31:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marco Rubio accuses Hezbollah of destabilizing Lebanon and clinging to power",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/marco-rubio-acusa-a-hezbola-de-desestabilizar-libano-y-aferrarse-al-poder/",
-      "published_date": "2026-05-24T21:45:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armando Naranjo, pioneer of sports journalism in Venezuela, dies",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/fallece-armando-naranjo-pionero-del-periodismo-deportivo-en-venezuela/",
-      "published_date": "2026-05-24T17:49:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Maps of Power: Alexander Granko Arteaga, businessman or torturer?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/mapas-de-poder-alexander-granko-arteaga-empresario-o-torturador/",
-      "published_date": "2026-05-24T17:16:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Corina Machado met with the Israeli ambassador during her visit to Panama",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/maria-corina-machado-se-reunio-con-el-embajador-de-israel-durante-su-visita-a-panama/",
-      "published_date": "2026-05-24T16:59:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zelensky accused Putin of attacking residential buildings and schools after new wave of missiles",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/zelenski-acuso-a-putin-de-atacar-edificios-residenciales-y-escuelas-tras-nueva-ola-de-misiles/",
-      "published_date": "2026-05-24T15:20:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Does Rodríguez Zapatero become another uncomfortable ally for the interim?",
+      "title": "US control, internal “police” fanb: readings of the military drill in Caracas",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/rodriguez-zapatero-convierte-aliado-incomodo-interinato/",
-      "published_date": "2026-05-24T13:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/politica/eeuu-soberania-discurso-fanb-policia-interno-ejercicio-militar-caracas/",
+      "published_date": "2026-05-26T00:02:10Z",
+      "category": "Military"
     },
     {
-      "title": "Provea denounced violation of national sovereignty",
+      "title": "The sheikh who had the power to cancel a goal",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-jeque-que-tuvo-el-poder-de-anular-un-gol/",
+      "published_date": "2026-05-25T23:35:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "They ask for medical attention for political prisoner Ricardo Cariel due to neurological problems",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609399/provea-denuncio-violacion-a-la-soberania-nacional/",
-      "published_date": "2026-05-24T13:16:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They declared a state of emergency in California due to the danger of a chemical tank explosion",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/declararon-estado-de-emergencia-en-california-por-peligro-de-explosion-de-un-tanque-quimico/",
-      "published_date": "2026-05-24T12:59:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "ALAV hopes that Venezuela can soon resume direct flights to Chile and Peru",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/alav-espera-que-venezuela-pueda-retomar-pronto-vuelos-directos-hacia-chile-y-peru/",
-      "published_date": "2026-05-24T12:26:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A shared government between Chavismo and the opposition “looks almost impossible,” says political scientist Martínez Meucci.",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/un-gobierno-compartido-entre-chavismo-y-oposicion-luce-menos-que-imposible/",
-      "published_date": "2026-05-24T12:08:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The discontent of the Chavistas after the US drill in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-inconformidad-de-los-chavistas-luego-del-simulacro-de-ee-uu-en-caracas/",
-      "published_date": "2026-05-24T12:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Another mother of a political prisoner dies of a stroke without being able to see her son released",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/fallece-de-un-acv-otra-madre-de-preso-politico-sin-poder-ver-a-su-hijo-en-libertad/",
-      "published_date": "2026-05-25T14:11:27Z",
+      "url": "https://runrun.es/noticias/609430/piden-atencion-medica-para-el-preso-politico-ricardo-cariel-por-problemas-neurologicos/",
+      "published_date": "2026-05-25T22:51:29Z",
       "category": "Military"
     },
     {
-      "title": "The Zuliana influencer Valentina Mor was arrested in Medellín for aggravated theft from tourists",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/detuvieron-en-medellin-a-la-influencer-zuliana-valentina-mor-por-hurto-agravado-a-turistas/",
-      "published_date": "2026-05-25T13:46:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "OVP denounces transfer of 112 inmates from Barinas prison to unknown location",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ovp-denuncia-traslado-de-112-reclusas-de-carcel-de-barinas-hacia-lugar-desconocido/",
-      "published_date": "2026-05-25T13:14:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "They evacuate the female annex in Barinas prison and denounce transfers of prisoners to El Rodeo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/desalojan-el-anexo-femenino-en-carcel-de-barinas-y-denuncian-traslados-de-presos-a-el-rodeo/",
-      "published_date": "2026-05-25T11:55:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Mandalorian and Grogu leads the global box office",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/the-mandalorian-and-grogu-lidera-la-taquilla-mundial/",
-      "published_date": "2026-05-25T11:42:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "OVP denounces that the GNB repressed inmates in Barinas prison with tear gas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ovp-denuncia-que-la-gnb-reprimio-con-lacrimogenas-a-presas-en-carcel-de-barinas/",
-      "published_date": "2026-05-25T10:21:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Provea demands that the Prosecutor's Office and Ombudsman protect prisoners from the Barinas prison",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/provea-exige-fiscalia-defensoria-resguardar-presos-carcel-barinas/",
-      "published_date": "2026-05-25T01:56:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump once again confronts Republicans who question his political leadership",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-vuelve-a-confrontar-a-republicanos-que-cuestionan-su-liderazgo-politico/",
-      "published_date": "2026-05-25T00:21:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Barinas | Provea demands that the Prosecutor's Office and Ombudsman protect prisoners who protest",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/barinas-provea-exige-a-fiscalia-y-defensoria-resguardar-a-presos-que-protestan/",
-      "published_date": "2026-05-24T23:59:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "Provide alert about injuries in prison protest in Barinas and demand guarantees",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/provea-alerta-sobre-heridos-en-protesta-carcelaria-en-barinas-y-exige-garantias/",
-      "published_date": "2026-05-24T23:34:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "\"Continued deception\": they denounce that the government fails to fulfill its promise of mass release of political prisoners",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/engano-continuado-denuncian-que-el-gobierno-incumple-promesa-de-liberacion-masiva-de-presos-politicos/",
-      "published_date": "2026-05-24T22:42:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "National Guard represses Injuba prisoners for protesting against cruelty and torture",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/guardia-nacional-reprime-a-presos-del-injuba-por-protestar-contra-crueldad-y-tortura/",
-      "published_date": "2026-05-24T22:12:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Tension in Injuba escalates: more than 100 female inmates evacuated after suffocating from tear gas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/tension-en-injuba-escala-evacuan-a-mas-de-100-mujeres-reclusas-tras-asfixiarse-por-gases-lacrimogenos/",
-      "published_date": "2026-05-24T21:58:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Prisoners take prison in Barinas for alleged torture and violent searches",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/presos-toman-carcel-de-barinas-por-presuntas-torturas-y-requisas-violentas/",
-      "published_date": "2026-05-24T21:19:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Fifth mother of a political prisoner died so far this year",
+      "title": "“Families continue without access to the truth”: They denounce transfers of prisoners in the Barinas Judicial Confinement Center",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609402/fallecio-quinta-madre-de-preso-politico-en-lo-que-va-de-ano/",
-      "published_date": "2026-05-24T20:18:51Z",
+      "url": "https://runrun.es/noticias/609442/familias-siguen-sin-acceso-a-la-verdad-denuncian-traslados-de-presos-en-internado-judicial-de-barinas/",
+      "published_date": "2026-05-25T22:50:17Z",
       "category": "Military"
     },
     {
-      "title": "They found the body of a young woman who was missing in Falcón: a soldier was arrested",
+      "title": "The leader of Vente Venezuela Yoel Sucre is released from prison with a presentation regime in Barinas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/hallaron-muerta-a-joven-que-estaba-desaparecida-en-falcon-un-militar-resulto-detenido/",
-      "published_date": "2026-05-24T20:01:03Z",
+      "url": "https://www.elnacional.com/2026/05/excarcelan-con-regimen-de-presentacion-al-dirigente-de-vente-venezuela-yoel-sucre-en-barinas/",
+      "published_date": "2026-05-25T22:45:08Z",
       "category": "Military"
     },
     {
-      "title": "ELN attack with drones leaves one soldier dead and seven injured in Catatumbo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ataque-del-eln-con-drones-deja-un-militar-muerto-y-siete-heridos-en-el-catatumbo/",
-      "published_date": "2026-05-24T19:58:33Z",
+      "title": "Machado and Mulino agree on the need to stabilize Venezuela with a democratic solution",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/609439/machado-y-mulino-coinciden-en-la-necesidad-de-estabilizar-venezuela-con-una-solucion-democratica/",
+      "published_date": "2026-05-25T22:34:33Z",
       "category": "Military"
     },
     {
-      "title": "Chile summons foreign ministers from neighboring countries to address transnational organized crime",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/chile-convoca-a-cancilleres-de-paises-vecinos-para-abordar-crimen-organizado-transnacional/",
-      "published_date": "2026-05-24T19:20:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Pdvsa-Obrero Case | Mother of political prisoner dies: she suffered a stroke when she found out that her son was not released",
+      "title": "The Objective: National Court ordered international arrest of the main shareholder of Plus Ultra",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/caso-pdvsa-obrero-fallece-madre-de-preso-politico-sufrio-un-acv-al-conocer-que-su-hijo-no-fue-liberado/",
-      "published_date": "2026-05-24T18:11:10Z",
+      "url": "https://elpitazo.net/politica/the-objective-audiencia-nacional-ordeno-captura-internacional-de-accionista-principal-de-plus-ultra/",
+      "published_date": "2026-05-25T22:16:57Z",
       "category": "Military"
     },
     {
-      "title": "Complaints are growing about the actions of the Venezuelan State on the border with Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/crecen-las-denuncias-sobre-la-actuacion-del-estado-venezolano-en-la-frontera-con-colombia/",
-      "published_date": "2026-05-24T18:03:00Z",
+      "title": "Situation in Injuba remains heated while inmates are transferred to the El Rodeo prison",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/situacion-en-injuba-sigue-encendida-mientras-trasladan-a-reclusos-hacia-la-carcel-de-el-rodeo/",
+      "published_date": "2026-05-25T21:54:43Z",
       "category": "Military"
+    },
+    {
+      "title": "\"Something was happening three weeks ago\": relatives recount the crisis prior to the protest in Injuba",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/desde-hace-tres-semanas-algo-estaba-pasando-familiares-relatan-la-crisis-previa-a-la-protesta-en-injuba/",
+      "published_date": "2026-05-25T21:20:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "The director of the Barinas Judicial Confinement Center is dismissed after protests and complaints of abuses",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/destituyen-al-director-del-internado-judicial-de-barinas-tras-protestas-y-denuncias-de-abusos/",
+      "published_date": "2026-05-25T19:56:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "Prosecutor's Office opens criminal investigation into riot in Barinas prison",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fiscalia-abre-investigacion-penal-por-motin-de-reclusos-en-carcel-de-barinas/",
+      "published_date": "2026-05-25T19:17:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Metropolitan police: the human cost of 23 years in prison",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/policias-metropolitanos-el-costo-humano-de-23-anos-de-prision/",
+      "published_date": "2026-05-25T19:11:01Z",
+      "category": "Military"
+    },
+    {
+      "title": "María Corina Machado meets with the president of Panama, José Raúl Mulino",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/maria-corina-machado-se-reune-con-el-presidente-de-panama-jose-raul-mulino/",
+      "published_date": "2026-05-25T18:54:28Z",
+      "category": "Military"
+    },
+    {
+      "title": "President of Panama received María Corina Machado at the Las Garzas Palace",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/presidente-de-panama-recibio-a-maria-corina-machado-en-el-palacio-de-las-garzas/",
+      "published_date": "2026-05-25T18:52:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "The image of the Interpol arrest warrant against former minister Eduardo Piñate was generated by AI",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/cocuyo-chequea/pinate-interpol-ia/",
+      "published_date": "2026-05-25T18:39:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "MP announces investigation into events in Injuba prison in Barinas",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/mp-anuncia-investigacion-sobre-hechos-en-carcel-injuba-de-barinas/",
+      "published_date": "2026-05-25T18:35:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Argentine lawyer spends a year imprisoned in Venezuela: his father died waiting to be released",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/abogado-argentino-cumple-un-ano-preso-en-venezuela-su-padre-murio-esperando-que-lo-liberaran/",
+      "published_date": "2026-05-25T18:21:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "María Concepción Sánchez, mother of political prisoner Joan Cruz Sánchez, died: she suffered a stroke when she learned that her son was not released",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fallecio-maria-concepcion-sanchez-madre-del-preso-politico-joan-cruz-sanchez-sufrio-acv-al-conocer-que-su-hijo-no-fue-liberado/",
+      "published_date": "2026-05-25T17:02:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "Barinas | Injuba director dismissed after protests and transfer of inmates",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/barinas-destituyen-al-director-de-injuba-despues-de-protestas-y-traslado-de-reclusos/",
+      "published_date": "2026-05-25T16:07:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "Salvador Pérez makes history as the Latin catcher with the most home runs in MLB",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/salvador-perez-hace-historia-como-el-receptor-latino-con-mas-jonrones-en-mlb/",
+      "published_date": "2026-05-25T21:48:07Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Chevron offers job opportunities in Venezuela: these are the available positions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/chevron-ofrece-oportunidades-laborales-en-venezuela-estos-son-los-puestos-disponibles/",
+      "published_date": "2026-05-25T20:49:12Z",
+      "category": "Energy"
+    },
+    {
+      "title": "India increases oil imports from Venezuela and other countries after the Hormuz blockade",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/india-incrementa-importaciones-de-petroleo-de-venezuela-y-otros-paises-tras-el-bloqueo-de-ormuz/",
+      "published_date": "2026-05-25T18:32:03Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Fevearroz warns that power outages harm 60% of the national planting area",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/fevearroz-alerta-que-cortes-electricos-perjudican-60-del-area-de-siembra-nacional/",
+      "published_date": "2026-05-25T17:46:57Z",
+      "category": "Energy"
+    },
+    {
+      "title": "The Contreras brothers show their best version in the MLB season",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/los-hermanos-contreras-muestran-su-mejor-version-en-la-temporada-de-mlb/",
+      "published_date": "2026-05-25T16:30:48Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Electrical crisis forces companies in Lara to buy power generators",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/crisis-electrica-obliga-a-empresas-de-lara-a-comprar-generadores-de-energia/",
+      "published_date": "2026-05-25T15:02:13Z",
+      "category": "Energy"
     },
     {
       "title": "How the Andic family built the Mango fashion empire and what power Jonathan, the heir accused of his father's death, has",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/como-la-familia-andic-construyo-el-imperio-de-la-moda-mango/",
       "published_date": "2026-05-25T12:28:35Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Alec Baldwin laments the disappearance of mid-budget films in Hollywood",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/alec-baldwin-lamenta-la-desaparicion-de-peliculas-de-presupuesto-intermedio-en-hollywood/",
+      "published_date": "2026-05-25T04:01:00Z",
       "category": "Energy"
     },
     {
@@ -374,56 +423,14 @@
       "category": "Energy"
     },
     {
-      "title": "Carmelo De Grazia denounces the dispossession of a bank and 14 companies in the PDVSA-Cripto trial",
+      "title": "Between bonuses and the bankruptcy of the oil model: experts analyze the future of salaries in Venezuela",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/carmelo-de-grazia-denuncia-en-el-juicio-pdvsa-cripto-el-despojo-de-un-banco-y-14-empresas/",
-      "published_date": "2026-05-22T12:01:00Z",
-      "category": "Energy"
+      "url": "https://elpitazo.net/caracas/entre-bonos-y-la-quiebra-del-modelo-petrolero-expertos-analizan-el-futuro-del-salario-en-venezuela/",
+      "published_date": "2026-05-25T21:09:26Z",
+      "category": "Economy"
     },
     {
-      "title": "Lester Toledo returned to Venezuela after a decade of forced exile",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609218/lester-toledo-regreso-a-venezuela-tras-una-decada-de-exilio-forzado/",
-      "published_date": "2026-05-22T01:30:22Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuelan deputies prepare electricity law to incorporate alternative energies",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/diputados-venezolanos-preparan-ley-de-electricidad-para-incorporar-energias-alternativas/",
-      "published_date": "2026-05-22T00:54:15Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Exxon Mobil is in talks to acquire oil production rights in Venezuela, according to The New York Times",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/exxon-mobil-esta-en-conversaciones-para-adquirir-derechos-de-produccion-de-petroleo-en-venezuela-segun-the-new-york-times/",
-      "published_date": "2026-05-21T22:41:22Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Citizens report delays in supplying gasoline in at least five states of the country",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/usuarios-reportan-retrasos-para-surtir-gasolina-en-al-menos-cuatro-estados-del-pais/",
-      "published_date": "2026-05-21T21:28:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The United States affirms that Venezuela is achieving record oil production",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/estados-unidos-afirma-que-venezuela-esta-alcanzando-produccion-record-de-petroleo/",
-      "published_date": "2026-05-21T20:16:32Z",
-      "category": "Energy"
-    },
-    {
-      "title": "ConocoPhillips warns that Venezuela still does not offer sufficient conditions for foreign investors",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/conocophillips-advierte-que-venezuela-aun-no-ofrece-condiciones-suficientes-para-inversionistas-extranjeros/",
-      "published_date": "2026-05-21T17:49:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuela does not just need to renegotiate its debt: it needs to rebuild trust",
+      "title": "Venezuela not only needs to renegotiate its debt: it needs to rebuild trust",
       "source": "Runrun.es",
       "url": "https://runrun.es/opinion/609415/venezuela-no-necesita-solo-renegociar-su-deuda-necesita-reconstruir-la-confianza/",
       "published_date": "2026-05-25T14:06:29Z",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "When living with HIV is intertwined with poverty and gender violence",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/609319/cuando-vivir-con-vih-se-entremezcla-con-pobreza-y-violencia-de-genero/",
-      "published_date": "2026-05-22T13:11:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tropical Wave No. 5 and Saharan dust coincide in Venezuela: rain and haze are expected",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/onda-tropical-nro-5-y-polvo-del-sahara-coinciden-en-venezuela-se-esperan-lluvias-y-calima/",
-      "published_date": "2026-05-25T13:46:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lamine Yamal leads Spain's call for the 2026 World Cup",
+      "title": "Trump will undergo the third medical examination of his second term",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/lamine-yamal-lidera-la-convocatoria-de-espana-para-el-mundial-2026/",
-      "published_date": "2026-05-25T13:28:44Z",
+      "url": "https://www.elnacional.com/2026/05/trump-se-sometera-al-tercer-examen-medico-de-su-segundo-mandato/",
+      "published_date": "2026-05-26T00:00:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Fujimori and Sánchez technicians fight for the center in the first electoral debate in Peru",
+      "title": "Earthquake of magnitude 6.9 is recorded in northern Chile without injuries or risk of tsunami",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/tecnicos-de-fujimori-y-sanchez-se-disputan-el-centro/",
-      "published_date": "2026-05-25T13:28:04Z",
+      "url": "https://www.elnacional.com/2026/05/sismo-de-magnitud-69-se-registra-en-el-norte-de-chile-sin-heridos-ni-riesgo-de-tsunami/",
+      "published_date": "2026-05-25T23:51:19Z",
       "category": "Local Events"
     },
     {
-      "title": "They evaluate possible damage to the bridge that connects Las Mercedes with El Rosal",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/evaluan-posibles-danos-en-puente-que-conecta-las-mercedes-con-el-rosal/",
-      "published_date": "2026-05-25T13:25:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado meets with Uribista candidate one week after the Colombian election",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/maria-corina-machado-se-reune-con-candidata-uribista-a-una-semana-de-eleccion-colombiana/",
-      "published_date": "2026-05-25T13:21:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Habitar el Cine Festival begins its exhibition of works with sewing",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/festival-habitar-el-cine-comienza-su-muestra-de-obras-con-costura/",
-      "published_date": "2026-05-25T13:05:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The hopeful pioneering trial on preeclampsia, the pregnancy complication that kills half a million babies a year",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/el-esperanzador-ensayo-pionero-sobre-la-preeclampsia/",
-      "published_date": "2026-05-25T13:04:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is the Garden of Poisons like, which houses more than 100 toxic plants (including the most poisonous in the world)",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/el-jardin-de-los-venenos-que-alberga-mas-de-100-plantas-toxicas/",
-      "published_date": "2026-05-25T12:38:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Southern Command published unpublished images of the evacuation drill carried out in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/comando-sur-publico-imagenes-ineditas-del-simulacro-de-evacuacion-realizado-en-caracas/",
-      "published_date": "2026-05-25T12:28:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Deportivo Táchira remains at the top of the Futve League",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/deportivo-tachira-se-mantiene-en-la-cima-de-la-liga-futve/",
-      "published_date": "2026-05-25T11:34:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Mañanero on May 25: María Corina Machado assured that she is coming to Venezuela and will be a candidate",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609407/el-mananero-del-25-de-mayo-maria-corina-machado-aseguro-que-viene-a-venezuela-y-sera-candidata/",
-      "published_date": "2026-05-25T09:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The legacy of Rubén Blades in the Caja de Las Letras of the Cervantes Institute",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/el-legado-de-ruben-blades-en-la-caja-de-las-letras-del-instituto-cervantes/",
-      "published_date": "2026-05-25T04:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Djokovic came back at Roland Garros",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/djokovic-remonto-en-el-roland-garros/",
-      "published_date": "2026-05-25T04:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ramón Guillermo Aveledo: \"For there to be elections, the transition has to begin\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ramon-guillermo-aveledo-para-que-haya-elecciones-tiene-que-empezar-la-transicion/",
-      "published_date": "2026-05-25T00:50:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1,200 men and 100 women declare a hunger strike in Barinas prison",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/1-200-hombres-y-100-mujeres-se-declaran-en-huelga-de-hambre-en-carcel-de-barinas/",
-      "published_date": "2026-05-25T00:22:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Academy of Medicine urged to maintain controls for several weeks due to the Ebola virus",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/academia-nacional-de-medicina-insto-a-mantener-controles-por-varias-semanas-debido-al-virus-del-ebola/",
-      "published_date": "2026-05-24T23:38:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Shakira premieres video for \"Dai Dai\" with the presence of the group Gheto Kids",
+      "title": "Manuel Cipriano Heredia, former president of Fedenaga and leader of the Venezuelan livestock union, dies",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/shakira-estrena-video-de-dai-dai-con-la-presencia-de-la-agrupacion-gheto-kids/",
-      "published_date": "2026-05-24T23:38:47Z",
+      "url": "https://elpitazo.net/regiones/los-llanos/fallece-manuel-cipriano-heredia-expresidente-de-fedenaga-y-referente-del-gremio-ganadero-venezolano/",
+      "published_date": "2026-05-25T23:50:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Canadian GP: Antonelli triumphs and isolates himself at the top of Formula 1",
+      "title": "OVP denounces massive transfers in Injuba after protests and dismissal of its board of directors",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/gp-de-canada-antonelli-triunfa-y-se-aisla-en-la-cima-de-la-formula-1/",
-      "published_date": "2026-05-24T22:51:42Z",
+      "url": "https://www.elnacional.com/2026/05/ovp-denuncia-traslados-masivos-en-injuba-tras-protestas-y-destitucion-de-su-directiva/",
+      "published_date": "2026-05-25T23:46:31Z",
       "category": "Local Events"
     },
     {
-      "title": "The Venezuelan writer Inés Muñoz Aguirre died",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/fallecio-la-escritora-venezolana-ines-munoz-aguirre/",
-      "published_date": "2026-05-24T22:03:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado visits the Panama Canal this May 24",
+      "title": "Caracas | Teachers reiterate emergency in the sector: they denounce suspension of salaries and abandonment of Ipasme",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-visita-el-canal-de-panama-este-24-de-mayo/",
-      "published_date": "2026-05-24T21:12:31Z",
+      "url": "https://elpitazo.net/regiones/gran-caracas/caracas-docentes-reiteran-emergencia-del-sector-denuncian-suspension-de-salarios-y-abandono-del-ipasme/",
+      "published_date": "2026-05-25T23:37:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Pitazo denounces suspension of his official Instagram account",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/609460/el-pitazo-denuncia-suspension-de-su-cuenta-oficial-de-instagram/",
+      "published_date": "2026-05-25T23:28:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Una red troll en Instagram atacó a medios venezolanos y elogió a Fospuca y a Elarba",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/alianzas/una-red-troll-en-instagram-ataco-a-medios-venezolanos-y-elogio-a-fospuca-y-a-elarba/",
+      "published_date": "2026-05-25T23:25:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Táchira | Nurses protest at the Ombudsman's Office: \"Desertion may increase\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-andes/tachira-enfermeros-protestan-en-la-defensoria-del-pueblo-la-desercion-puede-incrementar/",
+      "published_date": "2026-05-25T23:22:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Panama and María Corina Machado agree on the urgency of channeling a democratic solution for Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/presidente-de-panama-y-maria-corina-machado-coinciden-en-la-urgencia-de-encauzar-una-solucion-democratica-para-venezuela/",
+      "published_date": "2026-05-25T23:21:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NGO confirms release of Yoel Sucre, coordinator of Vente Venezuela in Barinas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/ong-confirma-excarcelacion-de-yoel-sucre-coordinador-de-vente-venezuela-en-barinas/",
+      "published_date": "2026-05-25T23:07:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "María Corina Machado receives the Keys to Panama City",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/maria-corina-machado-recibe-las-llaves-de-la-ciudad-de-panama/",
+      "published_date": "2026-05-25T23:05:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wolfsburg relegated to the second division after 29 years in the Bundesliga",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/wolfsburgo-desciende-a-la-segunda-division-alemana/",
+      "published_date": "2026-05-25T22:57:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Pitazo's Instagram account was suspended this #25May",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/tecnologia/cuenta-de-instagram-de-el-pitazo-fue-suspendida-este-25may/",
+      "published_date": "2026-05-25T22:44:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivian President halves his salary and that of his ministers amid protests demanding his resignation",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/presidente-de-bolivia-reduce-a-la-mitad-su-salario-y-el-de-sus-ministros-en-medio-de-protestas-que-exigen-su-renuncia/",
+      "published_date": "2026-05-25T22:31:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The VV coordinator in Barinas is released under a presentation regime",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/609429/excarcelan-al-coordinador-de-vv-en-barinas-bajo-regimen-de-presentacion/",
+      "published_date": "2026-05-25T22:13:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rain alert: 10 families live at risk of landslides in Bolívar",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/alerta-ante-lluvias-10-familias-viven-en-riesgo-de-derrumbe-en-bolivar/",
+      "published_date": "2026-05-25T22:06:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tiendas Daka consolidates its leadership in the west of the country with the opening of its largest shopping complex in Zulia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/tiendas-daka-consolida-su-liderazgo-en-el-occidente-del-pais-con-la-apertura-de-su-complejo-comercial-mas-grande-en-el-zulia/",
+      "published_date": "2026-05-25T21:53:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fashion as an artistic expression: This is how the Avanti Talks MET Gala edition was experienced",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/la-moda-como-expresion-artistica-asi-se-vivio-el-avanti-talks-edicion-met-gala/",
+      "published_date": "2026-05-25T21:34:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zapatero-Plus Ultra plot had a possible influence on the departure of Edmundo González to Spain, according to the file",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/trama-zapatero-en-el-caso-plus-ultra-tuvo-posible-influencia-en-la-salida-de-edmundo-gonzalez-urrutia-a-espana-segun-el-expediente/",
+      "published_date": "2026-05-25T21:26:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What does the state of exception that arises in the face of conflicts in Bolivia imply?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/que-implica-el-estado-de-excepcion-que-se-plantea-ante-los-conflictos-en-bolivia/",
+      "published_date": "2026-05-25T21:20:57Z",
       "category": "Local Events"
     }
   ]
