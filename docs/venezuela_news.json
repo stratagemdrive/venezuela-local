@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-30T00:15:58Z",
+  "last_updated": "2026-05-30T12:06:54Z",
   "stories": [
+    {
+      "title": "Are language learning apps endangering local languages?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/estan-las-aplicaciones-para-aprender-idiomas-poniendo-en-peligro-las-lenguas-locales/",
+      "published_date": "2026-05-30T10:33:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A Guyanese soldier is injured in a new armed attack on the border with Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/un-soldado-guyanes-resulta-herido-en-un-nuevo-ataque-armado-en-la-frontera-con-venezuela/",
+      "published_date": "2026-05-30T01:02:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protests in Bolivia escalate as protesters reject dialogue with government",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/protestas-en-bolivia-escalan-mientras-manifestantes-rechazan-dialogo-con-gobierno/",
+      "published_date": "2026-05-30T00:56:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jorge Rodríguez orders the AN to summon Turkish investors regarding cement prices in Trujillo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/jorge-rodriguez-ordena-a-la-an-citar-a-inversionistas-turcos-ante-precios-del-cemento-en-trujillo/",
+      "published_date": "2026-05-30T00:15:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Abner Uribe, Cerveceros pitcher, suspended for obscene gesture in a game",
       "source": "El Nacional",
@@ -115,32 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "El Pitazo and specialists analyze the strategic alliance between brands and media in the Venezuelan market",
+      "title": "Mobile pharmacies: Shortage of low-cost oncology drugs and a presidency under US scrutiny",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/el-pitazo-y-especialistas-analizan-la-alianza-estrategica-entre-marcas-y-medios-en-el-mercado-venezolano/",
-      "published_date": "2026-05-29T12:36:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A Blue Origin rocket exploded in a pre-test for a satellite mission",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/explota-un-cohete-de-blue-origin-en-ensayo-de-mision-satelital/",
-      "published_date": "2026-05-29T12:13:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The metamorphosis of violence in Venezuela: why the country \"disappeared\" from the ranking of the most violent cities in the world",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-metamorfosis-de-la-violencia-en-venezuela-por-que-el-pais-desaparecio-del-ranking-de-las-ciudades-mas-violentas-del-mundo/",
-      "published_date": "2026-05-29T08:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US eliminates sanctions on two Venezuelan oil tankers",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ee-uu-elimina-sanciones-a-dos-buques-petroleros-venezolanos/",
-      "published_date": "2026-05-29T05:53:00Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/reportajes/farmacias-moviles-escasez-de-farmacos-oncologicos-a-bajo-costo-y-una-presidencia-bajo-la-mira-de-ee-uu/",
+      "published_date": "2026-05-30T12:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Chief of the US Southern Command meets with the high command of the Cuban Army in Guantánamo",
@@ -241,6 +248,13 @@
       "category": "Military"
     },
     {
+      "title": "The loneliness of older Venezuelan adults accentuates their vulnerability",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/609973/la-soledad-de-los-adultos-mayores-venezolanos-acentua-su-vulnerabilidad/",
+      "published_date": "2026-05-29T15:29:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Flávio Bolsonaro celebrates the designation of Brazilian criminal gangs as \"terrorists\"",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/bolsonaro-celebra-designacion-de-bandas-de-brasil-como-terrorista/",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "They will make a television series about Amores Perros",
+      "title": "The scientific explanation of why women lose memory during menopause",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/haran-una-serie-de-television-sobre-amores-perros/",
-      "published_date": "2026-05-29T04:30:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lawyers file an annulment lawsuit against the Organic Law of Domain Forfeiture",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/abogados-introducen-demanda-de-nulidad-contra-la-ley-organica-de-extincion-de-dominio/",
-      "published_date": "2026-05-29T04:01:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/05/la-explicacion-cientifica-de-por-que-las-mujeres-pierden-memoria-en-la-menopausia/",
+      "published_date": "2026-05-30T09:43:00Z",
+      "category": "Energy"
     },
     {
       "title": "Former oil workers call a political meeting in Cabimas together with allies of María Corina Machado",
@@ -413,13 +420,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/eduardo-rodriguez-se-acerca-a-las-100-victorias-en-grandes-ligas/",
       "published_date": "2026-05-27T14:10:11Z",
-      "category": "Energy"
-    },
-    {
-      "title": "15 species of seabirds at risk of disappearing due to oil spills on the coast of Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/15-especies-de-aves-marinas-en-riesgo-de-desaparecer-por-derrames-de-crudo-en-costas-de-venezuela/",
-      "published_date": "2026-05-27T13:29:33Z",
       "category": "Energy"
     },
     {
@@ -563,6 +563,34 @@
       "category": "Economy"
     },
     {
+      "title": "Trump remains in excellent health,\" according to presidential doctor",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/trump-se-mantiene-en-excelente-condicion-de-salud-segun-medico-presidencial/",
+      "published_date": "2026-05-30T10:59:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The difficult return of Venezuelan nurses who denounce institutional rejection",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/el-dificil-retorno-de-las-enfermeras-venezolanas-que-denuncian-rechazo-institucional/",
+      "published_date": "2026-05-30T10:43:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The collapse of the educational system in Venezuela leaves thousands of young people without studies or opportunities",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/venezuela-8-de-cada-10-jovenes-estan-fuera-del-sistema-educativo/",
+      "published_date": "2026-05-30T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Panama Manifesto: the opposition reaffirms the leadership of María Corina Machado and sets a route to negotiate the transition",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/manifiesto-de-panama-la-oposicion-reafirma-el-liderazgo-de-maria-corina-machado-y-fija-ruta-para-negociar-la-transicion/",
+      "published_date": "2026-05-30T01:47:50Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Minister of Transportation on the collapse of the bridge in Lara: a controlled demolition will be carried out",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/ministra-de-transporte-sobre-colapso-de-puente-en-lara-se-hara-una-demolicion-controlada/",
@@ -672,34 +700,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/rr-es-plus/609891/la-oposicion-en-panama-nuevo-bautismo-unitario/",
       "published_date": "2026-05-29T21:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FC Barcelona signs one of the Champions League scorers: Anthony Gordon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/fc-barcelona-ficha-a-anthony-goordon/",
-      "published_date": "2026-05-29T20:58:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA | Widow of former governor who died in state custody starts business in Florida",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/ee-uu-viuda-de-exgobernador-que-murio-bajo-custodia-del-estado-inicia-emprendimiento-en-florida/",
-      "published_date": "2026-05-29T20:44:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivar | “23 retirees have died waiting for demands”: older adults denounce in protest",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-han-muerto-23-jubilados-esperando-reivindicaciones-denuncian-adultos-mayores-en-protesta/",
-      "published_date": "2026-05-29T20:22:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“No to extermination”: older adults protest for the right to a dignified life",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/609932/no-al-exterminio-adultos-mayores-protestan-en-su-dia-por-el-derecho-a-una-vida-digna/",
-      "published_date": "2026-05-29T20:17:59Z",
       "category": "Local Events"
     }
   ]
