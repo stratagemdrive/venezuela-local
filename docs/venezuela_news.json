@@ -1,7 +1,14 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-05-31T00:08:03Z",
+  "last_updated": "2026-05-31T12:14:43Z",
   "stories": [
+    {
+      "title": "Environment analysis: Trump reorganizes the hemisphere. Argentina's place on the new map",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/analisis-de-entorno-trump-reordena-el-hemisferio-el-lugar-de-argentina-en-el-nuevo-mapa/",
+      "published_date": "2026-05-31T10:51:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ally of “Potro” Álvarez is free: the owner of El Inmejorable is accused of complicity in the arrest of 120 people",
       "source": "El Pitazo",
@@ -136,11 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump says he will make a decision on a peace deal with Iran, but Tehran clarifies that there is no final agreement",
+      "title": "Marcos Velazco, member of Vente Venezuela, returned to the country after a year in exile",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/trump-dice-que-tomara-decision-sobre-pacto-de-paz-con-iran-pero-teheran-aclara-que-no-hay-acuerdo-final/",
-      "published_date": "2026-05-29T21:27:42Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/05/marcos-velazco-miembro-de-vente-venezuela-regreso-al-pais-tras-un-ano-en-el-exilio/",
+      "published_date": "2026-05-31T11:36:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "More than 330 detainees and an injured police officer left riots in Paris after PSG's victory in the Champions League",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/mas-330-detenidos-y-un-policia-herido-dejaron-disturbios-en-paris-tras-triunfo-del-psg-en-la-champions-league/",
+      "published_date": "2026-05-31T00:50:21Z",
+      "category": "Military"
     },
     {
       "title": "King Felipe VI resolved the mechanical failure that caused the flag to fall during a military parade",
@@ -199,7 +213,7 @@
       "category": "Military"
     },
     {
-      "title": "Leopoldo López denounces that Delcy Rodríguez turned his house into a residence for seniors",
+      "title": "Leopoldo López denounces that Delcy Rodríguez turned his house into a residence for the elderly",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/leopoldo-lopez-denuncia-que-delcy-rodriguez-convirtio-su-casa-en-una-residencia-para-adultos-mayores/",
       "published_date": "2026-05-30T19:23:02Z",
@@ -266,20 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/papa-advierte-sobre-ansiedad-y-soledad-juvenil-vinculadas-al-uso-de-tecnologias-digitales/",
       "published_date": "2026-05-30T12:21:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mobile pharmacies: Shortage of low-cost oncology drugs and a presidency under US scrutiny",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/reportajes/farmacias-moviles-escasez-de-farmacos-oncologicos-a-bajo-costo-y-una-presidencia-bajo-la-mira-de-ee-uu/",
-      "published_date": "2026-05-30T12:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Chief of the US Southern Command meets with the high command of the Cuban Army in Guantánamo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/jefe-del-comando-sur-de-ee-uu-se-reune-con-el-alto-mando-del-ejercito-cubano-en-guantanamo/",
-      "published_date": "2026-05-30T00:01:16Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,27 @@
       "category": "Energy"
     },
     {
+      "title": "How to use credit cards in Venezuela and not die trying?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/como-usar-las-tarjetas-de-credito-en-venezuela-y-no-morir-en-el-intento/",
+      "published_date": "2026-05-31T06:15:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Government evaluates technical assistance and fund recovery mechanisms with the IMF",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/gobierno-evalua-con-el-fmi-mecanismos-de-asistencia-tecnica-y-de-recuperacion-de-fondos/",
+      "published_date": "2026-05-31T01:41:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Venezuelan delegation met with the director of the IMF to evaluate assistance and recovery of funds",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/comitiva-venezolana-se-reunio-con-la-directora-del-fmi-para-evaluar-asistencia-y-recuperacion-de-fondos/",
+      "published_date": "2026-05-31T00:08:36Z",
+      "category": "Economy"
+    },
+    {
       "title": "The devaluation of the bolivar approaches 50% in the first five months of 2026",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/economia/la-devaluacion-del-bolivar-se-acerca-al-50-en-los-primeros-cinco-meses-de-2026/",
@@ -542,25 +563,74 @@
       "category": "Economy"
     },
     {
-      "title": "Union leader denounces that he was detained and extorted by DIE officials",
+      "title": "The Pacific garbage island: the plastic continent that already multiplies the size of Spain",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/dirigente-sindical-denuncia-que-fue-detenido-y-extorsionado-por-funcionarios-del-die/",
-      "published_date": "2026-05-28T21:57:48Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/la-isla-de-basura-del-pacifico-el-continente-de-plastico-que-ya-multiplica-el-tamano-de-espana/",
+      "published_date": "2026-05-31T12:00:12Z",
+      "category": "Local Events"
     },
     {
-      "title": "Will the crisis in Bolivia be resolved with the resignation of President Rodrigo Paz?",
+      "title": "World Cup 2026: Spain trains with Nico Williams and Lamine Yamal on the sidelines",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/crisis-en-bolivia-escasez-inflacion-bloqueos/",
-      "published_date": "2026-05-28T21:24:09Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/05/mundial-2026-espana-se-entrena-con-nico-williams-y-lamine-yamal-al-margen/",
+      "published_date": "2026-05-31T11:18:43Z",
+      "category": "Local Events"
     },
     {
-      "title": "What bachelor parties are silent about",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/609802/despedidas-de-soltero-reuben-morales/",
-      "published_date": "2026-05-28T18:01:16Z",
-      "category": "Economy"
+      "title": "The corporatization of political parties",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/la-corporativizacion-de-los-partidos-politicos/",
+      "published_date": "2026-05-31T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections do not create democracy",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/elecciones-no-crean-democracia/",
+      "published_date": "2026-05-31T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Simón Grossmann: That my songs accompany people is priceless",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/simon-grossmann-que-mis-canciones-acompanen-a-las-personas-no-tiene-precio/",
+      "published_date": "2026-05-31T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Héctor Rodríguez, the “drinkable” face to reinvent the Chavista State",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/hector-rodriguez-el-rostro-potable-para-reinventar-el-estado-chavista/",
+      "published_date": "2026-05-31T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia is measured today at the polls",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/colombia-se-mide-hoy-en-las-urnas/",
+      "published_date": "2026-05-31T06:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government restructuring or the dismantling of an “amorphous” and inefficient State: expert reading",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/reestructuracion-gobierno-delcy-rodriguez-desmontaje-estado-amorfo/",
+      "published_date": "2026-05-31T06:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is a direct negotiation possible between Machado and the interim? political scientists respond",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/negociacion-directa-machado-interinato-politologos/",
+      "published_date": "2026-05-31T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Prices published: Ticket sales for Tini's concert in Caracas began",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/05/publicaron-los-precios-comenzo-venta-de-entradas-para-el-concierto-de-tini-en-caracas/",
+      "published_date": "2026-05-31T00:29:35Z",
+      "category": "Local Events"
     },
     {
       "title": "Arrest of the owner of Mykonos is an open secret in the ice cream parlor's branches",
@@ -570,7 +640,7 @@
       "category": "Local Events"
     },
     {
-      "title": "From Zulia to Atlanta: young man went viral on social media because of the Venezuelan flag inside his graduation gown",
+      "title": "From Zulia to Atlanta: young man went viral on social networks because of the Venezuelan flag inside his graduation gown",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/de-zulia-a-atlanta-joven-se-viralizo-en-redes-por-la-bandera-de-venezuela-dentro-de-su-toga-de-graduacion/",
       "published_date": "2026-05-30T23:37:58Z",
@@ -630,76 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/05/convite-al-menos-380-000-adultos-mayores-viven-solos-por-la-masiva-migracion-en-venezuela/",
       "published_date": "2026-05-30T20:18:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia Elections 2026 | \"It is the decision of whether the country wants to regain the rhythm of freedom again.\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/elecciones-colombia-2026-es-la-decision-de-si-el-pais-quiere-otra-vez-recuperar-el-ritmo-de-la-libertad/",
-      "published_date": "2026-05-30T19:46:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Three \"narcoterrorists\" killed in new US attack against boat in the Pacific",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/tres-narcoterroristas-muertos-en-nuevo-ataque-de-ee-uu-contra-lancha-en-el-pacifico/",
-      "published_date": "2026-05-30T19:20:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Paris Saint Germain beat Arsenal on penalties and retained the Champions League title",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/paris-saint-germain-vencio-al-arsenal-en-penales-y-revalido-el-titulo-de-la-champions/",
-      "published_date": "2026-05-30T19:16:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OVP registers 18 deaths in custody after new case in Táchira",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610010/ovp-registra-18-muertes-bajo-custodia-tras-nuevo-caso-en-tachira/",
-      "published_date": "2026-05-30T18:53:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Raúl Fernández after winning the Italian MotoGP GP sprint: \"It was the most beautiful and most difficult moment\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/raul-fernandez-tras-ganar-el-sprint-del-gp-de-italia-de-motogp-ha-sido-el-momento-mas-bonito-y-el-mas-dificil/",
-      "published_date": "2026-05-30T18:53:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lawyers ask that cases from terrorism courts be annulled: they demand the transfer to ordinary courts",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/abogados-piden-que-se-anulen-causas-de-tribunales-de-terrorismo-reclaman-por-el-traslado-de-causas-a-juzgados-ordinarios/",
-      "published_date": "2026-05-30T18:51:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Actress Kelly Curtis, sister of Jamie Lee Curtis, dies at 69 years of age",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/la-actriz-kelly-curtis-hermana-de-jamie-lee-curtis-fallece-a-los-69-anos-de-edad/",
-      "published_date": "2026-05-30T18:43:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"It is the story of millions of Venezuelans\": Leopoldo López condemned the installation of a Chavista mission in his house",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/es-la-de-millones-de-venezolanos-leopoldo-lopez-condeno-instalacion-de-mision-chavista-en-su-casa/",
-      "published_date": "2026-05-30T18:26:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Catia marks the beginning of the wholesale area of ​​Central Madeirense",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/catia-marca-el-inicio-de-la-zona-mayorista-de-central-madeirense/",
-      "published_date": "2026-05-30T18:13:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roland Garros: Coco Gauff lost to Anastasia Potapova",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/roland-garros-coco-gauff-perdio-ante-anastasia-potapova/",
-      "published_date": "2026-05-30T18:06:00Z",
       "category": "Local Events"
     }
   ]
