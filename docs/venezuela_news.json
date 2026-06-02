@@ -1,7 +1,91 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-01T16:42:35Z",
+  "last_updated": "2026-06-02T00:21:32Z",
   "stories": [
+    {
+      "title": "Trump believes there can be an agreement next week despite the fact that Iran broke off the dialogue",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/trump-cree-que-puede-haber-un-acuerdo-la-proxima-semana-pese-a-que-iran-rompio-el-dialogo/",
+      "published_date": "2026-06-01T23:40:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From Espriella and Cepeda to the second round: what is expected in relations with Venezuela?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/espriella-cepeda-segunda-vuelta-espera-relaciones-venezuela/",
+      "published_date": "2026-06-01T23:20:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Between returning or staying abroad: the dilemma of Venezuelan migrants in the face of the political panorama",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/entre-regresar-o-permanecer-en-el-extranjero-el-dilema-de-los-migrantes-venezolanos-ante-el-panorama-politico/",
+      "published_date": "2026-06-01T22:47:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Serena Williams and the sports stars who returned from retirement after 40 years",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/serena-williams-y-las-estrellas-del-deporte-que-regresaron-del-retiro-pasados-los-40-anos/",
+      "published_date": "2026-06-01T22:16:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela begins a public consultation process to structurally reform the criminal justice system",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/venezuela-inicia-un-proceso-de-consulta-publica-para-reformar-de-manera-estructural-el-sistema-de-justicia-penal/",
+      "published_date": "2026-06-01T22:14:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reform of the penal system: between the resolution of impunity and the imposition of communal justice",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610089/reforma-del-sistema-penal-entre-la-resolucion-de-la-impunidad-y-la-imposicion-de-la-justicia-comunal/",
+      "published_date": "2026-06-01T21:51:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "María Corina Machado congratulates Abelardo de la Espriella after victory in the first electoral round",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-felicita-a-abelardo-de-la-espriella-tras-triunfo-en-primera-vuelta-electoral/",
+      "published_date": "2026-06-01T20:46:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"What they did with Yulixa's body was a total improvisation\": Forensic Medicine report opens new keys",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/lo-que-hicieron-con-el-cuerpo-de-yulixa-fue-una-improvisacion-total-las-nuevas-claves-que-abre-el-informe-de-medicina-legal/",
+      "published_date": "2026-06-01T20:45:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Prohibiting is not enough”: Cecodap's suggestions on the use of cell phones in schools",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610106/prohibir-no-basta-las-sugerencias-de-cecodap-sobre-el-uso-de-celulares-en-escuelas/",
+      "published_date": "2026-06-01T19:37:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Authorities prevent transfer of accused and suspend PDVSA-Cripto hearing",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/pdvsa-cripto-suspenden-audiencia-traslados/",
+      "published_date": "2026-06-01T18:39:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Paraguay presents its call for the 2026 World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/paraguay-presenta-su-convocatoria-al-mundial-2026/",
+      "published_date": "2026-06-01T18:28:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anna Kalinskaya advances at Roland Garros and gives credit to her coach",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/anna-kalinskaya-avanza-en-roland-garros-y-reconoce-el-aporte-de-su-entrenadora/",
+      "published_date": "2026-06-01T17:13:44Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Edmundo González: They offered to release my son-in-law for my resignation",
       "source": "El Nacional",
@@ -59,94 +143,101 @@
       "category": "Diplomacy"
     },
     {
-      "title": "🎭 Photo booth once again portrays the wounds of a country that does not change",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/%f0%9f%8e%ad-fotomaton-vuelve-a-retratar-las-heridas-de-un-pais-que-no-cambia/",
-      "published_date": "2026-06-01T11:54:25Z",
-      "category": "Diplomacy"
+      "title": "DD activists. HH. : release of political prisoners is used as a tool of political propaganda",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/activistas-de-dd-hh-liberacion-de-presos-politicos-se-usa-como-herramienta-de-propaganda-politica/",
+      "published_date": "2026-06-02T00:16:47Z",
+      "category": "Military"
     },
     {
-      "title": "The United States and Iran attack each other despite the ceasefire",
+      "title": "Delcy Rodríguez announces the creation of a hotline to report judicial and police extortion",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/estados-unidos-e-iran-se-atacan-mutuamente-pese-al-alto-el-fuego/",
-      "published_date": "2026-06-01T11:41:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/delcy-rodriguez-anuncia-la-creacion-de-una-linea-telefonica-directa-para-denunciar-la-extorsion-judicial-y-policial/",
+      "published_date": "2026-06-02T00:07:05Z",
+      "category": "Military"
     },
     {
-      "title": "Netanyahu orders attacks around Beirut",
+      "title": "They predict a below-average hurricane season, although they warn of the risk",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/netanyahu-ordena-ataques-en-los-alrededores-de-beirut/",
-      "published_date": "2026-06-01T10:09:56Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/preven-una-temporada-de-huracanes-por-debajo-del-promedio-aunque-advierten-del-riesgo/",
+      "published_date": "2026-06-01T23:31:45Z",
+      "category": "Military"
     },
     {
-      "title": "The “51st state”?",
+      "title": "Inmate with cancer died in La Pica and there are already 19 deaths in custody in one month",
       "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/610057/estado-51/",
-      "published_date": "2026-06-01T08:09:55Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/610120/recluso-con-cancer-murio-en-la-pica-y-ya-son-19-fallecidos-bajo-custodia-en-un-mes/",
+      "published_date": "2026-06-01T22:02:46Z",
+      "category": "Military"
     },
     {
-      "title": "Leocenis García talks about his joining Democratic Action: \"A politician lives off criticism\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/leocenis-garcia-un-politico-vive-de-la-critica/",
-      "published_date": "2026-06-01T05:11:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The historic Guillermo Ochoa has a place on Mexico's list",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-historico-guillermo-ochoa-tiene-un-lugar-en-la-lista-de-mexico/",
-      "published_date": "2026-06-01T05:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Roland Garros will have an unprecedented champion this year",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/roland-garros-tendra-un-campeon-inedito-este-ano/",
-      "published_date": "2026-06-01T05:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Backrooms sweeps the box office and surpasses the major studios",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/backrooms-arrasa-en-taquilla-y-supera-a-los-grandes-estudios/",
-      "published_date": "2026-06-01T04:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Wingo published ticket prices for the flights that will cover the Bogotá-Porlamar route",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/wingo-publico-precio-de-boletos-para-los-vuelos-que-cubriran-la-ruta-bogota-porlamar/",
-      "published_date": "2026-06-01T00:32:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ronald Acuña Jr. hit his fifth home run and equaled a historic streak",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ronald-acuna-jr-conecto-su-quinto-jonron-e-igualo-racha-histotrica/",
-      "published_date": "2026-05-31T23:06:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ronald Acuña Jr. hit his fifth home run and equaled a historic streak",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ronald-acuna-jr-conecto-su-quinto-jonron-e-igualo-racha-historica/",
-      "published_date": "2026-05-31T23:06:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colombia goes to the second round with De La Espriella and Cepeda",
+      "title": "“They let my son die like an animal,” denounces the mother of a prisoner who died of cancer in La Pica",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/colombia-va-a-segunda-vuelta-con-de-la-espriella-y-cepeda/",
-      "published_date": "2026-05-31T22:43:43Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/a-mi-hijo-lo-dejaron-morir-como-un-animal-denuncia-madre-de-un-preso-fallecido-por-cancer-en-la-pica/",
+      "published_date": "2026-06-01T21:34:16Z",
+      "category": "Military"
+    },
+    {
+      "title": "Vox denounces in the Spanish Congress the censorship of Pedro Sánchez and the threat of control over social networks in its II Conference on Freedom of Expression",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/vox-congreso-jornadas-libertad-expresion-sanchez/",
+      "published_date": "2026-06-01T20:35:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "The US holds the government of Ortega and Murillo responsible for the death of indigenous leader Brooklyn Rivera",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/ee-uu-responsabiliza-al-gobierno-de-ortega-y-murillo-por-la-muerte-del-lider-indigena-brooklyn-rivera/",
+      "published_date": "2026-06-01T19:34:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Five PNB arrested for alleged extortion and raid on LGBTQ+ premises in Barquisimeto",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/cinco-pnb-detenidos-por-presunta-extorsion-y-allanamiento-en-local-lgbtq-en-barquisimeto/",
+      "published_date": "2026-06-01T19:20:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Amnesty International calls for the cooperation of Spain and Argentina so that the victims of crimes against humanity in Venezuela have justice",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/amnistia-internacional-pide-la-cooperacion-de-espana-y-argentina-para-que-las-victimas-de-crimenes-de-lesa-humanidad-en-venezuela-tengan-justicia/",
+      "published_date": "2026-06-01T19:16:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "They denounce that the arrest of the former president of the Zulia Judicial Circuit in 2024 was for refusing to respond to the request of Cilia Flores' comadre",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/denuncian-que-detencion-de-expresidente-del-circuito-judicial-del-zulia-en-2024-fue-por-negarse-a-atender-solicitud-de-comadre-de-cilia-flores/",
+      "published_date": "2026-06-01T19:01:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Wembanyama issues warning to Knicks: 'We're not done'",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/wembanyama-lanza-una-advertencia-a-los-knicks-no-hemos-terminado/",
+      "published_date": "2026-06-01T18:08:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Retired teacher was injured after being pushed by a police officer during a protest in Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/profesora-jubilada-resulto-herida-tras-ser-empujada-por-un-policia-durante-protesta-en-espana/",
+      "published_date": "2026-06-01T17:41:31Z",
+      "category": "Military"
     },
     {
       "title": "Edmundo González: “My daughter told me that her husband would be released if I resigned”",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/edmundo-gonzalez-mi-hija-me-comunico-que-su-esposo-seria-liberado-si-yo-renunciaba/",
       "published_date": "2026-06-01T16:30:25Z",
+      "category": "Military"
+    },
+    {
+      "title": "Spanish National Court requests information from Venezuela about 14 members of ETA",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/audiencia-nacional-espanola-pide-informacion-a-venezuela-sobre-14-miembros-de-eta/",
+      "published_date": "2026-06-01T15:48:02Z",
       "category": "Military"
     },
     {
@@ -192,101 +283,45 @@
       "category": "Military"
     },
     {
-      "title": "Two Nobel Prize winners propose emulating the NASA model to \"sell\" and disseminate science",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/dos-nobel-proponen-vender-y-divulgar-la-ciencia/",
-      "published_date": "2026-06-01T12:22:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ephraín Verdú Torrelles, the Venezuelan soldier who is asked to be extradited from Spain to Argentina",
+      "title": "End of the Clap: what will happen now to the street bosses?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ephrain-verdu-torrelles-el-militar-venezolano-que-piden-extraditar-de-espana-a-argentina/",
-      "published_date": "2026-06-01T11:05:04Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/politica/fin-de-los-clap-que-pasara-ahora-con-los-jefes-de-calle/",
+      "published_date": "2026-06-01T22:56:44Z",
+      "category": "Energy"
     },
     {
-      "title": "Spain processes the extradition to Argentina of former Venezuelan colonel Verdú Torrelles for crimes against humanity",
+      "title": "Venezuela falls in its debut in the Americup U18",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/espana-tramita-la-extradicion-a-argentina-de-verdu-torrelles/",
-      "published_date": "2026-06-01T05:00:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/venezuela-cae-en-su-debut-en-la-americup-u18/",
+      "published_date": "2026-06-01T20:52:36Z",
+      "category": "Energy"
     },
     {
-      "title": "Petro does not accept election results in Colombia",
+      "title": "More than 800 fishermen from Güiria have been unable to work for three weeks due to an oil spill",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/petro-no-acepta-resultados-de-elecciones-en-colombia/",
-      "published_date": "2026-06-01T01:23:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Public Ministry initiated investigation against five PNB officials for raiding premises in Barquisimeto",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ministerio-publico-inicio-investigacion-contra-cinco-funcionarios-de-la-pnb-por-allanamiento-a-local-en-barquisimeto/",
-      "published_date": "2026-06-01T00:19:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "United Airlines flight made emergency landing due to suspicious name detected on a Bluetooth device",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/vuelo-de-united-airlines-aterrizo-de-emergencia-por-nombre-sospechoso-detectado-en-un-dispositivo-bluetooth/",
-      "published_date": "2026-05-31T22:56:41Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGOs denounce illegal raid and arrest of 33 men in an LGTBI premises",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-denuncian-allanamiento-ilegal-y-detencion-de-33-hombres-en-un-local-lgtbi-en-barquisimeto/",
-      "published_date": "2026-05-31T22:02:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Wilmer Azuaje also returns to Venezuela after a forced exile due to political persecution",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/wilmer-azuaje-tambien-regresa-a-venezuela-despues-de-un-exilio-forzado-por-la-persecucion-politica/",
-      "published_date": "2026-05-31T21:15:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nicaraguan political prisoner Brooklyn Rivera dies: he was in forced disappearance for more than 900 days",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/muere-preso-politico-de-nicaragua-brooklyn-rivera-estuvo-en-desaparicion-forzada-por-mas-de-900-dias/",
-      "published_date": "2026-05-31T19:30:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Executive Director of Cedice Libertad will receive the Sir Antony Fisher Lifetime Achievement Award 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/rocio-guijarro-recibira-el-premio-sir-antony-fisher-a-la-trayectoria-2026/",
-      "published_date": "2026-05-31T18:54:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Abelardo De la Espriella voted in Barranquilla: \"Today freedom and democracy are defined\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/abelardo-de-la-espriella-voto-en-barranquilla-hoy-se-define-la-libertad-la-democracia/",
-      "published_date": "2026-05-31T18:31:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "FANB arrested six people and seized more than two tons of drugs in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/fanb-detuvo-a-seis-personas-e-incauto-mas-de-dos-toneladas-de-drogas-en-caracas/",
-      "published_date": "2026-05-31T18:13:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGOs warn about LGBTIQ+ criminalization after police operation in Barquisimeto",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/610040/ong-alertan-sobre-criminalizacion-lgbtiq-tras-operativo-policial-en-barquisimeto/",
-      "published_date": "2026-05-31T17:58:28Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/mas-de-800-pescadores-de-guiria-cumplen-tres-semanas-sin-poder-trabajar-por-derrame-de-crudo/",
+      "published_date": "2026-06-01T18:28:54Z",
+      "category": "Energy"
     },
     {
       "title": "Euphoria says goodbye with its third season",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/euphoria-se-despide-con-su-tercera-temporada/",
       "published_date": "2026-06-01T05:25:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Charli XCX announced that she will release an album on July 24",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/charli-xcx-anuncio-que-el-24-de-julio-sacara-disco/",
+      "published_date": "2026-06-01T04:10:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Los Menor3s release “Cali calypso”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/los-menor3s-lanzan-cali-calipso-una-mezcla-entre-electronica-y-tradicion-venezolana/",
+      "published_date": "2026-06-01T04:01:00Z",
       "category": "Energy"
     },
     {
@@ -388,39 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "The strategists who revolutionize the 2026 World Cup",
+      "title": "Capriles demands to reduce VAT, eliminate IGTF and reactivate credit to improve the economy in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/los-estrategas-que-revolucionan-el-mundial-2026/",
-      "published_date": "2026-05-28T13:55:30Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Delcy Rodríguez announces that new oil companies will arrive in Venezuela \"in the coming weeks\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/delcy-rodriguez-anuncia-que-nuevas-empresas-petroleras-llegaran-a-venezuela-en-las-proximas-semanas/",
-      "published_date": "2026-05-28T12:21:23Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Viniloversus embarks on a melodic and unpredictable journey with La Frontera",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/viniloversus-emprende-un-viaje-melodico-e-impredecible-con-la-frontera/",
-      "published_date": "2026-05-28T09:14:01Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bad Bunny figure is exhibited at the Madrid Wax Museum",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/figura-de-bad-bunny-se-exhibe-en-el-museo-de-cera-de-madrid/",
-      "published_date": "2026-05-28T04:01:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Relatives protest before the Public Ministry to demand the release of 78 detainees for the Pdvsa-Obrero case",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/familiares-protestan-ante-el-ministerio-publico-para-exigir-la-liberacion-de-78-detenidos-por-el-caso-pdvsa-obrero/",
-      "published_date": "2026-05-28T00:07:03Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/capriles-exige-reducir-el-iva-eliminar-el-igtf-y-reactivar-el-credito-para-mejorar-la-economia-en-venezuela/",
+      "published_date": "2026-06-01T20:49:39Z",
+      "category": "Economy"
     },
     {
       "title": "The new urban fare comes into force at 140 bolivars and exceeds the minimum wage",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "They propose legal reforms to promote the employment of older adults",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/proponen-reformas-legales-para-impulsar-el-empleo-de-adultos-mayores/",
-      "published_date": "2026-05-29T17:34:38Z",
-      "category": "Economy"
-    },
-    {
-      "title": "María Corina Machado arrives in Oslo: I return with the mission almost completed",
+      "title": "NGOs promote the “I Want to Choose” movement to demand presidential elections in Venezuela",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-llega-oslo-vuelvo-con-la-mision-casi-completada/",
-      "published_date": "2026-06-01T16:35:00Z",
+      "url": "https://elpitazo.net/politica/ong-impulsan-el-movimiento-quiero-elegir-para-exigir-elecciones-presidenciales-en-venezuela/",
+      "published_date": "2026-06-01T23:52:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Spanish National Court requests information from Venezuela about 14 members of ETA",
+      "title": "NGO demands answers for the disappearance of Jorgen Guanares in Táchira",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/audiencia-nacional-espanola-pide-informacion-a-venezuela-sobre-14-miembros-de-eta/",
-      "published_date": "2026-06-01T15:48:02Z",
+      "url": "https://www.elnacional.com/2026/06/ong-exige-respuestas-por-desaparicion-de-jorgen-guanares-en-tachira/",
+      "published_date": "2026-06-01T23:50:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Predict, simulate and experience football: El Nacional offers its special 2026 World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/pronostica-simula-y-vive-el-futbol-el-nacional-ofrece-su-especial-copa-mundial-2026/",
-      "published_date": "2026-06-01T15:38:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guaiqueríes seeks to equal the semifinal against Cocodrilos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/guaiqueries-busca-igualar-la-semifinal-contra-cocodrilos/",
-      "published_date": "2026-06-01T15:35:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carlo Ancelotti reveals the plan with Raphinha for the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/carlo-ancelotti-devela-el-plan-con-raphinha-para-el-mundial/",
-      "published_date": "2026-06-01T15:04:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mérida recorded its first snowfall of the season in the upper part of the moor",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/merida-registro-su-primera-nevada-de-la-temporada-en-la-zona-alta-del-paramo/",
-      "published_date": "2026-06-01T14:51:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marilyn Monroe's style remains a hundred years later",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-estilo-de-marilyn-monroe-permanece-cien-anos-despues/",
-      "published_date": "2026-06-01T14:25:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De la Espriella's advantage over Cepeda in Colombian elections was 673,138 votes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/la-ventaja-de-de-la-espriella-sobre-cepeda-en-elecciones-colombianas-fue-de-673-138-votos/",
-      "published_date": "2026-06-01T14:14:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump's new green card rule hits legal immigration",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/la-nueva-regla-de-trump-sobre-las-green-cards-golpea-a-la-migracion-legal/",
-      "published_date": "2026-06-01T13:59:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colombia | Ultra-right takes the lead in elections and the left doubts the results",
+      "title": "Alejandro Betancourt and the case of money laundering in Spain",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/colombia-ultraderecha-toma-la-delantera-en-elecciones-y-la-izquierda-duda-de-resultados/",
-      "published_date": "2026-06-01T13:56:06Z",
+      "url": "https://elpitazo.net/politica/alejandro-betancourt-y-el-caso-de-lavado-de-dinero-en-espana/",
+      "published_date": "2026-06-01T23:49:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Táchira producers: cut off from communication due to landslide, fear losing crops and being forgotten",
+      "title": "María Corina Machado supports US strategy in the Venezuelan political transition",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-respalda-estrategia-estadounidense-en-la-transicion-politica-venezolana/",
+      "published_date": "2026-06-01T23:20:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests against President Rodrigo Paz spread throughout Bolivia and worsen shortages",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/protestas-contra-el-presidente-rodrigo-paz-se-extienden-por-toda-bolivia-y-agravan-el-desabastecimiento/",
+      "published_date": "2026-06-01T23:13:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“I Want to Choose”: Citizen movement that promotes the electoral route for the democratic transition",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610136/quiero-elegir-movimiento-ciudadano-que-impulsa-la-ruta-electoral-para-la-transicion-democratica/",
+      "published_date": "2026-06-01T23:05:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Students report that drivers only accept between one and four preferential tickets per unit",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/productores-del-tachira-incomunicados-por-deslave-temen-perder-cosechas-y-quedar-en-el-olvido/",
-      "published_date": "2026-06-01T13:49:46Z",
+      "url": "https://elpitazo.net/regiones/gran-caracas/estudiantes-denuncian-que-choferes-solo-aceptan-entre-uno-y-cuatro-pasajes-preferenciales-por-unidad/",
+      "published_date": "2026-06-01T22:37:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Minimum fare comes into force at Bs. 140; Minister says it is for two months, transporters say no",
+      "title": "Juan Pablo Guanipa demands the closure of Fort Guaicaipuro due to complaints of alleged abuses",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/juan-pablo-guanipa-exige-el-cierre-del-fuerte-guaicaipuro-por-denuncias-de-presuntos-abusos/",
+      "published_date": "2026-06-01T22:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "César Pérez Vivas: If there was a will to respect the Constitution, the presidential election could be held in the last quarter of the year",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/cesar-perez-vivas-si-existiera-voluntad-de-respetar-la-constitucion-la-eleccion-presidencial-podria-hacerse-en-el-ultimo-trimestre-del-ano/",
+      "published_date": "2026-06-01T22:04:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez announces line 0800-extortion: \"I want to put an end to the noisemaker\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-anuncia-linea-0800-extorsion-quiero-acabar-con-la-matraca/",
+      "published_date": "2026-06-01T21:35:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How the polls fell short in the Colombian presidential elections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/como-las-encuestas-se-quedaron-cortas-en-las-presidenciales-colombianas/",
+      "published_date": "2026-06-01T21:10:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nine years without transplants in Venezuela: Prepara Familia demands prioritization of children who are still waiting",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/entra-en-vigor-este-lunes-pasaje-minimo-en-bs-140-ministra-dice-que-es-por-dos-meses-transportistas-dicen-que-no/",
-      "published_date": "2026-06-01T13:42:13Z",
+      "url": "https://efectococuyo.com/la-humanidad/nueve-anos-sin-trasplantes-en-venezuela-prepara-familia-exige-priorizar-a-los-ninos-que-siguen-en-espera/",
+      "published_date": "2026-06-01T20:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Who is Iván Cepeda, the philosopher whose father was murdered in a state crime and now seeks to continue Petro's path in Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/quien-es-ivan-cepeda-el-filosofo-cuyo-padre-fue-asesinado-en-un-crimen-de-estado-y-ahora-busca-continuar-la-senda-de-petro-en-colombia/",
-      "published_date": "2026-06-01T13:32:14Z",
+      "title": "“Reactivate transplants now”: nine years of an ignored cry",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610104/reactiven-los-trasplantes-ya-nueve-anos-de-un-clamor-ignorado/",
+      "published_date": "2026-06-01T20:51:01Z",
       "category": "Local Events"
     },
     {
-      "title": "María Corina Machado returned to Oslo and stated that the mission that began in that city is \"almost completed\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-regreso-a-oslo-y-afirmo-que-la-mision-que-comenzo-en-esta-ciudad-esta-casi-completada/",
-      "published_date": "2026-06-01T13:18:00Z",
+      "title": "Gustavo Mirabal in the crosshairs: authorities investigate his network of influences in the TSJ",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/gustavo-mirabal-bajo-la-lupa-por-supuesto-intento-de-influir-en-decisiones-del-tsj/",
+      "published_date": "2026-06-01T20:32:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Nvidia challenges Intel and AMD with launch of RTX Spark superchip",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/nvidia-desafia-a-intel-y-amd-con-el-lanzamiento-de-rtx-spark/",
-      "published_date": "2026-06-01T12:14:17Z",
+      "title": "Public consultation process begins to reform the criminal justice system",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/comienza-proceso-de-consulta-publica-para-reformar-el-sistema-de-justicia-penal/",
+      "published_date": "2026-06-01T20:23:31Z",
       "category": "Local Events"
     },
     {
-      "title": "🎨 More than 50,000 people filled CaminArte 2026 in Baruta",
+      "title": "Apucv denounces that about 75% of the teaching staff were excluded from the second payment of the Professional Responsibility bonus",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/%f0%9f%8e%a8-mas-de-50-000-personas-llenaron-caminarte-2026-en-baruta/",
-      "published_date": "2026-06-01T12:02:13Z",
+      "url": "https://www.elnacional.com/2026/06/apucv-denuncia-que-cerca-de-75-del-personal-docente-quedo-excluido-del-segundo-pago-del-bono-de-responsabilidad-profesional/",
+      "published_date": "2026-06-01T20:19:11Z",
       "category": "Local Events"
     },
     {
-      "title": "What De la Espriella and Cepeda need to win in the second round and become president of Colombia",
+      "title": "Iván Cepeda rules out fraud in the first round",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/que-necesitan-de-la-espriella-y-cepeda-para-ganar-en-segunda-vuelta-y-convertirse-en-presidente-de-colombia/",
-      "published_date": "2026-06-01T12:02:00Z",
+      "url": "https://www.elnacional.com/2026/06/ivan-cepeda-descarta-fraude-en-primera-vuelta/",
+      "published_date": "2026-06-01T19:58:39Z",
       "category": "Local Events"
     },
     {
-      "title": "🥐 The Danube arrived at the UCV",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/%f0%9f%a5%90-la-danubio-llego-a-la-ucv/",
-      "published_date": "2026-06-01T12:00:27Z",
+      "title": "Bolivar | United unions demand presidential elections: \"We are ready to receive María Corina\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/bolivar-sindicatos-unidos-exigen-elecciones-presidenciales-estamos-listos-para-recibir-a-maria-corina/",
+      "published_date": "2026-06-01T19:40:41Z",
       "category": "Local Events"
     },
     {
-      "title": "🇮🇹 The Italian restaurant that preserves 70 years of history in Caracas",
+      "title": "The Vinotinto sub-20 lost against Canada on the first date of the Maurice Revello Tournament",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/%f0%9f%87%ae%f0%9f%87%b9-el-restaurante-italiano-que-conserva-70-anos-de-historia-en-caracas/",
-      "published_date": "2026-06-01T11:55:56Z",
+      "url": "https://www.elnacional.com/2026/06/la-vinotinto-sub-20-perdio-contra-canada-en-la-primera-fecha-del-torneo-maurice-revello/",
+      "published_date": "2026-06-01T19:16:33Z",
       "category": "Local Events"
     },
     {
-      "title": "👑 Judith Castillo: “I imposed the Niña Bonita cut, not Ruddy Rodríguez”",
+      "title": "Academia Puerto Cabello and Carabobo are once again finalists in the Futve League",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/%f0%9f%91%91-judith-castillo-el-corte-de-nina-bonita-lo-impuse-yo-no-ruddy-rodriguez/",
-      "published_date": "2026-06-01T11:50:35Z",
+      "url": "https://www.elnacional.com/2026/06/liga-futve-academia-puerto-cabello-carabobo-final/",
+      "published_date": "2026-06-01T18:32:35Z",
       "category": "Local Events"
     }
   ]
