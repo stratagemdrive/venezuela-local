@@ -1,7 +1,77 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-03T01:44:59Z",
+  "last_updated": "2026-06-03T15:29:31Z",
   "stories": [
+    {
+      "title": "British media will prevent their content from feeding searches with Google AI",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/medios-britanicos-frenan-el-uso-de-sus-textos-para-la-ia/",
+      "published_date": "2026-06-03T15:17:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela will host the largest international summit on energy investment in its history",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/inversion-energetica-venezuela-cumbre-caracas-2026/",
+      "published_date": "2026-06-03T15:12:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada evaluates the reopening of its embassy in Venezuela, according to media",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/canada-evalua-la-reapertura-de-su-embajada-en-venezuela-segun-medios/",
+      "published_date": "2026-06-03T14:21:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Petro asks Colombia to \"vote in complete freedom\" after Trump's support for De la Espriella",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/petro-pide-a-colombia-votar-en-plena-libertad-tras-respaldo-de-trump-a-de-la-espriella/",
+      "published_date": "2026-06-03T14:17:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Scientists develop AI models to help blind people regain vision",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-ia-podria-ayudar-a-personas-ciegas-a-recuperar-la-vision/",
+      "published_date": "2026-06-03T14:12:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Why Venezuela came to have highly enriched uranium and what was the recent secret operation to deliver it to the United States like?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/por-que-venezuela-llego-a-tener-uranio-altamente-enriquecido-y-como-fue-la-reciente-operacion-secreta-para-entregarselo-a-ee-uu/",
+      "published_date": "2026-06-03T13:33:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada evaluates reopening its embassy in Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/ultimas-noticias/canada-evalua-la-reabrir-de-su-embajada-en-venezuela/",
+      "published_date": "2026-06-03T12:47:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump expresses his support for Abelardo de la Espriella for the Colombian Presidency",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/trump-expresa-su-apoyo-a-abelardo-de-la-espriella-para-la-presidencia-colombiana/",
+      "published_date": "2026-06-03T10:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada evaluates reopening of its embassy in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/canada-evalua-reapertura-de-su-embajada-en-venezuela/",
+      "published_date": "2026-06-03T09:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bad Bunny's house faces a legal dispute",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-disputa-judicial-detras-de-la-casita-de-bad-bunny/",
+      "published_date": "2026-06-03T04:54:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Colombia activates surveillance for tropical cyclones",
       "source": "El Nacional",
@@ -66,81 +136,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Representative Gladis Socorro foresees presidential elections between March and April 2027",
+      "title": "Chronicle | Without light for 19 hours: La Vega had not experienced such a long blackout since 2019",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/cronica-sin-luz-por-19-horas-la-vega-no-habia-vivido-un-apagon-tan-largo-desde-2019/",
+      "published_date": "2026-06-02T18:28:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dean of the UCV questions the judicial reform and the anti-extortion telephone plan",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/diputada-gladis-socorro-preve-elecciones-presidenciales-entre-marzo-y-abril-de-2027/",
-      "published_date": "2026-06-02T16:56:39Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/decano-de-la-ucv-cuestiona-la-reforma-judicial-y-el-plan-telefonico-antiextorsion/",
+      "published_date": "2026-06-03T13:21:05Z",
+      "category": "Military"
     },
     {
-      "title": "Marinos is one step away from the final in the Professional Basketball Super League",
+      "title": "Lionel Messi wins the Princess of Asturias Sports Award",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/marinos-esta-a-un-paso-de-la-final-en-la-superliga-profesional-de-baloncesto/",
-      "published_date": "2026-06-02T15:46:52Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/lionel-messi-gana-el-premio-princesa-de-asturias-de-los-deportes/",
+      "published_date": "2026-06-03T12:19:50Z",
+      "category": "Military"
     },
     {
-      "title": "UN expresses doubts about the causes of Brooklyn Rivera's death",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/onu-expresa-dudas-sobre-causas-del-fallecimiento-de-brooklyn-rivera/",
-      "published_date": "2026-06-02T15:03:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They discover that planets outside the solar system can be magnetic",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/los-planetas-fuera-del-sistema-solar-pueden-ser-magneticos/",
-      "published_date": "2026-06-02T14:32:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cota Mil and Vollmer Avenue will partially close throughout June",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/anuncian-cierre-parcial-en-la-cota-mil-y-la-avenida-vollmer-durante-junio/",
-      "published_date": "2026-06-02T14:15:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump told Netanyahu he is “f***ing crazy” for his attack on Lebanon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-dijo-a-netanyahu-que-esta-jodidamente-loco/",
-      "published_date": "2026-06-02T14:03:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Amnistía Internacional insta a España y Argentina a cooperar para garantizar justicia a víctimas venezolanas",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/amnistia-internacional-insta-a-espana-y-argentina-a-cooperar-para-garantizar-justicia-a-victimas-venezolanas/",
-      "published_date": "2026-06-02T13:49:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PNB officer accidentally shot a woman in Bello Monte",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/oficial-de-la-pnb-disparo-accidentalmente-a-una-mujer-en-bello-monte/",
-      "published_date": "2026-06-02T13:48:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela will apply health filters to travelers from countries with Ebola outbreaks",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/venezuela-aplicara-filtros-sanitarios-a-viajeros-procedentes-de-paises-con-brotes-de-ebola/",
-      "published_date": "2026-06-02T12:24:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "José Guerra: dollarizing is the easiest way out, but not the most effective",
+      "title": "26 NGOs ask Spain to speed up the extradition of former colonel Verdú to Argentina",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610108/jose-guerra-dolarizar-es-la-salida-mas-facil-pero-no-la-mas-eficaz/",
-      "published_date": "2026-06-02T11:22:00Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/610240/26-ong-piden-a-espana-celeridad-en-tramitar-extradicion-a-argentina-de-excoronel-verdu/",
+      "published_date": "2026-06-03T10:06:00Z",
+      "category": "Military"
     },
     {
-      "title": "Iran has not responded to the latest US proposal to reach an agreement",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/iran-no-ha-respondido-a-la-ultima-propuesta-de-ee-uu-para-alcanzar-un-acuerdo/",
-      "published_date": "2026-06-02T10:13:50Z",
-      "category": "Diplomacy"
+      "title": "Roosevelt: a bronco in the White House (II)",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/610304/theodore-roosevelt-orlando-viera-b-2/",
+      "published_date": "2026-06-03T03:23:38Z",
+      "category": "Military"
     },
     {
       "title": "Rosa Cucunubá and Octavio González make official their candidacy to direct the FCU of the UCV",
@@ -255,32 +283,74 @@
       "category": "Military"
     },
     {
-      "title": "Diseases caused 95% of deaths in prisons in 2025, according to OVP report",
+      "title": "The sugar sector in intensive care: between electrical collapse and climate instability",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/produccion-nacional-de-azucar-crisis-electrica-clima/",
+      "published_date": "2026-06-03T15:25:51Z",
+      "category": "Energy"
+    },
+    {
+      "title": "What productions dominate the Netflix Venezuela rankings this week?",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/enfermedades-causaron-el-95-de-las-muertes-en-carceles-en-2025-con-151-presos-fallecidos-segun-informe-del-ovp/",
-      "published_date": "2026-06-02T17:55:49Z",
-      "category": "Military"
+      "url": "https://efectococuyo.com/solaz/que-producciones-dominan-los-rankings-de-netflix-venezuela-esta-semana/",
+      "published_date": "2026-06-03T15:24:22Z",
+      "category": "Energy"
     },
     {
-      "title": "Two men are arrested in Maracaibo for abusing a woman and robbing her",
+      "title": "Trinidad oil spill in Paria paralyzes fishing and causes the loss of 11 tons per day",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/detienen-a-dos-hombres-por-abusar-sexualmente-y-robar-a-una-mujer-en-maracaibo/",
-      "published_date": "2026-06-02T17:33:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/derrame-petrolero-de-trinidad-en-paria-paraliza-la-pesca-y-causa-la-perdida-de-11-toneladas-diarias/",
+      "published_date": "2026-06-03T15:23:59Z",
+      "category": "Energy"
     },
     {
-      "title": "Megaanalysis survey reveals disappointment towards Chavismo",
+      "title": "Judge in the PDVSA-Cripto case has not made decisions about any detainee",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/encuesta-pone-en-evidencia-decepcion-hacia-el-chavismo/",
-      "published_date": "2026-06-02T16:18:26Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/caso-pdvsa-cripto-jueza-sin-decisiones-detenidos/",
+      "published_date": "2026-06-03T14:17:28Z",
+      "category": "Energy"
     },
     {
-      "title": "Ukrainian Kostyuk and Russian Andreeva will collide in the Roland Garros semifinals",
+      "title": "Delcy Rodríguez arrives in India to celebrate oil agreements under the protection of the US",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-llega-a-la-india-para-celebrar-convenios-petroleros-bajo-el-amparo-de-eeuu/",
+      "published_date": "2026-06-03T14:11:23Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Venezuela will host Energy Week in October to establish strategic alliances",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/venezuela-sera-sede-de-la-energy-week-en-octubre-para-establecer-alianzas-estrategicas/",
+      "published_date": "2026-06-03T14:01:37Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Government assures that oil production exceeded 1.2 million barrels per day in May",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-ucraniana-kostyuk-y-la-rusa-andreeva-chocaran-en-semifinales-de-roland-garros/",
-      "published_date": "2026-06-02T14:31:06Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/gobierno-asegura-que-produccion-petrolera-supero-los-12-millones-de-barriles-diarios-en-mayo/",
+      "published_date": "2026-06-03T12:46:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "The shocking case of Agostina Vega, the 14-year-old teenager who was murdered and dismembered in Argentina",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-estremecedor-caso-de-agostina-vega-la-adolescente-de-14-anos-que-fue-asesinada-y-descuartizada-en-argentina/",
+      "published_date": "2026-06-03T10:18:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "PDVSA's black box: when the truth stopped mattering",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/caso-helsinge-pdvsa-demanda-miami-corrupcion-2/",
+      "published_date": "2026-06-03T10:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Government approves electrical reform: now, private companies are welcome",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610275/gobierno-aprueba-reforma-electrica-ahora-si-la-empresa-privada-es-bienvenida/",
+      "published_date": "2026-06-03T02:12:28Z",
+      "category": "Energy"
     },
     {
       "title": "Opposition in the AN demands that criminal justice reform end procedural delays and abuse of power",
@@ -353,74 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "Venezuela falls in its debut in the Americup U18",
+      "title": "Backrooms, the film by a 20-year-old YouTuber that is sweeping the global box office",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/venezuela-cae-en-su-debut-en-la-americup-u18/",
-      "published_date": "2026-06-01T20:52:36Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/backrooms-la-pelicula-hecha-por-un-youtuber-lider-de-taquilla/",
+      "published_date": "2026-06-03T14:25:22Z",
+      "category": "Economy"
     },
     {
-      "title": "More than 800 fishermen from Güiria have been unable to work for three weeks due to an oil spill",
+      "title": "Venezuela hires the Hogan Lovells law firm to restructure its foreign debt",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/mas-de-800-pescadores-de-guiria-cumplen-tres-semanas-sin-poder-trabajar-por-derrame-de-crudo/",
-      "published_date": "2026-06-01T18:28:54Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/venezuela-contrata-al-bufete-hogan-lovells-para-la-reestructuracion-de-su-deuda-externa/",
+      "published_date": "2026-06-03T14:06:24Z",
+      "category": "Economy"
     },
     {
-      "title": "Euphoria says goodbye with its third season",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/euphoria-se-despide-con-su-tercera-temporada/",
-      "published_date": "2026-06-01T05:25:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Charli XCX announced that she will release an album on July 24",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/charli-xcx-anuncio-que-el-24-de-julio-sacara-disco/",
-      "published_date": "2026-06-01T04:10:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Los Menor3s release “Cali calypso”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/los-menor3s-lanzan-cali-calipso-una-mezcla-entre-electronica-y-tradicion-venezolana/",
-      "published_date": "2026-06-01T04:01:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "OVP held the Venezuelan State responsible for the death of a man with cancer in the Monagas Judicial Confinement Center",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/ovp-responsabilizo-al-estado-venezolano-por-muerte-de-hombre-con-cancer-en-internado-judicial-de-monagas/",
-      "published_date": "2026-05-31T21:12:22Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuelans reacted to Marco Rubio's statement about oil workers: \"Before Chávez, PDVSA taught\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/venezolanos-reaccionaron-a-declaracion-de-marco-rubio-sobre-trabajadores-petroleros-antes-de-chavez-pdvsa-dictaba-catedra/",
-      "published_date": "2026-05-31T20:34:49Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Maps of Power: The Amaros, who are the Venezuelan businessmen allied with Zapatero?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/mapas-de-poder-los-amaro-quienes-son-los-empresarios-venezolanos-aliados-de-zapatero/",
-      "published_date": "2026-05-31T17:36:35Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bad Bunny turns the beginning of his historic residence in Madrid into an unforgettable dance",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/bad-bunny-convierte-en-un-baile-inolvidable-el-inicio-de-su-historica-residencia-en-madrid/",
-      "published_date": "2026-05-31T14:24:07Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Blackout in Portuguesa and electrical failures affect several regions of the country",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/apagon-en-portuguesa-y-fallas-electricas-afectan-a-varias-regiones-del-pais/",
-      "published_date": "2026-05-30T23:27:13Z",
-      "category": "Energy"
+      "title": "After five months without Maduro, Venezuela is still waiting for economic and political relief",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/tras-cinco-meses-sin-maduro-venezuela-sigue-esperando-el-alivio-economico-y-politico/",
+      "published_date": "2026-06-03T13:37:56Z",
+      "category": "Economy"
     },
     {
       "title": "Chile dismantles a network of the Aragua Train that laundered almost 90 million dollars through cryptocurrencies",
@@ -542,164 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Petro unleashed criticism from the Colombian opposition after showing that he voted for Iván Cepeda",
+      "title": "Chile activates Return Plan to encourage the voluntary departure of irregular migrants",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/petro-desato-criticas-de-la-oposicion-colombiana-tras-mostrar-que-voto-por-ivan-cepeda/",
-      "published_date": "2026-05-31T18:27:25Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/chile-activa-plan-retorno-para-incentivar-la-salida-voluntaria-de-migrantes-irregulares/",
+      "published_date": "2026-06-03T15:12:24Z",
+      "category": "Local Events"
     },
     {
-      "title": "Without salary increase and with inflation: the scenario that pulverizes income a month after Delcy Rodríguez's announcement",
+      "title": "Miranda l A young woman dies when a vehicle catches fire: two people were injured",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/sin-aumento-de-salario-y-con-inflacion-el-escenario-que-pulveriza-el-ingreso-un-mes-despues-del-anuncio-de-delcy-rodriguez/",
-      "published_date": "2026-05-31T18:00:42Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Colombia elects president with the left challenged by the right that promises security",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/colombia-elige-presidente-con-la-izquierda-desafiada-por-la-derecha-que-promete-seguridad/",
-      "published_date": "2026-05-31T14:03:06Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The crisis in Bolivia leaves 9 dead and the government denounces foreign interference after five weeks of blockades",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-crisis-en-bolivia-deja-9-muertos-y-el-gobierno-denuncia-injerencia-extranjera-tras-cinco-semanas-de-bloqueos/",
-      "published_date": "2026-06-03T01:17:19Z",
+      "url": "https://elpitazo.net/sucesos/miranda-l-muere-una-joven-al-incendiarse-un-vehiculo-dos-personas-resultaron-lesionadas/",
+      "published_date": "2026-06-03T14:54:34Z",
       "category": "Local Events"
     },
     {
-      "title": "California reaches close primaries to define its next governor",
+      "title": "The courts of terrorism: the judicial weapon that Chavismo forged to silence Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/california-llega-a-unas-renidas-primarias-para-definir-su-proximo-gobernador/",
-      "published_date": "2026-06-03T00:54:15Z",
+      "url": "https://www.elnacional.com/2026/06/tribunales-de-terrorismo-venezuela-origen-inconstitucional/",
+      "published_date": "2026-06-03T14:53:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Arrascaeta suffers a muscle injury and Uruguay trembles",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/arrascaeta-sufre-una-lesion-muscular-y-uruguay-tiembla/",
-      "published_date": "2026-06-03T00:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sucre | Retirees from the Salinas de Araya still have no response to their labor and social demands",
+      "title": "Woman locked up and mistreated her children: neighbors took security video to Polisucre",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sucre-jubilados-de-las-salinas-de-araya-siguen-sin-respuesta-a-sus-demandas-laborales-y-sociales/",
-      "published_date": "2026-06-03T00:20:02Z",
+      "url": "https://elpitazo.net/sucesos/mujer-encerraba-y-maltrataba-a-sus-hijos-vecinos-llevaron-video-de-seguridad-a-polisucre/",
+      "published_date": "2026-06-03T14:19:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Reform of the Organic Law of the Electrical System will allow the entry of private capital into the sector",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/reforma-de-la-ley-organica-del-sistema-electrico-permitira-el-ingreso-de-capital-privado-al-sector/",
-      "published_date": "2026-06-03T00:14:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They question the scope of the Public Ministry's investigation into the case of Víctor Quero Navas",
+      "title": "Ferrari announces the renewal of Charles Leclerc",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cuestionan-el-alcance-de-la-investigacion-del-ministerio-publico-sobre-el-caso-de-victor-quero-navas/",
-      "published_date": "2026-06-02T23:56:18Z",
+      "url": "https://www.elnacional.com/2026/06/ferrari-anuncia-la-renovacion-de-charles-leclerc/",
+      "published_date": "2026-06-03T13:57:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Richard Blanco after seven years of exile: Citizen mobilization is a fundamental factor in promoting political changes in the country",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/richard-blanco-tras-siete-anos-de-exilio-la-movilizacion-ciudadana-es-factor-fundamental-para-impulsar-cambios-politicos-en-el-pais/",
-      "published_date": "2026-06-02T23:47:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AN approves in the first discussion reform of the Electrical System and Service Law with which it opens to private capital",
+      "title": "Trump endorses Abelardo de la Espriella for the presidency of Colombia",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/an-primera-discusion-reforma-ley-sistema-servicio-electrico/",
-      "published_date": "2026-06-02T23:45:01Z",
+      "url": "https://efectococuyo.com/internacionales/trump-respalda-a-abelardo-de-la-espriella-para-la-presidencia-de-colombia/",
+      "published_date": "2026-06-03T13:53:08Z",
       "category": "Local Events"
     },
     {
-      "title": "NGOs and activists reject statement from the Public Ministry on the Víctor Quero case: it has key omissions",
+      "title": "Elections at the UCV: Rosa Cucunubá and Octavio González launch their formula for the FCU",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ong-y-activistas-rechazan-comunicado-del-ministerio-publico-sobre-el-caso-victor-quero-tiene-omisiones-claves/",
-      "published_date": "2026-06-02T23:29:23Z",
+      "url": "https://elpitazo.net/caracas/elecciones-en-la-ucv-rosa-cucunuba-y-octavio-gonzalez-lanzan-su-formula-para-la-fcu/",
+      "published_date": "2026-06-03T13:49:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Eight years of anguish: mother cries out for answers about her daughter missing at the border",
+      "title": "NBA Final: the Spurs start as favorites against the Knicks thirsty for victory",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/final-de-la-nba-los-spurs-parten-como-favorito-ante-unos-knicks-sedientos-de-triunfo/",
+      "published_date": "2026-06-03T13:44:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peace Laboratory: MP's conclusion on the death of Quero Navas makes the responsibility of the State invisible",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/laboratorio-de-paz-conclusion-del-mp-sobre-muerte-de-quero-navas-invisibiliza-la-responsabilidad-del-estado/",
+      "published_date": "2026-06-03T13:29:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ötzi's microbiome reveals dynamic 5,300-year-old ecosystem",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/microbioma-de-otzi-revela-ecosistema-dinamico-de-5-300-anos/",
+      "published_date": "2026-06-03T13:05:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "WhatsApp will notify about fraudulent messages from unknown numbers",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/whatsapp-notificara-sobre-mensajes-fraudulentos-de-desconocidos/",
+      "published_date": "2026-06-03T12:46:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "23 people poisoned by an unknown substance in a high school in Cojedes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/23-personas-intoxicadas-por-sustancia-desconocida-en-liceo-de-cojedes/",
+      "published_date": "2026-06-03T12:28:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to live with autism in Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/como-se-vive/610245/como-se-vive-con-autismo-en-venezuela/",
+      "published_date": "2026-06-03T12:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Peace Laboratory: July 2 expires constitutional deadline for presidential replacement in Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/laboratorio-de-paz-el-2-de-julio-vence-el-plazo-constitucional-para-la-suplencia-presidencial-en-venezuela/",
+      "published_date": "2026-06-03T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PDVSA-Cripto: Six detainees are decompensated after starting a hunger strike",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/ocho-anos-de-angustia-madre-clama-por-respuestas-sobre-su-hija-desaparecida-en-la-frontera/",
-      "published_date": "2026-06-02T23:03:45Z",
+      "url": "https://elpitazo.net/politica/pdvsa-cripto-seis-detenidos-estan-descompensados-tras-iniciar-huelga-de-hambre/",
+      "published_date": "2026-06-03T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unitary Platform reiterates its support for Trump's three-phase plan for Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/plataforma-unitaria-reitera-su-respaldo-al-plan-de-tres-fases-de-trump-para-venezuela/",
+      "published_date": "2026-06-03T11:55:00Z",
       "category": "Local Events"
     },
     {
       "title": "Panama Manifesto: the opposition tries to order the times of the transition",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/manifiesto-de-panama-la-oposicion-intenta-ordenar-los-tiempos-de-la-transicion/",
-      "published_date": "2026-06-02T23:02:10Z",
+      "published_date": "2026-06-03T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Thomas N'Kono: the guardian who put Africa on the map",
+      "title": "Documentary about Alberto Grau will be screened in Madrid",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/thomas-nkono-el-guardian-que-puso-a-africa-en-el-mapa/",
-      "published_date": "2026-06-02T23:00:00Z",
+      "url": "https://www.elnacional.com/2026/06/proyectaran-en-madrid-documental-sobre-alberto-grau/",
+      "published_date": "2026-06-03T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Two schools in Cojedes are evacuated after mass poisoning of students and part of the staff",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/desalojan-dos-planteles-en-cojedes-tras-intoxicacion-masiva-de-estudiantes-y-parte-del-personal/",
-      "published_date": "2026-06-02T22:50:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vinotinto footballer is among the most dynamic U-23 full-backs in the world",
+      "title": "Panama transfers more than 100 migrants in the process of return to the border with Colombia",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/futbolista-de-la-vinotinto-esta-entre-los-laterales-sub-23-mas-dinamicos-del-mundo/",
-      "published_date": "2026-06-02T22:31:32Z",
+      "url": "https://www.elnacional.com/2026/06/panama-traslada-a-la-frontera-con-colombia-a-mas-de-100-migrantes-en-proceso-de-retorno/",
+      "published_date": "2026-06-03T10:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Prosecutor's Office rules out “traumatic injuries” and attributes the death of Víctor Hugo Quero to pulmonary thromboembolism",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/fiscalia-descarta-lesiones-traumaticas-y-atribuye-muerte-de-victor-hugo-quero-a-un-tromboembolismo-pulmonar/",
-      "published_date": "2026-06-02T22:04:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1990 Cup: the day the world met Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/copa-1990-el-dia-que-el-mundo-conocio-a-colombia/",
-      "published_date": "2026-06-02T21:18:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Public Ministry confirms that Víctor Quero died of pulmonary thromboembolism: rules out injuries to his body",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/fiscalia-presenta-resultados-de-la-investigacion-sobre-la-muerte-de-victor-quero/",
-      "published_date": "2026-06-02T21:08:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AN discusses reform of the Electrical Service Law while millions of Venezuelans are left without electricity every day",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/an-discute-reforma-a-ley-del-servicio-electrico-mientras-millones-de-venezolanos-se-quedan-a-diario-sin-luz/",
-      "published_date": "2026-06-02T20:14:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Danger behind the wheel: darkness takes over the Gran Mariscal de Ayacucho highway",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/autopista-gran-mariscal-de-ayacucho-peligro-sin-iluminacion/",
-      "published_date": "2026-06-02T20:07:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richard Blanco returns to Venezuela: chronology of a seven-year exile",
+      "title": "El Mañanero of June 2: MP closed the Víctor Quero case, doubts persist about his disappearance and custody",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610206/richard-blanco-regresa-a-venezuela-cronologia-de-un-exilio-de-siete-anos/",
-      "published_date": "2026-06-02T19:55:42Z",
+      "url": "https://runrun.es/inicio/610278/el-mananero-del-2-de-junio-mp-cerro-el-caso-victor-quero-persisten-las-dudas-sobre-su-desaparicion-y-custodia/",
+      "published_date": "2026-06-03T09:00:00Z",
       "category": "Local Events"
     }
   ]
