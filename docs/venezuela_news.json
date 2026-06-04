@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-04T01:46:59Z",
+  "last_updated": "2026-06-04T14:07:27Z",
   "stories": [
+    {
+      "title": "Bitcoin falls below $63,000",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/bitcoin-cae-por-debajo-de-los-63-000-dolares/",
+      "published_date": "2026-06-04T13:51:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bus with political prisoners from El Helicoide arrived in Tocuyito",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/autobus-con-presos-politicos-de-el-helicoide-llego-a-tocuyito/",
+      "published_date": "2026-06-04T13:35:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "10 records that can fall in the 2026 World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/10-records-que-pueden-caer-en-el-mundial-2026/",
+      "published_date": "2026-06-04T13:10:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marjane Satrapi, one of the biggest names in world comics",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/marjane-satrapi-uno-de-los-grandes-nombres-del-comic-mundial/",
+      "published_date": "2026-06-04T12:55:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The keys to the return of Delcy Rodríguez and Venezuelan crude oil to India",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/las-claves-del-regreso-de-delcy-rodriguez-y-el-crudo-venezolano-a-india/",
+      "published_date": "2026-06-04T11:36:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marjane Satrapi, author of Persepolis, died \"of sadness\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/murio-de-tristeza-marjane-satrapi-autora-de-persepolis/",
+      "published_date": "2026-06-04T10:56:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Prime Minister of India received Delcy Rodríguez in the midst of the oil rebound",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/primer-ministro-de-la-india-recibio-a-delcy-rodriguez-en-pleno-repunte-petrolero/",
+      "published_date": "2026-06-04T10:19:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The Cordialito Corporation stops operating the INH betting system",
       "source": "El Pitazo",
@@ -94,53 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Rinat Dasayev: the successor of “the Black Spider”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/rinat-dasayev-el-sucesor-de-la-arana-negra/",
-      "published_date": "2026-06-03T18:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Five months have passed without Maduro and Venezuela is still waiting for economic and political relief",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/se-cumplen-cinco-meses-sin-maduro-y-venezuela-sigue-esperando-el-alivio-economico-y-politico/",
-      "published_date": "2026-06-03T17:54:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Unions and students marched to the US Embassy to demand transition and an electoral schedule",
+      "title": "Penal Forum confirms transfer of political prisoners from El Helicoide to other prisons in the country",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/sindicatos-y-estudiantes-marcharon-hasta-la-embajada-de-eeuu-para-exigir-transicion-y-un-cronograma-electoral/",
-      "published_date": "2026-06-03T17:11:55Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/foro-penal-confirma-traslado-de-presos-politicos-desde-el-helicoide-a-otras-carceles-del-pais/",
+      "published_date": "2026-06-04T13:34:56Z",
+      "category": "Military"
     },
     {
-      "title": "Group D: Türkiye will come out to ruin the party for the United States",
+      "title": "The MP's statement about Víctor Quero left more doubts and criticisms than certainties",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/grupo-d-turquia-saldra-a-amargarle-la-fiesta-a-estados-unidos/",
-      "published_date": "2026-06-03T16:58:49Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/comunicado-sobre-victor-quero-dejo-mas-dudas-que-certezas/",
+      "published_date": "2026-06-04T11:52:21Z",
+      "category": "Military"
     },
     {
-      "title": "Samuel Moncada is appointed as the new Venezuelan ambassador to France",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/designan-a-samuel-moncada-como-nuevo-embajador-de-venezuela-en-francia/",
-      "published_date": "2026-06-03T16:26:08Z",
-      "category": "Diplomacy"
+      "title": "Precariousness, violence and abuse punish women and Lgbtiq+ people in Venezuelan prisons",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610386/precariedad-violencia-y-abusos-castiga-a-mujeres-y-personas-lgbtiq-en-carceles-venezolanas/",
+      "published_date": "2026-06-04T11:34:00Z",
+      "category": "Military"
     },
     {
-      "title": "Trump opens the door to meeting with Iranian Supreme Leader Mojtaba Khamenei",
+      "title": "Michael Jackson's famous Swarovski glove auctioned in Paris",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-abre-la-puerta-a-reunirse-con-el-lider-supremo-irani-mojtaba-jamenei/",
-      "published_date": "2026-06-03T16:06:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The reasons for Meliá, Iberostar and Blue Diamond, the largest hotel chains in Cuba, to cease operations on the island \"with immediate effect\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/las-razones-de-melia-iberostar-y-blue-diamond-las-mayores-cadenas-hoteleras-de-cuba-para-cesar-operaciones-en-la-isla-con-efecto-inmediato/",
-      "published_date": "2026-06-03T15:49:46Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/subastaron-el-famoso-guante-de-swarovski-de-michael-jackson-en-paris/",
+      "published_date": "2026-06-04T04:01:00Z",
+      "category": "Military"
     },
     {
       "title": "Clippve denounces transfer of political prisoners from El Helicoide to other prisons",
@@ -178,7 +206,7 @@
       "category": "Military"
     },
     {
-      "title": "They denounce that they want to change the identity of political prisoner José Faustino Hermoso to keep him detained",
+      "title": "They report that they want to change José Faustino Hermoso's identity to keep him detained",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/610393/denuncian-que-al-preso-politico-jose-faustino-hermoso-quieren-cambiarle-la-identidad-para-mantenerlo-detenido/",
       "published_date": "2026-06-03T23:42:38Z",
@@ -255,32 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Relatives of political prisoners declare vigil against possible transfers from El Helicoide",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-se-declaran-en-vigilia-ante-informacion-de-posibles-traslados-desde-el-helicoide/",
-      "published_date": "2026-06-03T20:08:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "Jackson's sister Vera: \"El Helicoide remains open, political prisoners must be released\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/hermana-de-jackson-vera-el-helicoide-sigue-abierto-los-presos-politicos-deben-ser-liberados/",
-      "published_date": "2026-06-03T19:54:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Víctor Quero's family questions the Public Ministry's mishandling of the investigation into his death",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610356/familia-de-victor-quero-cuestiona-el-mal-manejo-del-ministerio-publico-sobre-la-investigacion-de-su-muerte/",
-      "published_date": "2026-06-03T19:48:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Penal Forum reports that there are still 409 political prisoners in Venezuela",
+      "title": "Nepalese guide appears after surviving six days lost on Everest",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/foro-penal-reporta-que-aun-hay-409-presos-politicos-en-venezuela/",
-      "published_date": "2026-06-03T18:36:16Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/guia-nepali-aparecio-tras-sobrevivir-seis-dias-perdido-en-el-everest/",
+      "published_date": "2026-06-04T14:03:45Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Why the origin of Kim Jong-un's mother could endanger the legitimacy of the North Korean regime",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/por-que-el-origen-de-la-madre-de-kim-jong-un-podria-poner-en-peligro-la-legitimidad-del-regimen-de-corea-del-norte/",
+      "published_date": "2026-06-04T10:32:00Z",
+      "category": "Energy"
     },
     {
       "title": "Armed groups detained a journalist for reporting a gasoline shortage in Trujillo",
@@ -409,18 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "PDVSA advises foreign airlines that they must pay directly to the US for the fuel they buy in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/pdvsa-avisa-a-las-aerolineas-extranjeras-que-deben-pagar-directamente-a-eeuu-el-combustible-que-compren-en-venezuela/",
-      "published_date": "2026-06-02T15:00:57Z",
-      "category": "Energy"
+      "title": "Number of millionaires reached a global record in 2025",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/en-2025-aumento-el-numero-de-millonarios-y-sus-fortunas/",
+      "published_date": "2026-06-04T13:44:41Z",
+      "category": "Economy"
     },
     {
-      "title": "Delcy Rodríguez begins visit to India in search of oil alliances",
+      "title": "José Guerra proposes a national agreement to defeat inflation",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610456/jose-guerra-propone-un-acuerdo-nacional-para-derrotar-la-inflacion/",
+      "published_date": "2026-06-04T11:28:58Z",
+      "category": "Economy"
+    },
+    {
+      "title": "De La Espriella vs Iván Cepeda, the exhaustion of the system that produced an electoral overturn in Colombia",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/delcy-rodriguez-incia-visita-a-la-india-en-busca-de-alianzas-petroleras/",
-      "published_date": "2026-06-02T14:48:58Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/de-la-espriella-vs-ivan-cepeda-el-agotamiento-del-sistema-que-produjo-vuelco-electoral-en-colombia/",
+      "published_date": "2026-06-04T09:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "Backrooms, the film by a 20-year-old YouTuber that sweeps the box office in 42 countries",
@@ -542,25 +563,95 @@
       "category": "Economy"
     },
     {
-      "title": "Petro does not accept electoral count that gives De la Espriella as the most voted in Colombia",
+      "title": "María Corina Machado meets with the Norwegian Prime Minister to analyze the process in Venezuela",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/petro-no-acepta-conteo-electoral-que-da-a-de-la-espriella-mas-votado/",
-      "published_date": "2026-06-01T01:23:25Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/internacionales/maria-corina-machado-se-reune-con-primer-ministro-noruego-para-analizar-proceso-en-venezuela/",
+      "published_date": "2026-06-04T13:56:58Z",
+      "category": "Local Events"
     },
     {
-      "title": "Paloma Valencia anuncia su respaldo a Abelardo de la Espriella: \"Los invito a que derrotemos a Petro\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/paloma-valencia-anuncia-su-respaldo-a-abelardo-de-la-espriella-los-invito-a-que-derrotemos-a-petro/",
-      "published_date": "2026-06-01T00:13:11Z",
-      "category": "Economy"
+      "title": "Accident on the Francisco Fajardo highway leaves three dead and two injured",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/accidente-en-la-autopista-francisco-fajardo-deja-tres-muertos-y-dos-heridos/",
+      "published_date": "2026-06-04T13:50:55Z",
+      "category": "Local Events"
     },
     {
-      "title": "Nicolás Maduro Guerra: \"I don't have the feeling that Venezuelans want to vote this year\"",
+      "title": "India avoids commenting on the Venezuelan transition and says it works with a “friendly” government",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/india-evita-comentar-la-transicion-venezolana-y-dice-que-trabaja-con-gobierno-amistoso/",
+      "published_date": "2026-06-04T13:13:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Father of the web demands that AI preserve user sovereignty",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/05/nicolas-maduro-guerra-no-tengo-la-sensacion-de-que-los-venezolanos-quieran-votar-este-ano/",
-      "published_date": "2026-05-31T23:12:24Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/padre-de-la-web-exige-que-la-ia-preserve-la-soberania-del-usuario/",
+      "published_date": "2026-06-04T12:48:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "María Corina Machado's Party: We have to press for the electoral schedule to be announced as soon as possible",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/partido-de-maria-corina-machado-tenemos-que-presionar-para-que-se-anuncie-lo-mas-pronto-posible-el-cronograma-electoral/",
+      "published_date": "2026-06-04T12:45:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ChatGPT surpassed 1 billion monthly active users in just three years",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/chatgpt-llega-a-1-000-millones-de-usuarios-con-rapidez/",
+      "published_date": "2026-06-04T12:27:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jalen Brunson led the Knicks to victory in Game 1 of the NBA Finals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/jalen-brunson-condujo-a-los-knicks-al-triunfo-en-el-juego-1-de-las-finales-de-nba/",
+      "published_date": "2026-06-04T12:23:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Penal Forum announces the release of 29 mining company workers",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/foro-penal-anuncia-la-liberacion-de-29-trabajadores-de-empresa-de-mineria/",
+      "published_date": "2026-06-04T12:19:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "\"All my life I studied how viruses evolve and survive, and now I apply that to the aggressive brain cancer I have\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/cientifico-aplica-su-conocimiento-al-cancer-cerebral-que-padece/",
+      "published_date": "2026-06-04T12:16:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Riquelme offers to sign Erling Haaland and Manchester City considers legal action",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/riquelme-ofrece-fichar-a-erling-haaland-y-manchester-city-considera-acciones-legales/",
+      "published_date": "2026-06-04T11:39:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Norwegian Prime Minister met with Machado and analyzed the political process that Venezuela is experiencing",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/primer-ministro-noruego-se-reunio-con-machado-y-analizo-el-proceso-politico-que-vive-venezuela/",
+      "published_date": "2026-06-04T09:54:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero on June 4: Tension and anguish in El Helicoide",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610424/el-mananero-del-4-de-junio-tension-y-angustia-en-el-helicoide/",
+      "published_date": "2026-06-04T06:23:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The US expects elections “as soon as possible” in Venezuela according to Marco Rubio",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610379/ee-uu-espera-elecciones-lo-antes-posible-en-venezuela-segun-marco-rubio/",
+      "published_date": "2026-06-04T05:21:09Z",
+      "category": "Local Events"
     },
     {
       "title": "Czechoslovakia 1934: the pride of Central Europe",
@@ -609,97 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/jose-mourinho-volvera-al-real-madrid-si-florentino-perez-gana-las-elecciones/",
       "published_date": "2026-06-03T22:15:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bruno Fernandes leads the list of top attendees for the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/bruno-fernandes-lidera-la-lista-de-maximos-asistentes-de-cara-al-mundial/",
-      "published_date": "2026-06-03T22:11:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NGOs launch the “I Want to Choose” movement to demand free and verifiable elections in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-lanzan-el-movimiento-quiero-elegir-para-exigir-elecciones-libres-y-verificables-en-venezuela/",
-      "published_date": "2026-06-03T22:09:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The first and only golden goal in World Cup history",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-primer-y-unico-gol-de-oro-en-la-historia-de-los-mundiales/",
-      "published_date": "2026-06-03T21:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unhealthiness and repression are the jailers of García Zerpa's management",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/610366/insalubridad-y-represion-son-los-carceleros-de-la-gestion-de-garcia-zerpa/",
-      "published_date": "2026-06-03T21:41:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How much is the Single Family Bonus that is being paid through Patria?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/de-cuanto-es-el-bono-unico-familiar-que-se-esta-pagando-a-traves-de-patria/",
-      "published_date": "2026-06-03T21:29:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gleyber Torres tripled in Detroit's sweep of Tampa Bay",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/gleyber-torres-triplico-en-la-barrida-de-detroit-a-tampa-bay/",
-      "published_date": "2026-06-03T21:26:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain added three players who were in the Champions League final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/espana-sumo-a-tres-jugadores-que-estuvieron-en-la-final-de-la-champions/",
-      "published_date": "2026-06-03T21:06:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clippve calls urgent vigil in response to alleged transfers in El Helicoide",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/clippve-convoca-vigilia-urgente-ante-presuntos-traslados-en-el-helicoide/",
-      "published_date": "2026-06-03T20:54:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brother of Víctor Hugo Quero shows indignation at the lack of transparency of the Prosecutor's Office",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/presos/hermano-de-victor-hugo-quero-muestra-indignacion-por-falta-de-transparencia-de-la-fiscalia/",
-      "published_date": "2026-06-03T20:54:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Educational emergency: teachers deepen the conflict and prepare a national strike for #10Jun",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/emergencia-educativa-magisterio-profundiza-el-conflicto-y-prepara-un-paro-nacional-para-el-10jun/",
-      "published_date": "2026-06-03T20:37:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "New rate for electric service contemplates the reform of the Law discussed by the AN",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/nueva-tarifa-para-el-servicio-electrico-contempla-la-reforma-de-ley-que-discute-la-an/",
-      "published_date": "2026-06-03T20:22:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The youngest World Cup coach: Nagelsmann seeks to make history with Germany",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-mas-joven-del-mundial-nagelsmann-busca-hacer-historia-con-alemania/",
-      "published_date": "2026-06-03T20:19:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brother of Víctor Hugo Quero Navas questions the handling of the investigation into his death",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/hermano-de-victor-hugo-quero-navas-cuestiona-el-manejo-de-la-investigacion-sobre-su-muerte/",
-      "published_date": "2026-06-03T19:30:55Z",
       "category": "Local Events"
     }
   ]
