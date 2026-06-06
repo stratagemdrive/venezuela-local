@@ -1,9 +1,65 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-06T00:16:27Z",
+  "last_updated": "2026-06-06T12:08:31Z",
   "stories": [
     {
-      "title": "Trump says Iran won't accept a deal because it is \"strong and proud,\" but says it won't have a choice",
+      "title": "The Venezuelan dogfish tastes like extinction",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/eco-rres/610669/el-cazon-venezolano-tiene-sabor-a-extincion/",
+      "published_date": "2026-06-06T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pope Leo XIV arrived in Spain to begin a historic six-day apostolic visit",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/papa-leon-xiv-llego-a-espana-para-iniciar-una-visita-apostolica-historica-de-seis-dias/",
+      "published_date": "2026-06-06T11:45:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia presents its own governance model to create a sovereign AI",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/colombia-presenta-su-propio-modelo-de-gobernanza-para-crear-una-ia-soberana/",
+      "published_date": "2026-06-06T11:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Real Madrid will hold presidential elections after 20 years: what do you need to know?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-real-madrid-celebrara-elecciones-presidenciales-tras-20-anos-que-necesitas-saber/",
+      "published_date": "2026-06-06T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The dimension of assertive communication",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/610700/comunicacion-asertiva/",
+      "published_date": "2026-06-06T01:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A second repatriation flight arrives in Venezuela with 208 migrants from the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/llega-a-venezuela-un-segundo-vuelo-de-repatriacion-con-208-migrantes-procedentes-de-ee-uu/",
+      "published_date": "2026-06-06T00:57:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GOL airline will reinforce its operations between Venezuela and Brazil with an additional flight",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/aerolinea-gol-reforzara-sus-operaciones-entre-venezuela-y-brasil-con-un-vuelo-adicional/",
+      "published_date": "2026-06-06T00:42:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US intercepts four Iranian drones and bombs radar stations in the Strait of Hormuz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/ee-uu-intercepta-cuatro-drones-iranies-y-bombardean-estaciones-de-radar-en-el-estrecho-de-ormuz/",
+      "published_date": "2026-06-06T00:30:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump says Iran won't accept a deal because it is \"strong and proud,\" but says it will have no choice",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/trump-afirma-que-iran-no-acepta-un-acuerdo-porque-es-fuerte-y-orgulloso-pero-asegura-que-no-tendra-otra-opcion/",
       "published_date": "2026-06-05T23:46:57Z",
@@ -87,60 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The Mineirazo: the historic fall of Brazil before its public",
+      "title": "María Corina Machado met with the brother of Narges Mohammadi, winner of the Nobel Peace Prize in 2023",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-mineirazo-la-historica-caida-de-brasil-ante-su-publico/",
-      "published_date": "2026-06-05T19:15:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/maria-corina-se-reunio-con-hermano-de-narges-mohammadi-ganadora-del-premio-nobel-de-la-paz-en-2023/",
+      "published_date": "2026-06-06T12:04:09Z",
+      "category": "Military"
     },
     {
-      "title": "They confirm that the bodies found in the tropical area of ​​Ecuador correspond to eight missing young people",
+      "title": "\"You cannot empty it from memory\": Edmundo González highlighted the meaning that El Helicoide has for Venezuelans",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/confirman-que-los-cadaveres-hallados-en-zona-tropical-de-ecuador-corresponden-a-ocho-jovenes-desaparecidos/",
-      "published_date": "2026-06-05T19:10:18Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/no-se-puede-vaciar-de-memoria-edmundo-gonzalez-destaco-el-significado-que-tiene-el-helicoide-para-los-venezolanos/",
+      "published_date": "2026-06-06T11:24:53Z",
+      "category": "Military"
     },
     {
-      "title": "Former Prince Andrés received income from subletting rural houses",
+      "title": "They will investigate the derailment of a Metro car in Propatria",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/exprincipe-andres-recibio-ingresos-por-subarrendar-casas-rurales/",
-      "published_date": "2026-06-05T15:51:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They report a derailment of a train in the maintenance yards of the Caracas Metro",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/reportan-descarrilamiento-de-un-tren-en-los-patios-de-mantenimiento-del-metro-de-caracas/",
-      "published_date": "2026-06-05T15:51:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Players participating in the 2026 World Cup will receive $5,000",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/jugadores-que-participan-en-el-mundial-2026-recibiran-5-000-dolares/",
-      "published_date": "2026-06-05T15:47:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A woman arrested in Barinas for selling explicit material about her youngest daughter",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/detenida-una-mujer-en-barinas-por-comercializar-material-explicito-de-su-hija-menor/",
-      "published_date": "2026-06-05T14:19:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marshall Billingslea: Trump repeats with Cuba what he did in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/marshall-billingslea-trump-repite-con-cuba-lo-que-hizo-en-venezuela/",
-      "published_date": "2026-06-05T14:05:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez meets in India with the US ambassador during her oil tour",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-se-reune-en-india-con-el-embajador-de-eeuu-durante-su-gira-petrolera/",
-      "published_date": "2026-06-05T13:34:30Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/investigaran-descarrilamiento-de-vagon-del-metro-en-propatria/",
+      "published_date": "2026-06-06T01:12:47Z",
+      "category": "Military"
     },
     {
       "title": "COFAVIC warns that Venezuelan families suffer from political arrests",
@@ -262,25 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Anthropic proposes global \"pause\" of AI and warns of its \"self-improvement\"",
+      "title": "Group G: Belgium looks to go far in the tournament",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/anthropic-propone-pausa-global-de-la-ia/",
-      "published_date": "2026-06-05T05:57:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/grupo-g-belgica-pinta-para-llegar-lejos-en-el-torneo/",
+      "published_date": "2026-06-06T12:00:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Teleworking affects people's mental health",
+      "title": "Keiko Fujimori's last attempt: when a surname seeks to return to power",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-teletrabajo-afecta-la-salud-mental-de-las-personas/",
-      "published_date": "2026-06-05T05:24:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/el-ultimo-intento-de-keiko-fujimori-cuando-un-apellido-busca-volver-al-poder/",
+      "published_date": "2026-06-06T11:12:58Z",
+      "category": "Energy"
     },
     {
-      "title": "The prisoners of El Potro: those from Hipico Office released",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/los-presos-del-potro-excarcelados-los-de-hipico-office/",
-      "published_date": "2026-06-05T01:43:34Z",
-      "category": "Military"
+      "title": "Gustavo Petro assures that he will leave the presidency at the end of his term",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/gustavo-petro-asegura-que-abandonara-la-presidencia-al-concluir-su-mandato/",
+      "published_date": "2026-06-06T00:15:57Z",
+      "category": "Energy"
     },
     {
       "title": "Six dead in explosion at illegal coal mine in Colombia",
@@ -402,25 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Why the origin of Kim Jong-un's mother could endanger the legitimacy of the North Korean regime",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/por-que-el-origen-de-la-madre-de-kim-jong-un-podria-poner-en-peligro-la-legitimidad-del-regimen-de-corea-del-norte/",
-      "published_date": "2026-06-04T10:32:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Armed groups detained a journalist for reporting a gasoline shortage in Trujillo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/grupos-armados-detuvieron-a-periodista-por-reportar-escasez-de-gasolina-en-trujillo/",
-      "published_date": "2026-06-03T23:24:31Z",
-      "category": "Energy"
-    },
-    {
-      "title": "In keys | The new attacks, the tension between Trump and Netanyahu and doubts about an agreement with Iran",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/en-claves-los-nuevos-ataques-la-tension-entre-trump-y-netanyahu-y-las-dudas-sobre-un-acuerdo-con-iran/",
-      "published_date": "2026-06-03T17:23:27Z",
-      "category": "Energy"
+      "title": "A plan for Venezuela IV | Is the external debt eternal?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/610693/deuda-venezolana/",
+      "published_date": "2026-06-06T03:29:21Z",
+      "category": "Economy"
     },
     {
       "title": "\"Where are the dollars?\" Citizens and merchants assure that they have restrictions on accessing foreign currency",
@@ -556,11 +563,46 @@
       "category": "Economy"
     },
     {
-      "title": "Chile dismantles a network of the Aragua Train that laundered almost 90 million dollars through cryptocurrencies",
+      "title": "Pelé: the milestone of 1,000 goals that does not count for statistics today",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/chile-desmantela-una-red-del-tren-de-aragua-que-blanqueo-casi-90-millones-de-dolares-mediante-criptomonedas/",
-      "published_date": "2026-06-03T00:22:52Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/pele-el-hito-de-los-1-000-goles-que-no-cuenta-hoy-para-las-estadisticas/",
+      "published_date": "2026-06-06T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juan Pablo Guanipa pointed out that \"this is not the time to veto anyone\" during his visit to Anzoátegui",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/juan-pablo-guanipa-senalo-que-no-es-momento-para-vetar-a-nadie-durante-su-visita-en-anzoategui/",
+      "published_date": "2026-06-06T11:40:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is Leo XIV, the pope who has won over the world in just 400 days",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/asi-es-leon-xiv-el-papa-que-se-ha-ganado-al-mundo-en-apenas-400-dias/",
+      "published_date": "2026-06-06T11:33:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The politician is a being capable of interpreting the invisible",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/el-politico-es-un-ser-capaz-de-interpretar-lo-invisible/",
+      "published_date": "2026-06-06T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hungary 1954: the end of a golden generation in the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/hungria-1954-el-fin-de-una-generacion-dorada-en-los-mundiales/",
+      "published_date": "2026-06-06T01:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy, the first two-time World Cup champion",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/italia-el-primer-bicampeon-en-mundiales/",
+      "published_date": "2026-06-06T00:15:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Luis Arráez doubles and maintains his offensive rhythm at the beginning of June",
@@ -612,6 +654,13 @@
       "category": "Local Events"
     },
     {
+      "title": "The pearl with which Arreaza minimized complaints about El Helicoide and the reactions it caused",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/las-perlas/610666/las-perlas-con-las-que-arreaza-minimizo-denuncias-sobre-el-helicoide-y-las-reacciones-que-causo/",
+      "published_date": "2026-06-05T21:41:46Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Táchira | Mayor on the death of a young woman electrocuted: \"Corpoelec and the ministry must address the situation\"",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/sucesos/tachira-alcalde-sobre-muerte-de-joven-electrocutada-corpoelec-y-el-ministerio-deben-atender-la-situacion/",
@@ -651,55 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/juez-anula-politica-migratoria-de-trump-que-bloqueaba-asilo-a-ciudadanos-de-paises-como-venezuela/",
       "published_date": "2026-06-05T20:14:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Candidates will maintain the same position on the card for the second round in Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/candidatos-mantendran-la-misma-posicion-en-tarjeton-para-la-segunda-vuelta-en-colombia/",
-      "published_date": "2026-06-05T20:01:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They ask the Ministry of Women to stop torture and sexual violence against political prisoners",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610644/piden-al-ministerio-de-la-mujer-frenar-torturas-y-violencia-sexual-contra-presas-politicas/",
-      "published_date": "2026-06-05T19:05:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCV student leadership rejects rescheduling of FCU elections",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/dirigencia-estudiantil-de-la-ucv-rechaza-reprogramacion-de-elecciones-de-la-fcu/",
-      "published_date": "2026-06-05T18:58:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Relatives of political prisoners protest to stop sexual abuse in prisons",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/familiares-de-presos-politicos-protestan-para-que-se-detenga-el-abuso-sexual-en-las-carceles/",
-      "published_date": "2026-06-05T18:52:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "World Environment Day: they urge to protect environmental human rights in Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610643/dia-mundial-del-ambiente-instan-a-proteger-los-derechos-humanos-ambientales-en-venezuela/",
-      "published_date": "2026-06-05T18:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"The priority is Vinotinto\": Vizcarrondo demands commitment from those summoned",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-prioridad-es-la-vinotinto-vizcarrondo-exige-compromiso-a-los-convocados/",
-      "published_date": "2026-06-05T18:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alexander Zverev will seek his first Grand Slam title against Flavio Cobolli",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/alexander-zverev-buscara-ante-flavio-cobolli-su-primer-titulo-de-grand-slam/",
-      "published_date": "2026-06-05T18:04:29Z",
       "category": "Local Events"
     }
   ]
