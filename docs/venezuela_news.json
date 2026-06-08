@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-08T00:19:05Z",
+  "last_updated": "2026-06-08T14:52:09Z",
   "stories": [
+    {
+      "title": "Relatives of political prisoners remain in front of the US Embassy in Caracas: they demand a meeting with John Barret",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/familiares-de-presos-politicos-permanecen-frente-a-embajada-de-ee-uu-en-caracas-exigen-reunion-con-john-barret/",
+      "published_date": "2026-06-08T14:35:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The European Union approves the first cancer treatment with a portable injector",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/sarclisa-primer-tratamiento-contra-el-cancer-con-inyector-portatil/",
+      "published_date": "2026-06-08T14:06:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran threatens to attack energy centers in the region if Israel bombs its industry",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/iran-amenaza-con-atacar-centros-energeticos-en-la-region-si-israel-bombardea-su-industria/",
+      "published_date": "2026-06-08T12:03:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Death toll from 7.8 magnitude earthquake in the Philippines rises to 14",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/sube-a-14-la-cifra-de-muertos-por-terremoto-de-78-en-filipinas/",
+      "published_date": "2026-06-08T09:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Scary Movie 6 leads the global box office",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/scary-movie-6-lidera-la-taquilla-mundial/",
+      "published_date": "2026-06-08T04:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Relatives of political prisoners held vigil in front of the United States Embassy in Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/familiares-de-presos-politicos-hicieron-vigilia-frente-a-la-embajada-de-estados-unidos-en-caracas/",
+      "published_date": "2026-06-08T00:51:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carabobo beat Puerto Cabello and was crowned champion of the Apertura Tournament",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/carabobo-supero-a-puerto-cabello-y-se-corono-campeon-del-torneo-de-apertura/",
+      "published_date": "2026-06-08T00:48:14Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Relatives of political prisoners gather outside the US Embassy",
       "source": "Efecto Cocuyo",
@@ -14,6 +63,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/exigen-a-la-comunidad-internacional-revelar-los-mecanismos-de-extorsion-del-chavismo-que-empleaba-la-diplomacia-de-rehenes/",
       "published_date": "2026-06-07T23:04:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Two dead when a US plane crashes in the Dominican Republic",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/dos-muertos-al-estrellarse-aeronave-estadounidense-en-republica-dominicana/",
+      "published_date": "2026-06-07T22:46:00Z",
       "category": "Diplomacy"
     },
     {
@@ -87,60 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How light is starting to invade one of the darkest places on Earth",
+      "title": "Banking sector will not provide service this Monday: what services will be operational?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/como-la-luz-esta-empezando-a-invadir-uno-de-los-lugares-mas-oscuros-de-la-tierra/",
-      "published_date": "2026-06-07T12:55:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abelardo de la Espriella accused followers of Petro and Cepeda of acts of vandalism against his campaign headquarters",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/abelardo-de-la-espriella-acuso-a-seguidores-de-petro-e-ivan-cepeda-por-actos-vandalicos-contra-su-sede-de-campana/",
-      "published_date": "2026-06-07T12:38:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jorge Arreza pointed out that the situation that the country is experiencing requires \"Venezuelan dialogue\" and not insults",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/jorge-arreza-senalo-que-la-coyuntura-que-vive-el-pais-exige-dialogo-venezolanista-y-no-insultos/",
-      "published_date": "2026-06-07T12:09:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jorge Arreaza pointed out that the situation that the country is experiencing requires \"Venezuelan dialogue\" and not insults",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/jorge-arreaza-senalo-que-la-coyuntura-que-vive-el-pais-exige-dialogo-venezolanista-y-no-insultos/",
-      "published_date": "2026-06-07T12:09:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pope Leo XIV gathered more than a million faithful in Madrid and asked for commitment to the common good",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/papa-leon-xiv-congrego-a-mas-de-un-millon-de-fieles-en-madrid-y-pidio-compromiso-con-el-bien-comun/",
-      "published_date": "2026-06-07T11:45:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Twelve injured in shooting near a festival in the US",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/doce-heridos-en-tiroteo-cerca-de-un-festival-en-ee-uu/",
-      "published_date": "2026-06-07T11:34:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Henry Alviarez urged that the cards be returned to the political parties and Vente Venezuela be legalized",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/henry-alviarez-exhorto-que-devuelvan-las-tarjetas-a-los-partidos-politicos-y-se-legalice-a-vente-venezuela/",
-      "published_date": "2026-06-07T11:21:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Six keys to the reform of the Electrical System and Service Law",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/cambios-ley-sistema-servicio-electrico-monopolio-estado-tarifasclaves/",
-      "published_date": "2026-06-07T06:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/sector-bancario-no-prestara-servicio-este-lunes-que-servicios-estaran-operativos/",
+      "published_date": "2026-06-08T10:41:00Z",
+      "category": "Military"
     },
     {
       "title": "“I would never call that 0800 extortion number,” says emeritus magistrate Blanca Rosa Mármol",
@@ -276,11 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Czechoslovakia 1962: the discipline that was broken against Brazil",
+      "title": "Corte federal de EE UU declara en rebeldía a Pdvsa y a su junta administradora ad hoc en demanda de extrabajadores; Citgo se opone a medida cautelar",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/checoslovaquia-1962-la-disciplina-que-se-quebro-ante-brasil/",
-      "published_date": "2026-06-07T01:30:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/corte-federal-eeuu-declara-rebeldia-pdvsa-citgo-demanda/",
+      "published_date": "2026-06-08T14:22:46Z",
+      "category": "Energy"
     },
     {
       "title": "Táchira | Freddy Bernal: \"We have had up to 10 hours without electricity, that is unsustainable\"",
@@ -416,16 +423,23 @@
       "category": "Energy"
     },
     {
-      "title": "Alejandro Betancourt and Agroisleña appear in a notebook seized from Zapatero's lieutenant",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/alejandro-betancourt-y-agroislena-aparecen-en-una-libreta-incautada-al-lugarteniente-de-zapatero/",
-      "published_date": "2026-06-05T15:39:55Z",
-      "category": "Energy"
+      "title": "Super Mario Galaxy Movie exceeds one billion dollars at the box office",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/super-mario-galaxy-movie-supera-los-1-000-millones-de-dolares-en-taquilla/",
+      "published_date": "2026-06-08T04:01:00Z",
+      "category": "Economy"
     },
     {
       "title": "Capi reveals its 2026 collection with lines for the whole family",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/otras-noticias/capi-revela-su-coleccion-2026-con-lineas-para-toda-la-familia/",
+      "published_date": "2026-06-07T23:52:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Capi reveals its 2026 collection with lines for the whole family",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/ultimas-noticias/capi-revela-su-coleccion-2026-con-lineas-para-toda-la-familia/",
       "published_date": "2026-06-07T23:52:04Z",
       "category": "Economy"
     },
@@ -549,157 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Polymarket, a company advised by Trump Jr., invests in X to disseminate narratives in favor of politicians in Latin America",
+      "title": "NATO confirms that two French fighters shot down a drone in Latvia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-otan-confirma-que-dos-cazas-franceses-derribaron-un-dron-en-letonia/",
+      "published_date": "2026-06-08T14:29:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arizona thanks Omar López for Eduardo Rodríguez's good season",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/arizona-le-agradece-a-omar-lopez-por-la-buena-temporada-de-eduardo-rodriguez/",
+      "published_date": "2026-06-08T14:24:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombian justice orders to seize some $412,000 linked to Alex Saab",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/justicia-colombiana-ordena-embargar-unos-412-000-dolares-vinculados-a-alex-saab/",
+      "published_date": "2026-06-08T14:01:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aircraft that crashed in the Dominican Republic was going to look for Yadier Molina, manager of Navegantes del Magallanes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/aeronave-que-se-estrello-en-dominicana-iba-a-buscar-a-yadier-molina-manager-de-navegantes-del-magallanes/",
+      "published_date": "2026-06-08T13:39:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "🇻🇪 Danzantes de San Millán: the Corpus Christi tradition that UNESCO preserves in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/%f0%9f%87%bb%f0%9f%87%aa-danzantes-de-san-millan-la-tradicion-de-corpus-christi-que-preserva-la-unesco-en-venezuela/",
+      "published_date": "2026-06-08T13:11:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Wembanyama ready to lead Spurs comeback: 'This is everything I wanted'",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/wembanyama-esta-listo-para-liderar-la-remontada-de-spurs-esto-es-todo-lo-que-deseaba/",
+      "published_date": "2026-06-08T12:51:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Chile presents project to detain irregular migrants for up to 60 days",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/presidente-de-chile-presenta-proyecto-para-retener-por-hasta-60-dias-a-migrantes-irregulares/",
+      "published_date": "2026-06-08T12:27:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lamine Yamal and Nico Williams will be available for Spain's first game",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/lamine-yamal-y-nico-williams-estaran-disponibles-para-el-primer-juego-de-espana/",
+      "published_date": "2026-06-08T12:21:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Virtuosis AI detects possible health problems by analyzing the human voice",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/virtuosis-ai-analiza-voz-humana-y-detecta-problemas-de-salud/",
+      "published_date": "2026-06-08T12:18:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Pope asks the bishops to respond to abuses with listening, justice and reparation",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/cocuyo-chequea/polymarket-unh-plus-trump/",
-      "published_date": "2026-06-05T20:23:45Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/la-humanidad/el-papa-pide-a-obispos-que-repondan-a-abusos-con-escucha-justicia-reparacion/",
+      "published_date": "2026-06-08T11:53:26Z",
+      "category": "Local Events"
     },
     {
-      "title": "Venezuelans bet on dollarization in the face of accelerated depreciation of the bolivar",
+      "title": "Brides add personality with jacket suits",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/venezolanos-apuestan-por-la-dolarizacion-ante-acelerada-depreciacion-del-bolivar/",
-      "published_date": "2026-06-05T19:34:26Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Venezuelan administration denies meeting between María Corina Machado and Delcy Rodríguez",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/administracion-venezolana-desmiente-encuentro-entre-maria-corina-machado-y-delcy-rodriguez/",
-      "published_date": "2026-06-08T00:16:54Z",
+      "url": "https://www.elnacional.com/2026/06/las-novias-imprimen-personalidad-con-trajes-de-chaqueta/",
+      "published_date": "2026-06-08T11:42:00Z",
       "category": "Local Events"
     },
     {
-      "title": "France 1998: Zizou's coronation",
+      "title": "Elections in Peru: Fujimori's advantage over Sánchez drops to 2.3 points with 85% counted",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/francia-1998-la-coronacion-de-zizou/",
-      "published_date": "2026-06-08T00:15:00Z",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-ventaja-de-fujimori-sobre-sanchez-baja-a-23-puntos-con-el-85-escrutado/",
+      "published_date": "2026-06-08T10:22:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Florentino Pérez, re-elected as president of Real Madrid",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/deportes/florentino-perez-reelegido-como-presidente-del-real-madrid/",
-      "published_date": "2026-06-07T23:54:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juan Guaidó proposes primaries in Venezuela, but clarifies that he supports María Corina Machado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/juan-guaido-propone-primarias-en-venezuela-pero-aclara-que-apoya-a-maria-corina-machado/",
-      "published_date": "2026-06-07T23:47:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Florentino Pérez wins the elections and will continue to lead Real Madrid",
+      "title": "The Pope asks in the Spanish Congress for a global response to the \"tragic migration drama\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/florentino-perez-gana-las-elecciones-y-seguira-al-frente-del-real-madrid/",
-      "published_date": "2026-06-07T23:44:34Z",
+      "url": "https://www.elnacional.com/2026/06/el-papa-pide-en-el-congreso-espanol-una-respuesta-mundial-al-tragico-drama-migratorio/",
+      "published_date": "2026-06-08T10:06:00Z",
       "category": "Local Events"
     },
     {
-      "title": "A young woman died after receiving an electric shock caused by lightning in Táchira: two people were injured",
+      "title": "Rawayana has one of the highest grossing tours in the world",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/una-joven-murio-al-recibir-una-descarga-electrica-producida-por-un-rayo-en-tachira-dos-personas-resultaron-heridas/",
-      "published_date": "2026-06-07T23:25:46Z",
+      "url": "https://www.elnacional.com/2026/06/rawayana-tiene-una-de-las-giras-mas-taquilleras-del-mundo/",
+      "published_date": "2026-06-08T05:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Rehearsals of the Cruz-Diez Symphony Orchestra advance to offer a concert before Pope Leo XIV",
+      "title": "Steven Spielberg returns to aliens in Reveal Day",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/avanzan-los-ensayos-de-la-orquesta-sinfonica-cruz-diez-para-ofrecer-concierto-ante-el-papa-leon-xiv/",
-      "published_date": "2026-06-07T23:17:39Z",
+      "url": "https://www.elnacional.com/2026/06/steven-spielberg-vuelve-a-los-extraterrestres-en-el-dia-de-la-revelacion/",
+      "published_date": "2026-06-08T04:20:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lionel Messi: the idol who managed to redeem himself with his country",
+      "title": "Elton John scored Dua Lipa and Callum Turner's wedding in Sicily",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/lionel-messi-el-idolo-que-logro-redimirse-con-su-pais/",
-      "published_date": "2026-06-07T23:00:00Z",
+      "url": "https://www.elnacional.com/2026/06/elton-john-musicalizo-la-boda-de-dua-lipa-y-callum-turner-en-sicilia/",
+      "published_date": "2026-06-08T04:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Pope Leo XIV responds to letter to Venezuelan girl during trip to Spain",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/papa-leon-xiv-responde-carta-a-nina-venezolana-durante-viaje-a-espana/",
-      "published_date": "2026-06-07T22:49:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FBI mobilizes its tactical teams for the 2026 World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/fbi-moviliza-a-sus-equipos-tacticos-por-el-mundial-2026/",
-      "published_date": "2026-06-07T22:23:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez arrives in Türkiye after concluding a five-day tour in India",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/delcy-rodriguez-llega-a-turquia-tras-concluir-gira-de-cinco-dias-en-india/",
-      "published_date": "2026-06-07T21:50:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rains collapse drains and flood avenues in Bolívar: there are effects in El Callao and Ciudad Guayana",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/lluvias-colapsan-drenajes-e-inundan-avenidas-en-bolivar-hay-afectaciones-en-el-callao-y-ciudad-guayana/",
-      "published_date": "2026-06-07T21:41:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avianca requested Aerocivil de Colombia to add the Medellín-Caracas route: they propose seven weekly frequencies",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/avianca-solicito-a-aerocivil-de-colombia-adicionar-la-ruta-medellin-caracas-plantean-siete-frecuencias-semanales/",
-      "published_date": "2026-06-07T21:23:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They ask to investigate unfinished work of Jorge Rodríguez's management as mayor of Caracas",
+      "title": "El Mañanero of June 8: Specialists consider the reform of the criminal justice system unnecessary",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610780/piden-investigar-obra-inconclusa-de-la-gestion-de-jorge-rodriguez-como-alcalde-de-caracas/",
-      "published_date": "2026-06-07T21:15:43Z",
+      "url": "https://runrun.es/noticias/610796/el-mananero-del-8-de-junio-especialistas-consideran-innecesaria-la-reforma-del-sistema-de-justicia-penal/",
+      "published_date": "2026-06-08T04:02:00Z",
       "category": "Local Events"
     },
     {
-      "title": "England 1966: the long-awaited title in the cradle of football",
+      "title": "A life of dedication and passion, Sada Zarikian",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/610801/sada-zarikian-carolina-jaimes-b/",
+      "published_date": "2026-06-08T04:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Videos | 7.8 earthquake hits the Philippines",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/inglaterra-1966-el-ansiado-titulo-en-la-cuna-del-futbol/",
-      "published_date": "2026-06-07T20:30:00Z",
+      "url": "https://www.elnacional.com/2026/06/videos-terremoto-de-78-sacudio-a-filipinas/",
+      "published_date": "2026-06-08T01:36:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Pope Leo XIV received 33 letters from Venezuelan children",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/el-papa-leon-xiv-recibio-33-cartas-de-ninos-venezolanos/",
-      "published_date": "2026-06-07T19:55:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VIDEO | Migrant cries with nostalgia for Venezuela during interview on Argentine television",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/migrante-llora-de-nostalgia-por-venezuela-durante-entrevista-en-television-argentina/",
-      "published_date": "2026-06-07T19:21:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Samba under the Nordic sky: the birth of King Pelé",
+      "title": "Brazil 1970: the definitive and invincible team",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/samba-bajo-el-cielo-nordico-el-nacimiento-del-rey-pele/",
-      "published_date": "2026-06-07T19:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid closes the polls and begins the counting of the votes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-real-madrid-cierra-las-urnas-y-comienza-el-recuento-en-las-elecciones/",
-      "published_date": "2026-06-07T19:06:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roland Garros: Zverev breaks the curse and wins his first Grand Slam",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/roland-garros-zverev-rompe-con-la-maldicion-y-gana-su-primer-grand-slam/",
-      "published_date": "2026-06-07T18:27:15Z",
+      "url": "https://www.elnacional.com/2026/06/brasil-1970-el-equipo-definitivo-e-invencible/",
+      "published_date": "2026-06-08T01:30:00Z",
       "category": "Local Events"
     }
   ]
