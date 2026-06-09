@@ -1,7 +1,63 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-09T00:11:57Z",
+  "last_updated": "2026-06-09T13:46:31Z",
   "stories": [
+    {
+      "title": "Diosdado Cabello on dialogue with María Corina Machado: \"It is not raised\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/diosdado-cabello-sobre-dialogo-con-maria-corina-machado-no-esta-planteado/",
+      "published_date": "2026-06-09T13:42:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Santa Teresa 1796 is, for the second consecutive year, one of the best rums in the world",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/santa-teresa-1796-entre-los-mejores-rones-por-segundo-ano/",
+      "published_date": "2026-06-09T12:23:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Relatives of political prisoners remain at the US Embassy in Caracas: they demand to be attended to by John Barrett",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/familiares-de-presos-politicos-se-mantienen-en-la-embajada-de-ee-uu-en-caracas-exigen-ser-atendidos-por-john-barrett/",
+      "published_date": "2026-06-09T10:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ángel Oropeza: “Successful transitions require swallowing thick toads”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/transiciones-politicas-negociadas-angel-oropeza-venezuela-2026/",
+      "published_date": "2026-06-09T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Xi Jinping visits Kim Jong-un: what is the origin of the love-hate relationship between China and North Korea",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/xi-jinping-visita-a-kim-jong-un-cual-es-el-origen-de-la-relacion-amor-odio-entre-china-y-corea-del-norte/",
+      "published_date": "2026-06-09T09:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Portugal commemorates its day with Pedro Jóia in Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/portugal-conmemora-su-dia-con-dos-conciertos-de-pedro-joia/",
+      "published_date": "2026-06-09T04:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump is booed at Madison Square Garden during the national anthem",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/trump-abucheado-madison-square-garden-durante-himno-nacional/",
+      "published_date": "2026-06-09T01:16:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Díaz-Canel assures that the United States contemplates three scenarios against Cuba, including military aggression",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/diaz-canel-asegura-que-ee-uu-contempla-tres-escenarios-contra-cuba-incluida-una-agresion-militar/",
+      "published_date": "2026-06-09T01:01:58Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "From El Helicoide to the US embassy: relatives have been vigil for months for the release of political prisoners",
       "source": "El Pitazo",
@@ -87,60 +143,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Relatives of political prisoners remain in front of the US Embassy in Caracas: they demand a meeting with John Barret",
+      "title": "Riots grip New York after Knicks loss",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/los-disturbios-se-apoderaron-de-nueva-york-tras-la-derrota-de-los-knicks/",
+      "published_date": "2026-06-09T13:41:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Three military women political prisoners of the INOF are released",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/excarcelan-a-tres-mujeres-militares-presas-politicas-del-inof/",
+      "published_date": "2026-06-09T13:19:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Democratic congressmen demand answers from Marco Rubio for lack of progress in Venezuela's democratic transition",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/congresistas-democratas-exigen-a-marco-rubio-respuestas-por-falta-de-avances-en-la-transicion-democratica-de-venezuela/",
+      "published_date": "2026-06-09T12:39:07Z",
+      "category": "Military"
+    },
+    {
+      "title": "Germany 1974: consecration in the midst of the Cold War",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/alemania-1974-la-consagracion-en-medio-de-la-guerra-fria/",
+      "published_date": "2026-06-09T01:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The ICC transfers to the Member States the decision on the future of prosecutor Karim Khan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-cpi-traslada-a-los-estados-miembros-la-decision-sobre-el-futuro-del-fiscal-karim-khan/",
+      "published_date": "2026-06-09T00:56:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "El Salvador registers 261% overcrowding in its prisons, according to a human rights entity",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-salvador-registra-un-hacinamiento-del-261-en-sus-carceles-segun-un-ente-de-derechos-humanos/",
+      "published_date": "2026-06-09T00:22:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Does the new president of the INH repeat the irregularities of Potro Álvarez?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/familiares-de-presos-politicos-permanecen-frente-a-embajada-de-ee-uu-en-caracas-exigen-reunion-con-john-barret/",
-      "published_date": "2026-06-08T14:35:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The European Union approves the first cancer treatment with a portable injector",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sarclisa-primer-tratamiento-contra-el-cancer-con-inyector-portatil/",
-      "published_date": "2026-06-08T14:06:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran threatens to attack energy centers in the region if Israel bombs its industry",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/iran-amenaza-con-atacar-centros-energeticos-en-la-region-si-israel-bombardea-su-industria/",
-      "published_date": "2026-06-08T12:03:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Death toll from 7.8 magnitude earthquake in the Philippines rises to 14",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sube-a-14-la-cifra-de-muertos-por-terremoto-de-78-en-filipinas/",
-      "published_date": "2026-06-08T09:46:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Scary Movie 6 leads the global box office",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/scary-movie-6-lidera-la-taquilla-mundial/",
-      "published_date": "2026-06-08T04:01:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Relatives of political prisoners held vigil in front of the United States Embassy in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/familiares-de-presos-politicos-hicieron-vigilia-frente-a-la-embajada-de-estados-unidos-en-caracas/",
-      "published_date": "2026-06-08T00:51:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carabobo beat Puerto Cabello and was crowned champion of the Apertura Tournament",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/carabobo-supero-a-puerto-cabello-y-se-corono-campeon-del-torneo-de-apertura/",
-      "published_date": "2026-06-08T00:48:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Relatives of political prisoners gather outside the US Embassy",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/uncategorized/familiares-de-presos-politicos-acampan-a-las-afueras-de-la-embajada-de-estados-unidos/",
-      "published_date": "2026-06-07T23:41:13Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/el-nuevo-presidente-del-inh-repite-las-irregularidades-del-potro-alvarez/",
+      "published_date": "2026-06-09T00:11:32Z",
+      "category": "Military"
     },
     {
       "title": "ITA Airways confirms the start of flights between Rome and Caracas for the second half of the year",
@@ -234,53 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Inmate dies in Sucre prison: the number of deaths in State custody rises to 21",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/muere-recluso-en-carcel-de-sucre-sube-a-21-el-numero-de-fallecidos-bajo-custodia-del-estado/",
-      "published_date": "2026-06-08T19:52:31Z",
-      "category": "Military"
-    },
-    {
-      "title": "Did North American soldiers take over a mine in Bolívar? Here we tell you",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/militares-norteamericanos-tomaron-mina-en-bolivar-aqui-te-contamos/",
-      "published_date": "2026-06-08T19:39:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "Relatives of the 2019 \"Operation Freedom\" case request a review: detainees were left out of the amnesty",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/familiares-del-caso-operacion-libertad-de-2019-solicitan-revision-detenidos-quedaron-fuera-de-la-amnistia/",
-      "published_date": "2026-06-08T17:59:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Prison Observatory raises to 21 the number of inmates who have died in prisons since April",
+      "title": "The US says Venezuela's oil exports reach their “highest level” in 7 years",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/observatorio-de-prisiones-eleva-a-21-el-numero-de-reclusos-fallecidos-en-carceles-desde-abril/",
-      "published_date": "2026-06-08T17:19:54Z",
-      "category": "Military"
+      "url": "https://efectococuyo.com/economia/eeuu-dice-que-exportaciones-petroleras-de-venezuela-alcanzan-su-nivel-mas-alto-en-7-anos/",
+      "published_date": "2026-06-09T13:07:43Z",
+      "category": "Energy"
     },
     {
-      "title": "Colombian mother denounces the arbitrary detention of her two children in Venezuela",
+      "title": "The US registers 1.25 million barrels of oil per day in Venezuela and attributes it to the Trump-Rubio plan",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/madre-colombiana-denuncia-la-detencion-arbitraria-de-sus-dos-hijos-en-venezuela/",
-      "published_date": "2026-06-08T16:58:28Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/embajada-de-ee-uu-destaca-aumento-de-exportaciones-petroleras-venezolanas/",
+      "published_date": "2026-06-09T01:12:49Z",
+      "category": "Energy"
     },
     {
-      "title": "Another inmate died and the number of prisoners who have died since April increases to 21",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sucre-muere-otro-recluso-y-aumenta-a-21-la-cifra-de-presos-fallecidos-desde-abril/",
-      "published_date": "2026-06-08T14:52:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Banking sector will not provide service this Monday: what services will be operational?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sector-bancario-no-prestara-servicio-este-lunes-que-servicios-estaran-operativos/",
-      "published_date": "2026-06-08T10:41:00Z",
-      "category": "Military"
+      "title": "The US assures that Venezuela's oil exports reach their highest level in seven years",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/ee-uu-asegura-que-exportaciones-petroleras-de-venezuela-alcanzan-su-nivel-mas-alto-en-siete-anos/",
+      "published_date": "2026-06-09T00:46:11Z",
+      "category": "Energy"
     },
     {
       "title": "Miguel Rojas starred in the Play of the Week in the Major Leagues",
@@ -402,25 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Six dead in explosion at illegal coal mine in Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/seis-muertos-deja-explosion-en-mina-ilegal-de-carbon-en-colombia/",
-      "published_date": "2026-06-05T23:40:58Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ildemaro Vargas after collision with Max Muncy: \"I feel like I collided with a truck\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ildemaro-vargas-tras-colision-con-max-muncy-siento-que-choque-con-un-camion/",
-      "published_date": "2026-06-05T22:20:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bolivar | Macagua line failure generates another blackout in mining areas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-falla-en-linea-de-macagua-genera-otro-apagon-en-zonas-mineras/",
-      "published_date": "2026-06-05T20:40:15Z",
-      "category": "Energy"
+      "title": "Let everyone go!?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/610834/que-se-vayan-todos/",
+      "published_date": "2026-06-09T04:01:00Z",
+      "category": "Economy"
     },
     {
       "title": "The drama of moving in a Venezuela of frozen salaries and transportation in ruins",
@@ -556,11 +563,116 @@
       "category": "Economy"
     },
     {
-      "title": "A national pact and fixing the exchange rate: José Guerra's proposals to combat inflation",
+      "title": "ICC suspends prosecutor Karim Khan and calls on member countries to vote on his dismissal",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/cpi-suspende-al-fiscal-karim-khan-y-emplaza-a-los-paises-miembros-a-votar-sobre-su-destitucion/",
+      "published_date": "2026-06-09T13:26:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Nacional ranking for the World Cup: Argentina favorite and Brazil on the verge of the top 10",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/ranking-de-el-nacional-para-el-mundial-argentina-favorita-y-brasil-al-borde-del-top-10/",
+      "published_date": "2026-06-09T13:20:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Daniel Lara Farías will participate in the Madrid Book Fair to sign books",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/daniel-lara-farias-participara-en-la-feria-del-libro-de-madrid-para-firma-de-libros/",
+      "published_date": "2026-06-09T13:09:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Relatives and the journalistic union said goodbye to Cristian Herrera in Cúcuta",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/familiares-y-gremio-periodistico-despidieron-en-cucuta-a-cristian-herrera/",
+      "published_date": "2026-06-09T12:47:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Spurs are breathing, but Wembanyama is not confident: “The most complicated thing is yet to come”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/los-spurs-respiran-pero-wembanyama-no-se-confia-lo-mas-complicado-esta-por-venir/",
+      "published_date": "2026-06-09T12:18:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections in Peru: Sánchez maintains a 0.25 point lead over Fujimori with 95% of votes counted",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-sanchez-mantiene-025-puntos-de-ventaja-sobre-fujimori-con-95-de-votos-contados/",
+      "published_date": "2026-06-09T11:47:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group I: France wants to play its third consecutive final",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/grupo-i-francia-quiere-jugar-su-tercera-final-en-tres-mundiales-seguidos/",
+      "published_date": "2026-06-09T11:11:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Leo XIV begins his visit to Catalonia with events in the Cathedral and the Olympic Stadium",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/leon-xiv-inicia-su-visita-a-cataluna-con-actos-en-la-catedral-y-el-estadio-olimpico/",
+      "published_date": "2026-06-09T11:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from 7.8 magnitude earthquake in the Philippines rises to 37",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/sube-a-37-la-cifra-de-muertos-por-terremoto-de-78-en-filipinas/",
+      "published_date": "2026-06-09T10:06:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The women who resist in the El Rodeo I camp",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/las-mujeres-que-resisten-en-el-campamento-de-el-rodeo-i/",
+      "published_date": "2026-06-09T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero on June 9: Another person deprived of liberty in state custody died",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610857/el-mananero-del-9-de-junio-murio-otra-persona-privada-de-libertad-bajo-custodia-del-estado/",
+      "published_date": "2026-06-09T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“Dai Dai” by Shakira surpassed 100 million views on YouTube",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/dai-dai-de-shakira-supero-los-100-millones-de-reproducciones-en-youtube/",
+      "published_date": "2026-06-09T04:04:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A smiling Delcy Rodríguez contrasted with a serious Erdogan",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/610853/una-sonriente-delcy-rodriguez-contrasto-con-un-serio-erdogan/",
+      "published_date": "2026-06-09T01:25:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Roberto Sánchez declares himself “confident” but asks to wait until the scrutiny is completed in Peru",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/roberto-sanchez-se-declara-confiado-pero-pide-esperar/",
+      "published_date": "2026-06-09T01:02:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two Venezuelan rums from Santa Teresa stand out in Forbes' annual selection",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/un-pacto-nacional-y-fijar-el-tipo-de-cambio-las-propuestas-de-jose-guerra-para-combatir-la-inflacion/",
-      "published_date": "2026-06-06T17:00:00Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/sin-categoria/dos-rones-venezolanos-de-santa-teresa-destacan-en-la-seleccion-anual-de-forbes/",
+      "published_date": "2026-06-09T00:18:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italy vs West Germany: the Match of the Century",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/italia-vs-alemania-federal-el-partido-del-siglo/",
+      "published_date": "2026-06-09T00:15:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Electrical and infrastructure failures slow the reactivation of vehicle assemblers",
@@ -588,118 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/brasil-suspende-vacuna-contra-el-dengue-tras-2-muertes-y-42-casos-graves/",
       "published_date": "2026-06-08T22:46:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Iván Cepeda denounces the alleged self-attack plan of his rival Abelardo de la Espriella",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ivan-cepeda-denuncia-supuesto-plan-de-autoatentado-de-su-rival-abelardo-de-la-espriella/",
-      "published_date": "2026-06-08T22:12:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Roberto Sánchez overtakes Keiko Fujimori by reaching 94% of the scrutiny in Peru",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/roberto-sanchez-adelanta-a-keiko-fujimori-al-llegar-al-9392-del-escrutinio-en-peru/",
-      "published_date": "2026-06-08T21:54:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The faith and song of 70,000 faithful embrace the Pope at the Santiago Bernabéu stadium",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-fe-y-el-canto-de-70-000-fieles-abrazan-al-papa-en-el-estadio-santiago-bernabeu/",
-      "published_date": "2026-06-08T21:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "France leaves no room for doubt in its last friendly before the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/francia-no-deja-espacio-a-las-dudas-en-su-ultimo-amistoso-antes-del-mundial/",
-      "published_date": "2026-06-08T21:35:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netherlands wins its friendly against Uzbekistan in the last breath",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/paises-bajos-gana-su-amistoso-a-uzbekistan-en-el-ultimo-suspiro/",
-      "published_date": "2026-06-08T21:18:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Panama transferred more than 100 migrants to the border with Colombia: the majority are Venezuelans",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/panama-traslado-a-mas-de-100-migrantes-a-la-frontera-con-colombia-la-mayoria-son-venezolanos/",
-      "published_date": "2026-06-08T20:53:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "González Urrutia: “Those responsible for the regime's violence cannot continue to take refuge in other countries”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/610813/gonzalez-urrutia-los-responsables-de-la-violencia-del-regimen-no-pueden-seguir-refugiados-en-otros-paises/",
-      "published_date": "2026-06-08T20:33:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netherlands 1974: the Total Football revolution",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/holanda-1974-la-revolucion-del-futbol-total/",
-      "published_date": "2026-06-08T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Espacio Público records 13 violations of freedom of expression in Venezuela in May",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/espacio-publico-registra-13-violaciones-a-la-libertad-de-expresion-en-venezuela-en-mayo/",
-      "published_date": "2026-06-08T20:09:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antonio Banderas' emotional speech before the Pope: \"I confess to having been a victim of God's spell\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-emotivo-discurso-de-antonio-banderas-ante-el-papa-confieso-haber-sido-victima-del-hechizo-de-dios/",
-      "published_date": "2026-06-08T19:51:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabello and Machado's negotiation proposal: “It is pure straw, nothing is proposed and with it even less”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/cabello-negociacion-directa-machado-pura-paja-no-esta-planteado/",
-      "published_date": "2026-06-08T19:48:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UCLA medical student dies after being hit by a “motorcycle stunt”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/muere-estudiante-de-medicina-de-la-ucla-tras-ser-arrollada-por-un-motopirueta/",
-      "published_date": "2026-06-08T19:29:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Vinotinto sub-20 chain their third defeat in the Maurice Revello Tournament",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-vinotinto-sub-20-encadena-su-tercera-derrota-en-el-torneo-maurice-revello/",
-      "published_date": "2026-06-08T19:26:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Germán Márquez shines in rehabilitation",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/german-marquez-brilla-en-salida-de-rehabilitacion/",
-      "published_date": "2026-06-08T19:24:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marinos and Guaiqueríes chose their reinforcements for the SPB final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/marinos-y-guaiqueries-escogieron-sus-refuerzos-para-la-final-de-la-spb/",
-      "published_date": "2026-06-08T19:17:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Austria vs Switzerland: the Lausanne Heat Battle",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/austria-vs-suiza-la-batalla-del-calor-de-lausana/",
-      "published_date": "2026-06-08T19:15:00Z",
       "category": "Local Events"
     }
   ]
