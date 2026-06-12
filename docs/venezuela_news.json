@@ -1,7 +1,98 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-12T00:23:28Z",
+  "last_updated": "2026-06-12T14:12:06Z",
   "stories": [
+    {
+      "title": "UN: International aid cuts endanger fight against HIV",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/onu-recortes-de-ayuda-internacional-ponen-en-peligro-la-lucha-contra-el-vih/",
+      "published_date": "2026-06-12T13:59:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interim government claims Trinidad and Tobago for oil spill that affects the coast of Sucre",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/gobierno-interino-reclama-a-trinidad-y-tobago-por-derrame-petrolero-que-afecta-a-costas-de-sucre/",
+      "published_date": "2026-06-12T13:47:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Another oil spill comes from Trinidad, denounces Delcy Rodríguez's government",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/otro-derrame-de-crudo-llega-desde-trinidad-denuncia-gobierno-de-delcy-rodriguez/",
+      "published_date": "2026-06-12T13:43:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Government of Nicaragua expropriates the home of a doctor released from prison and expelled to the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/gobierno-de-nicaragua-expropia-vivienda-de-doctora-excarcelada-y-expulsada-a-ee-uu/",
+      "published_date": "2026-06-12T13:40:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canada and the United States roll the ball: know their World Cup rivals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/canada-y-estados-unidos-ruedan-el-balon-conoce-a-sus-rivales-mundialistas/",
+      "published_date": "2026-06-12T13:13:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EFE begins its 100 years with new flavors and a look at its history",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/otras-noticias/efe-inicia-sus-100-anos-con-nuevos-sabores-y-una-mirada-a-su-historia/",
+      "published_date": "2026-06-12T13:04:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Morocco loses Ez Abde and Nayef Aguerd for its duel against Brazil",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/marruecos-pierde-a-ez-abde-y-nayef-aguerd-para-su-duelo-contra-brasil/",
+      "published_date": "2026-06-12T12:24:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Simón Grossmann was able to remove the thorn of being able to play at home",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/simon-grossmann-pudo-quitarse-la-espina-de-poder-tocar-en-casa/",
+      "published_date": "2026-06-12T09:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Leo XIV arrives on the island of Tenerife: it will be his last stop on the trip to Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/leon-xiv-llega-a-la-isla-de-tenerife-sera-su-ultima-parada-del-viaje-a-espana/",
+      "published_date": "2026-06-12T09:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A giant Musk in Times Square to protest AI-generated child pornography",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/un-musk-gigante-para-protestar-contra-pornografia-de-ia/",
+      "published_date": "2026-06-12T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Korea raised its game to beat Czech Republic 2-1 and puts pressure on Group A",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/corea-cierra-el-primer-dia-del-mundial-2026-con-victoria-sobre-chequia/",
+      "published_date": "2026-06-12T04:14:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Get a meme out of the authoritarian foul”: a contest that combines football and human rights.",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/con-proposito/611084/sacale-meme-a-la-falta-autoritaria-un-concurso-que-combina-futbol-y-dd-hh/",
+      "published_date": "2026-06-12T04:08:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guillermo Ochoa makes history at home with his sixth World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/guillermo-ochoa-hace-historia-en-casa-con-su-sexto-mundial/",
+      "published_date": "2026-06-12T00:42:29Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "JNE withdraws publication that showed Keiko Fujimori as elected president of Peru",
       "source": "El Nacional",
@@ -10,7 +101,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gustavo Petro denounces US restrictions on meeting with the mayor of New York",
+      "title": "Petro denounces US restrictions on meeting with the mayor of New York",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/gustavo-petro-denuncia-restricciones-de-ee-uu-para-reunirse-con-el-alcalde-de-nueva-york/",
       "published_date": "2026-06-12T00:02:41Z",
@@ -52,95 +143,53 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Spain suspends temporary residences for Venezuelans for humanitarian reasons starting this Friday",
+      "title": "María Corina Machado applauds the release of political prisoners: “We will not rest until they are all released”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/espana-suspende-desde-este-viernes-las-residencias-temporales-por-razones-humanitarias-a-venezolanos/",
-      "published_date": "2026-06-11T20:55:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-aplaude-excarcelacion-de-presos-politicos-no-descansaremos-hasta-que-todos-sean-liberados/",
+      "published_date": "2026-06-12T12:42:08Z",
+      "category": "Military"
     },
     {
-      "title": "Another prisoner dies in state custody in the Yare III prison",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/muere-otro-preso-bajo-custodia-del-estado-en-la-carcel-de-yare-iii/",
-      "published_date": "2026-06-11T20:47:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The image of Maduro and Cilia fades: the couple's fences begin to disappear, reports The Guardian",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/se-desvanece-la-imagen-de-maduro-y-cilia-vallas-de-la-pareja-empiezan-a-desaparecer-reporta-the-guardian/",
-      "published_date": "2026-06-11T20:43:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Keider Montero does not give liberties on the bench from Detroit to Minnesota",
+      "title": "Clippve denounces to the European Union the reality of political prisoners in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/keider-montero-no-da-libertades-en-el-banqueo-de-detroit-a-minnesota/",
-      "published_date": "2026-06-11T20:00:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/clippve-denuncia-ante-la-union-europea-la-realidad-de-los-presos-politicos-en-venezuela/",
+      "published_date": "2026-06-12T12:29:09Z",
+      "category": "Military"
     },
     {
-      "title": "The United States sanctions the Cuban state oil company Cupet",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/estados-unidos-sanciona-a-la-petrolera-estatal-cubana-cupet/",
-      "published_date": "2026-06-11T19:59:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Why Delcy Rodríguez?: The lobby of the Rodríguez brothers and the scheme of the supervised regime",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/por-que-delcy-rodriguez-el-lobby-de-los-hermanos-rodriguez-y-el-esquema-del-regimen-tutelado/",
-      "published_date": "2026-06-11T19:53:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Spain will stop granting temporary humanitarian residence to Venezuelans starting this #12Jun",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/espana-dejara-de-otorgar-la-residencia-temporal-humanitaria-a-los-venezolanos-a-partir-de-este-12jun/",
-      "published_date": "2026-06-11T19:48:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina vs England: Azteca's claim",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/argentina-vs-inglaterra-la-reivindicacion-del-azteca/",
-      "published_date": "2026-06-11T19:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "International outcry for political prisoners: They promote a campaign to demand entry of the IACHR to Venezuela",
+      "title": "El Mañanero of June 12: “The Pattern of Oblivion”, nominated for the Gabo Award",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611037/clamor-internacional-por-los-presos-politicos-impulsan-campana-para-exigir-ingreso-de-la-cidh-a-venezuela/",
-      "published_date": "2026-06-11T19:12:14Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/611111/el-mananero-del-12-de-junio-el-patron-del-olvido-nominado-al-premio-gabo/",
+      "published_date": "2026-06-12T05:05:51Z",
+      "category": "Military"
     },
     {
-      "title": "This is how the 2026 World Cup started: the details of the first of the three opening ceremonies",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/el-mundial-2026-arranco-en-mexico-con-una-historica-inauguracion-en-el-estadio-azteca/",
-      "published_date": "2026-06-11T19:07:15Z",
-      "category": "Diplomacy"
+      "title": "The Conversation | Lester Toledo insists: “I was not part of the interim government”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/611087/la-conversa-lester-toledo-insiste-no-forme-parte-del-gobierno-interino/",
+      "published_date": "2026-06-12T01:06:25Z",
+      "category": "Military"
     },
     {
-      "title": "Jesús Luzardo had another solid start but was not satisfied",
+      "title": "Justice, Encounter and Forgiveness counts 565 political prisoners",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/jesus-luzardo-tuvo-otra-solida-salida-pero-no-quedo-satisfecho/",
-      "published_date": "2026-06-11T18:07:40Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/justicia-encuentro-y-perdon-contabiliza-565-presos-politicos/",
+      "published_date": "2026-06-12T00:59:53Z",
+      "category": "Military"
     },
     {
-      "title": "Michel Platini: a visionary about gramado",
+      "title": "Two generals and 25 retired soldiers admit their responsibility in extrajudicial executions in Colombia",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/michel-platini-un-visionario-sobre-el-gramado/",
-      "published_date": "2026-06-11T18:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/dos-generales-y-25-militares-retirados-admiten-su-responsabilidad-en-ejecuciones-extrajudiciales-en-colombia/",
+      "published_date": "2026-06-12T00:56:49Z",
+      "category": "Military"
     },
     {
-      "title": "Cecodap: every 3 days they sexually abused a boy, girl or adolescent in Zulia during 2025",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/cecodap-cada-3-dias-abusaron-sexualmente-de-un-nino-nina-o-adolescentes-en-zulia-durante-2025/",
-      "published_date": "2026-06-11T17:41:46Z",
-      "category": "Diplomacy"
+      "title": "Inameh activates environmental surveillance after confirming the start of the El Niño phenomenon",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/inameh-activa-vigilancia-ambiental-tras-confirmarse-el-inicio-del-fenomeno-de-el-nino/",
+      "published_date": "2026-06-12T00:30:43Z",
+      "category": "Military"
     },
     {
       "title": "Julián Quiñones, the striker who escaped from the guerrilla to play for Mexico",
@@ -234,53 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Rural communities warn about contamination of the Portuguesa River due to oil spill",
+      "title": "Shell receives license from Venezuela for gas exploration and exploitation in Monagas",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/comunidades-rurales-alertan-sobre-contaminacion-del-rio-portuguesa-por-derrame-de-petroleo-el-dano-puede-ser-irreversible/",
-      "published_date": "2026-06-11T18:11:35Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/economia/shell-recibe-licencia-de-venezuela-para-exploracion-y-explotacion-de-gas-en-monagas/",
+      "published_date": "2026-06-12T12:51:09Z",
+      "category": "Energy"
     },
     {
-      "title": "They arrest two people allegedly linked to the murder of Gerson Rojas in Aragua",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/detienen-a-dos-personas-presuntamente-vinculadas-al-homicidio-de-gerson-rojas-en-aragua/",
-      "published_date": "2026-06-11T17:30:30Z",
-      "category": "Military"
-    },
-    {
-      "title": "Sweden withdraws its proposal to lower the minimum age to enter prison to 13 years",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/suecia-retira-su-propuesta-de-bajar-a-13-anos-la-edad-minima-para-entrar-en-prision/",
-      "published_date": "2026-06-11T17:12:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Fernando Alonso warns: \"It will probably be my last race in Barcelona\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/fernando-alonso-avisa-probablemente-sera-mi-ultima-carrera-en-barcelona/",
-      "published_date": "2026-06-11T16:42:18Z",
-      "category": "Military"
-    },
-    {
-      "title": "The US maintains a high-risk warning for traveling to Venezuela despite air openings and calls for investment",
+      "title": "Miraflores grants Shell a license to explore and exploit the Monagas gas field",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/eeuu-mantiene-advertencia-de-alto-riesgo-de-viajar-a-venezuela-pese-a-apertura-aerea-y-llamados-de-inversion/",
-      "published_date": "2026-06-11T16:34:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Latin America and the world pay with less growth for the war between the US and Iran",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/america-latina-y-el-mundo-pagan-con-menos-crecimiento-por-la-guerra-de-eeuu-e-iran/",
-      "published_date": "2026-06-11T15:16:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "SOS Orinoco demands government transparency in the face of military deployment in mining areas of Bolívar",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sos-orinoco-exige-transparencia-gubernamental-ante-despliegue-militar-en-zonas-mineras-de-bolivar/",
-      "published_date": "2026-06-11T14:48:37Z",
-      "category": "Military"
+      "url": "https://efectococuyo.com/economia/miraflores-otorga-shell-licencia-explorar-explotar-campo-gas/",
+      "published_date": "2026-06-12T01:17:05Z",
+      "category": "Energy"
     },
     {
       "title": "Miami-Dade revokes Vanguard Energy's license for shipping fuel to Cuba",
@@ -409,18 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "Inflation in the US climbs to 4.2% in May, the highest in 3 years, driven by gasoline",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/inflacion-en-eeuu-trepa-a-42-en-mayo-la-mas-alta-en-3-anos-impulsada-por-la-gasolina/",
-      "published_date": "2026-06-10T13:52:19Z",
-      "category": "Energy"
+      "title": "Economy and politics play a leading role in the World Cup",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/611131/la-economia-y-la-politica-le-juegan-posicion-adelantada-al-mundial/",
+      "published_date": "2026-06-12T13:33:30Z",
+      "category": "Economy"
     },
     {
-      "title": "Belgium vs Soviet Union: the Battle of Nou Camp de León",
+      "title": "TSJ extends the economic emergency decree for 60 days",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/belgica-vs-union-sovietica-la-batalla-del-nou-camp-de-leon/",
-      "published_date": "2026-06-10T00:15:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/tsj-extiende-por-60-dias-el-decreto-de-emergencia-economica/",
+      "published_date": "2026-06-12T12:59:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The food rich in vitamin B12 that improves memory",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-alimento-rico-en-vitamina-b12-que-mejora-la-memoria/",
+      "published_date": "2026-06-12T12:43:56Z",
+      "category": "Economy"
     },
     {
       "title": "A joke that became misinformation: Jorge Rodríguez did not say “they are going to miss us when they have electricity and have to pay the bill”",
@@ -542,25 +563,95 @@
       "category": "Economy"
     },
     {
-      "title": "University of Carabobo denounces that it has received less than 1% of its operating budget",
+      "title": "Princess Bajrakitiyabha of Thailand dies after spending more than 3 years in a coma",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/universidad-de-carabobo-denuncia-que-ha-recibido-menos-de-1-de-su-presupuesto-de-funcionamiento/",
-      "published_date": "2026-06-09T22:49:13Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/la-princesa-bajrakitiyabha-de-tailandia-muere-tras-pasar-mas-de-3-anos-en-coma/",
+      "published_date": "2026-06-12T13:44:07Z",
+      "category": "Local Events"
     },
     {
-      "title": "Idris Elba denies rumors about James Bond and asks not to make him \"woke\"",
+      "title": "Deschamps meditates on his future and Mbappé does not want to see him in another team",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/idris-elba-descarta-ser-uno-de-los-candidatos-a-james-bond/",
-      "published_date": "2026-06-09T04:30:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/deschamps-medita-sobre-su-futuro-y-mbappe-no-quiere-verlo-en-otra-seleccion/",
+      "published_date": "2026-06-12T13:15:40Z",
+      "category": "Local Events"
     },
     {
-      "title": "Let everyone go!?",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/610834/que-se-vayan-todos/",
-      "published_date": "2026-06-09T04:01:00Z",
-      "category": "Economy"
+      "title": "Brussels exhibits the historical evolution of minimalism in fashion",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/bruselas-exhibe-la-evolucion-historica-del-minimalismo-en-la-moda/",
+      "published_date": "2026-06-12T12:30:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "YouTube incorporates direct messages to share videos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/youtube-incorpora-los-mensajes-directos-para-compartir-videos/",
+      "published_date": "2026-06-12T11:51:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from 7.8 magnitude earthquake in the Philippines rises to 46",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/sube-a-46-la-cifra-de-muertos-por-terremoto-de-78-en-filipinas/",
+      "published_date": "2026-06-12T11:42:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protests around ICE and DHS, a front of constant opposition to Trump's second term",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/protestas-en-torno-al-ice-y-el-dhs-un-frente-de-oposicion-constante-al-segundo-mandato-de-trump/",
+      "published_date": "2026-06-12T10:55:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections in Peru: Fujimori maintains an advantage of 1,207 votes over Sánchez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/elecciones-en-peru-fujimori-mantiene-ventaja-de-1-207-votos-sobre-sanchez/",
+      "published_date": "2026-06-12T10:35:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What is the maritime drone with which the US rescued the crew of the Apache helicopter shot down in the Strait of Hormuz?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/como-es-el-dron-maritimo-con-el-que-ee-uu-rescato-a-los-tripulantes-del-helicoptero-apache-derribado-en-el-estrecho-de-ormuz/",
+      "published_date": "2026-06-12T10:13:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Group B: Canada and Switzerland go for supremacy",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/grupo-b-canada-y-suiza-van-por-la-supremacia/",
+      "published_date": "2026-06-12T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ricardo Chaneton: \"Venezuela tasted good to me\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/ricardo-chanenton-vuelve-a-cocinar-en-venezuela/",
+      "published_date": "2026-06-12T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netflix: what are the most watched series and movies this week in Venezuela?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/netflix-las-series-y-peliculas-mas-vistas-esta-semana-en-venezuela-29/",
+      "published_date": "2026-06-12T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From dream to reality: Jesús Valenzuela will referee in his second World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/del-sueno-a-la-realidad-jesus-valenzuela-arbitrara-en-su-segundo-mundial/",
+      "published_date": "2026-06-12T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Germany 1990: the new member of the club of three",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/alemania-1990-el-nuevo-integrante-del-club-de-los-tres/",
+      "published_date": "2026-06-12T01:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "50 thousand throats in the Zócalo",
@@ -574,13 +665,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/final-mexico-1986-la-consagracion-de-la-argentina-de-bilardo/",
       "published_date": "2026-06-12T00:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests around ICE and DHS, a front of constant opposition to Trump's second term",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/protestas-en-torno-al-ice-y-el-dhs-un-frente-de-oposicion-constante-al-segundo-mandato-de-trump/",
-      "published_date": "2026-06-12T00:08:02Z",
       "category": "Local Events"
     },
     {
@@ -616,90 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/inversionistas-norteamericanos-en-el-callao-que-se-sabe/",
       "published_date": "2026-06-11T21:50:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unprecedented opening of the 2026 World Cup in Mexico: no head of state in the stands",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/deportes/inedita-inauguracion-del-mundial-2026-en-mexico-ningun-jefe-de-estado-en-las-gradas/",
-      "published_date": "2026-06-11T21:27:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico grew to win its first opening match against South Africa",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/mexico-se-crecio-para-ganar-su-primer-partido-inaugural-ante-sudafrica/",
-      "published_date": "2026-06-11T21:17:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "César Pérez Vivas announces his return to Venezuela after 20 months in hiding",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611062/cesar-perez-vivas-anuncia-su-regreso-a-venezuela-tras-20-meses-en-la-clandestinidad/",
-      "published_date": "2026-06-11T21:16:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AN Judicial Nominations Committee gives new extension until June 18",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/comite-postulaciones-judiciales-an-prorroga-18-junio/",
-      "published_date": "2026-06-11T21:15:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "INTT simplifies procedures for public transport permits: know the requirements",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/intt-simplifica-tramites-para-permisos-de-transporte-publico-conoce-los-requisitos/",
-      "published_date": "2026-06-11T21:09:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marcos Senesi replaces Leonardo Balerdi in the Argentina squad",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/marcos-senesi-sustituye-a-leonardo-balerdi-en-la-convocatoria-de-argentina/",
-      "published_date": "2026-06-11T20:45:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The World Cup began between football, music and protests",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-mundial-arranca-entre-futbol-musica-y-protestas/",
-      "published_date": "2026-06-11T20:39:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Denmark 1986: the explosion of Red Dynamite",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/dinamarca-1986-el-estallido-de-la-dinamita-roja/",
-      "published_date": "2026-06-11T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two white lion cubs were born at the Las Delicias Zoo in Maracay",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/nacen-dos-cachorros-de-leon-blanco-en-el-zoologico-las-delicias-de-maracay/",
-      "published_date": "2026-06-11T20:25:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid announces the return of Jose Mourinho as coach",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/real-madrid-anuncia-el-regreso-de-jose-mourinho-como-entrenador/",
-      "published_date": "2026-06-11T19:27:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Two years of fighting: Greulbys Guerra's tireless search for his missing family",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/dos-anos-de-lucha-la-incansable-busqueda-de-greulbys-guerra-por-su-familia-desaparecida/",
-      "published_date": "2026-06-11T18:56:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lamine Yamal trains and aims to start in Spain's debut at the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/lamine-yamal-entrena-y-apunta-a-la-titularidad-en-el-estreno-de-espana-en-el-mundial/",
-      "published_date": "2026-06-11T18:29:44Z",
       "category": "Local Events"
     }
   ]
