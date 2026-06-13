@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-13T00:24:46Z",
+  "last_updated": "2026-06-13T12:53:35Z",
   "stories": [
+    {
+      "title": "The video of the attack in which the United States killed the Niño Guerrero in Bolívar",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-video-del-ataque-en-el-que-ee-uu-mato-al-nino-guerrero-en-bolivar/",
+      "published_date": "2026-06-13T12:07:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What the Delcy Rodríguez government said about the death of Niño Guerrero, top boss of the Aragua Train",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/lo-que-dijo-el-gobierno-de-delcy-rodriguez-sobre-la-muerte-de-nino-guerrero-maximo-jefe-del-tren-de-aragua/",
+      "published_date": "2026-06-13T11:14:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Group C: Brazil and Morocco will define who is the strongest",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/grupo-c-brasil-y-marruecos-definiran-quien-es-el-mas-fuerte/",
+      "published_date": "2026-06-13T10:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United States was fierce and beat Paraguay 4-1 in its debut",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/estados-unidos-se-presenta-en-su-mundial-con-goleada-sobre-paraguay/",
+      "published_date": "2026-06-13T03:17:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "120 migrants return to Venezuela on a new repatriation flight from the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/120-migrantes-regresan-a-venezuela-en-un-nuevo-vuelo-de-repatriacion-desde-estados-unidos/",
+      "published_date": "2026-06-13T00:23:07Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Ecuador deports a Venezuelan citizen allegedly linked to the Aragua Train",
       "source": "El Nacional",
@@ -108,39 +143,74 @@
       "category": "Diplomacy"
     },
     {
-      "title": "World Child Labor Day: In Venezuela the data is conspicuous by its absence",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611138/dia-mundial-del-trabajo-infantil-en-venezuela-los-datos-brillan-por-su-ausencia/",
-      "published_date": "2026-06-12T17:51:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cristiano Ronaldo: “This generation will bring a lot of joy to the Portuguese”",
+      "title": "Penal Forum confirms new releases of political prisoners in the last hours",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cristiano-ronaldo-esta-generacion-dara-muchas-alegrias-a-los-portugueses/",
-      "published_date": "2026-06-12T16:12:08Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/foro-penal-confirmo-nuevas-excarcelaciones-durante-la-noche-de-este-12jun/",
+      "published_date": "2026-06-13T12:27:00Z",
+      "category": "Military"
     },
     {
-      "title": "Secretary of the OAS meets with María Corina Machado and offers support in the Venezuelan transition",
+      "title": "Gabriel Guerra, the cameraman imprisoned for a documentary that never came to light",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/gabriel-guerra-el-camarografo-preso-por-un-documental-que-nunca-salio-a-la-luz/",
+      "published_date": "2026-06-13T12:14:12Z",
+      "category": "Military"
+    },
+    {
+      "title": "Sisters Samantha and Aranza Hernández are reunited after having spent months in detention",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/hermanas-samantha-y-aranza-hernandez-se-reencuentran-luego-de-haber-pasado-meses-detenidas/",
+      "published_date": "2026-06-13T11:45:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Chile describes the death of Niño Guerrero as a “relevant blow”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/chile-califica-de-golpe-relevante-la-muerte-de-nino-guerrero/",
+      "published_date": "2026-06-13T11:30:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "“Niño Guerrero” dies after an operation with specialized technological support together with the US, confirms Miraflores",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/secretario-de-la-oea-se-reune-con-maria-corina-machado-y-ofrece-apoyo-en-la-transicion-venezolana/",
-      "published_date": "2026-06-12T15:43:55Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/miraflores-confirma-muerte-del-nino-guerrero-en-operacion-junto-eeuu/",
+      "published_date": "2026-06-13T10:48:18Z",
+      "category": "Military"
     },
     {
-      "title": "After a historic collapse, Spurs promise battle to stop the Knicks' title",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/tras-un-colapso-historico-spurs-prometen-batalla-para-frenar-el-titulo-de-los-knicks/",
-      "published_date": "2026-06-12T15:33:43Z",
-      "category": "Diplomacy"
+      "title": "The “Niño Guerrero”, criminal leader of the Aragua Train, falls under the shadow of US guardianship",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/nino-guerrero-lider-criminal-tren-de-aragua-cae-bajo-sombra-de-tutela/",
+      "published_date": "2026-06-13T09:06:15Z",
+      "category": "Military"
     },
     {
-      "title": "A man was murdered with a cross key in Aragua",
+      "title": "Trump announces the death of “Niño Guerrero”, leader of the Aragua Train",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/trump-anuncia-muerte-del-nino-guerrero-lider-tren-de-aragua/",
+      "published_date": "2026-06-13T01:55:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump confirms the death of Niño Guerrero, top boss of the Aragua Train",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/un-hombre-fue-asesinado-con-una-llave-de-cruz-en-aragua/",
-      "published_date": "2026-06-12T15:27:53Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/trump-confirma-la-muerte-de-nino-guerrero-maximo-jefe-del-tren-de-aragua/",
+      "published_date": "2026-06-13T01:52:23Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump announces that the United States killed the “Niño Guerrero”, leader of the Aragua Train",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/trump-anuncia-que-estados-unidos-mato-a-alias-nino-guerrero-lider-del-tren-de-aragua/",
+      "published_date": "2026-06-13T01:34:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Colombian government warns of possible riots after second presidential round",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/gobierno-colombiano-alerta-posibles-disturbios-tras-segunda-vuelta-presidencial/",
+      "published_date": "2026-06-13T01:06:24Z",
+      "category": "Military"
     },
     {
       "title": "Paramount receives court approval to acquire Warner Bros.",
@@ -213,74 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Penal Forum reports 389 political prisoners in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/la-ong-foro-penal-cifra-en-389-el-numero-de-presos-politicos-en-venezuela/",
-      "published_date": "2026-06-12T18:55:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Casla Institute calls to preserve detention centers linked to torture for investigations",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611135/instituto-casla-llama-a-preservar-centros-de-reclusion-vinculados-a-torturas-para-investigaciones/",
-      "published_date": "2026-06-12T16:33:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Important US espionage program expires this Friday in the middle of the World Cup",
+      "title": "Venezuela and the United States evaluate the bilateral energy agenda",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/importante-programa-de-espionaje-de-ee-uu-expira-este-viernes-en-pleno-mundial/",
-      "published_date": "2026-06-12T16:21:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "The US maintains a travel alert to Venezuela despite air and commercial unblocking",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ee-uu-mantiene-alerta-de-viaje-a-venezuela-pese-al-desbloqueo-aereo-y-comercial/",
-      "published_date": "2026-06-12T16:06:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Larry Devoe: we got a person imprisoned for 7 years and without being presented in court",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/larry-devoe-conseguimos-a-una-persona-presa-desde-hace-7-anos-y-sin-ser-presentada-en-tribunales/",
-      "published_date": "2026-06-12T15:31:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Zapatero is being investigated for tax crimes and smuggling for the jewelry found in his office",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/investigan-a-zapatero-por-delito-fiscal-y-contrabando-por-las-joyas-halladas-en-su-oficina/",
-      "published_date": "2026-06-12T15:02:15Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nigeria killed more than 13,000 terrorists in 2025",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/nigeria-mato-a-mas-de-13-000-terroristas-en-2025/",
-      "published_date": "2026-06-12T14:47:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Will High Commissioner Volker Türk's office have a permanent presence in Venezuela?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-oficina-del-alto-comisionado-volker-turk-tendra-presencia-permanente-en-venezuela/",
-      "published_date": "2026-06-12T14:27:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "María Corina Machado applauds the release of political prisoners: “We will not rest until they are all released”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-aplaude-excarcelacion-de-presos-politicos-no-descansaremos-hasta-que-todos-sean-liberados/",
-      "published_date": "2026-06-12T12:42:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Clippve denounces to the European Union the reality of political prisoners in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/clippve-denuncia-ante-la-union-europea-la-realidad-de-los-presos-politicos-en-venezuela/",
-      "published_date": "2026-06-12T12:29:09Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/venezuela-y-estados-unidos-evaluan-la-agenda-energetica-bilateral-en-caracas/",
+      "published_date": "2026-06-13T00:36:34Z",
+      "category": "Energy"
     },
     {
       "title": "Portuguese | \"We remove oil with tubes, but the river continues to drag it\": spill reaches the Santa Rosalía municipality",
@@ -294,6 +301,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/refinerias-estadounidenses-tienen-margen-para-procesar-mayores-volumenes-de-crudo-venezolano/",
       "published_date": "2026-06-12T23:29:10Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Abelardo de la Espriella's campaign seeks a resounding victory to protect the result of the second round in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/campana-de-abelardo-de-la-espriella-busca-una-victoria-contundente-para-blindar-el-resultado-de-la-segunda-vuelta-en-colombia/",
+      "published_date": "2026-06-12T23:15:39Z",
       "category": "Energy"
     },
     {
@@ -409,27 +423,6 @@
       "category": "Energy"
     },
     {
-      "title": "Delcy Rodríguez affirms that she returned to Venezuela with energy and trade agreements after a tour of India and Türkiye",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/delcy-rodriguez-afirma-que-regreso-a-venezuela-con-acuerdos-energeticos-y-comerciales-tras-gira-por-india-y-turquia/",
-      "published_date": "2026-06-11T13:30:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Scientists confirm record pace in global warming and sea level rise",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/confirman-ritmo-record-en-el-calentamiento-global/",
-      "published_date": "2026-06-11T09:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Abelardo de la Espriella's campaign seeks a resounding victory to protect the result of the second round in Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/campana-de-abelardo-de-la-espriella-busca-una-victoria-contundente-para-blindar-el-resultado-de-la-segunda-vuelta-en-colombia/",
-      "published_date": "2026-06-12T23:15:39Z",
-      "category": "Economy"
-    },
-    {
       "title": "Venezuelan government and Trafigura address possible agreements in oil, gold and international trade",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/gobierno-venezolano-y-trafigura-abordan-posibles-acuerdos-en-petroleo-oro-y-comercio-internacional/",
@@ -535,7 +528,7 @@
       "category": "Economy"
     },
     {
-      "title": "Caracas | Informal merchants from La Hoyada and Catia calculate the dollar between 700 and 1,050 bolivars",
+      "title": "Caracas | Informal traders from La Hoyada and Catia calculate the dollar between 700 and 1,050 bolivars",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/economia/caracas-comerciantes-informales-de-la-hoyada-y-catia-calculan-el-dolar-entre-700-y-1-050-bolivares/",
       "published_date": "2026-06-10T19:52:25Z",
@@ -561,6 +554,76 @@
       "url": "https://www.elnacional.com/2026/06/mercantil-banco-reconocido-como-mejor-banco-de-venezuela/",
       "published_date": "2026-06-10T09:28:00Z",
       "category": "Economy"
+    },
+    {
+      "title": "Between inflation, devaluation and dollarization: Venezuelans live their GDP day by day",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/entre-escasez-inflacion-devaluacion-venezolano-vive-pib-dia-a-dia/",
+      "published_date": "2026-06-06T23:41:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Peru processes 100% of the minutes but is waiting to resolve 1,550 observations",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/peru-procesa-100-de-las-actas-pero-queda-a-la-espera-de-resolver-1-550-observaciones/",
+      "published_date": "2026-06-13T12:46:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "England team's boots and balls stolen before arriving in Kansas City",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/robaron-las-botas-y-los-balones-de-la-seleccion-de-inglaterra-antes-de-llegar-a-kansas-city/",
+      "published_date": "2026-06-13T11:48:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“At night it is an anxiety,” says a resident of kilometer 88 of Las Claritas, in Bolívar.",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/de-noche-es-una-zozobra-tuvimos-que-madrugar-para-cuidar-nuestras-cosas-dice-habitante-de-las-claritas/",
+      "published_date": "2026-06-13T11:12:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The trauma of confinement",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/el-trauma-del-encierro/",
+      "published_date": "2026-06-13T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Elections, the antidote against interim doses",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/elecciones-el-antidoto-contra-las-dosis-de-interinato/",
+      "published_date": "2026-06-13T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "AI arrived to expand creativity in the Venezuelan arts",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-ia-llego-para-expandir-la-creatividad-en-las-artes-venezolanas/",
+      "published_date": "2026-06-13T09:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beto Baralt: “I had the unfinished business of making my own music”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/beto-baralt-tenia-la-asignatura-pendiente-de-hacer-mi-propia-musica/",
+      "published_date": "2026-06-13T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "«Niño Guerrero» died in Bolívar: Delcy Rodríguez administration admits that it was in a joint operation with the US.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/nino-guerrero-murio-en-bolivar-administracion-de-delcy-rodriguez-admite-que-fue-en-operacion-conjunta-con-ee-uu/",
+      "published_date": "2026-06-13T04:08:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France 1998: the awakening of \"Les Bleus\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/francia-1998-el-despertar-de-les-bleus/",
+      "published_date": "2026-06-13T01:30:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Germany vs Netherlands: the triumph of order over a Clockwork Orange",
@@ -637,69 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/instagram-y-facebook-restablecen-sus-servicios-tras-registrar-una-caida-a-nivel-mundial/",
       "published_date": "2026-06-12T20:57:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Human Rights NGOs demand transparency in the renewal of TSJ magistrates",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-de-ddhh-exigen-transparencia-en-la-renovacion-de-magistrados-del-tsj/",
-      "published_date": "2026-06-12T20:42:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "César Pérez Vivas returns to Venezuela after 20 months in exile",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/cesar-perez-vivas-regresa-a-venezuela-tras-20-meses-en-el-exilio/",
-      "published_date": "2026-06-12T20:31:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "César Pérez Vivas returns to Venezuela after more than a year in exile",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cesar-perez-vivas-regresa-a-venezuela-tras-mas-de-un-ano-en-el-exilio/",
-      "published_date": "2026-06-12T20:25:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“Football has gone from being a popular festival to becoming a premium product with the US on top of the business”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-futbol-ha-pasado-de-ser-una-fiesta-popular-a-convertirse-en-un-producto-premium-con-ee-uu-encima-del-negocio/",
-      "published_date": "2026-06-12T20:19:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "César Pérez Vivas returns to Venezuela after spending a year in exile",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/cesar-perez-vivas-regresa-a-venezuela-despues-de-pasar-un-ano-en-el-exilio/",
-      "published_date": "2026-06-12T19:42:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keiko Fujimori predicts that the definition of the second round in Peru will take one more week due to a narrow margin of votes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/keiko-fujimori-preve-que-definicion-de-la-segunda-vuelta-en-peru-tardara-una-semana-mas-ante-estrecho-margen-de-votos/",
-      "published_date": "2026-06-12T19:23:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canada denies entry to Ghanaian Thomas Partey, accused of rape, and will not play against Panama",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/canada-niega-entrada-al-ghanes-thomas-partey-acusado-de-violacion-sexual-y-no-jugara-contra-panama/",
-      "published_date": "2026-06-12T19:19:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infantino sparks criticism by joking about Italy's absence from the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/infantino-desata-criticas-al-bromear-sobre-la-ausencia-de-italia-en-el-mundial/",
-      "published_date": "2026-06-12T18:34:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil's first test in the 2026 World Cup: facing the African champion",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-primera-prueba-de-brasil-en-el-mundial-2026-enfrentar-al-campeon-de-africa/",
-      "published_date": "2026-06-12T18:13:43Z",
       "category": "Local Events"
     }
   ]
