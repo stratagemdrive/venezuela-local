@@ -1,7 +1,98 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-18T00:22:34Z",
+  "last_updated": "2026-06-18T14:13:46Z",
   "stories": [
+    {
+      "title": "The Conversation | Former Chilean prosecutor said that Venezuela's silence made investigation into the TDA difficult",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/611700/la-conversa-ex-fiscal-chileno-dijo-que-el-silencio-de-venezuela-dificulto-investigacion-sobre-el-tda/",
+      "published_date": "2026-06-18T13:56:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Goalkeeper Vozinha's mother is getting ready to enter the United States and watch Cape Verde's second game",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/madre-del-arquero-vozinha-se-alista-para-entrar-a-ee-uu-y-ver-el-segundo-juego-de-cabo-verde/",
+      "published_date": "2026-06-18T13:26:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain: dismantled network that sexually exploited Venezuelan women pretending to be the Aragua Train",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/desmantelada-en-espana-red-de-trata-que-explotaba-a-venezolanas-simulando-ser-el-tren-de-aragua/",
+      "published_date": "2026-06-18T11:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Neutro Shorty at the Teresa Carreño plus Camille and Milord at the Municipal this weekend",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/solaz/neutro-shorty-en-el-teresa-carreno-mas-camille-y-milord-en-el-municipal-este-fin-de-semana/",
+      "published_date": "2026-06-18T10:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "What are the key points of the agreement signed by the US and Iran to end the war and reopen the Strait of Hormuz?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/cuales-son-los-puntos-clave-del-acuerdo-firmado-por-ee-uu-e-iran-para-poner-fin-a-la-guerra-y-reabrir-el-estrecho-de-ormuz/",
+      "published_date": "2026-06-18T10:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Wagner Moura in negotiations to join the new Ocean's Eleven movie",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/wagner-moura-en-negociaciones-para-sumarse-a-la-nueva-pelicula-de-oceans-eleven/",
+      "published_date": "2026-06-18T09:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Games for today: where and at what time to watch Mexico's second duel in the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/juegos-para-hoy-donde-y-a-que-hora-ver-el-segundo-duelo-de-mexico-en-el-mundial/",
+      "published_date": "2026-06-18T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They ask the US Embassy to intercede to prevent deaths of relatives of political prisoners",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/piden-a-embajada-de-eeuu-interceder-para-evitar-muertes-de-familiares-de-presos-politicos/",
+      "published_date": "2026-06-18T02:31:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Panama loses to Ghana 1-0 with a goal in the 95th minute",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/ghana-anoto-en-el-ultimo-suspiro-y-vencio-a-panama/",
+      "published_date": "2026-06-18T01:25:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Williams Dávila brought complaints to Washington about the situation of political prisoners and asked to maintain international pressure on Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/williams-davila-llevo-a-washington-denuncias-sobre-situacion-de-los-presos-politicos-y-pidio-mantener-la-presion-internacional-sobre-venezuela/",
+      "published_date": "2026-06-18T01:04:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump signs the understanding agreement with Iran during his visit to Versailles",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/trump-firma-el-acuerdo-de-entendimiento-con-iran-durante-su-vista-a-versalles/",
+      "published_date": "2026-06-18T00:59:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Raúl Castro supports the reforms of the Cuban Communist Party to face the economic crisis",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/raul-castro-respalda-las-reformas-del-partido-comunista-de-cuba-para-encarar-la-crisis-economica/",
+      "published_date": "2026-06-18T00:56:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran confirms entry into force of memorandum signed with the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/iran-confirma-entrada-en-vigor-de-memorando-firmado-con-estados-unidos/",
+      "published_date": "2026-06-18T00:31:47Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tucupita producers row for up to three hours to save their crops due to road abandonment",
       "source": "El Nacional",
@@ -52,95 +143,60 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Keiko Fujimori leads Roberto Sánchez by 37,000 votes at 99.1% of the vote in Peru",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/keiko-fujimori-aventaja-a-roberto-sanchez-por-37-000-votos-al-991-del-escrutinio-en-peru/",
-      "published_date": "2026-06-17T20:13:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The United States releases the full text of the agreement with Iran",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/estados-unidos-difunde-el-texto-completo-del-acuerdo-con-iran/",
-      "published_date": "2026-06-17T19:56:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Workers denounce the Venezuelan State to the UN for low wages",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trabajadores-denuncian-ante-la-onu-al-estado-venezolano-por-bajos-salarios/",
-      "published_date": "2026-06-17T19:28:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump describes the relationship with Venezuela as \"great\" and assures that both countries benefit from oil",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-califica-de-estupenda-la-relacion-con-venezuela-y-asegura-que-ambos-paises-ganan-con-el-petroleo/",
-      "published_date": "2026-06-17T19:25:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kansas City is on alert due to Maikel García's discomfort",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/kansas-city-esta-en-alerta-por-las-molestias-de-maikel-garcia/",
-      "published_date": "2026-06-17T18:35:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Perkins Rocha's shackle, a perimeter of dignity",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/611648/grillete-de-perkins-rocha/",
-      "published_date": "2026-06-17T18:25:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carter and Chourio gave life to Guaiqueríes in the SPB final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/carter-y-chourio-le-dieron-vida-a-guaiqueries-en-la-final-de-la-spb/",
-      "published_date": "2026-06-17T17:41:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andrés Giménez returned in good shape to the Blue Jays lineup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/andres-gimenez-regreso-en-buena-forma-al-lineup-de-los-azulejos/",
-      "published_date": "2026-06-17T16:46:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Andreína Baduel denounces the crisis of political prisoners in Venezuela before the Colombian Congress",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/andreina-baduel-denuncia-ante-el-congreso-de-colombia-la-crisis-de-los-presos-politicos-en-venezuela/",
-      "published_date": "2026-06-17T16:40:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US Embassy in Caracas: short-term increase in electricity generation will support economic recovery",
+      "title": "Cabello on the operation against Niño Guerrero: they are not going to know anything, we are not going to tell them",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/embajada-de-ee-uu-en-caracas-aumento-de-generacion-electrica-a-corto-plazo-apoyara-la-recuperacion-economica/",
-      "published_date": "2026-06-17T16:03:25Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/cabello-sobre-operativo-contra-nino-guerrero-no-van-a-saber-nada-no-se-lo-vamos-a-decir/",
+      "published_date": "2026-06-18T14:10:41Z",
+      "category": "Military"
     },
     {
-      "title": "They arrest a Venezuelan woman linked to the Aragua Train in Colombia",
+      "title": "Real Madrid strengthens its defense with the signing of Frenchman Ibrahima Konaté",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/detienen-en-colombia-a-venezolana-vinculada-al-tren-de-aragua/",
-      "published_date": "2026-06-17T15:30:46Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/real-madrid-blinda-su-defensa-con-la-firma-del-frances-ibrahima-konate/",
+      "published_date": "2026-06-18T13:58:26Z",
+      "category": "Military"
     },
     {
-      "title": "Executives from OpenAI, Meta, Google, Anthropic and eight more join the G7 summit",
+      "title": "Diosdado Cabello breaks the silence and speaks about the Aragua Train after an operation in Bolívar",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/directivos-de-openai-meta-google-anthropic-y-ocho-mas-se-suman-a-la-cumbre-del-g7/",
-      "published_date": "2026-06-17T15:26:30Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/diosdado-cabello-rompe-el-silencio-y-habla-sobre-el-tren-de-aragua-tras-operativo-en-bolivar/",
+      "published_date": "2026-06-18T13:22:00Z",
+      "category": "Military"
     },
     {
-      "title": "Judge changes Maduro's hearing date for the World Cup",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/juez-acepta-cambio-de-fecha-en-audiencia-de-maduro-el-mundial-es-la-principal-causa/",
-      "published_date": "2026-06-17T15:19:39Z",
-      "category": "Diplomacy"
+      "title": "Activists ask the US government to intercede to prevent deaths of relatives of political prisoners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/activistas-piden-al-gobierno-de-ee-uu-interceder-para-evitar-muertes-de-familiares-de-presos-politicos/",
+      "published_date": "2026-06-18T12:30:33Z",
+      "category": "Military"
+    },
+    {
+      "title": "Israel violates the agreement between the US and Iran with an attack in Lebanon",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/israel-vulnera-el-acuerdo-entre-ee-uu-e-iran-con-un-ataque-en-el-libano/",
+      "published_date": "2026-06-18T10:41:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The human turn saves Toy Story 5 from its decline",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-viraje-humano-salva-a-toy-story-5-de-su-declive/",
+      "published_date": "2026-06-18T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Justice, Encounter and Forgiveness denounces the persistence of political prison in Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/611670/justicia-encuentro-y-perdon-denuncia-la-persistencia-de-la-prision-politica-en-venezuela/",
+      "published_date": "2026-06-18T01:21:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Activists denounce opacity about the future of migrants and demand the definitive closure of Alligator Alcatraz in the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/activistas-denuncian-opacidad-sobre-el-futuro-de-los-migrantes-y-exigen-el-cierre-definitivo-de-alligator-alcatraz-en-ee-uu/",
+      "published_date": "2026-06-18T01:14:56Z",
+      "category": "Military"
     },
     {
       "title": "Relatives ask for justice for Colombian fishermen held in El Rodeo: “We fear receiving them dead”",
@@ -227,60 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "The police commander of Las Claritas in Bolívar was found dead from a shot in the head",
+      "title": "Hydration breaks at the World Cup: dead times that fuel the debate between the protagonists",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/hallaron-muerto-de-un-disparo-en-la-cabeza-al-comandante-policial-de-las-claritas-en-bolivar/",
-      "published_date": "2026-06-17T13:18:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Astronaut Christina Koch is awarded the Princess of Asturias of Concord",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/christina-koch-es-galardonada-con-el-princesa-de-asturias/",
-      "published_date": "2026-06-17T11:25:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "One dead and two survivors in new US attack against boat in the Pacific",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/un-muerto-y-dos-sobrevivientes-en-nuevo-ataque-de-ee-uu-contra-lancha-en-el-pacifico/",
-      "published_date": "2026-06-17T10:38:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Grammys will award the Best Latin Song starting in 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/los-grammy-premiaran-la-mejor-cancion-latina-a-partir-de-2027/",
-      "published_date": "2026-06-17T09:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Louvre on the limit: the museum needs an avalanche of investments",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/louvre-al-limite-el-museo-necesita-una-avalancha-de-inversiones/",
-      "published_date": "2026-06-17T09:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Release date for Sean “Diddy” Combs advanced",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-fecha-de-liberacion-de-sean-diddy-combs-se-adelanto/",
-      "published_date": "2026-06-17T09:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Mañanero on June 17: after being released from prison, Samantha Hernández graduates from high school",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/611611/el-mananero-del-17-de-junio-tras-ser-excarcelada-samantha-hernandez-se-gradua-de-bachiller/",
-      "published_date": "2026-06-17T09:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "From “media fiction” to criminal structure: the turn of Chavismo with the Aragua Train",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/de-ficcion-mediatica-a-estructura-criminal-el-giro-del-chavismo-con-el-tren-de-aragua/",
-      "published_date": "2026-06-17T07:00:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/las-pausas-de-hidratacion-en-el-mundial-tiempos-muertos-que-avivan-el-debate-entre-los-protagonistas/",
+      "published_date": "2026-06-18T09:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "England displays its power and defeats Croatia 4-2",
@@ -416,11 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "166,000 km² of reefs have the potential to resist climate change",
+      "title": "The official dollar in Venezuela exceeds the barrier of 600 bolivars",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/el-dolar-oficial-en-venezuela-supera-la-barrera-de-los-600-bolivares/",
+      "published_date": "2026-06-18T13:27:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Zapatero admitted payments from the Venezuelan environment to his daughters but disassociates them from Plus Ultra",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/166-000-km%c2%b2-de-arrecifes-tienen-potencial-para-resistir/",
-      "published_date": "2026-06-16T05:28:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/zapatero-admitio-pagos-del-entorno-venezolano-a-sus-hijas-pero-los-desvincula-de-plus-ultra/",
+      "published_date": "2026-06-18T10:15:00Z",
+      "category": "Economy"
     },
     {
       "title": "BCV dollar breaks the barrier of 600 bolivars",
@@ -549,18 +563,88 @@
       "category": "Economy"
     },
     {
-      "title": "Judge refuses to postpone Rodríguez Zapatero's statement about jewelry found in his safe",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/juez-rechaza-aplazar-declaracion-de-rodriguez-zapatero-sobre-joyas-halladas-en-su-caja-fuerte/",
-      "published_date": "2026-06-16T09:56:00Z",
-      "category": "Economy"
+      "title": "Diosdado Cabello says that the Aragua Train had already been “kicked out” of Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/diosdado-cabello-dice-que-el-tren-de-aragua-ya-habia-sido-echado-de-venezuela/",
+      "published_date": "2026-06-18T14:01:19Z",
+      "category": "Local Events"
     },
     {
-      "title": "The World Cup cards: a paper fever that lasts in a world of digital information",
+      "title": "The Pope will travel to Peru the first half of November",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/las-barajitas-del-mundial-una-fiebre-de-papel-que-perdura-en-un-mundo-de-informacion-digital/",
-      "published_date": "2026-06-16T09:00:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/el-papa-viajara-a-peru-la-primera-quincena-de-noviembre/",
+      "published_date": "2026-06-18T13:40:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keys | What Rodríguez Zapatero's statement left in the Plus Ultra case",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/611696/claves-lo-que-dejo-la-declaracion-de-rodriguez-zapatero-por-el-caso-plus-ultra/",
+      "published_date": "2026-06-18T13:35:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Red card to femicides in Latin America",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/611688/tarjeta-roja-a-los-feminicidios-en-america-latina/",
+      "published_date": "2026-06-18T13:09:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las Claritas and Kilómetro 88, between fear and opacity after the death of Niño Guerrero",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/las-claritas-y-kilometro-88-entre-el-miedo-y-la-opacidad-tras-la-muerte-de-nino-guerrero/",
+      "published_date": "2026-06-18T12:55:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ideal 11 of the first date: the figures who shone at the start of the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-11-de-la-primera-fecha-las-figuras-que-brillaron-en-la-jornada-inicial-del-mundial/",
+      "published_date": "2026-06-18T12:54:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why I wrote out loud",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/opinion/por-que-escribi-en-voz-alta/",
+      "published_date": "2026-06-18T12:16:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Daveigh Chase, voice of Lilo in Lilo and Stitch, has died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/murio-daveigh-chase-voz-de-lilo-en-lilo-y-stitch/",
+      "published_date": "2026-06-18T09:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of June 18: Mother of the victim of the El Junquito massacre spoke before the Inter-American Court",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/611680/el-mananero-del-18-de-junio-madre-de-victima-de-la-masacre-de-el-junquito-hablo-ante-la-corte-idh/",
+      "published_date": "2026-06-18T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia made its big debut with a 3-1 victory over Uzbekistan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/colombia-debuto-el-grande-con-victoria-sobre-uzbekistan-3-1/",
+      "published_date": "2026-06-18T04:23:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi, the man who breaks records in the World Cups",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/lionel-messi-el-hombre-record-en-mundiales/",
+      "published_date": "2026-06-18T01:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia will close its borders this weekend for the elections",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-andes/colombia-cerrara-sus-fronteras-el-fin-de-semana-por-las-elecciones/",
+      "published_date": "2026-06-18T00:33:32Z",
+      "category": "Local Events"
     },
     {
       "title": "'W' is born, the new 100% European social network that launches in the testing phase to compete with X",
@@ -616,90 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/colombia-cerrara-temporalmente-frontera-con-venezuela-por-segunda-vuelta-electoral/",
       "published_date": "2026-06-17T21:16:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Intoxications in schools continue to add cases: Apure registers a new episode",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/intoxicaciones-en-escuelas-siguen-sumando-casos-apure-registra-un-nuevo-episodio/",
-      "published_date": "2026-06-17T21:16:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula asks Donald Trump not to meddle in Brazil's presidential elections",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/lula-pide-a-donald-trump-que-no-se-entrometa-en-las-elecciones-presidenciales-de-brasil/",
-      "published_date": "2026-06-17T21:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How to register in the Opsu? Step-by-step guide to enter the system",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/como-registrarte-opsu-guia-paso-a-paso-para-igrear-al-sistema/",
-      "published_date": "2026-06-17T20:50:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Family Basket exceeds $785 in May 2026, according to Cendas-FVM",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/canasta-familiar-supera-los-785-en-mayo-de-2026-segun-cendas-fvm/",
-      "published_date": "2026-06-17T20:04:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Red 600K: the audiovisual about July 28 that will compete at Cannes Lions",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/red-600k-el-audiovisual-sobre-el-28-de-julio-que-competira-en-cannes-lions/",
-      "published_date": "2026-06-17T19:49:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia College of Engineers supports agreement with GE Vernova to recover the electrical system",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/colegio-de-ingenieros-del-zulia-respalda-acuerdo-con-ge-vernova-para-recuperar-el-sistema-electrico/",
-      "published_date": "2026-06-17T19:43:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICE deports a Venezuelan woman along with her American daughter after detaining her in Florida",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/ice-deporta-a-venezolana-junto-a-su-hija-estadounidense-tras-detenerla-en-florida/",
-      "published_date": "2026-06-17T19:42:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They denounce the State before the UN for “systematic violation of decent wages”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/denuncian-al-estado-ante-la-onu-por-violacion-sistematica-a-los-sueldos-dignos/",
-      "published_date": "2026-06-17T19:32:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "DR Congo surprises and makes history with its first point by tying with Portugal",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/rd-congo-sorprende-y-hace-historia-con-su-primer-punto-al-empatar-con-portugal/",
-      "published_date": "2026-06-17T19:13:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fedenaga calls for effective and stronger penalties against livestock theft",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/fedenaga-pide-penas-efectivas-y-mas-fuertes-contra-el-hurto-de-ganado/",
-      "published_date": "2026-06-17T18:53:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Audience records are recorded at the 2026 World Cup and FIFA celebrates: \"It is not reduced to numbers\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/se-registran-records-de-audiencia-en-el-mundial-2026-y-fifa-celebra-no-se-reduce-a-numeros/",
-      "published_date": "2026-06-17T18:32:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They detained a Venezuelan during an appointment with ICE in the US and deported her along with her daughter",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/detuvieron-a-venezolana-durante-cita-con-el-ice-en-ee-uu-y-la-deportaron-junto-con-su-hija/",
-      "published_date": "2026-06-17T18:00:10Z",
       "category": "Local Events"
     }
   ]
