@@ -1,7 +1,112 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-21T13:11:24Z",
+  "last_updated": "2026-06-22T00:20:12Z",
   "stories": [
+    {
+      "title": "Cepeda recognizes preliminary election results but says they will challenge 33,000 tables",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/cepeda-reconoce-resultado-preliminar-de-elecciones-pero-dice-que-impugnaran-33-000-mesas/",
+      "published_date": "2026-06-22T00:15:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The OAS highlights an electoral day without incidents or formal complaints in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-oea-destaca-una-jornada-electoral-sin-incidentes-ni-denuncias-formales-en-colombia/",
+      "published_date": "2026-06-21T21:42:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran draws with Belgium and complicates Group G",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/iran-empata-con-belgica-y-complica-el-grupo-g/",
+      "published_date": "2026-06-21T21:29:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They rescued two 16-year-old teenagers from a human trafficking network in Anzoátegui",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/rescataron-a-dos-adolescentes-de-16-anos-de-una-red-de-trata-de-personas-en-anzoategui/",
+      "published_date": "2026-06-21T20:58:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andrés Velásquez calls for a national protest on July 3: \"Venezuela has to fight for a direction\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/andres-velasquez-convoca-a-protesta-nacional-el-proximo-3-de-julio-venezuela-tiene-que-pelear-por-una-direccion/",
+      "published_date": "2026-06-21T20:25:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ramiro Valdés, one of the main leaders of the Cuban regime, died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/murio-ramiro-valdes-uno-de-los-principales-lideres-del-regimen-cubano/",
+      "published_date": "2026-06-21T19:14:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ramiro Valdés, historical commander and architect of the Cuban repressive apparatus, has died",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/fallecio-ramiro-valdes-comandante-historico-y-artifice-del-aparato-represor-cubano/",
+      "published_date": "2026-06-21T18:56:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran interrupted negotiations with the US after new threats from Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/iran-interrumpio-negociaciones-con-estados-unidos-tras-nuevas-amenazas-de-trump/",
+      "published_date": "2026-06-21T18:54:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OAS willing to support new elections in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/oea-dispuesta-a-apoyar-nuevas-elecciones-en-venezuela/",
+      "published_date": "2026-06-21T18:43:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain recovers the goal against Saudi Arabia and is on track to qualify for the next round",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/espana-recupera-el-gol-ante-arabia-saudita-y-se-encarrila-para-clasificar-a-la-siguiente-ronda/",
+      "published_date": "2026-06-21T18:12:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France seeks its place in the next round against Iraq this Monday",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/francia-busca-este-lunes-ante-irak-su-pase-a-la-siguiente-ronda/",
+      "published_date": "2026-06-21T18:07:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tourists from a burned hotel in the Dominican Republic return to their countries",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/turistas-de-hotel-incendiado-en-republica-dominicana-regresan-a-sus-paises/",
+      "published_date": "2026-06-21T18:03:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The last bastion of the 19th century in Los Teques: La Casa de las Carretas resists oblivion",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-ultimo-bastion-del-siglo-xix-en-los-teques-la-casa-de-las-carretas-resiste-al-olvido/",
+      "published_date": "2026-06-21T15:52:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Norway and Senegal go for a key duel",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/noruega-y-senegal-van-por-un-duelo-clave/",
+      "published_date": "2026-06-21T14:35:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Kings of the Netherlands join the Curaçao party in the locker room to celebrate the draw with Ecuador",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/reyes-de-paises-bajos-se-suman-a-la-fiesta-de-curazao-en-el-vestuario-para-celebrar-el-empate-con-ecuador/",
+      "published_date": "2026-06-21T14:08:55Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Iran and the US return to Switzerland to agree to end the war in the Middle East",
       "source": "El Nacional",
@@ -38,109 +143,46 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Arquero Room dressed as a hero by stopping Ecuador and Curacao added its first point",
+      "title": "How Colombia's growing and brutal internal conflict defines its presidential elections",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/arquero-room-se-vistio-de-heroe-al-frenar-a-ecuador-y-curazao-sumo-su-primer-punto/",
-      "published_date": "2026-06-21T02:21:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/como-el-creciente-y-brutal-conflicto-interno-de-colombia-define-sus-elecciones-presidenciales/",
+      "published_date": "2026-06-21T19:13:00Z",
+      "category": "Military"
     },
     {
-      "title": "Meloni and Trump, story of a disagreement",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/meloni-trump-historia-de-un-desencuentro/",
-      "published_date": "2026-06-21T01:33:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Negotiations between Iran and the US begin this Sunday in Switzerland",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/negociaciones-entre-iran-y-estados-unidos-inician-este-domingo-en-suiza/",
-      "published_date": "2026-06-21T00:35:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A Spanish judge sends Pedro Sánchez's wife to trial and takes away her passport",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/un-juez-espanol-envia-a-juicio-a-la-esposa-de-pedro-sanchez-y-le-retira-el-pasaporte/",
-      "published_date": "2026-06-21T00:06:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tigres de Aragua announced Miguel Pérez as their new manager",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/tigres-de-aragua-anuncio-a-miguel-perez-como-su-nuevo-manager/",
-      "published_date": "2026-06-20T23:47:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OVP recorded 26 deaths in custody in Venezuelan prisons between April and June",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ovp-registro-26-muertes-en-centros-penitenciarios-de-venezuela-entre-abril-y-junio/",
-      "published_date": "2026-06-20T23:33:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Undav rescues Germany to come back against Ivory Coast 2-1 and advance to the next round",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/undav-rescata-a-alemania-para-remontar-contra-costa-de-marfil-2-1-y-pasar-a-la-proxima-ronda/",
-      "published_date": "2026-06-20T22:27:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Brazil confirms that Raphinha is injured and will undergo \"intensive treatment\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/brasil-confirma-que-raphinha-esta-lesionado-y-seguira-un-tratamiento-intensivo/",
-      "published_date": "2026-06-20T21:46:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meloni responds to Trump again: \"My popularity is not your business, I suggest you focus on yours\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/meloni-vuelve-a-responderle-a-trump-mi-popularidad-no-es-asunto-tuyo-sugiero-te-centres-en-la-tuya/",
-      "published_date": "2026-06-20T21:21:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Superlano submits documents related to the investigation into Alex Saab before the US Embassy in Caracas",
+      "title": "Brigadier General Jackson Gutiérrez is released from prison after being imprisoned for more than a year",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/superlano-consigna-documentos-relacionados-a-investigacion-sobre-alex-saab-ante-la-embajada-de-ee-uu-en-caracas/",
-      "published_date": "2026-06-20T21:11:38Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/excarcelan-al-general-de-brigada-jackson-gutierrez-luego-de-estar-mas-de-un-ano-preso/",
+      "published_date": "2026-06-21T18:57:47Z",
+      "category": "Military"
     },
     {
-      "title": "Gaby Arellano presented security challenges and legal frameworks in relations between Colombia and Venezuela",
+      "title": "Brigadier General Jackson Gutiérrez was released from prison: he had been detained since July 2024",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/gaby-arellano-expuso-retos-de-seguridad-y-marcos-juridicos-en-las-relaciones-entre-colombia-y-venezuela/",
-      "published_date": "2026-06-20T20:43:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/excarcelaron-al-general-de-brigada-jackson-gutierrez-estuvo-detenido-desde-julio-de-2024/",
+      "published_date": "2026-06-21T17:49:46Z",
+      "category": "Military"
     },
     {
-      "title": "Antonio Ecarri supports dialogue promoted by the US to advance towards a transition in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/antonio-ecarri-respalda-dialogo-impulsado-por-ee-uu-para-avanzar-hacia-una-transicion-en-venezuela/",
-      "published_date": "2026-06-20T19:45:39Z",
-      "category": "Diplomacy"
+      "title": "Aruba extends the ban on flights with Venezuela until July 31",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/aruba-extiende-la-prohibicion-de-vuelos-con-venezuela-hasta-el-31-de-julio/",
+      "published_date": "2026-06-21T17:48:41Z",
+      "category": "Military"
     },
     {
-      "title": "Cuba loses ground as an international tourist destination, who gains from this change?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cuba-pierde-terreno-como-destino-turistico-internacional-quien-gana-con-este-cambio/",
-      "published_date": "2026-06-20T18:54:00Z",
-      "category": "Diplomacy"
+      "title": "On Father's Day they remember families who resist forced separation",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/611962/en-el-dia-del-padre-recuerdan-a-las-familias-que-resisten-la-separacion-forzada/",
+      "published_date": "2026-06-21T16:14:42Z",
+      "category": "Military"
     },
     {
-      "title": "Trump attacked Meloni again and ruled out restoring the bilateral relationship",
+      "title": "James Burrows, the renowned director behind famous and successful series like \"Friends,\" died",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-arremetio-otra-vez-contra-meloni-y-descarto-restaurar-la-relacion-bilateral/",
-      "published_date": "2026-06-20T17:53:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "West Ham exercises the purchase option on the Vinotinto footballer Keiber Lamadrid",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/west-ham-ejerce-la-opcion-de-compra-sobre-el-futbolista-de-la-vinotinto-keiber-lamadrid/",
-      "published_date": "2026-06-20T17:02:18Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/murio-james-burrows-el-reconocido-director-detras-de-famosas-y-exitosas-series-como-friends/",
+      "published_date": "2026-06-21T15:30:47Z",
+      "category": "Military"
     },
     {
       "title": "Williams Dávila: \"I was saved from being another number on the list of deaths in custody\"",
@@ -241,46 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Captain Carlos Piña is released from prison after more than 4 years of political prison",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611891/excarcelan-al-capitan-carlos-pina-tras-mas-de-4-anos-de-prision-politica/",
-      "published_date": "2026-06-20T12:10:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Autismo en Voz Alta opens admissions process for its comprehensive education program 2026-2027",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/611864/autismo-en-voz-alta-abre-proceso-de-admisiones-para-su-programa-de-educacion-integral-2026-2027/",
-      "published_date": "2026-06-20T02:53:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Minister of Defense of Venezuela ratifies that national sovereignty \"is not negotiable\"",
+      "title": "Petro voted for the last time as president of Colombia and asserted that he will hand over power without problems",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-ministro-de-defensa-de-venezuela-ratifica-que-la-soberania-nacional-no-es-negociable/",
-      "published_date": "2026-06-20T00:44:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "They denounce that indigenous peoples are trapped between the AM and the operation against “Niño Guerrero”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/611868/denuncian-que-pueblos-indigenas-estan-atrapados-entre-el-am-y-la-operacion-contra-nino-guerrero/",
-      "published_date": "2026-06-19T23:46:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump unveils new Air Force One: a luxury Boeing in the colors of the national flag",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-desvela-el-nuevo-air-force-one-un-boeing-de-lujo-con-los-colores-de-la-bandera-nacional/",
-      "published_date": "2026-06-19T23:45:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Frigate captain Carlos Piña is released: he has been imprisoned since 2022",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/excarcelan-al-capitan-de-fragata-carlos-pina-estaba-preso-desde-2022/",
-      "published_date": "2026-06-19T22:57:55Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/petro-voto-por-ultima-vez-como-presidente-de-colombia-y-asevero-que-entregara-el-poder-sin-problemas/",
+      "published_date": "2026-06-21T14:11:32Z",
+      "category": "Energy"
     },
     {
       "title": "Cine Rialto was sold for $460,000 to El Castillo",
@@ -416,11 +423,53 @@
       "category": "Energy"
     },
     {
-      "title": "Repsol and Venezuela sign agreement to explore new oil area south of Lake Maracaibo",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611570/repsol-y-venezuela-firman-acuerdo-para-explorar-nueva-zona-petrolera-al-sur-del-lago-de-maracaibo/",
-      "published_date": "2026-06-16T23:08:17Z",
-      "category": "Energy"
+      "title": "Asdrúbal Oliveros: \"Sustainable exchange stability does not depend only on more dollars, but on greater trust and clear rules\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/asdrubal-oliveros-estabilidad-cambiaria-sostenible-no-depende-solo-de-mas-dolares-sino-de-mayor-confianza-y-reglas-claras/",
+      "published_date": "2026-06-21T23:29:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Petro denounces alleged irregularities in the Colombian elections: \"It is still not possible to know who the president is\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/petro-denuncia-presuntas-irregularidades-en-las-elecciones-de-colombia/",
+      "published_date": "2026-06-21T23:03:58Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Petro denounces “many irregularities” in elections that De la Espriella wins",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/petro-denuncia-muchas-irregularidades-en-elecciones-que-gana-de-la-espriella/",
+      "published_date": "2026-06-21T23:01:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Abelardo De la Espriella wins the Presidency of Colombia in close elections",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/abelardo-de-la-espriella-gana-la-presidencia-de-colombia-en-renidas-elecciones/",
+      "published_date": "2026-06-21T22:25:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Venezuela will receive 35 billion dollars for oil in 2026, but the destination of the funds remains in the shadows",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/venezuela-recibira-35-000-millones-de-dolares-por-petroleo-en-2026-pero-el-destino-de-los-fondos-sigue-bajo-la-sombra/",
+      "published_date": "2026-06-21T16:46:21Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Petro guarantees transfer of command and says he leaves a more democratic Colombia",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/petro-garantiza-transmision-de-mando-y-dice-que-deja-una-colombia-mas-democratica/",
+      "published_date": "2026-06-21T15:17:15Z",
+      "category": "Economy"
+    },
+    {
+      "title": "From Espriella or Cepeda? Colombia decides today on Gustavo Petro's successor",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/de-la-espriella-o-cepeda-colombia-decide-hoy-el-sucesor-de-gustavo-petro/",
+      "published_date": "2026-06-21T14:33:59Z",
+      "category": "Economy"
     },
     {
       "title": "Delcy Rodríguez says that the best way to stimulate savings is the communal economy",
@@ -514,192 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Force actions in Bolívar mines raise expectations of private companies",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/acciones-de-fuerza-en-minas-de-bolivar-elevan-expectativas-de-empresas-privadas/",
-      "published_date": "2026-06-18T21:27:33Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Cemetery | Authorities inspect businesses after complaints of charging more than 1,000 bolivars in dollars",
+      "title": "Argentina | Woman and her mother with Alzheimer's star in emotional moment when singing happy birthday",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/el-cementerio-autoridades-fiscalizan-comercios-luego-de-denuncias-por-cobro-del-dolar-a-mas-1-000-bolivares/",
-      "published_date": "2026-06-18T18:26:44Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/?p=505124",
+      "published_date": "2026-06-22T00:19:10Z",
+      "category": "Local Events"
     },
     {
-      "title": "The bolivar loses half its value against the dollar so far this year",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-bolivar-ha-perdido-la-mitad-de-su-valor-frente-al-dolar/",
-      "published_date": "2026-06-18T17:32:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The official dollar in Venezuela exceeds the barrier of 600 bolivars",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/el-dolar-oficial-en-venezuela-supera-la-barrera-de-los-600-bolivares/",
-      "published_date": "2026-06-18T13:27:04Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Zapatero admitted payments from the Venezuelan environment to his daughters, but disassociates them from Plus Ultra",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/zapatero-admitio-pagos-del-entorno-venezolano-a-sus-hijas-pero-los-desvincula-de-plus-ultra/",
-      "published_date": "2026-06-18T10:15:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bad Bunny is the first Latino to raise 1 billion dollars on tours",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/bad-bunny-es-el-primer-latino-en-recaudar-1-millardo-de-dolares-en-giras/",
-      "published_date": "2026-06-18T09:08:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "BCV dollar breaks the barrier of 600 bolivars",
+      "title": "Colombians in Mérida vote in the second presidential round",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/dolar-del-bcv-rompe-la-barrera-de-los-600-bolivares/",
-      "published_date": "2026-06-17T22:57:53Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/?p=505402",
+      "published_date": "2026-06-22T00:19:03Z",
+      "category": "Local Events"
     },
     {
-      "title": "Colombians in Madrid went to the polls to elect their new president in the second round",
+      "title": "Colombians in Mérida vote in the second presidential round",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-andes/colombianos-en-merida-votan-en-la-segunda-vuelta-presidencial/",
+      "published_date": "2026-06-22T00:02:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Followers of Abelardo de la Espriella celebrate in Colombia after knowing the presidential results",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/colombianos-en-madrid-acudieron-a-las-urnas-para-elegir-a-su-nuevo-presidente-en-segunda-vuelta/",
-      "published_date": "2026-06-21T12:21:23Z",
+      "url": "https://www.elnacional.com/2026/06/seguidores-de-abelardo-de-la-espriella-celebran-en-colombia-tras-conocerse-los-resultados-presidenciales/",
+      "published_date": "2026-06-22T00:02:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Japan beat Tunisia 4-0 and heads to the round of 32",
+      "title": "Abelardo De la Espriella wins presidential elections in Colombia",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/abelardo-de-la-espriella-gana-elecciones-presidenciales-en-colombia/",
+      "published_date": "2026-06-21T23:23:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Serena Williams will compete in Wimbledon in singles, at 44 years old",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/japon-paso-la-aplanadora-sobre-tunez-4-0-y-se-encamina-a-los-dieciseisavos/",
-      "published_date": "2026-06-21T12:03:24Z",
+      "url": "https://www.elnacional.com/2026/06/serena-williams-disputara-wimbledon-en-individual-a-los-44-anos/",
+      "published_date": "2026-06-21T22:30:08Z",
       "category": "Local Events"
     },
     {
-      "title": "\"I don't want Colombia to be a second Venezuela”: Colombians vote in Caracas during the second presidential round",
+      "title": "Abelardo de la Espriella won the Colombian presidential elections",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/no-quiero-que-colombia-sea-una-segunda-venezuela-colombianos-votan-en-caracas-durante-segunda-vuelta-presidencial/",
-      "published_date": "2026-06-21T11:29:24Z",
+      "url": "https://www.elnacional.com/2026/06/abelardo-de-la-espriella-es-el-nuevo-presidente-de-colombia/",
+      "published_date": "2026-06-21T22:27:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Environment analysis: Continuity in decline, transition in rise",
+      "title": "Ucab offers scholarships to migrants returning to the country: know the requirements",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/ucab-ofrece-becas-a-migrantes-que-regresen-al-pais-conoce-los-requisitos/",
+      "published_date": "2026-06-21T22:04:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The fall of AI in the European Parliament leaves a lesson for founders: how to build products that users can trust",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/analisis-de-entorno-continuidad-en-caida-transicion-en-ascenso/",
-      "published_date": "2026-06-21T10:20:00Z",
+      "url": "https://www.elnacional.com/2026/06/la-caida-de-la-ia-en-el-parlamento-europeo-deja-una-leccion-para-los-fundadores-como-construir-productos-en-los-que-los-usuarios-puedan-confiar/",
+      "published_date": "2026-06-21T22:00:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Electoral amnesty: exceptional solution for a complex crisis",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/opinion/amnistia-electoral-solucion-excepcional-crisis-compleja/",
-      "published_date": "2026-06-21T10:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Director of the Auschwitz-Birkenau Museum: “We cannot leave history in the hands of people who only want to ensure electoral scores”",
+      "title": "John Barrett after his visit to El Sistema: \"I was impressed\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/entrevista-al-director-del-museo-de-auschwitz-birkenau/",
-      "published_date": "2026-06-21T09:00:00Z",
+      "url": "https://www.elnacional.com/2026/06/john-barrett-tras-su-visita-a-el-sistema-quede-impresionado/",
+      "published_date": "2026-06-21T21:59:16Z",
       "category": "Local Events"
     },
     {
-      "title": "How to make democracy viral in these times?",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/opinion/como-viralizar-la-democracia-en-estos-tiempos/",
-      "published_date": "2026-06-21T07:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Who are the candidates for TSJ magistrates?",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/quienes-son-los-aspirantes-a-magistrados-del-tsj/",
-      "published_date": "2026-06-21T06:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Companies in the crosshairs of privatization: experts demand transparency in the process",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/empresas-estado-mira-privatizacion-expertos-transparencia-proceso/",
-      "published_date": "2026-06-21T06:45:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Can Cabello hinder direct negotiation?",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/interinato-eeuu-negociacion-machado-obstaculizar-cabello/",
-      "published_date": "2026-06-21T06:15:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cedice proposes a law to restore expropriated assets and compensate their owners",
+      "title": "Live: minute by minute of the electoral results in Colombia",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cedice-plantea-una-ley-para-restituir-bienes-expropiados-y-compensar-a-sus-propietarios/",
-      "published_date": "2026-06-21T00:54:48Z",
+      "url": "https://www.elnacional.com/2026/06/en-vivo-minuto-a-minuto-de-los-resultados-electorales-en-colombia/",
+      "published_date": "2026-06-21T21:34:59Z",
       "category": "Local Events"
     },
     {
-      "title": "EGU calls for judicial independence in the midst of the process for the election of magistrates",
+      "title": "Colombians in Venezuela vote with the hope that binational relations will improve",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/egu-llama-a-la-independencia-judicial-en-medio-de-proceso-para-eleccion-de-magistrados/",
-      "published_date": "2026-06-21T00:38:38Z",
+      "url": "https://efectococuyo.com/internacionales/colombianos-en-venezuela-votan-con-la-esperanza-de-que-mejoren-las-relaciones-binacionales/",
+      "published_date": "2026-06-21T20:51:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Inmate in La Crisálida dies due to lack of medical care: There are already 26 deaths in custody in three months",
+      "title": "Elections in Colombia | Authorities return people who try to cross paths to vote",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/elecciones-en-colombia-autoridades-regresan-a-personas-que-intentan-pasar-por-trochas-para-votar/",
+      "published_date": "2026-06-21T20:30:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "CEV sends message for Father's Day: urges to look at your role \"with the eyes of faith\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/cev-envia-mensaje-por-el-dia-del-padre-insta-a-mirar-su-rol-con-los-ojos-de-la-fe/",
+      "published_date": "2026-06-21T20:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombians mocked the closure of the border with Venezuela to vote in the presidential elections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/colombianos-burlaron-el-cierre-de-la-frontera-con-venezuela-para-ir-a-votar-en-las-elecciones-presidenciales/",
+      "published_date": "2026-06-21T19:51:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Father's Day behind bars: NGOs and relatives demand the release of political prisoners in Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/dia-del-padre-tras-las-rejas-ong-y-familiares-exigen-liberar-a-los-presos-politicos-en-venezuela/",
+      "published_date": "2026-06-21T18:28:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Machado urged Colombia to vote “with full conscience” in polarized presidential elections",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/611945/muere-reclusa-en-la-crisalida-por-falta-de-atencion-medica-sube-a-26-los-fallecidos-bajo-custodia-en-tres-meses/",
-      "published_date": "2026-06-21T00:17:56Z",
+      "url": "https://runrun.es/noticias/611975/machado-insto-a-colombia-a-votar-con-plena-consciencia/",
+      "published_date": "2026-06-21T18:25:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Week: this is how the duel between Abelardo de la Espriella and Iván Cepeda is shaping up in the second round in Colombia",
+      "title": "The superstition of Luis de la Fuente that makes him always wear the Spanish flag on his sneakers",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/semana-asi-se-perfila-el-duelo-entre-abelardo-de-la-espriella-e-ivan-cepeda-en-la-segunda-vuelta-en-colombia/",
-      "published_date": "2026-06-20T22:58:43Z",
+      "url": "https://www.elnacional.com/2026/06/la-supersticion-de-luis-de-la-fuente-que-le-hace-llevar-siempre-la-bandera-de-espana-en-las-zapatillas/",
+      "published_date": "2026-06-21T18:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "The first woman dies in La Crisálida prison due to lack of medical care",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/presos/muere-la-primera-mujer-en-carcel-la-crisalida-por-falta-de-atencion-medica/",
-      "published_date": "2026-06-20T21:39:14Z",
+      "title": "Machado calls on Colombia to vote with “full conscience” and leaves Dinorah Figuera's role",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/machado-llama-a-colombia-a-votar-con-plena-consciencia-y-hace-mutis-sobre-papel-de-dinorah-figuera/",
+      "published_date": "2026-06-21T17:19:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Netherlands scored goal number 100 of the 2026 World Cup",
+      "title": "Keiko Fujimori already feels like a winner in Peru: \"Now we can say yes it was possible!\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/paises-bajos-firmo-el-gol-numero-100-de-la-copa-del-mundo-2026/",
-      "published_date": "2026-06-20T21:03:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump proposed changing the name of ICE: he suggested replacing it with NICE, \"kind\" in English",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-propuso-cambiar-el-nombre-de-ice-sugirio-sustituirlo-por-nice-amable-en-ingles/",
-      "published_date": "2026-06-20T20:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edmundo González calls to rebuild the Venezuelan justice system",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/edmundo-gonzalez-llama-a-reconstruir-el-sistema-de-justicia-venezolano/",
-      "published_date": "2026-06-20T20:03:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netherlands thrashes Sweden with authority and secures its place in the next round",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/paises-bajos-golea-con-autoridad-a-suecia-y-asegura-su-pase-a-la-proxima-ronda/",
-      "published_date": "2026-06-20T19:28:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Banks enable financing program for transporters: How to apply for a loan?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/bancos-habilitan-programa-de-financiamiento-para-transportistas-como-solicitar-un-credito/",
-      "published_date": "2026-06-20T19:14:06Z",
+      "url": "https://www.elnacional.com/2026/06/keiko-fujimori-ya-se-siente-ganadora-en-peru-ahora-podemos-decir-si-se-pudo/",
+      "published_date": "2026-06-21T17:10:59Z",
       "category": "Local Events"
     }
   ]
