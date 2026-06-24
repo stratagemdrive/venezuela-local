@@ -1,7 +1,77 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-24T00:05:36Z",
+  "last_updated": "2026-06-24T13:25:39Z",
   "stories": [
+    {
+      "title": "Trump threatens to end negotiations if Iran charges Strait of Hormuz tolls",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/trump-amenaza-con-terminar-las-negociaciones-si-iran-cobra-peajes-en-el-estrecho-de-ormuz/",
+      "published_date": "2026-06-24T13:13:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Helsinge case: impunity for institutional exhaustion",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/caso-helsinge-pdvsa-impunidad-judicial-evidencia/",
+      "published_date": "2026-06-24T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "General Secretariat of the OAS asks to rescue democracy in Cuba, Nicaragua and Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/612259/secretaria-general-de-la-oea-pide-rescatar-la-democracia-en-cuba-nicaragua-y-venezuela/",
+      "published_date": "2026-06-24T03:25:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alex Saab asks for “taima”: they postpone his hearing for July 24",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/612267/alex-saab-pide-taima-difieren-su-audiencia-para-el-24-de-julio/",
+      "published_date": "2026-06-24T01:22:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Better a known democracy than a good one to know",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/612245/tipos-de-democracia/",
+      "published_date": "2026-06-24T01:16:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Deschamps returns to France and will not coach the match against Norway",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/deschamps-regresa-a-francia-y-no-dirigira-el-partido-contra-noruega/",
+      "published_date": "2026-06-24T01:14:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Judge prohibits ICE agents from making arrests in immigration courts",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/un-juez-prohibe-a-los-agentes-de-ice-realizar-arrestos-en-los-tribunales-de-inmigracion/",
+      "published_date": "2026-06-24T00:45:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OAS expresses concern for democracy in Cuba, Nicaragua and Venezuela and demands the release of political prisoners",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/oea-expresa-preocupacion-por-la-democracia-en-cuba-nicaragua-y-venezuela-y-exige-liberar-presos-politicos/",
+      "published_date": "2026-06-24T00:30:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Táchira | Two teenagers disappear after leaving classes at a Rubio high school",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-andes/tachira-dos-adolescentes-desaparecen-tras-salir-de-clases-en-un-liceo-de-rubio/",
+      "published_date": "2026-06-24T00:29:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "OAS urges to restore democracy in Cuba, Nicaragua and Venezuela and demands the release of political prisoners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/oea-insta-a-restaurar-la-democracia-en-cuba-nicaragua-y-venezuela-y-exige-liberacion-de-presos-politicos/",
+      "published_date": "2026-06-24T00:12:35Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Historic setback for Trump: US Senate approves resolution to end the war against Iran",
       "source": "El Nacional",
@@ -73,74 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "“It has been the right path”: The pearl that Delcy launched on the United States in front of “Nicolasito”",
+      "title": "Unitary Platform willing to “contribute to the efforts” for a transition along the Marco Rubio route",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/plataforma-unitaria-ratifica-disposicion-a-contribuir-a-los-esfuerzos-para-una-transicion/",
+      "published_date": "2026-06-24T13:19:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "They denounce that in Venezuela there are 552 political prisoners and 18 cases of forced disappearance",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/denuncian-que-en-venezuela-hay-552-presos-politicos-y-18-casos-de-desaparicion-forzada/",
+      "published_date": "2026-06-24T12:19:57Z",
+      "category": "Military"
+    },
+    {
+      "title": "Venezuela maintains a structural debt with LGBTIQ+ people in terms of civil rights",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-laberinto-juridico-de-los-derechos-lgbtiq-en-venezuela/",
+      "published_date": "2026-06-24T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "De la Espriella: the president who is not going to sit down “with thugs” from the rodrigato",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612211/ha-sido-el-camino-correcto-la-perla-que-lanzo-delcy-sobre-estados-unidos-delante-de-nicolasito/",
-      "published_date": "2026-06-23T18:11:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US sanctioned five Cuban entities and Raúl Castro's daughter-in-law",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ee-uu-sanciono-a-cinco-entidades-de-cuba-y-a-nuera-de-raul-castro/",
-      "published_date": "2026-06-23T17:48:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Teresa Carreño is still alive in Germany",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/teresa-carreno-alemania-simposio-villa-teresa-coswig/",
-      "published_date": "2026-06-23T16:32:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The anatomy of an announced collapse: Cuba enters the liquidation phase",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-anatomia-de-un-colapso-anunciado-cuba-entra-en-fase-de-liquidacion/",
-      "published_date": "2026-06-23T15:31:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump assures that Iran has agreed to submit to the highest level of nuclear inspections",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-asegura-que-iran-ha-aceptado-someterse-al-mas-alto-nivel-de-inspecciones-nucleares/",
-      "published_date": "2026-06-23T14:39:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vondrousova reacts to her suspension: “I have never doped”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/vondrousova-reacciona-a-su-suspension-nunca-me-he-dopado/",
-      "published_date": "2026-06-23T13:30:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cuba declares official mourning for the death of Vice Prime Minister Ramiro Valdés",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cuba-declara-duelo-oficial-por-el-fallecimiento-del-vice-primer-ministro-ramiro-valdes/",
-      "published_date": "2026-06-23T12:47:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuelan Press conditions its participation in the dialogue on the full release of journalists and the end of censorship",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/venezuelan-press-condiciona-su-participacion-en-el-dialogo-a-la-liberacion-de-periodistas-y-el-fin-de-la-censura/",
-      "published_date": "2026-06-23T11:56:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran: Strait of Hormuz completely open for commercial ships",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/iran-el-estrecho-de-ormuz-esta-completamente-abierto-para-barcos-comerciales/",
-      "published_date": "2026-06-23T10:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Corina and Delcy: the prisoners' dilemma",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/612179/dilema-del-prisionero/",
-      "published_date": "2026-06-23T10:42:30Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/rr-es-plus/huella-digital/612280/de-la-espriella-el-presidente-que-no-se-va-a-sentar-con-malandros-del-rodrigato/",
+      "published_date": "2026-06-24T00:54:10Z",
+      "category": "Military"
     },
     {
       "title": "Attack against leader of the Aragua Train raises questions about mining interests in Venezuela",
@@ -255,32 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "The Pentagon proposes to De la Espriella to strengthen the alliance against drug trafficking",
+      "title": "Trump defends the changes in Caracas and assures that the population approves the economic direction",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-pentagono-propone-a-de-la-espriella-reforzar-la-alianza-contra-el-narcotrafico/",
-      "published_date": "2026-06-23T09:54:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Karlovy Vary Festival will honor Dustin Hoffman and Juliette Binoche",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/festival-karlovy-vary-homenajeara-a-dustin-hoffman-y-juliette-binoche/",
-      "published_date": "2026-06-23T09:01:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Venezuelan state is a machine for manufacturing deaths in prisons",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612144/borrador-automaticoestado-venezolano-es-una-maquina-de-fabricar-muertos-en-las-carceles/",
-      "published_date": "2026-06-23T02:11:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "Death toll rises to 13 after explosion at Qatar's largest gas plant",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/aumentan-a-13-las-personas-fallecidas-tras-explosion-en-mayor-planta-de-gas-de-catar/",
-      "published_date": "2026-06-22T23:09:41Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/06/trump-defiende-los-cambios-en-caracas-y-asegura-que-la-poblacion-aprueba-el-rumbo-economico/",
+      "published_date": "2026-06-24T00:40:55Z",
+      "category": "Energy"
     },
     {
       "title": "Blackout in areas of Maturín after heavy downpour this afternoon #23Jun",
@@ -416,11 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "England displays its power and defeats Croatia 4-2",
+      "title": "Petro commits to a political transition and his move to peaceful resistance",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/inglaterra-despliega-su-poderio-y-liquida-4-2-a-croacia/",
-      "published_date": "2026-06-17T22:16:57Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/06/petro-se-compromete-con-una-transicion-politica-y-su-paso-a-la-resistencia-pacifica/",
+      "published_date": "2026-06-24T11:59:21Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Bancamiga's assets had the highest growth in banking in the last year",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/patrimonio-de-bancamiga-fue-el-de-mayor-crecimiento-de-la-banca-en-el-ultimo-ano/",
+      "published_date": "2026-06-24T10:47:04Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Banesco financed five new projects with its 2026 Participatory Budget",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/con-proposito/612294/banesco-financio-cinco-nuevos-proyectos-con-su-presupuesto-participativo-2026/",
+      "published_date": "2026-06-24T03:47:46Z",
+      "category": "Economy"
     },
     {
       "title": "Handerr organizes the freelance services market",
@@ -542,25 +563,116 @@
       "category": "Economy"
     },
     {
-      "title": "Álvaro Uribe celebrated the victory of Abelardo de la Espriella: “No more traps of Petro-Chavismo”",
+      "title": "The ideal 11 of the second day: milestones, records and stars that shone",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/alvaro-uribe-celebro-la-victoria-de-abelardo-de-la-espriella-no-mas-trampas-del-petro-chavismo/",
-      "published_date": "2026-06-22T14:25:01Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/el-11-ideal-de-la-segunda-jornada-hitos-records-y-estrellas-que-brillaron/",
+      "published_date": "2026-06-24T12:58:28Z",
+      "category": "Local Events"
     },
     {
-      "title": "Francisco Rodríguez: \"There was petty cash here and we Venezuelans have the right to know\"",
+      "title": "The solidity of Concacaf and the revelations from Africa set the pace of the 2026 World Cup",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/francisco-rodriguez-aqui-hubo-una-caja-chica/",
-      "published_date": "2026-06-22T13:51:22Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/la-solidez-de-concacaf-y-las-revelaciones-de-africa-marcan-el-ritmo-del-mundial-2026/",
+      "published_date": "2026-06-24T12:50:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "Music producer Clive Davis dies at 94",
+      "title": "Fujimori gains enough advantage over Sánchez to be the next president of Peru",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/fallecio-a-los-94-anos-el-productor-musical-clive-davis/",
-      "published_date": "2026-06-22T09:01:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/06/fujimori-logra-la-ventaja-suficiente-sobre-sanchez-para-ser-la-proxima-presidenta-de-peru/",
+      "published_date": "2026-06-24T12:40:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "June 1987: this was the world to which Lionel Messi came 39 years ago",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/junio-de-1987-asi-era-el-mundo-al-que-vino-lionel-messi-hace-39-anos/",
+      "published_date": "2026-06-24T12:12:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why has distance higher education become the new solution in Latin America?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/por-que-la-educacion-superior-a-distancia-se-ha-convertido-en-la-nueva-solucion-en-latinoamerica/",
+      "published_date": "2026-06-24T12:02:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The strategies of authoritarian states to end the activism of Generation Z",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/612082/las-estrategias-de-los-estados-autoritarios-para-acabar-con-el-activismo-de-la-generacion-z/",
+      "published_date": "2026-06-24T11:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unitary Platform reiterates willingness to participate in a democratic transition in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/plataforma-unitaria-reitera-disposicion-a-participar-en-una-transicion-democratica-en-venezuela/",
+      "published_date": "2026-06-24T11:21:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Games for today: where and at what time to watch Brazil's third game in the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/juegos-para-hoy-donde-y-a-que-hora-ver-el-tercer-partido-de-brasil-en-el-mundial/",
+      "published_date": "2026-06-24T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Who will sit with Dinorah Figuera at the technical table?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/quienes-se-sentaran-con-dinorah-figuera-en-la-mesa-tecnica/",
+      "published_date": "2026-06-24T10:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero on June 24: the new president of Colombia is not going to sit down “with thugs” from Rodrigato",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/612305/el-mananero-del-24-de-junio-nuevo-mandatario-de-colombia-no-se-va-a-sentar-con-malandros-del-rodrigato/",
+      "published_date": "2026-06-24T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia did the job against DR Congo 1-0 and qualified for the second phase",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/colombia-hizo-el-trabajo-ante-rd-congo-1-0-y-clasifico-a-la-segunda-fase/",
+      "published_date": "2026-06-24T04:24:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Is the left saying goodbye to Latin America?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/612242/derecha-neoliberal/",
+      "published_date": "2026-06-24T04:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Croatia takes a breath and ends Panama's dream in the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/croacia-toma-aire-y-acaba-con-el-sueno-de-panama-en-el-mundial/",
+      "published_date": "2026-06-24T01:48:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Interviews begin for candidates for magistrates and judicial positions of the TSJ",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/comienzan-entrevistas-a-candidatos-para-magistraturas-y-cargos-judiciales-del-tsj/",
+      "published_date": "2026-06-24T00:58:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saime and national banking will not work this Wednesday, June 24 due to a national holiday",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/saime-y-banca-nacional-no-laboraran-este-miercoles-24-de-junio-por-feriado-nacional/",
+      "published_date": "2026-06-24T00:26:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Government of Venezuela creates a commission to appoint contractors in charge of rescuing the health sector",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/gobierno-de-venezuela-crea-una-comision-para-designar-contratistas-encargados-de-rescatar-el-sector-salud/",
+      "published_date": "2026-06-24T00:07:01Z",
+      "category": "Local Events"
     },
     {
       "title": "Ghana imposes its defensive order and seals a goalless draw with England",
@@ -588,118 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/fifa-confirma-que-trump-estara-en-la-final-del-mundial-y-entregara-el-trofeo-al-campeon/",
       "published_date": "2026-06-23T21:19:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Edmundo González Urrutia congratulates Abelardo de la Espriella for his electoral victory and advocates for coexistence in Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/edmundo-gonzalez-urrutia-felicita-a-abelardo-de-la-espriella-por-su-victoria-electoral-y-aboga-por-la-convivencia-en-colombia/",
-      "published_date": "2026-06-23T21:18:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ecuadorians accuse Chavismo of appropriating $2,000 million from the Sucre system",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ecuatorianos-acusan-al-chavismo-de-apropiarse-2-000-millones-del-sistema-sucre/",
-      "published_date": "2026-06-23T21:08:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Venezuelan mother and her two daughters die in a fire in Peru",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/tres-venezolanas-murieron-atrapadas-durante-un-incendio-en-peru-una-madre-y-sus-dos-hijas-fallecieron-en-la-tragedia/",
-      "published_date": "2026-06-23T21:07:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conviasa will add new national routes between four states of the country",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/conviasa-sumara-nuevas-rutas-nacionales-entre-cuatro-estados-del-pais/",
-      "published_date": "2026-06-23T20:53:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The milestones that Cristiano Ronaldo has accumulated in six World Cups",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/los-hitos-que-acumula-cristiano-ronaldo-en-seis-mundiales/",
-      "published_date": "2026-06-23T20:51:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Martha Tineo: \"The design of justice in a transition cannot afford the dangerous luxury of selectivity\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/justicia-encuentro-y-perdon-advirtio-que-la-impunidad-amenaza-cualquier-transicion-democratica-en-venezuela/",
-      "published_date": "2026-06-23T20:38:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Colombian Registry Office confirms De la Espriella's victory",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/la-registraduria-colombiana-confirma-victoria-de-de-la-espriella/",
-      "published_date": "2026-06-23T20:27:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prison crisis: a third prisoner dies in less than 72 hours",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-andes/crisis-carcelaria-muere-un-tercer-preso-en-menos-de-72-horas/",
-      "published_date": "2026-06-23T20:25:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Maikel García goes on the disabled list with a left hand strain",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/maikel-garcia-va-a-la-lista-de-lesionados-por-una-distension-en-la-mano-izquierda/",
-      "published_date": "2026-06-23T19:52:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "González Urrutia congratulates De la Espriella and advocates for coexistence in Colombia",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/gonzalez-urrutia-felicita-a-de-la-espriella-y-aboga-por-la-convivencia-en-colombia/",
-      "published_date": "2026-06-23T19:43:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ronaldo sets record with two goals as Portugal overwhelms Uzbekistan 5-0",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ronaldo-establece-record-con-dos-goles-y-portugal-arrolla-a-uzbekistan-5-0/",
-      "published_date": "2026-06-23T19:34:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sánchez denounces \"a fraud in progress\" in Peru and will not recognize the Fujimori government",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sanchez-denuncia-un-fraude-en-desarrollo-en-peru-y-no-reconocera-al-gobierno-de-fujimori/",
-      "published_date": "2026-06-23T19:08:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Educators propose a 48-hour strike in the face of official silence: they do not rule out an indefinite strike",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/educadores-proponen-un-paro-de-48-horas-ante-el-silencio-oficial-no-descartan-una-huelga-indefinida/",
-      "published_date": "2026-06-23T18:53:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Health workers marched to the Ministry to demand decent wages: it was agreed to install a work table",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/trabajadores-de-la-salud-marcharon-al-ministerio-para-exigir-salarios-dignos-se-acordo-instalar-una-mesa-de-trabajo/",
-      "published_date": "2026-06-23T18:39:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CR7, inexhaustible: Cristiano Ronaldo makes history by scoring in six World Cups in a row",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cr7-inagotable-cristiano-ronaldo-hace-historia-al-marcar-en-su-sexto-mundial/",
-      "published_date": "2026-06-23T18:17:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge postpones Alex Saab's hearing for 30 days",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/jueza-de-eeuu-aplaza-por-treinta-dias-la-audiencia-de-alex-saab/",
-      "published_date": "2026-06-23T18:13:51Z",
       "category": "Local Events"
     }
   ]
