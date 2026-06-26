@@ -1,146 +1,181 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-25T13:23:29Z",
+  "last_updated": "2026-06-26T00:18:30Z",
   "stories": [
     {
-      "title": "Funvisis recorded 20 earthquakes during the early morning after powerful earthquakes",
+      "title": "Pete Hegseth assures that the United States intensifies support for Venezuela after the seismic emergency",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/funvisis-registra-diez-sismos-durante-la-madrugada-tras-potentes-terremotos/",
-      "published_date": "2026-06-25T08:20:39Z",
+      "url": "https://www.elnacional.com/2026/06/pete-hegseth-asegura-que-estados-unidos-intensifica-apoyo-a-venezuela-tras-la-emergencia-sismica/",
+      "published_date": "2026-06-25T23:58:12Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Trump on earthquakes in Venezuela: The first reports are not good",
+      "title": "Spain confirms death of two compatriots in earthquakes in Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/espana-confirma-muerte-de-dos-connacionales-en-terremotos-de-venezuela/",
+      "published_date": "2026-06-25T23:34:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US eases financial sanctions on Venezuela due to the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/trump-sobre-terremotos-en-venezuela-los-primeros-informes-no-son-buenos/",
-      "published_date": "2026-06-25T05:59:40Z",
+      "url": "https://www.elnacional.com/2026/06/eeuu-alivia-sanciones-financieras-a-venezuela-por-los-terremotos/",
+      "published_date": "2026-06-25T23:27:42Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez reports on 32 people dead and 700 injured by the two earthquakes of #24Jun",
+      "title": "Luis Carlos Díaz warns that restrictions on NGOs and the press make responses after earthquakes difficult",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/luis-carlos-diaz-advierte-que-restricciones-a-ong-y-prensa-dificultan-respuestas-tras-terremotos/",
+      "published_date": "2026-06-25T23:25:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The International Red Cross begins sending 40 tons of humanitarian aid to Venezuela after the double earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-cruz-roja-internacional-inicia-el-envio-de-40-toneladas-de-ayuda-humanitaria-hacia-venezuela-tras-el-doble-terremoto/",
+      "published_date": "2026-06-25T23:01:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Nacional creates a space to support Venezuelans: we are with you@el-nacional.com",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-nacional-crea-un-espacio-de-acompanamiento-a-los-venezolanos-estamoscontigoel-nacional-com/",
+      "published_date": "2026-06-25T22:27:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ivory Coast defeated Curacao 2-0 and qualified as second in Group E",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/costa-de-marfil-liquido-a-curazao-2-0-y-clasifico-como-segunda-del-grupo-e/",
+      "published_date": "2026-06-25T22:24:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ecuador achieved the feat by beating Germany and secured its place in the second round",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/ecuador-logro-la-hazana-al-vencer-a-alemania-y-aseguro-su-pase-a-segunda-ronda/",
+      "published_date": "2026-06-25T22:10:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"The only thing I imagined was that the building would collapse\": the fear left by the double earthquake in Aragua",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-habla-de-32-personas-fallecidas-y-700-heridas-por-los-dos-terremotos-del-24-de-junio/",
-      "published_date": "2026-06-25T04:58:12Z",
+      "url": "https://elpitazo.net/regiones/centro/lo-unico-que-imagine-fue-que-el-edificio-se-desplomaria-el-miedo-que-dejo-el-doble-terremoto-en-aragua/",
+      "published_date": "2026-06-25T21:51:30Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Former politician Sergio Contreras asks Europe for coherence: “We do not want more sanctions, we just want the existing ones to be complied with”",
+      "title": "US Southern Command mobilizes military support and rescue teams towards Venezuela due to earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/comando-sur-de-ee-uu-moviliza-apoyo-militar-y-equipos-de-rescate-hacia-venezuela-por-los-terremotos/",
+      "published_date": "2026-06-25T21:42:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The World Bank offers support to Venezuela after earthquakes and evaluates avenues for assistance",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-banco-mundial-ofrece-apoyo-a-venezuela-tras-sismos-y-evalua-vias-de-asistencia/",
+      "published_date": "2026-06-25T21:22:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Destruction and helplessness in Caribe, Coralal and Caraballeda",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/destruccion-y-desamparo-en-caribe-corapal-y-caraballeda/",
+      "published_date": "2026-06-25T21:01:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Ombudsman's Office activates regional monitoring after earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-defensoria-del-pueblo-activa-monitoreo-regional-tras-terremotos/",
+      "published_date": "2026-06-25T19:46:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Spain national team observes a minute of silence for the victims of the earthquake in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/seleccion-de-espana-guarda-un-minuto-de-silencio-por-las-victimas-del-terremoto-en-venezuela/",
+      "published_date": "2026-06-25T19:44:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Earthquakes in Venezuela | “We are in the hands of God”: the pain of La Guaira revives the ghost of its worst tragedy",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/expreso-politico-sergio-contreras-pide-coherencia-a-europa-no-queremos-mas-sanciones-solo-que-se-cumplan-las-existentes/",
-      "published_date": "2026-06-25T04:44:25Z",
+      "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-estamos-en-manos-de-dios-el-dolor-de-la-guaira-revive-el-fantasma-de-su-peor-tragedia/",
+      "published_date": "2026-06-25T18:29:49Z",
       "category": "Diplomacy"
     },
     {
-      "title": "International solidarity and offers of humanitarian aid to Venezuela after earthquakes",
+      "title": "The tragedy of the Delfines de la Guaira baseball players: their relatives were left under the rubble",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/la-tragedia-de-los-peloteros-de-delfines-de-la-guaira-sus-familiares-quedaron-bajo-los-escombros/",
+      "published_date": "2026-06-25T18:19:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Edmundo González and María Corina Machado cry out for humanitarian aid for Venezuela",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612359/solidaridad-internacional-y-ofrecimientos-de-ayuda-humanitaria-a-venezuela-tras-sismos/",
-      "published_date": "2026-06-25T04:11:00Z",
+      "url": "https://runrun.es/noticias/612401/edmundo-gonzalez-y-maria-corina-machado-claman-por-ayuda-humanitaria-para-venezuela/",
+      "published_date": "2026-06-25T15:21:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "South Africa celebrates a historic victory against Korea and advances to the round of 32",
+      "title": "Embassy and consulates of Venezuela in Spain are activated to locate relatives after earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sudafrica-celebra-un-triunfo-historico-ante-corea-y-pasa-a-dieciseisavos/",
-      "published_date": "2026-06-25T03:59:00Z",
+      "url": "https://www.elnacional.com/2026/06/embajada-y-consulados-de-venezuela-en-espana-se-activan-para-localizar-a-familiares-tras-sismos/",
+      "published_date": "2026-06-25T14:57:24Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Edmundo González affirms that Venezuela will need international support",
+      "title": "UN will coordinate rescue teams from the entire international community to support Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/edmundo-gonzalez-afirma-que-venezuela-necesitara-apoyo-internacional/",
-      "published_date": "2026-06-25T02:43:32Z",
+      "url": "https://www.elnacional.com/2026/06/onu-coordinara-equipos-de-rescate-de-toda-la-comunidad-internacional-para-apoyar-a-venezuela/",
+      "published_date": "2026-06-25T14:15:55Z",
       "category": "Diplomacy"
     },
     {
-      "title": "They presented at the OAS \"Volver a Verte\", a photographic exhibition about the resistance of the relatives of political prisoners in Venezuela",
+      "title": "Queen Letizia confirmed that Spain offered humanitarian aid to Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/presentaron-en-la-oea-volver-a-verte-exposicion-fotografica-sobre-la-resistencia-de-los-familiares-de-presos-politicos-en-venezuela/",
-      "published_date": "2026-06-24T22:04:33Z",
+      "url": "https://www.elnacional.com/2026/06/la-reina-letizia-confirmo-que-espana-ofrecio-ayuda-humanitaria-a-venezuela/",
+      "published_date": "2026-06-25T13:54:59Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Venezuelan asylum seeker was run over and killed during a police chase in the US",
+      "title": "Opposition accuses the Police of blocking the distribution of citizen aid in Carabobo and Portuguesa",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/solicitante-de-asilo-venezolano-murio-atropellado-durante-persecucion-policial-en-ee-uu/",
-      "published_date": "2026-06-24T21:34:44Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/oposicion-acusa-a-la-policia-de-bloquear-la-distribucion-de-ayuda-ciudadana-en-carabobo-y-portuguesa/",
+      "published_date": "2026-06-26T00:12:59Z",
+      "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez recognizes De la Espriella's triumph in Colombia",
+      "title": "Catia peripheral hospital: doctors warn that they are working with a lack of supplies",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-reconoce-triunfo-de-de-la-espriella-en-colombia/",
-      "published_date": "2026-06-24T21:24:59Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/hospital-periferico-de-catia-medicos-advierten-que-trabajan-con-deficiencia-de-suministros/",
+      "published_date": "2026-06-25T23:02:26Z",
+      "category": "Military"
     },
     {
-      "title": "Pedro Sánchez's wife surrenders her passport by court order",
+      "title": "Venezuela's airports are operational except Caracas, according to the Airlines Association",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/esposa-de-pedro-sanchez-entrega-su-pasaporte-por-orden-judicial/",
-      "published_date": "2026-06-24T20:52:43Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/los-aeropuertos-de-venezuela-estan-operativos-excepto-el-de-caracas-segun-lineas-aereas/",
+      "published_date": "2026-06-25T21:58:40Z",
+      "category": "Military"
     },
     {
-      "title": "The IDB resumes relations with Venezuela, Calixto Ortega Sánchez is the new governor",
+      "title": "“Operation All with Venezuela”: opposition activates collection centers to assist earthquake victims",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-bid-retoma-relaciones-con-venezuela-calixto-ortega-sanchez-es-el-nuevo-gobernador/",
-      "published_date": "2026-06-24T20:41:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/activan-centros-de-acopio-para-asistir-a-las-victimas-de-terremotos/",
+      "published_date": "2026-06-25T21:46:09Z",
+      "category": "Military"
     },
     {
-      "title": "WHO will declare the end of the hantavirus alert on July 2 if no more cases are recorded",
+      "title": "Colombia will send elite team for search and rescue in Venezuela after the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-oms-declara-el-fin-de-la-alerta-por-hantavirus-el-proximo-2-de-julio-si-no-se-registran-mas-casos/",
-      "published_date": "2026-06-24T20:40:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuelan producers join as Oscar voters",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/productores-venezolanos-se-suman-como-votantes-de-los-oscar/",
-      "published_date": "2026-06-24T20:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They arrested a Venezuelan woman accused of facilitating the escape of members of the Aragua Train in the United States",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/detuvieron-a-venezolana-acusada-de-facilitar-fuga-de-miembros-del-tren-de-aragua-en-ee-uu/",
-      "published_date": "2026-06-24T20:09:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "César Pérez Vivas warned Dinorah Figuera about Jorge Rodríguez's \"plan\" for Delcy to stay until 2030",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/cesar-perez-vivas-advirtio-a-dinorah-figuera-sobre-el-plan-de-jorge-rodriguez-para-que-delcy-se-quede-hasta-el-2030/",
-      "published_date": "2026-06-24T19:55:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez recognized Abelardo de la Espriella as elected president of Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/delcy-rodriguez-reconocio-a-abelardo-de-la-espriella-como-presidente-electo-de-colombia/",
-      "published_date": "2026-06-24T19:21:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Paraguay advocated for the reestablishment of democracy in Venezuela, Cuba and Nicaragua at the OAS",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/paraguay-abogo-por-el-restablecimiento-de-la-democracia-en-venezuela-cuba-y-nicaragua-en-la-oea/",
-      "published_date": "2026-06-24T18:46:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OAS asks to rescue democracy in Nicaragua, Cuba and Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/oea-pide-rescatar-democracia-en-nicaragua-cuba-y-venezuela/",
-      "published_date": "2026-06-24T18:41:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US maintains restrictions and reviews visas for Venezuelans",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ee-uu-mantiene-restricciones-y-revisa-visas-para-venezolanos/",
-      "published_date": "2026-06-24T18:27:07Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/06/colombia-enviara-equipo-elite-para-busqueda-y-rescate-en-venezuela-tras-los-terremotos/",
+      "published_date": "2026-06-25T21:37:25Z",
+      "category": "Military"
     },
     {
       "title": "From prison to Parliament: diversity conquered spaces in Venezuelan politics, but not in the law",
@@ -248,39 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Military mother detained: \"His father had a stroke due to stress and injustice\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-andes/madre-de-militar-detenida-su-papa-tuvo-un-acv-por-el-estres-y-la-injusticia/",
-      "published_date": "2026-06-23T22:50:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Casla Institute celebrated its 12th anniversary with a tribute to political prisoners and a debate on democratic transitions",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-instituto-casla-celebro-su-12-aniversario-con-un-homenaje-a-los-presos-politicos-y-un-debate-sobre-las-transiciones-democraticas/",
-      "published_date": "2026-06-23T21:45:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Man murders his mother in complicity with his wife: the suicide hypothesis was dismantled",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/hombre-asesina-a-su-madre-en-complicidad-con-su-esposa-se-desmonto-la-hipotesis-del-suicidio/",
-      "published_date": "2026-06-23T21:08:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "IACHR grants precautionary measures to the Italian-Venezuelan political prisoner Daniel Echenagucia",
+      "title": "Double earthquake in Venezuela: the worst seismic event in more than a century",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612231/cidh-otorga-medidas-cautelares-al-preso-politico-italo-venezolano-daniel-echenagucia/",
-      "published_date": "2026-06-23T20:16:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "“Fireside Chats”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/612230/charlas-junto-a-la-chimenea/",
-      "published_date": "2026-06-23T20:08:45Z",
-      "category": "Military"
+      "url": "https://runrun.es/noticias/612389/doble-terremoto-en-venezuela-el-peor-evento-sismico-en-mas-de-un-siglo/",
+      "published_date": "2026-06-25T15:04:56Z",
+      "category": "Energy"
     },
     {
       "title": "Mérida Cable Car is still under maintenance, but without an official reopening date",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Mariana Parra on Bancamiga: parts of the shares were transferred to Carlos Erik Malpica Flores' sister-in-law",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/mariana-parra-sobre-bancamiga-partes-de-las-acciones-se-traspasaron-a-cunada-de-erick-malpica-flores/",
-      "published_date": "2026-06-19T21:02:05Z",
-      "category": "Energy"
+      "title": "What to do before, during and after an earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/que-hacer-antes-durante-y-despues-de-un-terremoto/",
+      "published_date": "2026-06-25T15:37:55Z",
+      "category": "Economy"
     },
     {
       "title": "Chef José Andrés will donate one million dollars to address the emergency in Venezuela",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "What changes for Colombia with the closeness of Trump with De la Espriella after the tensions with Petro",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/que-cambia-para-colombia-con-la-cercania-que-trump-mantiene-con-de-la-espriella-tras-las-tensiones-con-petro/",
-      "published_date": "2026-06-23T13:52:21Z",
-      "category": "Economy"
+      "title": "State Department confirms US aid for Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/departamento-de-estado-confirma-ayuda-de-ee-uu-para-venezuela/",
+      "published_date": "2026-06-26T00:05:35Z",
+      "category": "Local Events"
     },
     {
-      "title": "Pensioners begin to receive June Comprehensive Income bonus payment: How much is it?",
+      "title": "Caracas FC confirms the death of under-18 player Razan Sijaa during the earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/caracas-fc-confirma-la-muerte-del-jugador-sub-18-razan-sijaa-durante-el-terremoto/",
+      "published_date": "2026-06-26T00:04:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquakes in Venezuela | From Caracas in 1967 to La Guaira in 2026: keys and data from two historical earthquakes",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/?p=505456",
-      "published_date": "2026-06-25T13:23:08Z",
+      "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-de-la-caracas-de-1967-a-la-guaira-de-2026-claves-y-datos-de-dos-sismos-historicos/",
+      "published_date": "2026-06-25T23:38:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Catia La Mar devastated, neighbors try to rescue survivors",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/catia-la-mar-esperan-por-rescate-en-zona-devastadas/",
-      "published_date": "2026-06-25T13:13:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What is a seismic doublet, the unusual phenomenon that was recorded in Venezuela?",
+      "title": "Brazil announces the sending of a field hospital to Venezuela after earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/que-es-un-doblete-sismico-el-fenomeno-poco-habitual-que-se-registro-en-venezuela/",
-      "published_date": "2026-06-25T13:06:27Z",
+      "url": "https://www.elnacional.com/2026/06/brasil-anuncia-el-envio-de-un-hospital-de-campana-a-venezuela-tras-terremotos/",
+      "published_date": "2026-06-25T23:19:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Iberia, Air Europa and Plus Ultra suspend Madrid-Caracas flights due to the strong earthquakes in Venezuela",
+      "title": "Earthquakes: police join as volunteers in rescue efforts in the east of La Guaira",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/terremotos-policias-se-suman-como-voluntarios-a-las-labores-de-rescate-en-el-este-de-la-guaira/",
+      "published_date": "2026-06-25T23:02:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Civil Protection requests support tools to maintain rescue efforts in San Bernardino due to the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/iberia-air-europa-y-plus-ultra-suspenden-vuelos-madrid-caracas-por-los-fuertes-terremotos-en-venezuela/",
-      "published_date": "2026-06-25T12:31:50Z",
+      "url": "https://www.elnacional.com/2026/06/proteccion-civil-solicita-herramientas-de-apoyo-para-mantener-las-labores-de-rescate-en-san-bernardino-por-los-terremotos/",
+      "published_date": "2026-06-25T22:56:35Z",
       "category": "Local Events"
     },
     {
-      "title": "They announce activation of all medical centers in the country after strong earthquakes",
+      "title": "Earthquakes burst the pavement of the runways of the Maiquetía International Airport",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/anuncian-activacion-de-todos-los-centros-medicos-del-pais-tras-fuertes-terremotos/",
-      "published_date": "2026-06-25T12:21:11Z",
+      "url": "https://www.elnacional.com/2026/06/terremotos-reventaron-el-pavimento-de-las-pistas-del-aeropuerto-internacional-de-maiquetia/",
+      "published_date": "2026-06-25T22:56:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Squares, avenues and vehicles were transformed into bedrooms after earthquakes in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/plazas-avenidas-y-vehiculos-se-transformaron-en-dormitorios-tras-terremotos-en-venezuela/",
-      "published_date": "2026-06-25T11:44:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The number of deaths rises to 164 and the number of injured by earthquakes in Venezuela rises to almost 1,000",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sube-a-164-el-numero-de-muertos-y-a-casi-1-000-el-de-heridos-por-terremotos-en-venezuela/",
-      "published_date": "2026-06-25T10:50:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescuers from at least five countries will arrive in Venezuela in the next few hours",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/rescatistas-de-al-menos-cinco-paises-llegaran-a-venezuela-en-las-proximas-horas/",
-      "published_date": "2026-06-25T10:21:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Guaira, once again, the scene of a natural disaster",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/la-guaira-una-vez-mas-escenario-de-una-catastrofe-natural/",
-      "published_date": "2026-06-25T10:11:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The most serious earthquakes in Venezuela so far this century",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/los-terremotos-mas-graves-en-venezuela-en-lo-que-va-de-siglo/",
-      "published_date": "2026-06-25T09:54:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marco Rubio announces immediate sending of rescue teams and humanitarian aid from the US to Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/marco-rubio-anuncia-envio-inmediato-de-equipos-de-rescate-y-ayuda-humanitaria-de-ee-uu-a-venezuela/",
-      "published_date": "2026-06-25T09:24:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A Boulevard of laughter to look at each other and heal as a society",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/un-bulevar-de-la-risa-para-mirarse-y-sanar-como-sociedad/",
-      "published_date": "2026-06-25T09:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They launch a digital platform to report and locate missing people after the earthquakes in the country",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/lanzan-plataforma-digital-para-reportar-y-localizar-personas-desaparecidas-tras-los-terremotos-en-el-pais/",
-      "published_date": "2026-06-25T08:46:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelans sleep on the street as aftershocks persist",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/venezolanos-duermen-en-la-calle-mientras-las-replicas-persisten/",
-      "published_date": "2026-06-25T07:40:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First balance: 32 dead and more than 700 injured in Venezuela after earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/32-fallecidos-700-heridos-venezuela/",
-      "published_date": "2026-06-25T06:13:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Search for survivors in collapsed buildings",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/buscan-sobrevivientes-en-edificios-colapsados/",
-      "published_date": "2026-06-25T05:43:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Copa cancels flights to Caracas Wednesday and Thursday due to earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/copa-cancela-vuelos-a-caracas-miercoles-y-jueves-por-efecto-de-terremotos/",
-      "published_date": "2026-06-25T05:37:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Dozens of buildings\" collapsed in La Guaira state, 32 have already died from earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/decenas-de-edificios-colapsaron-en-estado-la-guaira-ya-van-32-muertos-por-terremotos/",
-      "published_date": "2026-06-25T05:06:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OAS: The hemispheric community will be ready to support Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/oea-la-comunidad-hemisferica-va-a-estar-lista-para-apoyar-a-venezuela/",
-      "published_date": "2026-06-25T05:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "1:30 a.m. 25Jun |32 dead and more than 700 injured by two earthquakes in the country",
+      "title": "Collection centers are activated to help earthquake victims",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612358/delcy-rodriguez-declaro-estado-de-emergencia-tras-terremotos/",
-      "published_date": "2026-06-25T04:54:17Z",
+      "url": "https://runrun.es/noticias/612449/se-activan-centros-de-acopio-para-ayudar-a-las-victimas-de-los-terremotos/",
+      "published_date": "2026-06-25T22:38:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“An official answered her phone and told me that the building had collapsed”: woman waits for information about her ex-husband in Altamira",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/una-funcionaria-contesto-su-telefono-y-me-dijo-que-el-edificio-habia-colapsado-mujer-espera-informacion-sobre-su-exesposo-en-altamira/",
+      "published_date": "2026-06-25T22:33:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "These are the hospitals and clinics enabled in Caracas to attend to the emergency",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/612450/estos-son-los-hospitales-y-clinicas-habilitados-en-caracas-para-atender-la-emergencia/",
+      "published_date": "2026-06-25T22:31:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Residents of La Guaira denounce the absence of authorities in areas affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/habitantes-de-la-guaira-denuncian-ausencia-de-autoridades-en-zonas-afectadas-por-los-terremotos/",
+      "published_date": "2026-06-25T22:28:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hospital de Clínicas Caracas suffered damage from the strong earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/hospital-de-clinicas-caracas-sufrio-danos-por-los-fuertes-terremotos/",
+      "published_date": "2026-06-25T22:14:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ULA firefighters travel to Caracas to support those affected by earthquakes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/bomberos-de-la-ula-viajan-a-caracas-para-apoyar-a-afectados-por-terremotos/",
+      "published_date": "2026-06-25T22:14:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Psychological guide to reduce the emotional impact of an earthquake",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/guia-psicologica-para-reducir-impacto-emocional-terremoto/",
+      "published_date": "2026-06-25T22:11:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "María Corina Machado makes the Con Venezuela Command networks available to channel aid",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/maria-corina-machado-pone-a-disposicion-redes-del-comando-con-venezuela-para-canalizar-ayuda/",
+      "published_date": "2026-06-25T21:57:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "LVBP and Caribbean leagues express their pain after earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/lvbp-y-ligas-del-caribe-manifiestan-su-dolor-tras-terremotos-en-venezuela/",
+      "published_date": "2026-06-25T21:45:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelans in Argentina coordinate search networks after the earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/venezolanos-en-argentina-coordinan-redes-de-busqueda-tras-los-terremotos-en-venezuela/",
+      "published_date": "2026-06-25T21:42:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "South Florida mobilizes to help victims of earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/sur-de-la-florida-se-moviliza-en-ayuda-a-las-victimas-de-terremotos-en-venezuela/",
+      "published_date": "2026-06-25T21:32:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The official number of missing people due to the earthquakes is very far from that reported by citizens",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-cifra-oficial-de-desaparecidos-por-los-terremotos-esta-muy-lejos-de-la-reportada-por-ciudadanos/",
+      "published_date": "2026-06-25T21:25:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eight public hospitals and 12 private clinics are enabled in Caracas to attend to the seismic emergency",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/habilitan-ocho-hospitales-publicos-y-12-clinicas-privadas-en-caracas-para-atender-la-emergencia-sismica/",
+      "published_date": "2026-06-25T21:18:43Z",
       "category": "Local Events"
     }
   ]
