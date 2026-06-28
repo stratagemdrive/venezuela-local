@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-06-28T00:10:06Z",
+  "last_updated": "2026-06-28T12:19:07Z",
   "stories": [
+    {
+      "title": "Pope Leo XIV sends a message to Venezuelans after devastating earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-papa-leon-xiv-envia-un-mensaje-a-los-venezolanos-luego-de-devastadores-terremotos/",
+      "published_date": "2026-06-28T11:46:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Argentina eliminated Jordan 3-1 with their relief team and a goal from Messi",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/argentina-liquido-a-jordania-3-1-con-su-generacion-de-relevo-y-un-gol-de-messi/",
+      "published_date": "2026-06-28T04:22:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "International rescuers search for lives in La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/no-pudimos-ir-mas-rapido-porque-las-carreteras-estaban-colapsadas-rescatistas-internacionales-buscan-vidas-en-la-guaira/",
+      "published_date": "2026-06-28T03:41:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US rescue team saves baby trapped under rubble",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/equipo-de-rescate-estadounidense-salvo-a-un-bebe-atrapado-bajo-los-escombros/",
+      "published_date": "2026-06-28T01:05:19Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "GoFundMe launched a campaign to help those affected and collaborate in the reconstruction of the country after earthquakes",
       "source": "El Nacional",
@@ -115,32 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Barça opens fundraising campaign and contributes 100,000 euros to those affected by the earthquakes in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/el-barca-abre-campana-de-captacion-de-fondos-y-aporta-100-000-euros-para-afectados-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-06-27T11:36:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Egypt tied with Iran 1-1 and qualified for the second phase",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/egipto-igualo-con-iran-1-1-y-firmo-su-clasificacion-a-la-segunda-fase/",
-      "published_date": "2026-06-27T05:37:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bridge collapse leaves La Guaira partially cut off after new seismic aftershock",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/colapso-de-puente-deja-incomunicada-parcialmente-a-la-guaira-tras-nueva-replica-sismica/",
-      "published_date": "2026-06-27T01:21:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Government restricts access to La Guaira to facilitate rescues after devastating earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/gobierno-restringe-acceso-a-la-guaira-para-facilitar-rescates-tras-devastadores-terremotos/",
-      "published_date": "2026-06-27T01:08:54Z",
-      "category": "Diplomacy"
+      "title": "ARI's Conversation with the Light | Antonio Rivero: “Seismic double could be predicted by reducing vulnerabilities”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/612761/la-conversa-de-ari-con-la-luz-antonio-rivero-doblete-sismico-se-pudo-prever-reduciendo-las-vulnerabilidades/",
+      "published_date": "2026-06-28T10:28:05Z",
+      "category": "Military"
     },
     {
       "title": "Report “smell of decomposition” in Caraballeda: it takes hours to transfer the bodies",
@@ -273,13 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/06/colombia-enviara-equipo-elite-para-busqueda-y-rescate-en-venezuela-tras-los-terremotos/",
       "published_date": "2026-06-25T21:37:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "From prison to Parliament: diversity conquered spaces in Venezuelan politics, but not in the law",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/de-la-carcel-al-parlamento-la-diversidad-conquisto-espacios-en-la-politica-venezolana-pero-no-en-la-ley/",
-      "published_date": "2026-06-25T09:00:00Z",
       "category": "Military"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "UN sets up field hospitals in La Guaira as pressure grows on humanitarian response after earthquakes",
+      "title": "The number of Spaniards killed in earthquakes in Venezuela increased to nine",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/aumento-a-nueve-el-numero-de-espanoles-muertos-en-terremotos-en-venezuela/",
+      "published_date": "2026-06-28T11:15:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelan Foreign Policy Forum demands political transition in the face of the emergency due to the double earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/foro-venezolano-de-politica-exterior-exige-transicion-politica-ante-la-emergencia-por-el-doble-terremoto/",
+      "published_date": "2026-06-28T11:00:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The ideal 11 of the third date: decisive players to close the group stage",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/el-11-ideal-de-la-tercera-fecha-jugadores-decisivos-para-cerrar-la-fase-de-grupos/",
+      "published_date": "2026-06-28T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Without water and with reduced staff: the struggle of the Mother Teresa Home in La Guaira after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/sin-agua-y-con-personal-reducido-la-lucha-del-hogar-madre-teresa-en-la-guaira-tras-los-terremotos/",
+      "published_date": "2026-06-28T10:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The direct elimination begins!: this is how the round of sixteen matches were left",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/arranca-la-eliminacion-directa-asi-quedaron-los-cruces-de-dieciseisavos/",
+      "published_date": "2026-06-28T10:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela without surnames",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/venezuela-sin-apellidos/",
+      "published_date": "2026-06-28T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The lack of state protection and the closure of NGOs aggravate the vulnerability of LGBTIQ+ people in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/la-falta-de-proteccion-estatal-y-el-cierre-de-ong-agravan-la-vulnerabilidad-de-las-personas-lgbtiq-en-venezuela/",
+      "published_date": "2026-06-28T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fear also sleeps in the streets of Guarenas",
       "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/612763/onu-instala-hospitales-de-campana-en-la-guaira-mientras-crece-la-presion-sobre-la-respuesta-humanitaria-tras-los-terremotos/",
-      "published_date": "2026-06-28T00:08:18Z",
+      "url": "https://runrun.es/noticias/612785/el-miedo-tambien-duerme-en-las-calles-de-guarenas/",
+      "published_date": "2026-06-28T07:45:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Academy of Political and Social Sciences expresses solidarity with victims of the earthquakes and calls for national unity",
+      "title": "The uncertainty of living on the streets, one night in Caracas after the earthquake",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/academia-de-ciencias-politicas-y-sociales-se-solidariza-con-victimas-de-los-sismos-y-pide-union-nacional/",
-      "published_date": "2026-06-27T23:58:13Z",
+      "url": "https://www.elnacional.com/2026/06/la-incertidumbre-de-vivir-en-la-calle-una-noche-en-caracas-luego-del-terremoto/",
+      "published_date": "2026-06-28T07:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Boca de Aroa and Tucacas are among the most affected towns in Falcón by seismic doublet",
+      "title": "66 hours in front of the rubble of the Obelisco building, where his son was trapped",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/66-horas-frente-a-los-escombros-de-residencias-obelisco-donde-quedo-atrapado-su-hijo/",
+      "published_date": "2026-06-28T07:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Austria tied with Algeria 3-3 and will face Spain in the next round",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/06/austria-igualo-con-argelia-3-3-y-se-medira-con-espana-en-la-proxima-ronda/",
+      "published_date": "2026-06-28T04:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Safe water and vector control, the true health priorities in La Guaira",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612746/boca-de-aroa-y-tucacas-son-de-las-localidades-mas-afectadas-de-falcon-por-doblete-sismico/",
-      "published_date": "2026-06-27T23:48:06Z",
+      "url": "https://runrun.es/rr-es-plus/612770/agua-segura-y-control-de-vectores-las-verdaderas-prioridades-sanitarias-en-la-guaira/",
+      "published_date": "2026-06-28T02:42:16Z",
       "category": "Local Events"
     },
     {
-      "title": "SNTP reported that journalistic coverage of humanitarian aid due to earthquakes at the J. M. de los Ríos hospital was hindered",
+      "title": "DR Congo achieved its first victory in the World Cup against Uzbekistan and qualified as best third",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/sntp-denuncio-que-se-obstaculizo-cobertura-periodistica-sobre-ayuda-humanitaria-por-terremotos-en-hospital-j-m-de-los-rios/",
-      "published_date": "2026-06-27T23:46:52Z",
+      "url": "https://www.elnacional.com/2026/06/rd-congo-logro-su-primera-victoria-en-mundiales-ante-uzbekistan-y-clasifico-como-mejor-tercero/",
+      "published_date": "2026-06-28T02:04:08Z",
       "category": "Local Events"
     },
     {
-      "title": "US Marine Corps helicopters arrived in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/llegaron-a-la-guaira-helicopteros-del-cuerpo-de-marines-de-ee-uu/",
-      "published_date": "2026-06-27T23:45:56Z",
+      "title": "Three days after the earthquake: citizen solidarity pushes the race to save lives",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/a-tres-dias-del-terremoto-solidaridad-ciudadana-empuja-la-carrera-por-salvar-vidas/",
+      "published_date": "2026-06-28T02:00:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Croatia beat efficient Ghana 2-1 to take second place in Group L",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/croacia-vencio-a-la-eficiente-ghana-2-1-para-quedarse-con-el-segundo-lugar-del-grupo-l/",
-      "published_date": "2026-06-27T23:31:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They reported confiscation of supplies for those affected by earthquakes in Yaracuy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/denunciaron-confiscacion-de-insumos-para-afectados-por-terremotos-en-yaracuy/",
-      "published_date": "2026-06-27T23:18:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "David Ortiz and the Red Sox activate aid fund for victims of the earthquake in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/david-ortiz-y-los-medias-rojas-activan-fondo-de-ayuda-para-victimas-del-terremoto-en-venezuela/",
-      "published_date": "2026-06-27T22:58:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spanish military unit rescued the second survivor alive in the La Guaira building",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/unidad-militar-espanola-rescato-con-vida-a-segundo-sobreviviente-en-edificio-de-la-guaira/",
-      "published_date": "2026-06-27T22:56:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provea urged Delcy Rodríguez to guarantee a response \"proportionate to the magnitude of the tragedy\" due to the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/provea-insto-a-delcy-rodriguez-garantizar-una-respuesta-proporcional-a-la-magnitud-de-la-tragedia-por-los-terremotos/",
-      "published_date": "2026-06-27T22:43:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They activated the VenApp platform and a telephone line to report missing people after the double earthquake",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/activaron-la-plataforma-venapp-y-una-linea-telefonica-para-reportar-personas-desaparecidas-tras-el-doble-terremoto/",
-      "published_date": "2026-06-27T22:13:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado requested US support to return to Venezuela, according to Reuters",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/maria-corina-machado-solicito-el-apoyo-de-eeuu-para-regresar-a-venezuela-segun-reuters/",
-      "published_date": "2026-06-27T22:06:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tucacas in emergency: eight deaths due to the collapse of La Mar Suite amid seismic aftershocks",
+      "title": "La Guaira | They confirm the discovery of the bodies of the family of Argentine soccer player Lucas Trejo",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/tucacas-en-emergencia-ascienden-a-ocho-los-fallecidos-por-colapso-de-la-mar-suite-en-medio-de-replicas-sismicas/",
-      "published_date": "2026-06-27T22:01:04Z",
+      "url": "https://elpitazo.net/regiones/la-guaira-confirman-hallazgo-de-los-cuerpos-de-la-familia-del-futbolista-argentino-lucas-trejo/",
+      "published_date": "2026-06-28T01:59:48Z",
       "category": "Local Events"
     },
     {
-      "title": "NGOs demand respect for human rights in the face of the militarization of La Guaira",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/612737/ong-exigen-respeto-a-los-derechos-humanos-ante-la-militarizacion-de-la-guaira/",
-      "published_date": "2026-06-27T21:51:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avalanche of donations forced to pause collection of supplies for Venezuelans affected by earthquakes in Madrid",
+      "title": "Colombia tied with Portugal and will face Ghana in the next phase",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/avalancha-de-donaciones-obligo-a-pausar-recoleccion-de-insumos-para-venezolanos-afectados-por-terremotos-en-madrid/",
-      "published_date": "2026-06-27T21:40:36Z",
+      "url": "https://www.elnacional.com/2026/06/colombia-empato-con-portugal-y-enfrentara-a-ghana-en-la-siguiente-fase/",
+      "published_date": "2026-06-28T01:50:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Delfines de La Guaira players lose their wives: they were trapped in the Eduard's Hotel",
+      "title": "Caracas | Between pain and solidarity: survivors in Pinto Salinas rescue their belongings from the rubble",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/peloteros-de-delfines-de-la-guaira-pierden-a-sus-esposas-quedaron-atrapadas-en-el-hotel-eduards/",
-      "published_date": "2026-06-27T21:33:36Z",
+      "url": "https://elpitazo.net/regiones/caracas-entre-el-dolor-y-la-solidaridad-sobrevivientes-en-pinto-salinas-rescatan-sus-pertenencias-de-los-escombros/",
+      "published_date": "2026-06-28T01:43:42Z",
       "category": "Local Events"
     },
     {
-      "title": "Volunteers requested tools and vaccines to continue rescue work at the Tucacas hotel complex",
+      "title": "Juan Pablo Guanipa denounced that the health center called \"Hugo Chávez\" is closed despite the earthquake emergency",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/voluntarios-solicitaron-herramientas-y-vacunas-para-continuar-labores-de-salvamento-en-complejo-hotelero-de-tucacas/",
-      "published_date": "2026-06-27T21:28:58Z",
+      "url": "https://www.elnacional.com/2026/06/juan-pablo-guanipa-denuncio-que-centro-de-salud-llamado-hugo-chavez-esta-cerrado-pese-emergencia-por-terremotos/",
+      "published_date": "2026-06-28T00:54:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Pope Leo XIV urged the international community to help Venezuela after the earthquakes",
+      "title": "The drama of the families who tour the hospitals of Caracas after the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/papa-leon-xiv-exhorto-a-comunidad-internacional-ayudar-a-venezuela-tras-los-terremotos/",
-      "published_date": "2026-06-27T21:21:58Z",
+      "url": "https://www.elnacional.com/2026/06/el-drama-de-las-familias-que-recorren-los-hospitales-de-caracas-tras-los-terremotos/",
+      "published_date": "2026-06-28T00:27:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Wave of solidarity overflows collection center in Doral to assist earthquake victims",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/612727/ola-de-solidaridad-desborda-centro-de-acopio-en-doral-para-asistir-a-las-victimas-de-los-terremotos/",
-      "published_date": "2026-06-27T21:18:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They inspected the Caracas-La Guaira viaducts after earthquakes and ruled out structural failures",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/inspeccionaron-los-viaductos-de-la-caracas-la-guaira-tras-terremotos-y-descartaron-fallas-estructurales/",
-      "published_date": "2026-06-27T21:06:43Z",
+      "title": "US rescue team saves baby trapped in collapsed building in La Guaira",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/un-equipo-de-rescate-de-ee-uu-salva-a-un-bebe-atrapado-en-un-edificio-colapsado-en-la-guaira/",
+      "published_date": "2026-06-28T00:14:35Z",
       "category": "Local Events"
     }
   ]
