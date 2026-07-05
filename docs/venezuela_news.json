@@ -1,7 +1,63 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-05T00:08:34Z",
+  "last_updated": "2026-07-05T12:20:07Z",
   "stories": [
+    {
+      "title": "Portuguese Ambassador gave Cristiano Ronaldo's shirt to Hernán Gil, the vigilante who survived the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/embajador-de-portugal-entrego-camiseta-de-cristiano-ronaldo-a-hernan-gil-el-vigilante-que-sobrevivio-a-los-terremotos/",
+      "published_date": "2026-07-05T12:16:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Laureano Márquez highlights in his message for July 5 to Venezuelan civility",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/laureano-marquez-destaca-en-su-mensaje-por-el-5-de-julio-a-la-civilidad-venezolana/",
+      "published_date": "2026-07-05T11:34:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Surviving the night, the other tragedy in La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/sobrevivir-a-la-noche-la-otra-tragedia-en-la-guaira/",
+      "published_date": "2026-07-05T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The two earthquakes of June 24 impose additional challenges on the economic level",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/los-dos-terremotos-del-24-de-junio-imponen-desafios-adicionales-en-el-plano-economico/",
+      "published_date": "2026-07-05T06:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela outside the Constitution and with democracy postponed: six months without Maduro",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/venezuela-constitucion-democracia-pospuesta-seis-meses-maduro/",
+      "published_date": "2026-07-05T06:36:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Teacher asks for support to rescue the bodies of his mother-in-law and a neighbor from under his house",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/613700/docente-pide-apoyo-para-rescatar-los-cuerpos-de-su-suegra-y-un-vecino-de-debajo-de-su-casa/",
+      "published_date": "2026-07-05T02:44:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Field hospital with Spanish cooperation began operating in Parque del Este",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/hospital-de-campana-comenzo-a-operar-en-parque-del-este/",
+      "published_date": "2026-07-05T00:56:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "France suffered to defeat Paraguay and will face Morocco in the quarterfinals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/francia-sufrio-con-paraguay-pero-se-cita-con-marruecos-en-cuartos/",
+      "published_date": "2026-07-05T00:23:44Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Delcy Rodríguez asked international NGOs to coordinate their work in Venezuela with the Foreign Ministry",
       "source": "El Nacional",
@@ -87,60 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Canada wants to extend its stay at the World Cup against a Morocco stretched to the limit",
+      "title": "New York celebrated US Independence with a display of power and a naval and air parade",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/canada-quiere-alargar-su-estadia-en-el-mundial-ante-un-marruecos-exigido-al-limite/",
-      "published_date": "2026-07-04T01:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Argentina wins by suffering against Cape Verde and secures its ticket to the round of 16",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/argentina-gana-sufriendo-a-cabo-verde-y-asegura-su-boleto-a-los-octavos/",
-      "published_date": "2026-07-04T01:06:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rescuers and international press stranded by the Consulate of Cúcuta",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613533/rescatistas-y-prensa-internacional-varados-por-consulado-de-cucuta/",
-      "published_date": "2026-07-04T00:32:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Simón Calzadilla: “Eight days after the earthquakes, support for the victims must be sustained”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/simon-calzadilla-a-8-dias-de-los-terremotos-el-apoyo-a-los-damnificados-debe-sostenerse/",
-      "published_date": "2026-07-03T23:46:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The slow recovery of bodies exasperates Venezuelans",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-lenta-recuperacion-de-cadaveres-exaspera-a-los-venezolanos/",
-      "published_date": "2026-07-03T23:41:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Humanitarian mission leaves Argentina for Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/",
-      "published_date": "2026-07-03T23:36:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Humanitarian mission leaves Argentina for Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613513/mision-humanitaria-parte-de-argentina-hacia-venezuela/",
-      "published_date": "2026-07-03T23:36:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"Earthquakes mark countries for decades and the emotional consequences are carried forever\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/los-terremotos-marcan-a-los-paises-durante-decadas-y-las-consecuencias-emocionales-se-llevan-para-siempre/",
-      "published_date": "2026-07-03T23:05:05Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/nueva-york-celebro-independencia-de-ee-uu-con-muestra-de-poder-y-desfile-naval-y-aereo/",
+      "published_date": "2026-07-05T00:45:24Z",
+      "category": "Military"
     },
     {
       "title": "Ancelotti warns that in Brazil “There is no anti-Haaland plan”",
@@ -273,13 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/ee-uu-mantiene-enfoque-humanitario-en-venezuela-y-elude-pronunciarse-sobre-el-regreso-de-maria-corina-machado/",
       "published_date": "2026-07-02T23:04:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Why was Franklin Virgüez arrested in Florida? this is what the police report says",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/por-que-arrestaron-a-franklin-virguez-en-florida-esto-dice-el-reporte-policial/",
-      "published_date": "2026-07-02T22:47:58Z",
       "category": "Military"
     },
     {
@@ -563,6 +563,132 @@
       "category": "Economy"
     },
     {
+      "title": "The character of the Venezuelan, the building that did not collapse",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/613687/el-caracter-del-venezolano-el-edificio-que-no-se-derrumbo/",
+      "published_date": "2026-07-05T12:07:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chacao Mayor's Office agreed with the banking and insurance sector to support the recovery of infrastructure affected by the seismic doublet",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/alcaldia-de-chacao-acordo-con-la-banca-y-sector-seguros-apoyar-en-recuperacion-de-infraestructuras-afectadas-por-doblete-sismico/",
+      "published_date": "2026-07-05T11:59:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The harsh story of an earthquake survivor who lost her father and was rescued from the rubble in Chacao",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-duro-relato-de-una-sobreviviente-de-los-terremotos-que-perdio-a-su-padre-y-fue-rescatada-entre-los-escombros/",
+      "published_date": "2026-07-05T11:50:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Humanitarian mission of the Archdiocese of Barquisimeto intensifies aid in La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/mision-humanitaria-de-la-arquidiocesis-de-barquisimeto-intensifica-ayuda-en-la-guaira/",
+      "published_date": "2026-07-05T11:45:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor of La Guaira estimates that at least 750 buildings were affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gobernador-de-la-guaira-calcula-que-al-menos-750-edificios-resultaron-afectados-por-los-terremotos/",
+      "published_date": "2026-07-05T11:35:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez announced economic measures to help families affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-anuncio-medidas-economicas-para-ayudar-a-las-familias-afectadas-por-los-terremotos/",
+      "published_date": "2026-07-05T11:18:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The “bridges” of San Juan",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/los-puentes-de-san-juan/",
+      "published_date": "2026-07-05T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environment analysis: The black swan that ended the governance of Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/analisis-de-entorno-el-cisne-negro-que-acabo-con-la-gobernabilidad-de-delcy-rodriguez/",
+      "published_date": "2026-07-05T10:41:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The first 48 hours",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/las-primeras-48-horas/",
+      "published_date": "2026-07-05T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Armando.Info: Hugo Chávez's dream was swallowed by the earth",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/armando-info-al-sueno-de-hugo-chavez-se-lo-trago-la-tierra/",
+      "published_date": "2026-07-05T09:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The disaster is a wound that does not heal in La Guaira: Rogelio Altez",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/el-desastre-es-una-herida-que-no-cierra-en-la-guaira-rogelio-altez/",
+      "published_date": "2026-07-05T06:56:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelan seismic network collapses: Raúl Estévez analyzes the impact and proposes solutions for the country",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/colapsa-la-red-sismica-venezolana-raul-estevez-analiza-el-impacto-y-propone-soluciones-para-el-pais/",
+      "published_date": "2026-07-05T06:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Machado fights return with interim position and the US: New challenges arise, analysts say",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/machado-pelea-regreso-con-interinato-y-eeuu-se-plantean-nuevos-desafios-dicen-analistas/",
+      "published_date": "2026-07-05T06:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caracas in a forced normality ten days after the earthquake",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/caracas-en-una-forzada-normalidad-a-diez-dias-del-terremoto/",
+      "published_date": "2026-07-05T03:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez announces the Great Rebirth Mission for the reconstruction of homes",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/delcy-rodriguez-anuncia-la-gran-mision-renace-para-reconstruccion-de-viviendas/",
+      "published_date": "2026-07-05T02:21:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANOVA: replacing housing infrastructure in La Guaira will cost between 2% and 3% of GDP",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/613651/anova-reponer-infraestructura-habitacional-en-la-guaira-costara-entre-2-y-3-del-pib/",
+      "published_date": "2026-07-05T01:05:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hernán Gil asks the rescuers not to faint in the search",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/hernan-gil-rescatistas-no-desmayar-busqueda/",
+      "published_date": "2026-07-05T00:20:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Two hospitals in Caracas are disabled due to damage to their infrastructure after the earthquakes",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/613688/dos-hospitales-en-caracas-estan-inhabilitados-por-danos-en-su-infraestructura-tras-los-terremotos/",
+      "published_date": "2026-07-05T00:14:44Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Survivor Hernán Gil receives a Portugal jersey signed by Cristiano Ronaldo",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/deportes/sobreviviente-hernan-gil-recibe-franela-de-portugal-firmada-por-cristiano-ronaldo/",
@@ -574,132 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/borrador-automaticosntp-confirmo-la-muerte-de-siete-trabajadores-de-la-prensa-tras-terremotos-en-venezuela/",
       "published_date": "2026-07-05T00:00:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mexico will seek to \"make Kane uncomfortable\" to increase its chances against England",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/mexico-buscara-incomodar-a-kane-para-aumentar-sus-posibilidades-contra-inglaterra/",
-      "published_date": "2026-07-04T23:52:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Antonio Ecarri highlights the 250 years of US independence and thanks the support after the earthquake in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/antonio-ecarri-destaca-los-250-anos-de-independencia-de-ee-uu-y-agradece-el-apoyo-tras-el-terremoto-en-venezuela/",
-      "published_date": "2026-07-04T23:45:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eliézer Alfonzo Jr. will debut with the Dodgers in the most difficult moment of his life: they are looking for his sister in La Guaira",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/eliezer-alfonzo-jr-debutara-con-los-dodgers-en-el-momento-mas-dificil-de-su-vida-buscan-a-su-hermana-en-la-guaira/",
-      "published_date": "2026-07-04T22:55:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelans in Argentina and UNHCR create solidarity network to help victims of the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/venezolanos-en-argentina-y-acnur-crean-red-solidaria-para-ayudar-a-damnificados-por-los-terremotos/",
-      "published_date": "2026-07-04T22:42:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SNTP confirms the death of seven press workers due to the earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sntp-confirma-la-muerte-de-siete-trabajadores-de-la-prensa-por-los-terremotos/",
-      "published_date": "2026-07-04T22:38:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SPB confirmed the death of the player Gilberto Hernández",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/spb-confirmo-el-fallecimiento-del-jugador-gilberto-hernandez/",
-      "published_date": "2026-07-04T22:25:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least seven journalists died in the earthquakes and three others are missing",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613664/al-menos-siete-periodistas-murieron-por-los-terremotos-y-otros-tres-estan-desaparecidos/",
-      "published_date": "2026-07-04T22:17:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Luis López, the journalist who documents every corner of La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/luis-lopez-el-periodista-que-documenta-todos-los-rincones-de-la-guaira/",
-      "published_date": "2026-07-04T22:08:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rescued who do not appear: they search for survivors whose trace was lost in hospitals",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/613662/rescatados-que-no-aparecen-buscan-a-sobrevivientes-cuyo-rastro-se-perdio-en-hospitales/",
-      "published_date": "2026-07-04T22:07:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US Southern Command deploys air contingency element in Maiquetía to expedite humanitarian aid",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/comando-sur-de-ee-uu-despliega-elemento-de-contingencia-aerea-en-maiquetia-para-agilizar-ayuda-humanitaria/",
-      "published_date": "2026-07-04T22:01:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The US celebrates its Independence Day honoring its nation's support for Venezuelans in the midst of tragedy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ee-uu-celebra-su-dia-de-la-independencia-honrando-el-apoyo-de-su-nacion-a-los-venezolanos-en-medio-de-la-tragedia/",
-      "published_date": "2026-07-04T21:28:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "10 days after the double earthquake, 2,954 deaths have been recorded",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/a-10-dias-del-doble-terremoto-se-han-registrado-2-954-fallecidos/",
-      "published_date": "2026-07-04T21:26:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "120 hours under the rubble: Carlos Miguel Colmenares, the boy who did not lose his cool",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/120-horas-bajo-los-escombros-carlos-miguel-colmenares-el-nino-que-no-perdio-la-calma/",
-      "published_date": "2026-07-04T21:01:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jonas Vingegaard wears yellow on the first day of the Tour de France",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/jonas-vingegaard-se-viste-de-amarillo-en-el-primer-dia-del-tour-de-francia/",
-      "published_date": "2026-07-04T21:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "An educational network to learn to live in a seismic country, proposes expert Virginia Jiménez",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/una-red-educativa-para-aprender-a-vivir-en-un-pais-sismico-propone-la-experta-virginia-jimenez/",
-      "published_date": "2026-07-04T20:51:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump criticized the immigration police of European countries",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/trump-critico-a-la-policia-migratoria-de-paises-europeos/",
-      "published_date": "2026-07-04T20:48:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelans fear losing remains of their deceased in earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/venezolanos-temen-perder-restos-de-sus-fallecidos-en-terremotos/",
-      "published_date": "2026-07-04T20:31:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fake bonds and credits for victims circulate on social networks after the earthquakes in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/bonos-y-creditos-falsos-para-damnificados-circulan-en-redes-sociales-luego-de-los-terremotos-en-venezuela/",
-      "published_date": "2026-07-04T20:22:57Z",
       "category": "Local Events"
     }
   ]
