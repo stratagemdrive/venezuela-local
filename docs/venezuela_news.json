@@ -1,7 +1,63 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-06T00:14:45Z",
+  "last_updated": "2026-07-06T14:28:50Z",
   "stories": [
+    {
+      "title": "Judge orders Petro to suspend bombings on the border with Venezuela to protect minors",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/juez-ordena-a-petro-suspender-bombardeos-en-frontera-con-venezuela-para-proteger-menores/",
+      "published_date": "2026-07-06T13:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They report the disappearance of a seismic sensor that monitors the Boconó fault",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/denuncian-desaparicion-de-un-sensor-sismico-que-monitorea-la-falla-de-bocono/",
+      "published_date": "2026-07-06T13:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas dissolves its governing body in Gaza",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/hamas-disuelve-su-organo-de-gobierno-en-gaza/",
+      "published_date": "2026-07-06T11:40:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump thanks FIFA for suspending the sanction on US star Folarin Balogun, who will now be able to play against Belgium in the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/trump-agradece-a-la-fifa-por-suspender-la-sancion-a-la-estrella-de-ee-uu-folarin-balogun-que-ahora-podra-jugar-contra-belgica-en-el-mundial/",
+      "published_date": "2026-07-06T10:31:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy's government asks the UNDP for its support to promote housing programs after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gobieno-de-delcy-pide-al-pnud-su-apoyo-para-impulsar-programas-de-vivienda-tras-los-terremotos/",
+      "published_date": "2026-07-06T10:17:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "George Clooney will receive the Golden Lion for his career",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/george-clooney-recibira-el-leon-de-oro-por-su-trayectoria/",
+      "published_date": "2026-07-06T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "England sweated to beat the brave Mexico and took a step forward",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/inglaterra-sudo-para-vencer-a-la-aguerrida-mexico-y-dio-un-paso-adelante/",
+      "published_date": "2026-07-06T03:33:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The two earthquakes of June 24 impose additional challenges on the economic level",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/los-dos-terremotos-del-24-de-junio-imponen-desafios-adicionales-en-el-plano-economico/",
+      "published_date": "2026-07-06T01:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Survivor of the earthquakes \"I came from Haiti to study and I lived in fear that June 24\"",
       "source": "El Pitazo",
@@ -87,65 +143,16 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Portuguese Ambassador gave Cristiano Ronaldo's shirt to Hernán Gil, the vigilante who survived the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/embajador-de-portugal-entrego-camiseta-de-cristiano-ronaldo-a-hernan-gil-el-vigilante-que-sobrevivio-a-los-terremotos/",
-      "published_date": "2026-07-05T12:16:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Laureano Márquez highlights in his message for July 5 to Venezuelan civility",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/laureano-marquez-destaca-en-su-mensaje-por-el-5-de-julio-a-la-civilidad-venezolana/",
-      "published_date": "2026-07-05T11:34:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Surviving the night, the other tragedy in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/sobrevivir-a-la-noche-la-otra-tragedia-en-la-guaira/",
-      "published_date": "2026-07-05T08:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The two earthquakes of June 24 impose additional challenges on the economic level",
+      "title": "US Marines work with Venezuelan air traffic controllers at Simón Bolívar Airport",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/los-dos-terremotos-del-24-de-junio-imponen-desafios-adicionales-en-el-plano-economico/",
-      "published_date": "2026-07-05T06:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela outside the Constitution and with democracy postponed: six months without Maduro",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/venezuela-constitucion-democracia-pospuesta-seis-meses-maduro/",
-      "published_date": "2026-07-05T06:36:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Teacher asks for support to rescue the bodies of his mother-in-law and a neighbor from under his house",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/613700/docente-pide-apoyo-para-rescatar-los-cuerpos-de-su-suegra-y-un-vecino-de-debajo-de-su-casa/",
-      "published_date": "2026-07-05T02:44:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Field hospital with Spanish cooperation began operating in Parque del Este",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/hospital-de-campana-comenzo-a-operar-en-parque-del-este/",
-      "published_date": "2026-07-05T00:56:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "France suffered to defeat Paraguay and will face Morocco in the quarterfinals",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/francia-sufrio-con-paraguay-pero-se-cita-con-marruecos-en-cuartos/",
-      "published_date": "2026-07-05T00:23:44Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/uncategorized/marines-estadounidenses-trabajan-con-controladores-aereos-venezolanos-en-el-aeropuerto-simon-bolivar/",
+      "published_date": "2026-07-06T00:10:29Z",
+      "category": "Military"
     },
     {
       "title": "US Marines work with Venezuelan air traffic controllers at Simón Bolívar Airport",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/uncategorized/marines-estadounidenses-trabajan-con-controladores-aereos-venezolanos-en-el-aeropuerto-simon-bolivar/",
+      "url": "https://efectococuyo.com/la-humanidad/marines-estadounidenses-trabajan-con-controladores-aereos-venezolanos-en-el-aeropuerto-simon-bolivar/",
       "published_date": "2026-07-06T00:10:29Z",
       "category": "Military"
     },
@@ -154,6 +161,20 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/delcy-rodriguez-fanb-denuncia-uso-doble-sismo-5-julio/",
       "published_date": "2026-07-05T22:59:51Z",
+      "category": "Military"
+    },
+    {
+      "title": "\"God bless Venezuela\": Juan Luis Guerra's message during his concert in Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/dios-bendiga-a-venezuela-el-mensaje-de-juan-luis-guerra-durante-su-concierto-en-espana/",
+      "published_date": "2026-07-05T22:43:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Delcy Rodríguez assured that \"there will be no social outbreak\" in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-aseguro-que-no-habra-estallido-social-en-venezuela/",
+      "published_date": "2026-07-05T21:46:00Z",
       "category": "Military"
     },
     {
@@ -262,25 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Electoral Jury makes official the triumph of Keiko Fujimori as president-elect of Peru",
+      "title": "Eliézer Alfonzo Jr. debuted in MLB: “I went out there in honor of my sister and my stepmother”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/jurado-electoral-oficializa-triunfo-de-keiko-fujimori-como-presidenta-electa-de-peru/",
-      "published_date": "2026-07-03T20:45:07Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/eliezer-alfonzo-jr-debuto-en-mlb-sali-ahi-en-honor-a-mi-hermana-y-mi-madrastra/",
+      "published_date": "2026-07-06T12:42:47Z",
+      "category": "Energy"
     },
     {
-      "title": "The business behind the pedals: the millionaire figures that drive the Tour de France 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-negocio-detras-de-los-pedales-las-millonarias-cifras-que-mueven-al-tour-de-francia-2026/",
-      "published_date": "2026-07-03T14:58:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Vatican excommunicates the rebellious bishops of the Lefebvrian group and warns their thousands of followers",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-vaticano-excomulga-a-los-obispos-rebeldes-del-grupo-de-los-lefebvrianos-y-advierte-a-sus-miles-de-seguidores/",
-      "published_date": "2026-07-03T11:48:00Z",
-      "category": "Military"
+      "title": "Tragedy after tragedy",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/613789/desaparicion-de-menores/",
+      "published_date": "2026-07-06T04:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Power Maps | What do they get from the Vargas ruins?",
@@ -409,18 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Ecuador wants to spoil Mexico's party at the Azteca",
+      "title": "Delcy Rodríguez complains against Víctor de Aldama for \"the envelope\" to finance the PSOE",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/ecuador-quiere-amargar-la-fiesta-de-mexico-en-el-azteca/",
-      "published_date": "2026-06-30T02:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Keiko Fujimori is elected president of Peru",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/06/keiko-fujimori-es-electa-presidenta-de-peru/",
-      "published_date": "2026-06-29T22:25:25Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-se-querella-contra-victor-de-aldama-por-el-sobre-para-financiar-el-psoe/",
+      "published_date": "2026-07-06T09:56:38Z",
+      "category": "Economy"
     },
     {
       "title": "Banks will begin selling dollars in cash after the arrival of remittances to the country",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "80% of the shopping centers in Caracas are operated by pharmacies and supermarkets",
+      "title": "Saving lives at the cost of everything: the mandate of hospitals in the midst of tragedy",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/80-de-los-centros-comerciales-de-caracas-estan-operativos-por-farmacias-y-automercados/",
-      "published_date": "2026-07-01T14:05:58Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/la-humanidad/salvar-vidas-a-costa-de-todo-el-mandato-de-los-hospitales-en-medio-de-la-tragedia/",
+      "published_date": "2026-07-06T14:24:21Z",
+      "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez relieves Jacqueline Faría and appoints Francisco Garcés as Minister of Transportation",
+      "title": "In keys: What happened to the Venezuelan seismological network? Figures and responsibilities according to Raúl Estévez",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/en-claves-que-paso-con-la-red-sismologica-de-venezuela-cifras-y-responsabilidades-segun-raul-estevez/",
+      "published_date": "2026-07-06T14:03:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Four people are rescued alive from the rubble of the OPP Caribe in La Guaira",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-releva-a-jacqueline-faria-y-nombra-a-francisco-garces-como-ministro-de-transporte/",
-      "published_date": "2026-07-05T23:53:00Z",
+      "url": "https://www.elnacional.com/2026/07/rescatan-a-cuatro-personas-con-vida-entre-los-escombros-de-la-opp-caribe-en-la-guaira/",
+      "published_date": "2026-07-06T13:54:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Damaged by earthquakes received help from Panama before traveling to Maturín: the sensor that the mayor reported was in the products",
+      "title": "Mayor of Panama tracks humanitarian aid sent to Venezuela to be accountable to donors",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/damnificada-por-terremotos-recibio-ayuda-de-panama-antes-de-viajar-a-maturin-en-los-productos-estaba-el-sensor-que-denuncio-el-alcalde/",
-      "published_date": "2026-07-05T23:51:01Z",
+      "url": "https://elpitazo.net/internacional/alcalde-de-panama-rastrea-ayuda-humanitaria-enviada-a-venezuela-para-rendir-cuentas-a-donantes/",
+      "published_date": "2026-07-06T13:53:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Garcés repeats in Transportation and Faría assumes the Venezuela Renace Mission",
+      "title": "Impact of the earthquakes leaves the Periférico de Coche and Ríquez hospitals disabled",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/inhabilitados-los-hospitales-periferico-de-coche-y-el-risquez/",
+      "published_date": "2026-07-06T13:33:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US search and rescue teams withdraw from Venezuela 12 days after earthquakes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/equipos-estadounidenses-de-busqueda-y-rescate-se-retiran-de-venezuela-a-12-dias-de-los-terremotos/",
+      "published_date": "2026-07-06T13:29:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iberia will resume regular flights with Venezuela on July 9 after earthquakes",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/iberia-retomara-el-9-de-julio-vuelos-regulares-con-venezuela-tras-terremotos/",
+      "published_date": "2026-07-06T13:26:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chacao under threat: the seismic fragility of a city that is breaking",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/chacao-bajo-amenaza-la-fragilidad-sismica-de-una-ciudad-que-se-rompe/",
+      "published_date": "2026-07-06T13:23:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Caracas to Bogotá, the long shadow of Havana on Latin American power",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/de-caracas-a-bogota-la-larga-sombra-de-la-habana-sobre-el-poder-latinoamericano/",
+      "published_date": "2026-07-06T12:39:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iberia announces that it will resume flights to Venezuela on July 9",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/iberia-anuncia-que-retoma-vuelos-a-venezuela-el-9-de-julio/",
+      "published_date": "2026-07-06T12:37:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Those affected by the earthquakes in La Guaira move to other states of the country",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/afectados-por-los-terremotos-en-la-guaira-se-desplazan-hacia-otros-estados-del-pais/",
+      "published_date": "2026-07-06T12:17:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US congressmen call for a new TPS for Venezuelans after the devastating earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/congresistas-estadounidenses-piden-un-nuevo-tps-para-venezolanos-tras-los-devastadores-terremotos/",
+      "published_date": "2026-07-06T12:04:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of July 6: There are already more than 3,000 deaths from the earthquakes in Venezuela",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613779/garces-repite-en-transporte-y-faria-asume-la-mision-venezuela-renace/",
-      "published_date": "2026-07-05T23:43:58Z",
+      "url": "https://runrun.es/noticias/613795/el-mananero-del-6-de-julio-ya-son-mas-de-3000-los-fallecidos-por-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-06T11:54:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez replaces the Minister of Transportation in the midst of an emergency due to the earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-sustituye-a-la-ministra-de-transporte-en-plena-emergencia-por-los-terremotos/",
-      "published_date": "2026-07-05T23:36:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francisco Garcés returns to the Ministry of Transportation and Jacqueline Faría goes to the Great Mission Venezuela Reborn",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/francisco-garces-vuelve-al-ministerio-de-transporte-y-jacqueline-faria-pasa-a-la-gran-mision-venezuela-renace/",
-      "published_date": "2026-07-05T23:33:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former candidate Roberto Sánchez calls Fujimori's presidential victory in Peru illegitimate",
+      "title": "Caracas cautiously tries to regain its rhythm",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/excandidato-roberto-sanchez-tacha-de-ilegitimo-el-triunfo-presidencial-de-fujimori-en-peru/",
-      "published_date": "2026-07-05T23:21:22Z",
+      "url": "https://www.elnacional.com/2026/07/caracas-intenta-recuperar-el-ritmo-con-cautela/",
+      "published_date": "2026-07-06T11:51:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Captain of the National Volleyball Team died along with his family after the earthquakes",
+      "title": "Neymar will not play for the Brazil national team again: “It ends here”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/hallaron-sin-vida-al-capitan-de-la-seleccion-nacional-de-voleibol-y-su-familia/",
-      "published_date": "2026-07-05T23:07:42Z",
+      "url": "https://www.elnacional.com/2026/07/neymar-no-volvera-a-jugar-con-la-seleccion-de-brasil-se-termina-aqui/",
+      "published_date": "2026-07-06T11:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Official figures: 3,342 dead, 16,740 injured and 17,345 victims within 11 days of earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/cifras-oficiales-3-342-fallecidos-16-740-heridos-y-17-345-damnificados-a-11-dias-de-sismos/",
-      "published_date": "2026-07-05T22:48:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They denounce that machinery for rescue work in La Guaira \"is stopped\"",
+      "title": "Delcy Rodríguez makes changes to her cabinet as Venezuela takes on the search for bodies",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/denuncian-que-maquinas-para-labores-de-rescate-en-la-guaira-estan-paradas/",
-      "published_date": "2026-07-05T22:23:10Z",
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-hace-cambios-en-su-gabinete-mientras-venezuela-asume-busqueda-de-cuerpos/",
+      "published_date": "2026-07-06T10:52:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Earthquakes in Venezuela: 3,342 people dead and 16,740 injured",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/terremotos-en-venezuela-3-342-personas-fallecidas-y-a-16-740-los-heridos/",
-      "published_date": "2026-07-05T22:19:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Guaira | Ex-grandeliga Eliézer Alfonzo finds the bodies of his wife and daughter",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/la-guaira-exgrandeliga-eliezer-alfonzo-encuentra-los-cuerpos-de-su-esposa-e-hija/",
-      "published_date": "2026-07-05T22:15:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When the earth shook in Venezuela, hospitals resisted thanks to their staff",
+      "title": "Minions & Monsters leads the global box office",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/cuando-la-tierra-temblo-en-venezuela-los-hospitales-resistieron-gracias-a-su-personal/",
-      "published_date": "2026-07-05T22:14:53Z",
+      "url": "https://www.elnacional.com/2026/07/minions-monsters-lidera-la-taquilla-global/",
+      "published_date": "2026-07-06T09:01:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Crisis of victims in Carora overwhelms the response capacity of the local Church",
+      "title": "Beyoncé released the song \"Morning Dew (Donk)\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/crisis-de-damnificados-en-carora-desborda-capacidad-de-respuesta-de-la-iglesia-local/",
-      "published_date": "2026-07-05T22:07:28Z",
+      "url": "https://www.elnacional.com/2026/07/beyonce-estreno-la-cancion-morning-dew-donk/",
+      "published_date": "2026-07-06T09:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Official toll due to earthquakes in Venezuela increases to more than 3,340 deaths and 16,740 injuries",
+      "title": "Mayor of Panama called for caution after detecting humanitarian aid sent from his country in Maturín",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/balance-oficial-por-terremotos-en-venezuela-aumenta-a-mas-de-3-340-fallecidos-y-16-740-heridos/",
-      "published_date": "2026-07-05T22:06:32Z",
+      "url": "https://www.elnacional.com/2026/07/alcalde-de-panama-llamo-a-la-prudencia-tras-detectar-ayuda-humanitaria-enviada-desde-su-pais-en-maturin/",
+      "published_date": "2026-07-06T00:57:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Keys | Debris from earthquakes should not be thrown into the sea: we tell you why",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/claves-escombros-de-los-terremotos-no-deben-lanzarse-al-mar-te-contamos-por-que/",
-      "published_date": "2026-07-05T21:44:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Report July 5: deaths from earthquakes reach 3,342",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613756/reporte-5-de-julio-muertes-por-terremotos-llegan-a-3-342/",
-      "published_date": "2026-07-05T21:35:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provea estimated that losses from earthquakes in Venezuela could amount to $37 billion",
+      "title": "The UCV held a vigil \"A light for Venezuela\" to honor the more than 3,000 victims of the double earthquake",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/provea-estimo-que-perdidas-por-terremotos-en-venezuela-podrian-ascender-a-37-mil-millones/",
-      "published_date": "2026-07-05T21:33:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They recovered the bodies of journalist Melissa De Sousa and her mother in a collapsed building in Los Corales",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/recuperaron-los-cuerpos-de-la-periodista-melissa-de-sousa-y-su-madre-en-edificio-colapsado-de-los-corales/",
-      "published_date": "2026-07-05T21:26:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Carmelite Sisters receive children and mothers affected by the earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/hermanas-carmelitas-reciben-a-ninos-y-madres-damnificados-por-los-terremotos/",
-      "published_date": "2026-07-05T21:25:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor of Panama City denounced that humanitarian aid sent to La Guaira ended up in Maturín",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/alcalde-de-ciudad-de-panama-denuncio-que-ayuda-humanitaria-enviada-a-la-guaira-termino-en-maturin/",
-      "published_date": "2026-07-05T20:55:58Z",
+      "url": "https://www.elnacional.com/2026/07/la-ucv-realizo-vigilia-una-luz-por-venezuela-para-homenajear-a-las-mas-de-3-mil-victimas-del-doble-terremoto/",
+      "published_date": "2026-07-06T00:42:00Z",
       "category": "Local Events"
     }
   ]
