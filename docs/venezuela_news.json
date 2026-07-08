@@ -1,7 +1,21 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-08T00:05:29Z",
+  "last_updated": "2026-07-08T12:24:08Z",
   "stories": [
+    {
+      "title": "Relatives denounce abandonment of political prisoners after the double earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/familiares-denuncian-abandono-a-los-presos-politicos-tras-el-doble-terremoto/",
+      "published_date": "2026-07-08T10:40:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Sleeping in a tent is not life”, thanks to the wear and tear in shelters in La Guaira",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/dormir-en-carpa-no-es-vida-del-agradecimiento-al-desgaste-en-refugios/",
+      "published_date": "2026-07-08T02:24:40Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cuba progressively restores its electrical network",
       "source": "El Nacional",
@@ -20,6 +34,13 @@
       "title": "JEP: the post-earthquake emergency cannot erase the fact that 551 political prisoners are still detained",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/614025/jep-la-emergencia-post-terremotos-no-puede-borrar-que-551-presos-politicos-siguen-detenidos/",
+      "published_date": "2026-07-07T23:12:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JEP: The post-earthquake emergency cannot erase the fact that 551 political prisoners are still detained",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/614025/jep-la-emergencia-posterremotos-no-puede-borrar-que-551-presos-politicos-siguen-detenidos/",
       "published_date": "2026-07-07T23:12:21Z",
       "category": "Diplomacy"
     },
@@ -122,25 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Giannis Antetokounmpo arrived in Miami: the star said goodbye to the Bucks",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/giannis-antetokounmpo-llego-a-miami-la-estrella-se-despidio-de-los-bucks/",
-      "published_date": "2026-07-07T13:18:03Z",
-      "category": "Diplomacy"
+      "title": "Turning the sea into a rubble dump will have serious consequences, experts warn",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/convertir-el-mar-en-vertedero-de-escombros-tendra-graves-consecuencias-advierten-expertos/",
+      "published_date": "2026-07-08T00:56:11Z",
+      "category": "Military"
     },
     {
-      "title": "Abelardo de la Espriella suspends the transition with the Petro government",
+      "title": "Venezuelan Society of Oncology asks to guarantee cancer treatments after earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/abelardo-de-la-espriella-suspende-la-transicion-con-el-gobierno-de-petro/",
-      "published_date": "2026-07-07T12:45:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The first batch of Chinese humanitarian aid arrives in Venezuela after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/llega-a-venezuela-el-primer-lote-de-ayuda-humanitaria-china-tras-los-terremotos/",
-      "published_date": "2026-07-07T10:42:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/sociedad-venezolana-de-oncologia-pide-garantizar-tratamientos-contra-el-cancer-tras-terremotos/",
+      "published_date": "2026-07-08T00:46:09Z",
+      "category": "Military"
     },
     {
       "title": "OVP raises deaths in Venezuelan prisons to 34",
@@ -269,18 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez defends Fanb and denounces political use of the double earthquake in events on July 5",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-fanb-denuncia-uso-doble-sismo-5-julio/",
-      "published_date": "2026-07-05T22:59:51Z",
-      "category": "Military"
+      "title": "Oil price shoots up 6% along with new war tension between the US and Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/se-dispara-6-precio-del-petroleo-junto-con-nueva-tension-belica-entre-eeuu-e-iran/",
+      "published_date": "2026-07-08T12:13:01Z",
+      "category": "Energy"
     },
     {
-      "title": "\"God bless Venezuela\": Juan Luis Guerra's message during his concert in Spain",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/dios-bendiga-a-venezuela-el-mensaje-de-juan-luis-guerra-durante-su-concierto-en-espana/",
-      "published_date": "2026-07-05T22:43:00Z",
-      "category": "Military"
+      "title": "The severity of the crisis in Venezuela does not nullify the Constitution",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/614065/comite-cumplela-froilan-barrios/",
+      "published_date": "2026-07-08T09:04:35Z",
+      "category": "Energy"
     },
     {
       "title": "Earthquakes in Venezuela: how to know if it is safe to return home after a seismic doublet?",
@@ -409,18 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Blanca Rosa Mármol: “This Friday, July 3, the interim term ends; it is up to the citizens to assume power”",
+      "title": "Trump says Spain is a \"lost cause\" and calls for cutting all trade with the country",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/blanca-rosa-marmol-fin-interinato-venezuela/",
-      "published_date": "2026-07-02T21:22:24Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Members of El Cuartico joined aid efforts in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/integrantes-de-el-cuartico-se-sumaron-caracas-a-labores-de-ayuda/",
-      "published_date": "2026-07-02T18:40:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/trump-dice-que-espana-es-una-causa-perdida-y-pide-cortar-todo-el-comercio-con-el-pais/",
+      "published_date": "2026-07-08T10:56:30Z",
+      "category": "Economy"
     },
     {
       "title": "Who is Román Maniglia, the new head of tax collection in the Seniat",
@@ -556,11 +563,53 @@
       "category": "Economy"
     },
     {
-      "title": "Petro authorizes the extradition to Chile of \"Larry Changa\", co-founder of the Aragua Train",
+      "title": "The emergency cemetery in which Venezuela buries the dead after the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/petro-autoriza-la-extradicion-a-chile-de-larry-changa-cofundador-del-tren-de-aragua/",
-      "published_date": "2026-07-02T22:54:24Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/el-cementerio-de-emergencia-en-el-que-venezuela-entierra-a-los-muertos-tras-los-terremotos/",
+      "published_date": "2026-07-08T10:20:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "María Corina Machado congratulated Keiko Fujimori after her victory in Peru",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/maria-corina-machado-felicito-a-keiko-fujimori-tras-su-victoria-en-peru/",
+      "published_date": "2026-07-08T10:07:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Chavista tradition of blaming “laboratories” and not assuming responsibilities",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/chavismo-tradicion-evadir-responsabilidad-estado/",
+      "published_date": "2026-07-08T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Great matches in the quarterfinals! France and Morocco open the route to the semifinals on Thursday",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/partidazos-en-cuartos-francia-y-marruecos-abren-el-jueves-la-ruta-a-las-semifinales/",
+      "published_date": "2026-07-08T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump ends the ceasefire with Iran and calls its leaders \"garbage\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/trump-da-por-terminado-el-alto-el-fuego-con-iran-y-califica-de-basura-a-sus-lideres/",
+      "published_date": "2026-07-08T09:48:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Makers of broken destinies. Václav Havel (I)",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/614059/vaclav-havel/",
+      "published_date": "2026-07-08T07:11:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Witness was cited by mistake in trial against Cristina Fernández: \"They made the wrong choice about Juan Carlos Santos\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/testigo-fue-citado-por-error-en-juicio-contra-cristina-fernandez-se-equivocaron-de-juan-carlos-santos/",
+      "published_date": "2026-07-08T00:23:34Z",
+      "category": "Local Events"
     },
     {
       "title": "Abelardo de la Espriella appoints six new members of his next cabinet",
@@ -640,7 +689,7 @@
       "category": "Local Events"
     },
     {
-      "title": "The official figures of victims of the earthquakes of June 24 rise to 3,685 deaths and 16,740 injuries",
+      "title": "Deaths rise to 3,685 and injuries to 16,740, according to official figures",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/se-eleva-a-3-685-fallecidos-y-16-740-heridos-las-cifras-oficiales-de-victimas-de-terremotos-del-24-de-junio/",
       "published_date": "2026-07-07T21:59:28Z",
@@ -651,55 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/la-comunidad-de-madrid-anuncio-la-donacion-de-un-millon-de-euros-en-ayuda-humanitaria-para-venezuela/",
       "published_date": "2026-07-07T21:58:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Political prisoners are at risk and abandoned in the midst of the earthquake emergency",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/presos-politicos-estan-en-riesgo-y-abandono-en-medio-de-la-emergencia-por-los-terremotos/",
-      "published_date": "2026-07-07T21:54:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kyle Lowry signs one-day contract with Raptors and announces his retirement",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/kyle-lowry-firma-un-contrato-de-un-dia-con-los-raptors-y-anuncia-su-retiro/",
-      "published_date": "2026-07-07T21:54:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA appoints a team of Argentine referees for the match between France and Morocco",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/fifa-designa-a-equipo-de-arbitros-argentinos-para-el-partido-entre-francia-y-marruecos/",
-      "published_date": "2026-07-07T21:47:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conatel reports on effects on the Internet due to submarine cable breakage after earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/conatel-informa-sobre-afectaciones-en-internet-por-rotura-de-cable-submarino-tras-sismos/",
-      "published_date": "2026-07-07T21:05:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The number of Portuguese people killed by the earthquakes in Venezuela rises to 100",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/sube-a-100-el-numero-de-portugueses-fallecidos-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-07-07T21:03:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Between the mud and the losses: this is how the families of Chabasquén live a week after the floods",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/entre-el-barro-y-las-perdidas-asi-viven-las-familias-de-chabasquen-a-una-semana-de-las-inundaciones/",
-      "published_date": "2026-07-07T21:00:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hossam Hassan, Egypt coach: “We have suffered an injustice”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/hossam-hassan-seleccionador-de-egipto-hemos-sufrido-una-injusticia/",
-      "published_date": "2026-07-07T20:58:05Z",
       "category": "Local Events"
     }
   ]
