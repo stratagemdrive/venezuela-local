@@ -1,7 +1,126 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-07T13:23:35Z",
+  "last_updated": "2026-07-08T00:05:29Z",
   "stories": [
+    {
+      "title": "Cuba progressively restores its electrical network",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/cuba-restablece-de-forma-progresiva-su-red-electrica/",
+      "published_date": "2026-07-07T23:24:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Switzerland beat Colombia on penalties and returned to the quarterfinals after 72 years",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/suiza-vencio-a-colombia-en-los-penales-y-regreso-a-los-cuartos-de-final-despues-de-72-anos/",
+      "published_date": "2026-07-07T23:18:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "JEP: the post-earthquake emergency cannot erase the fact that 551 political prisoners are still detained",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/614025/jep-la-emergencia-post-terremotos-no-puede-borrar-que-551-presos-politicos-siguen-detenidos/",
+      "published_date": "2026-07-07T23:12:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Susana Raffalli asks to review the official number of those affected by the seismic double",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/susana-raffalli-pide-revisar-cifra-oficial-de-afectados-por-el-doblete-sismico/",
+      "published_date": "2026-07-07T22:20:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US reimposes sanctions on Iranian oil after attacks on ships in the Strait of Hormuz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/estados-unidos-restablece-sanciones-al-petroleo-irani-tras-ataques-contra-buques-en-el-estrecho-de-ormuz/",
+      "published_date": "2026-07-07T22:10:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Embassy highlights logistical reinforcement of the Southern Command to respond to the emergency in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/embajada-de-ee-uu-destaca-refuerzo-logistico-del-comando-sur-para-atender-emergencia-en-venezuela/",
+      "published_date": "2026-07-07T21:38:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuelan miners stopped searching for gold to find earthquake victims",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/gran-caracas/mineros-venezolanos-dejaron-de-buscar-oro-para-encontrar-victimas-de-terremotos/",
+      "published_date": "2026-07-07T19:41:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Moles from Mexico conclude rescue mission in Venezuela after exhausting the search phase",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/topos-de-mexico-concluyen-mision-de-rescate-en-venezuela-tras-agotarse-la-fase-de-busqueda/",
+      "published_date": "2026-07-07T19:34:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The IOC lifts sanctions on Russian athletes: they will compete without flag or anthem",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-coi-levanta-sanciones-a-los-atletas-rusos-competiran-sin-bandera-ni-himno/",
+      "published_date": "2026-07-07T19:13:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mads Pedersen wins the fourth stage of the Tour de France",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/mads-pedersen-se-queda-con-la-cuarta-etapa-del-tour-de-francia/",
+      "published_date": "2026-07-07T17:44:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Earthquakes in Venezuela raised the ground off the coast of Trinidad and left hundreds of marine animals dead",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/los-terremotos-en-venezuela-elevo-el-suelo-de-la-costa-de-trinidad-y-dejo-cientos-de-animales-marinos-muertos/",
+      "published_date": "2026-07-07T17:39:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The UN warns about the situation of pregnant women in Venezuela due to the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-onu-alerta-sobre-la-situacion-de-embarazadas-en-venezuela-por-los-terremotos/",
+      "published_date": "2026-07-07T17:26:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "CDH – UCAB llamó a la comunidad internacional a proteger a los refugiados venezolanos",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/613928/cdh-ucab-llamo-a-la-comunidad-internacional-a-proteger-a-los-refugiados-venezolanos-tras-los-sismos/",
+      "published_date": "2026-07-07T17:04:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TSJ orders the resumption of judicial activities, with the exception of Caracas, Miranda and La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/tsj-ordena-retomar-actividades-judiciales-con-excepcion-de-caracas-miranda-y-la-guaira/",
+      "published_date": "2026-07-07T16:32:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Earthquakes in Venezuela released energy equivalent to 241 atomic bombs",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/cuanta-energia-liberaron-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-07T14:29:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "UN warns about the situation of thousands of pregnant women after earthquakes in Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/onu-alerta-sobre-la-situacion-de-las-miles-de-mujeres-embarazadas-tras-sismos-en-venezuela/",
+      "published_date": "2026-07-07T14:20:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juan Pablo Guanipa denounces irregular charges for the delivery of bodies after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/juan-pablo-guanipa-denuncia-cobros-irregulares-por-la-entrega-de-cuerpos-tras-los-terremotos/",
+      "published_date": "2026-07-07T14:01:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Giannis Antetokounmpo arrived in Miami: the star said goodbye to the Bucks",
       "source": "El Nacional",
@@ -24,123 +143,67 @@
       "category": "Diplomacy"
     },
     {
-      "title": "\"Crosses a red line\": why FIFA's decision to suspend the sanction of US goalscorer Folarin Balogun after a call from Trump was so scandalous",
+      "title": "OVP raises deaths in Venezuelan prisons to 34",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/cruza-una-linea-roja-por-que-fue-tan-escandalosa-la-decision-de-la-fifa-de-suspender-la-sancion-al-goleador-de-ee-uu-folarin-balogun-tras-una-llamada-de-trump/",
-      "published_date": "2026-07-07T10:26:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/ovp-eleva-a-34-las-muertes-en-carceles-venezolanas/",
+      "published_date": "2026-07-07T23:52:16Z",
+      "category": "Military"
     },
     {
-      "title": "Government plans to resume international flights using parallel runway at the Maiquetía airport",
+      "title": "Chile dismantles the Aragua Train cell in four regions and arrests more than 30 people",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/gobierno-preve-retomar-vuelos-internacionales-usando-pista-paralela-del-aeropuerto-de-maiquetia/",
-      "published_date": "2026-07-07T10:04:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/chile-desarma-celula-del-tren-de-aragua-en-cuatro-regiones-y-detienen-a-mas-de-30-personas/",
+      "published_date": "2026-07-07T20:08:19Z",
+      "category": "Military"
     },
     {
-      "title": "Diego Arria: Drug tyranny continues, but supported by the US",
+      "title": "Renzo Prieto, former political prisoner: \"I returned to the country to help, collaborate and give a hug to our people\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/diego-arria-critica-estrategia-trump-venezuela/",
-      "published_date": "2026-07-07T10:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/renzo-prieto-ex-preso-politico-volvi-al-pais-para-ayudar-colaborar-y-dar-un-abrazo-a-nuestra-gente/",
+      "published_date": "2026-07-07T19:48:53Z",
+      "category": "Military"
     },
     {
-      "title": "Belgium beat the United States and left the 2026 World Cup without hosts",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/belgica-goleo-a-estados-unidos-y-dejo-el-mundial-2026-sin-anfitriones/",
-      "published_date": "2026-07-07T02:16:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The head of the US Southern Command visits Venezuela to coordinate reconstruction",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-jefe-del-comando-sur-de-ee-uu-visita-venezuela-para-coordinar-la-reconstruccion/",
-      "published_date": "2026-07-07T00:27:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Relative of missing people at Oasis Beach: \"The Government crushes us with threats\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/familiar-de-desaparecidos-en-el-oasis-beach-el-gobierno-nos-aplasta-con-amenazas/",
-      "published_date": "2026-07-07T00:07:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Panchita, the parrot rescued after seven days under the rubble in La Guaira, died",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/murio-panchita-el-loro-rescatado-tras-siete-dias-bajo-los-escombros-en-la-guaira/",
-      "published_date": "2026-07-06T23:31:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Duel of undefeated: Colombia and Switzerland challenge each other for a place in the quarterfinals",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/duelo-de-invictos-colombia-y-suiza-se-retan-por-un-pase-a-los-cuartos-de-final/",
-      "published_date": "2026-07-06T23:27:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The Venezuelan designer who makes mortuary bags after the earthquakes in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-disenadora-venezolana-que-confecciona-bolsas-mortuorias-tras-la-terremotos-en-venezuela/",
-      "published_date": "2026-07-06T22:49:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Between graves and uncertainty: the management of the deceased after the earthquake in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/investigacion/entre-fosas-e-incertidumbre-la-gestion-de-los-fallecidos-tras-el-terremoto-en-venezuela/",
-      "published_date": "2026-07-06T22:28:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vertical Cemetery Builders",
+      "title": "Mexican moles conclude rescues in Venezuela after earthquakes",
       "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/613877/terremoto-la-guaira/",
-      "published_date": "2026-07-06T22:12:33Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/613979/topos-de-mexico-concluyen-rescates-en-venezuela-tras-terremotos/",
+      "published_date": "2026-07-07T18:16:01Z",
+      "category": "Military"
     },
     {
-      "title": "Spain wins at the last minute to leave Cristiano's Portugal without the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/espana-gana-a-ultima-hora-para-dejar-sin-mundial-a-la-portugal-de-cristiano/",
-      "published_date": "2026-07-06T21:20:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They deny the rescue of four people in OPP Caribe in La Guaira on Sunday",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/aclaran-que-recate-de-cuatro-personas-en-opp-caribe-en-la-guaira-es-antiguo-pero-sigue-la-busqueda-de-sobrevivientes-tras-terremotos/",
-      "published_date": "2026-07-06T21:09:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Foreign rescue delegations withdraw from Venezuela",
+      "title": "The pearls of give and take between Diosdado Cabello and the mayor of Panama",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613812/delegaciones-de-rescate-extranjeras-se-retiran-de-venezuela/",
-      "published_date": "2026-07-06T19:46:54Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/las-perlas/613938/las-perlas-del-toma-y-dame-entre-diosdado-cabello-y-el-alcalde-de-panama/",
+      "published_date": "2026-07-07T17:12:52Z",
+      "category": "Military"
     },
     {
-      "title": "Judge denies Pedro Sánchez's wife's request to go to the NATO summit in Türkiye",
+      "title": "US Southern Command maintains technical support and air traffic support at the Maiquetía international airport",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/un-juez-deniega-a-la-esposa-de-pedro-sanchez-ir-a-la-otan-tras-retirarle-el-pasaporte/",
-      "published_date": "2026-07-06T19:27:22Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/john-barrett-sobre-venezuela-la-reconstruccion-tomara-tiempo/",
+      "published_date": "2026-07-07T16:56:37Z",
+      "category": "Military"
     },
     {
-      "title": "Debris from collapsed buildings in La Guaira is deposited on the shore of the beach",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/escombros-de-edificaciones-desplomadas-en-la-guaira-son-depositados-a-la-orilla-de-la-playa/",
-      "published_date": "2026-07-06T19:12:35Z",
-      "category": "Diplomacy"
+      "title": "The US assures that it does not control the Maiquetía Airport: “We only support air traffic”",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/ee-uu-asegura-que-no-controla-el-aeropuerto-de-maiquetia-solo-apoyamos-el-trafico-aereo/",
+      "published_date": "2026-07-07T16:25:14Z",
+      "category": "Military"
     },
     {
-      "title": "The UN raises 274 million dollars for the earthquake emergency in Venezuela",
+      "title": "Penal Forum counts 372 political prisoners in Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-onu-recauda-274-millones-de-dolares-para-la-emergencia-por-terremotos-en-venezuela/",
-      "published_date": "2026-07-06T19:00:05Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/foro-penal-denuncia-que-excarcelaciones-de-presos-politicos-se-detuvo-antes-de-los-terremotos/",
+      "published_date": "2026-07-07T16:02:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Government promises to open the Maiquetía airport soon",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gobierno-promete-abrir-pronto-el-aeropuerto-de-maiquetia/",
+      "published_date": "2026-07-07T14:09:56Z",
+      "category": "Military"
     },
     {
       "title": "Alejandro Grisanti: reconstruction of Venezuela could cost up to 37 billion dollars",
@@ -157,9 +220,23 @@
       "category": "Military"
     },
     {
+      "title": "Benedito Ruy Barbosa, author of Pantanal, dies at 95",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/muere-a-los-95-anos-benedito-ruy-barbosa-autor-de-pantanal/",
+      "published_date": "2026-07-07T09:12:00Z",
+      "category": "Military"
+    },
+    {
       "title": "10 years have passed since the group rape committed by the Pack",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/se-cumplen-10-anos-de-la-violacion-grupal-cometida-por-la-manada/",
+      "published_date": "2026-07-07T09:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Victims of Venezuelan prostitution networks increase in Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/aumentan-las-redes-de-prostitucion-venezolanas-en-espana/",
       "published_date": "2026-07-07T09:00:00Z",
       "category": "Military"
     },
@@ -206,81 +283,25 @@
       "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez assured that \"there will be no social outbreak\" in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-aseguro-que-no-habra-estallido-social-en-venezuela/",
-      "published_date": "2026-07-05T21:46:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Machado to the US and countries: A lasting alliance is based on truth and trust",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/machado-eeuu-paises-alianza-duradera-verdad-confianza-avanzar/",
-      "published_date": "2026-07-05T18:25:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "The freedom of political prisoners is a human debt",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-libertad-de-los-presos-politicos-es-una-deuda-humana/",
-      "published_date": "2026-07-05T16:14:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Shooting left eight injured during July 4 celebrations in New York",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/tiroteo-dejo-ocho-heridos-durante-los-festejos-del-4-de-julio-en-nueva-york/",
-      "published_date": "2026-07-05T12:56:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "New York celebrated US Independence with a display of power and a naval and air parade",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/nueva-york-celebro-independencia-de-ee-uu-con-muestra-de-poder-y-desfile-naval-y-aereo/",
-      "published_date": "2026-07-05T00:45:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ancelotti warns that in Brazil “There is no anti-Haaland plan”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ancelotti-avisa-que-en-brasil-no-hay-un-plan-antihaaland/",
-      "published_date": "2026-07-04T23:02:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Daughter of former military political prisoner De Gouveia is the only survivor of the building that collapsed in Turmero",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/hija-del-ex-preso-politico-militar-de-gouveia-es-la-unica-sobreviviente-de-edificio-que-colapso-en-turmero/",
-      "published_date": "2026-07-04T21:07:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Argentina: “Venezuela Aid Network” launched to mobilize contributions after earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/613640/alianza-por-venezuela-y-acnur-lanzan-la-red-de-ayuda-para-movilizar-campanas-solidarias-desde-argentina-tras-los-terremotos/",
-      "published_date": "2026-07-04T19:23:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Monitoring revealed a lack of official records on minors affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/monitoreo-revelo-falta-de-registros-oficiales-sobre-menores-de-edad-afectados-por-los-terremotos/",
-      "published_date": "2026-07-04T16:45:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "The “mole of La Guaira” is released under precautionary measures",
+      "title": "Earthquakes in Venezuela: how to know if it is safe to return home after a seismic doublet?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/excarcelan-al-topo-de-la-guaira-bajo-medidas-cautelares/",
-      "published_date": "2026-07-04T15:56:54Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/regiones/gran-caracas/terremotos-en-venezuela-como-saber-si-es-seguro-regresar-a-casa-despues-de-un-doblete-sismico/",
+      "published_date": "2026-07-07T17:26:00Z",
+      "category": "Energy"
     },
     {
-      "title": "They release the “Mole of La Guaira” after presenting him in court",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613539/excarcelan-al-topo-de-la-guaira-tras-presentarlo-en-tribunales/",
-      "published_date": "2026-07-04T04:14:16Z",
-      "category": "Military"
+      "title": "Tilly Norwood, the actress made with AI, will star in her first film",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/tilly-norwood-la-actriz-hecha-con-ia-protagonizara-su-primera-pelicula/",
+      "published_date": "2026-07-07T09:01:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Soy Kleiii will reschedule his tour of Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/soy-kleiii-reprogramara-su-gira-por-venezuela/",
+      "published_date": "2026-07-07T09:01:00Z",
+      "category": "Energy"
     },
     {
       "title": "Yordan Álvarez and Otto López shine as MLB Players of the Week",
@@ -402,25 +423,46 @@
       "category": "Energy"
     },
     {
-      "title": "Interim responds to earthquake emergency with greater political control",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/interinato-emergencia-terremotos-mayor-control-politico/",
-      "published_date": "2026-07-02T15:50:00Z",
-      "category": "Energy"
+      "title": "Who is Román Maniglia, the new head of tax collection in the Seniat",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/quien-es-roman-maniglia-el-nuevo-jefe-de-la-recaudacion-de-impuestos-en-el-seniat/",
+      "published_date": "2026-07-07T20:47:53Z",
+      "category": "Economy"
     },
     {
-      "title": "Rum Santa Teresa allocates its production to the supply of antiseptic alcohol",
+      "title": "Román Maniglia is appointed superintendent of Seniat and José David Cabello is appointed president of Pequiven",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ron-santa-teresa-suministra-de-alcohol-antiseptico-a-venezuela/",
-      "published_date": "2026-07-02T12:58:17Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/designan-a-roman-maniglia-superintendente-del-seniat-y-a-jose-david-cabello-presidente-de-pequiven/",
+      "published_date": "2026-07-07T20:45:00Z",
+      "category": "Economy"
     },
     {
-      "title": "The world of the Major Leagues unites in millionaire support for Venezuela",
+      "title": "Stablecoins as a stepping stone that unites the crypto world and traditional finance",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/notas-corporativas/614018/las-stablecoins-como-escalon-que-une-el-mundo-cripto-y-las-finanzas-tradicionales/",
+      "published_date": "2026-07-07T20:41:22Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Stockity expands its development in the digital investment market in Latin America",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-mundo-de-las-grandes-ligas-se-une-en-millonario-apoyo-para-venezuela/",
-      "published_date": "2026-07-01T20:20:46Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/stockity-amplia-su-desarrollo-en-el-mercado-de-inversion-digital-en-america-latina/",
+      "published_date": "2026-07-07T20:09:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Colombia's Comptroller's Office will mediate the transition process between Petro and De la Espriella",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/contraloria-de-colombia-mediara-en-proceso-de-transicion-entre-petro-y-de-la-espriella/",
+      "published_date": "2026-07-07T19:15:06Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Replacing homes in La Guaira would cost $2.37 billion and there is no money for reconstruction",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/reponer-viviendas-en-la-guaira-costaria-2-370-millones-y-no-hay-plata-para-reconstruccion/",
+      "published_date": "2026-07-07T19:05:44Z",
+      "category": "Economy"
     },
     {
       "title": "Between fear and hope: 26 years later",
@@ -521,185 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Transitional camp in La Guaira: survivors improvise awnings and assure that food is scarce",
+      "title": "Abelardo de la Espriella appoints six new members of his next cabinet",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/abelardo-de-la-espriella-designa-a-seis-nuevos-integrantes-de-su-proximo-gabinete/",
+      "published_date": "2026-07-07T23:43:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Governor of La Guaira reported that 600 apartments can be recovered after damage assessment",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gobernador-de-la-guaira-informo-que-600-apartamentos-podran-ser-recuperados-tras-evaluacion-de-danos/",
+      "published_date": "2026-07-07T23:20:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netflix signs deals to boost short-form videos on its platform",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/netflix-firma-acuerdos-para-impulsar-videos-de-formato-corto-en-su-plataforma/",
+      "published_date": "2026-07-07T23:00:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "OVP registered five new deaths of prisoners in State custody: there are 34 between April and June",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/campamento-transitorio-en-la-guaira-sobrevivientes-improvisan-toldos-y-aseguran-que-escasea-la-comida/",
-      "published_date": "2026-07-02T22:52:18Z",
-      "category": "Economy"
-    },
-    {
-      "title": "World Food Program seeks to assist 500,000 Venezuelans after earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/programa-mundial-de-alimentos-busca-asistir-a-500-000-venezolanos-tras-sismos/",
-      "published_date": "2026-07-02T21:26:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "UNICEF estimates that some 680,000 children need assistance in Venezuela after the earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/unicef-estima-que-unos-680-000-ninos-necesitan-asistencia-en-venezuela-tras-los-terremotos/",
-      "published_date": "2026-07-02T21:10:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Carora, a heart of solidarity that mobilizes hope in the face of the national emergency",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/carora-corazon-solidario-que-moviliza-esperanza-ante-la-emergencia-nacional/",
-      "published_date": "2026-07-02T18:10:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The impact of earthquakes on the economy, explained by Pedro Palma",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-golpe-de-los-terremotos-sobre-la-economia-explicado-por-pedro-palma/",
-      "published_date": "2026-07-02T15:13:28Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sudeaseg forces to eliminate exclusions in contracts due to natural disasters",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/sudeaseg-elimina-exclusiones-por-desastres-naturales-en-contratos/",
-      "published_date": "2026-07-02T04:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Georg Eickhoff: The United States has to rethink its plan on Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/georg-eickhoff-estados-unidos-tiene-que-replantear-su-plan-sobre-venezuela/",
-      "published_date": "2026-07-07T13:11:05Z",
+      "url": "https://elpitazo.net/politica/ovp-registro-cinco-presuntas-muertes-de-privados-de-libertad-en-10-dias-y-eleva-la-cifra-a-34-fallecidos/",
+      "published_date": "2026-07-07T22:49:43Z",
       "category": "Local Events"
     },
     {
-      "title": "They pay the Single Family Bonus for July: this is the new amount",
+      "title": "Djokovic meets Sinner in the Wimbledon semi-finals",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/pagan-bono-unico-familiar-de-julio-este-es-el-nuevo-monto/",
-      "published_date": "2026-07-07T13:02:44Z",
+      "url": "https://www.elnacional.com/2026/07/djokovic-se-cita-con-sinner-en-las-semifinales-de-wimbledon/",
+      "published_date": "2026-07-07T22:45:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Indonesia plans to teach anti-LGBTIQ+ doctrines in religious venues",
+      "title": "Belgium loses Amadou Onana for the rest of the World Cup",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/indonesia-planea-ensenar-doctrinas-anti-lgtbi/",
-      "published_date": "2026-07-07T12:49:11Z",
+      "url": "https://www.elnacional.com/2026/07/belgica-pierde-a-amadou-onana-por-el-resto-del-mundial/",
+      "published_date": "2026-07-07T22:38:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Peace Laboratory calls for shelters to meet human rights standards",
+      "title": "The death toll from the earthquakes in Venezuela increases to 3,685",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/gran-caracas/aumenta-a-3-685-la-cifra-de-muertos-por-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-07T22:37:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi continues to break records: he became the top assistant at the World Cup",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/laboratorio-de-paz-pide-que-refugios-cumplan-estandares/",
-      "published_date": "2026-07-07T12:17:43Z",
+      "url": "https://www.elnacional.com/2026/07/messi-continua-rompiendo-records-se-convirtio-en-el-maximo-asistente-de-los-mundiales/",
+      "published_date": "2026-07-07T22:30:15Z",
       "category": "Local Events"
     },
     {
-      "title": "The earthquake left the farmers of La Peñita without homes and medical supplies",
+      "title": "María Corina Machado: The return to Venezuela is being built",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/maria-corina-machado-el-regreso-a-venezuela-se-esta-construyendo/",
+      "published_date": "2026-07-07T22:25:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The number of deaths from the earthquakes in Venezuela increases to 3,685",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-penita-quedo-sin-casas-y-sin-insumos-medicos-tras-el-terremoto/",
-      "published_date": "2026-07-07T11:54:26Z",
+      "url": "https://www.elnacional.com/2026/07/aumenta-a-3-685-el-numeros-de-fallecidos-por-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-07T22:23:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Two attacks shake Damascus during President Emmanuel Macron's visit to Syria",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/dos-atentados-sacuden-damasco-durante-la-visita-del-presidente-emmanuel-macron-a-siria/",
-      "published_date": "2026-07-07T11:37:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mamdani calls on Trump to restore TPS for Venezuelans after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/mamdani-reclama-a-trump-que-restablezca-el-tps-para-los-venezolanos-tras-los-terremotos/",
-      "published_date": "2026-07-07T09:49:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gustavo Dudamel and the Los Angeles Philharmonic organize Concert for Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/gustavo-dudamel-y-la-phil-organizan-concierto-por-venezuela/",
-      "published_date": "2026-07-07T09:20:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "12 days after the earthquake in La Guaira, families do not give up looking for their loved ones",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/a-12-dias-del-terremoto-en-la-guaira-familias-no-desisten-de-buscar-a-los-suyos-bajo-los-escombros/",
-      "published_date": "2026-07-07T04:24:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chief of the Southern Command heads coordination for reconstruction after the earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/jefe-del-comando-sur-de-eeuu-encabeza-coordinacion-para-la-reconstruccion/",
-      "published_date": "2026-07-07T02:11:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“God bless you all”: His last connection on WhatsApp was June 24 at 6:08 p.m.",
+      "title": "Balance #7Jul | Number of deaths from earthquakes rises to 3,685, according to a scant official report",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/613890/dios-los-bendiga-a-todos-su-ultima-conexion-en-whatsapp-fue-el-24-de-junio-a-las-608-p-m/",
-      "published_date": "2026-07-07T01:55:00Z",
+      "url": "https://runrun.es/noticias/614023/balance-7jul-cifra-de-fallecidos-por-terremotos-sube-a-3685-segun-parco-reporte-oficial/",
+      "published_date": "2026-07-07T22:21:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Mamdani calls on Trump to restore TPS to Venezuelans",
+      "title": "The official figures of victims of the earthquakes of June 24 rise to 3,685 deaths and 16,740 injuries",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/mamdani-pide-trump-restablecer-tps-venezolanos/",
-      "published_date": "2026-07-07T01:49:27Z",
+      "url": "https://efectococuyo.com/la-humanidad/se-eleva-a-3-685-fallecidos-y-16-740-heridos-las-cifras-oficiales-de-victimas-de-terremotos-del-24-de-junio/",
+      "published_date": "2026-07-07T21:59:28Z",
       "category": "Local Events"
     },
     {
-      "title": "The mayor of Panama responds to criticism from Diosdado Cabello after sending humanitarian aid",
+      "title": "The Community of Madrid announced the donation of one million euros in humanitarian aid for Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-alcalde-de-panama-responde-a-criticas-de-diosdado-cabello-tras-envio-de-ayuda-humanitaria/",
-      "published_date": "2026-07-07T01:10:05Z",
+      "url": "https://www.elnacional.com/2026/07/la-comunidad-de-madrid-anuncio-la-donacion-de-un-millon-de-euros-en-ayuda-humanitaria-para-venezuela/",
+      "published_date": "2026-07-07T21:58:25Z",
       "category": "Local Events"
     },
     {
-      "title": "The children of the earthquake: the loose ends of the child protection system",
+      "title": "Political prisoners are at risk and abandoned in the midst of the earthquake emergency",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/alianzas/los-ninos-del-terremoto-los-cabos-sueltos-del-sistema-de-proteccion-infantil/",
-      "published_date": "2026-07-07T00:54:49Z",
+      "url": "https://elpitazo.net/politica/presos-politicos-estan-en-riesgo-y-abandono-en-medio-de-la-emergencia-por-los-terremotos/",
+      "published_date": "2026-07-07T21:54:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Japan sends a medical team to Venezuela to attend to the earthquake emergency",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/japon-envia-un-equipo-medico-a-venezuela-para-atender-emergencia-por-los-terremotos/",
-      "published_date": "2026-07-07T00:09:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Funvisis geologist reports disappearance of equipment that monitors the Boconó fault",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/funvisis-denuncia-desaparicion-sensor-falla-bocono/",
-      "published_date": "2026-07-06T23:59:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Argentina wants to dispel doubts against Egypt in the Messi-Salah duel in the round of 16",
+      "title": "Kyle Lowry signs one-day contract with Raptors and announces his retirement",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/argentina-quiere-disipar-las-dudas-ante-egipto-en-el-duelo-messi-salah-de-octavos/",
-      "published_date": "2026-07-06T23:33:25Z",
+      "url": "https://www.elnacional.com/2026/07/kyle-lowry-firma-un-contrato-de-un-dia-con-los-raptors-y-anuncia-su-retiro/",
+      "published_date": "2026-07-07T21:54:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Cobolli keeps his Wimbledon dream intact after being a finalist at Roland Garros",
+      "title": "FIFA appoints a team of Argentine referees for the match between France and Morocco",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/cobolli-mantiene-intacto-el-sueno-en-wimbledon-tras-ser-finalista-en-roland-garros/",
-      "published_date": "2026-07-06T23:14:02Z",
+      "url": "https://www.elnacional.com/2026/07/fifa-designa-a-equipo-de-arbitros-argentinos-para-el-partido-entre-francia-y-marruecos/",
+      "published_date": "2026-07-07T21:47:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Blackouts continue: thermoelectric plant affected by earthquakes remains out of service",
+      "title": "Conatel reports on effects on the Internet due to submarine cable breakage after earthquakes",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/conatel-informa-sobre-afectaciones-en-internet-por-rotura-de-cable-submarino-tras-sismos/",
+      "published_date": "2026-07-07T21:05:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The number of Portuguese people killed by the earthquakes in Venezuela rises to 100",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/sube-a-100-el-numero-de-portugueses-fallecidos-por-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-07T21:03:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Between the mud and the losses: this is how the families of Chabasquén live a week after the floods",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/centro/siguen-los-apagones-termoelectrica-afectada-por-terremotos-continua-fuera-de-servicio/",
-      "published_date": "2026-07-06T23:10:04Z",
+      "url": "https://elpitazo.net/regiones/entre-el-barro-y-las-perdidas-asi-viven-las-familias-de-chabasquen-a-una-semana-de-las-inundaciones/",
+      "published_date": "2026-07-07T21:00:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Tampa Bay Rays donate $100,000 to support earthquake victims",
+      "title": "Hossam Hassan, Egypt coach: “We have suffered an injustice”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/rays-de-tampa-bay-donan-100-mil-para-apoyar-a-las-victimas-de-los-terremotos/",
-      "published_date": "2026-07-06T23:03:40Z",
+      "url": "https://www.elnacional.com/2026/07/hossam-hassan-seleccionador-de-egipto-hemos-sufrido-una-injusticia/",
+      "published_date": "2026-07-07T20:58:05Z",
       "category": "Local Events"
     }
   ]
