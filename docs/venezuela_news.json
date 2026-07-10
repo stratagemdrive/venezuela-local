@@ -1,19 +1,40 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-10T00:13:47Z",
+  "last_updated": "2026-07-10T13:15:11Z",
   "stories": [
+    {
+      "title": "Former Iranian supreme guide Ali Khamenei is buried in funerals marked by attacks between the US and Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/exguia-supremo-irani-ali-jamenei-es-inhumado-en-funerales-marcados-por-ataques-entre-ee-uu-e-iran/",
+      "published_date": "2026-07-10T12:26:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pokémon GO celebrates its 10th anniversary by taking over Times Square",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/pokemon-go-celebra-su-aniversario-tomando-times-square/",
+      "published_date": "2026-07-10T12:11:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "How to process the grief of losing everything after the double earthquake in Venezuela?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/como-afrontar-el-duelo-tras-el-doble-terremoto-en-venezuela/",
+      "published_date": "2026-07-10T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fear also deserves to be heard",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/614356/salud-mental/",
+      "published_date": "2026-07-10T02:49:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Keiko Fujimori prepares actions against possible “catastrophe” due to El Niño in Peru",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/keiko-fujimori-prepara-acciones-ante-posible-catastrofe-por-el-nino-en-peru/",
       "published_date": "2026-07-09T23:05:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran extends its attacks on US military bases in more Middle Eastern countries",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/iran-extiende-sus-ataques-a-bases-militares-de-ee-uu-en-mas-paises-de-oriente-medio/",
-      "published_date": "2026-07-09T22:47:37Z",
       "category": "Diplomacy"
     },
     {
@@ -49,6 +70,13 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/reconstruccion-terremotos-instituciones-democracia-analistas/",
       "published_date": "2026-07-09T20:56:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interim government asks the IMF for $4.85 billion in total",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gobierno-interino-pide-al-fmi-4-850-millones-en-total/",
+      "published_date": "2026-07-09T19:58:56Z",
       "category": "Diplomacy"
     },
     {
@@ -115,32 +143,39 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Expert warns that the affected population in La Guaira is higher than what was officially reported",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/experto-advierte-que-la-poblacion-afectada-en-la-guaira-es-superior-a-lo-informado-oficialmente/",
-      "published_date": "2026-07-09T14:44:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The improvisation delayed the delivery of the bodies of the Venezuelans deported from the United States",
+      "title": "Justin Baldoni spoke about his legal conflict with Blake Lively",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/retraso-en-entrega-de-los-cuerpos-de-los-venezolanos-deportados/",
-      "published_date": "2026-07-09T14:27:06Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/justin-baldoni-hablo-sobre-su-conflicto-legal-con-blake-lively/",
+      "published_date": "2026-07-10T09:01:00Z",
+      "category": "Military"
     },
     {
-      "title": "Are Messi and Argentina really receiving favorable treatment at the World Cup?",
+      "title": "Christopher Nolan and his reflection on war and returning home in The Odyssey",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/estan-messi-y-argentina-realmente-recibiendo-un-trato-favorable-en-el-mundial/",
-      "published_date": "2026-07-09T14:06:11Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/christopher-nolan-y-su-reflexion-sobre-la-guerra-y-el-regreso-a-casa-en-la-odisea/",
+      "published_date": "2026-07-10T09:01:00Z",
+      "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez asks Carlos III to release the Venezuelan gold in the Bank of England",
+      "title": "Congress of Peru approves a controversial law on crimes against humanity in the Andean territory",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/congreso-de-peru-aprueba-una-polemica-ley-sobre-delitos-de-lesa-humanidad-en-el-territorio-andino/",
+      "published_date": "2026-07-10T01:01:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "“Guaireños are warriors”: Maiquetía becomes the commercial refuge after the earthquakes",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-pide-a-carlos-iii-la-liberacion-del-oro-venezolano-en-el-banco-de-inglaterra/",
-      "published_date": "2026-07-09T13:01:35Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/economia/maiquetia-se-convierte-en-el-refugio-comercial-tras-los-terremotos/",
+      "published_date": "2026-07-10T00:34:27Z",
+      "category": "Military"
+    },
+    {
+      "title": "Explosion at Tibú airport leaves three injured and damages facilities",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/explosion-en-aeropuerto-de-tibu-deja-tres-heridos-y-danos-en-instalaciones/",
+      "published_date": "2026-07-10T00:17:01Z",
+      "category": "Military"
     },
     {
       "title": "Tyler Robinson would have expressed regret after Charlie Kirk's murder, according to witness",
@@ -164,6 +199,13 @@
       "category": "Military"
     },
     {
+      "title": "Iran extends its attacks on US military bases in more Middle Eastern countries",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/iran-extiende-sus-ataques-a-bases-militares-de-ee-uu-en-mas-paises-de-oriente-medio/",
+      "published_date": "2026-07-09T22:47:37Z",
+      "category": "Military"
+    },
+    {
       "title": "Nadine Menéndez, wife of former senator Bob Menéndez, will begin serving her sentence for bribery this Friday",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/nadine-menendez-esposa-del-exsenador-bob-menendez-comenzara-a-cumplir-su-condena-por-soborno-este-viernes/",
@@ -175,6 +217,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/laboratorio-de-paz-advierte-que-la-recuperacion-posterreremotos-en-venezuela-exige-legitimidad-institucional/",
       "published_date": "2026-07-09T21:35:43Z",
+      "category": "Military"
+    },
+    {
+      "title": "PAHO warns that Venezuela has entered a new “critical” health phase",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/salud/ops-advierte-que-venezuela-entro-en-una-nueva-fase-sanitaria-critica-tras-los-terremotos/",
+      "published_date": "2026-07-09T21:11:00Z",
       "category": "Military"
     },
     {
@@ -231,55 +280,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/?p=509032",
       "published_date": "2026-07-09T00:18:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Abelardo de la Espriella begins his regional meetings in Cúcuta with the promise of decentralization and a tough line against drug trafficking",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/abelardo-de-la-espriella-inicia-en-cucuta-sus-encuentros-regionales-con-la-promesa-de-descentralizacion-y-mano-dura-contra-el-narcotrafico/",
-      "published_date": "2026-07-09T00:14:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Enyerberth Porras, the last teenager detained for political reasons, is released from prison",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/excarcelan-a-enyerberth-porras-el-ultimo-adolescente-detenido-por-motivos-politicos/",
-      "published_date": "2026-07-08T23:51:19Z",
-      "category": "Military"
-    },
-    {
-      "title": "Toto Wolff warns that Ferrari's results put pressure on Mercedes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/toto-wolff-advierte-que-los-resultados-de-ferrari-ponen-presion-a-mercedes/",
-      "published_date": "2026-07-08T22:54:44Z",
-      "category": "Military"
-    },
-    {
-      "title": "Penal Forum confirms the release of the last adolescent political prisoner in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/foro-penal-confirma-la-excarcelacion-del-ultimo-adolescente-preso-politico-en-venezuela/",
-      "published_date": "2026-07-08T22:12:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iván Cepeda questions the security measures proposed by the elected president Abelardo de la Espriella",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ivan-cepeda-cuestiona-las-medidas-de-seguridad-propuestas-por-el-presidente-electo-abelardo-de-la-espriella/",
-      "published_date": "2026-07-08T21:37:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Anticancer Society activates plan to guarantee cancer care",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/614116/sociedad-anticancerosa-activa-plan-para-garantizar-la-atencion-oncologica/",
-      "published_date": "2026-07-08T21:31:04Z",
-      "category": "Military"
-    },
-    {
-      "title": "Justin Verlander announces his retirement once the MLB season ends",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/justin-verlander-anuncia-su-retiro-una-vez-termine-la-temporada-de-mlb/",
-      "published_date": "2026-07-08T18:55:34Z",
       "category": "Military"
     },
     {
@@ -423,10 +423,38 @@
       "category": "Energy"
     },
     {
-      "title": "Interim government asks the IMF for $4.85 billion in total",
+      "title": "350 million dollars could be released by the IMF to address the emergency",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/gobierno-interino-pide-al-fmi-4-850-millones-en-total/",
-      "published_date": "2026-07-09T19:58:56Z",
+      "url": "https://www.elnacional.com/2026/07/350-millones-de-dolares-podrian-ser-liberados-por-el-fmi/",
+      "published_date": "2026-07-10T12:46:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Keiko Fujimori and interim president Balcázar met in Lima to begin the transfer of government",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-y-el-presidente-interino-balcazar-se-reunieron-en-lima-para-iniciar-la-transferencia-de-gobierno/",
+      "published_date": "2026-07-10T11:40:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Japan will expand its humanitarian aid to Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/japon-ampliara-su-ayuda-humanitaria-a-venezuela/",
+      "published_date": "2026-07-10T10:28:25Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Art and laughter, a space of containment for children affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/arte-y-risas-un-espacio-de-contencion-para-la-infancia-afectada-por-los-terremotos/",
+      "published_date": "2026-07-10T09:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Petro commits to Lula to promote peaceful government transition in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gustavo-petro-se-compromete-ante-lula-da-silva-a-promover-una-transicion-de-gobierno-pacifica-en-colombia/",
+      "published_date": "2026-07-10T00:15:20Z",
       "category": "Economy"
     },
     {
@@ -469,13 +497,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/614196/enchufadin-felicita-a-roman-maniglia-por-su-nuevo-cargo/",
       "published_date": "2026-07-09T10:59:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Art and laughter, a space of containment for children affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/arte-y-risas-un-espacio-de-contencion-para-la-infancia-afectada-por-los-terremotos/",
-      "published_date": "2026-07-09T09:30:00Z",
       "category": "Economy"
     },
     {
@@ -542,25 +563,81 @@
       "category": "Economy"
     },
     {
-      "title": "Román Maniglia is appointed superintendent of Seniat and José David Cabello is appointed president of Pequiven",
+      "title": "Delcy Rodríguez and Portuguese envoy coordinate aid for those affected by the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/designan-a-roman-maniglia-superintendente-del-seniat-y-a-jose-david-cabello-presidente-de-pequiven/",
-      "published_date": "2026-07-07T20:45:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/venezuela-y-portugal-coordinan-ayuda-para-los-terremotos/",
+      "published_date": "2026-07-10T12:57:55Z",
+      "category": "Local Events"
     },
     {
-      "title": "Stablecoins as a stepping stone that unites the crypto world and traditional finance",
+      "title": "FIFA Foundation donates $1 million to communities affected by the earthquake in Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/deportes/fundacion-fifa-dona-1-millon-para-comunidades-afectadas-por-el-terremoto-en-venezuela/",
+      "published_date": "2026-07-10T12:46:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Firefighters in La Guaira saved lives with their own hands: lack of equipment limited the rescue",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/bomberos-en-la-guaira-salvaron-vidas-a-pulso-falta-de-equipos-limito-el-rescate/",
+      "published_date": "2026-07-10T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Israel extended its humanitarian aid mission in Venezuela for two weeks",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/israel-extendio-dos-semanas-su-mision-de-ayuda-humanitaria-en-venezuela/",
+      "published_date": "2026-07-10T12:28:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EU: Instagram and Facebook have an addictive design",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/instagram-y-facebook-tienen-un-diseno-adictivo-segun-la-ue/",
+      "published_date": "2026-07-10T12:21:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least 11 dead in raging fire in southern Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/al-menos-11-fallecidos-en-voraz-incendio-en-el-sur-de-espana/",
+      "published_date": "2026-07-10T11:52:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "De Caracas a Maracaibo: el trauma por el terremoto fuerza a familias a migrar",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/de-caracas-a-maracaibo-trauma-terremoto-fuerza-familias-migrar/",
+      "published_date": "2026-07-10T03:07:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to manage the debris from the seismic doublet?",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/notas-corporativas/614018/las-stablecoins-como-escalon-que-une-el-mundo-cripto-y-las-finanzas-tradicionales/",
-      "published_date": "2026-07-07T20:41:22Z",
-      "category": "Economy"
+      "url": "https://runrun.es/inicio/613744/como-gestionar-los-escombros-del-doblete-sismico/",
+      "published_date": "2026-07-10T01:31:21Z",
+      "category": "Local Events"
     },
     {
-      "title": "Stockity expands its development in the digital investment market in Latin America",
+      "title": "Venezuelan government reports progress in the recovery of basic services in La Guaira after the devastating double earthquake",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/stockity-amplia-su-desarrollo-en-el-mercado-de-inversion-digital-en-america-latina/",
-      "published_date": "2026-07-07T20:09:49Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/gobierno-venezolano-reporta-avances-en-la-recuperacion-de-servicios-basicos-en-la-guaira-tras-el-devastador-doble-sismo/",
+      "published_date": "2026-07-10T00:52:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Specialists analyze legal responsibilities after the earthquake",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/614348/especialistas-analizan-las-responsabilidades-legales-tras-el-sismo/",
+      "published_date": "2026-07-10T00:25:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Six dead in forest fire in Almería, Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/seis-muertos-en-un-grave-incendio-forestal-en-almeria-espana/",
+      "published_date": "2026-07-10T00:22:55Z",
+      "category": "Local Events"
     },
     {
       "title": "Sntp confirms the death of 12 journalists due to the earthquakes in Venezuela",
@@ -623,83 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/laboratorio-de-paz-por-que-la-constitucion-tambien-sera-clave-en-la-reconstruccion-del-pais/",
       "published_date": "2026-07-09T22:41:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "France is still on a roll: it beats Morocco and reaches its third consecutive semi-final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/francia-sigue-en-racha-vence-a-marruecos-y-llega-a-su-tercera-semifinal-consecutiva/",
-      "published_date": "2026-07-09T22:12:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Women, girls and adolescents are the most exposed to risks after the collapse of services",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/614310/unfpa-busca-proteger-la-dignidad-y-la-salud-de-las-mujeres-tras-los-terremotos/",
-      "published_date": "2026-07-09T22:09:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "All for Venezuela: the Colombian media campaign to support those affected by earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/todos-por-venezuela-la-campana-de-medios-colombianos-para-apoyar-a-los-afectados-por-terremotos/",
-      "published_date": "2026-07-09T22:04:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The number of deaths from the earthquakes in Venezuela rises to 3,889: the number of injured remains at 16,740",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/sube-a-3-889-el-numero-de-fallecidos-por-los-terremotos-en-venezuela-la-cifra-de-heridos-se-mantiene-en-16-740/",
-      "published_date": "2026-07-09T21:51:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The official death toll from the earthquakes in Venezuela is approaching 4,000",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/se-acerca-a-4-000-la-cifra-oficial-de-fallecidos-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-07-09T21:47:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Condominium boards in Chacao are invited to register for reconstruction after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/invitan-a-juntas-de-condominio-en-chacao-a-inscribirse-en-registro-para-la-reconstruccion-luego-de-los-terremotos/",
-      "published_date": "2026-07-09T21:22:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"We don't believe him\": users on networks question Trump's version of María Corina Machado's return",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/no-le-creemos-usuarios-dudan-de-trump-por-asegurar-que-ee-uu-no-le-nego-el-regreso-a-maria-corina-machado/",
-      "published_date": "2026-07-09T21:00:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The number of Spaniards killed by the earthquakes in Venezuela rises to 40",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/sube-a-40-el-numero-de-espanoles-fallecidos-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-07-09T20:47:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They activate a special vacation bonus for the university sector through Patria: what is it for?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/administracion-de-delcy-rodriguez-paga-bono-vacacional-para-el-sector-universitario-enterese-para-que-alcanza/",
-      "published_date": "2026-07-09T20:45:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The United States reports that it has provided assistance to more than 30,000 Venezuelans affected by the recent earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/estados-unidos-informa-que-ha-brindado-asistencia-a-mas-de-30-000-venezolanos-afectados-por-los-recientes-terremotos/",
-      "published_date": "2026-07-09T20:18:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Linda Noskova advances and forms a final between Czechs at Wimbledon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/linda-noskova-avanza-y-conforma-una-final-entre-checas-en-wimbledon/",
-      "published_date": "2026-07-09T20:12:10Z",
       "category": "Local Events"
     }
   ]
