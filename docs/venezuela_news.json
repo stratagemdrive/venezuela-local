@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-11T00:05:28Z",
+  "last_updated": "2026-07-11T11:57:22Z",
   "stories": [
+    {
+      "title": "Two million evacuees in China awaiting Typhoon Bavi",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/dos-millones-de-evacuados-en-china-a-la-espera-del-tifon-bavi/",
+      "published_date": "2026-07-11T11:43:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump assured that there are a thousand missiles aimed at Iran in case Tehran tries to assassinate him",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/trump-aseguro-que-hay-mil-misiles-apuntados-hacia-iran-por-si-teheran-intenta-asesinarlo/",
+      "published_date": "2026-07-11T11:32:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Shield of the Americas, led by the US, demands that electoral results in Colombia be respected",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-escudo-de-las-americas-liderado-por-ee-uu-exige-que-se-respeten-resultados-electorales-en-colombia/",
+      "published_date": "2026-07-11T11:24:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chichiriviche de la Costa tries to get up without tourists or official help",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/614475/chichiriviche-de-la-costa-intenta-levantarse-sin-turistas-ni-ayuda-oficial/",
+      "published_date": "2026-07-11T00:21:01Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The US is betting on the AN of 2015 and not on a government board to achieve a negotiation",
       "source": "El Pitazo",
@@ -17,7 +45,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cuba suffers new general blackout, the second in five days",
+      "title": "Cuba suffers another general blackout, the second in five days",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/cuba-sufre-nuevo-apagon-general-el-segundo-en-cinco-dias/",
       "published_date": "2026-07-10T23:06:39Z",
@@ -28,6 +56,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/argentina-vuelve-a-la-accion-con-la-mision-de-dejar-en-el-camino-a-suiza/",
       "published_date": "2026-07-10T22:49:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "4,118 dead from earthquakes in Venezuela: add another 229",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/venezuela-suma-otros-219-muertos-para-llegar-a-al-menos-4-118-por-los-terremotos/",
+      "published_date": "2026-07-10T22:23:29Z",
       "category": "Diplomacy"
     },
     {
@@ -108,39 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "President of the Chamber of Commerce of La Guaira calls to reactivate work to overcome the crisis",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/presidente-de-camara-de-comercio-de-la-guaira-llama-a-reactivar-el-trabajo-para-superar-la-crisis/",
-      "published_date": "2026-07-10T17:20:02Z",
-      "category": "Diplomacy"
+      "title": "Relatives of missing people in Chile ask to reactivate investigations",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/familiares-de-desaparecidos-en-chile-piden-reactivar-pesquisas/",
+      "published_date": "2026-07-11T00:55:28Z",
+      "category": "Military"
     },
     {
-      "title": "Government announces arrival of diesel for heavy machinery, two weeks after the earthquakes",
+      "title": "Political prisoners Jackson Vera and Ricardo Cariel are released after almost four years in arbitrary detention",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/gobierno-anuncia-llegada-de-diesel-para-maquinaria-pesada-dos-semanas-despues-de-los-terremotos/",
-      "published_date": "2026-07-10T17:07:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“They built garbage!”: relatives of victims scolded Nicolás Maduro Guerra during a visit to the area affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/increparon-a-nicolas-maduro-guerra-durante-visita-a-la-guaira/",
-      "published_date": "2026-07-10T16:08:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Eduardo Valencia and his unforgettable debut in MLB: “I was waiting for this a lot”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/eduardo-valencia-y-su-debut-inolvidable-en-mlb-estaba-esperando-mucho-esto/",
-      "published_date": "2026-07-10T15:47:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Affected families from Morón demanded a care plan for Lacava after preventive eviction due to earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/familias-damnificadas-de-moron-exigieron-un-plan-de-atencion-a-rafael-lacava-tras-desalojo-preventivo-por-terremotos/",
-      "published_date": "2026-07-10T15:23:29Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/excarcelan-a-los-presos-politicos-jackson-vera-y-ricardo-cariel-tras-casi-cuatro-anos-en-detencion-arbitraria/",
+      "published_date": "2026-07-11T00:52:30Z",
+      "category": "Military"
     },
     {
       "title": "Political prisoners Jackson Vera and Ricardo Cariel released after 4 years in detention",
@@ -266,20 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/nadine-menendez-esposa-del-exsenador-bob-menendez-comenzara-a-cumplir-su-condena-por-soborno-este-viernes/",
       "published_date": "2026-07-09T21:56:56Z",
-      "category": "Military"
-    },
-    {
-      "title": "Peace Laboratory warns that post-earthquake recovery in Venezuela requires institutional legitimacy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/laboratorio-de-paz-advierte-que-la-recuperacion-posterreremotos-en-venezuela-exige-legitimidad-institucional/",
-      "published_date": "2026-07-09T21:35:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "PAHO warns that Venezuela has entered a new “critical” health phase",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/salud/ops-advierte-que-venezuela-entro-en-una-nueva-fase-sanitaria-critica-tras-los-terremotos/",
-      "published_date": "2026-07-09T21:11:00Z",
       "category": "Military"
     },
     {
@@ -563,6 +563,20 @@
       "category": "Economy"
     },
     {
+      "title": "Biometric census for victims begins this Saturday in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/censo-biometrico-para-damnificados-comienza-desde-este-sabado-en-venezuela/",
+      "published_date": "2026-07-11T11:12:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "More dangerous than aftershocks: endless scrolling and mental health after June 24",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-scroll-interminable-y-la-salud-mental-despues-del-24-de-junio/",
+      "published_date": "2026-07-11T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Grandfather of a university student who disappeared in Acarigua confessed that he strangled her and buried her body in the house",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/sucesos/abuelo-de-universitaria-desaparecida-en-acarigua-confeso-que-la-estrangulo-y-enterro-su-cuerpo-en-la-vivienda/",
@@ -619,7 +633,7 @@
       "category": "Local Events"
     },
     {
-      "title": "The United Kingdom installs a field hospital in La Guaira",
+      "title": "The United Kingdom installed a field hospital in La Guaira",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/614464/reino-unido-instala-hospital-de-campana-en-la-guaira/",
       "published_date": "2026-07-10T22:28:50Z",
@@ -630,13 +644,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/614456/balance-10jul-cifra-de-fallecidos-por-terremotos-supera-los-4100/",
       "published_date": "2026-07-10T22:26:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela adds another 219 deaths to reach at least 4,118 due to the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/venezuela-suma-otros-219-muertos-para-llegar-a-al-menos-4-118-por-los-terremotos/",
-      "published_date": "2026-07-10T22:23:29Z",
       "category": "Local Events"
     },
     {
@@ -693,13 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/una-mujer-resulto-lesionada-tras-sismo-de-3-9-sentido-en-caracas-este-10-de-julio/",
       "published_date": "2026-07-10T20:27:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bureaucracy and delays marked the rescue after the earthquake in Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/614390/burocracia-y-demoras-marcaron-el-rescate-tras-el-terremoto-en-venezuela/",
-      "published_date": "2026-07-10T20:23:34Z",
       "category": "Local Events"
     }
   ]
