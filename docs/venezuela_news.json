@@ -1,7 +1,70 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-14T23:58:59Z",
+  "last_updated": "2026-07-15T12:19:19Z",
   "stories": [
+    {
+      "title": "Luis de la Fuente's key to taking Spain to the final: “This is a team”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-clave-de-luis-de-la-fuente-para-llevar-a-espana-a-la-final-esto-es-un-equipo/",
+      "published_date": "2026-07-15T12:08:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "From refuge to refuge: when the right to housing becomes waiting",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/el-megafono/614860/de-refugio-en-refugio-cuando-el-derecho-a-la-vivienda-se-convierte-en-espera/",
+      "published_date": "2026-07-15T12:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Elliott Abrams: The United States is “losing Venezuela” by supporting Delcy Rodríguez",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/614865/elliott-abrams-estados-unidos-esta-perdiendo-venezuela-al-sostener-a-delcy-rodriguez/",
+      "published_date": "2026-07-15T10:34:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump's reversal on paying tolls in Hormuz reveals his difficulties in ending the war with Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-marcha-atras-de-trump-respecto-al-pago-de-peajes-en-ormuz-revela-sus-dificultades-para-poner-fin-a-la-guerra-con-iran/",
+      "published_date": "2026-07-15T10:27:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Félix Plasencia, the Rodríguez brothers' piece for Venezuela's foreign policy",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/felix-plasencia-pieza-esencial-de-los-hermanos-rodriguez/",
+      "published_date": "2026-07-15T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interim President of Peru requests Congress to grant a lifetime pension",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/presidente-interino-de-peru-solicita-al-congreso-el-otorgamiento-de-una-pension-vitalicia/",
+      "published_date": "2026-07-15T01:08:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“People are not going to invest in the long term if there is no democratic government”: the US seeks a middle ground for Venezuelan elections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-gente-no-va-a-invertir-a-largo-plazo-si-no-hay-un-gobierno-democratico-estados-unidos-busca-punto-medio-para-elecciones-venezolanas/",
+      "published_date": "2026-07-15T00:56:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Machado and González Urrutia will evaluate the path of dialogue with the PUD",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/machado-gonzalez-urrutia-convocan-reunion-pud/",
+      "published_date": "2026-07-15T00:31:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuelan Red Cross and Clover International join forces to reinforce humanitarian aid",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/cruz-roja-venezolana-y-clover-internacional-unen-esfuerzos-para-reforzar-ayuda-humanitaria/",
+      "published_date": "2026-07-15T00:18:03Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "María Corina Machado and Edmundo González convene the PUD to discuss AN announcements from 2015",
       "source": "El Pitazo",
@@ -14,6 +77,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/restrepo-plantea-alianza-colombia-ee-uu-para-impulsar-transicion-democratica-en-venezuela/",
       "published_date": "2026-07-14T23:26:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Press organizations demand the elimination of restrictions on journalists during the earthquake emergency",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/organizaciones-de-prensa-exigen-eliminar-restricciones-a-periodistas-durante-la-emergencia-por-los-terremotos/",
+      "published_date": "2026-07-14T23:05:22Z",
       "category": "Diplomacy"
     },
     {
@@ -73,84 +143,14 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Judge orders Maduro and Alex Saab to pay $314 million for torture against three Americans",
+      "title": "They tried to rob Lamine Yamal's house in an exclusive area of ​​Barcelona",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/juez-ordena-a-maduro-y-alex-saab-pagar-314-millones-de-dolares-por-tortura-contra-tres-estadounidenses/",
-      "published_date": "2026-07-14T20:57:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They investigate the murder of a young Venezuelan woman by her partner in Trinidad and Tobago",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/investigan-homicidio-de-joven-venezolana-por-su-pareja-en-trinidad-y-tobago/",
-      "published_date": "2026-07-14T20:29:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colombian authorities save Monómeros, a subsidiary of Pequiven, at the last minute",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/autoridades-de-colombia-salvan-a-ultima-hora-monomeros-filial-de-pequiven/",
-      "published_date": "2026-07-14T19:54:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Kane vs Messi, the duel of giants for a ticket to the World Cup final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/kane-vs-messi-el-duelo-de-gigantes-por-un-boleto-a-la-final-del-mundial/",
-      "published_date": "2026-07-14T18:10:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They request donation of tetanus toxoid for volunteers injured in rescue efforts in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/solicitan-donacion-de-toxoide-tetanico-para-voluntarios-lesionados-en-labores-de-rescate-en-la-guaira/",
-      "published_date": "2026-07-14T17:57:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alberto Soria, an essential feather in gastronomy and wine in Venezuela, has died",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/murio-alberto-soria-pluma-imprescindible-de-la-gastronomia-y-el-vino-en-venezuela/",
-      "published_date": "2026-07-14T17:20:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Chavista Parliament confirms resumption of negotiations since the beginning of August with the AN of 2015",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/parlamento-chavista-confirma-reinicio-de-negociacion-desde-inicios-de-agosto-con-la-an-de-2015/",
-      "published_date": "2026-07-14T16:16:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AN of 2015 announces roadmap from August 1: Marco Rubio supports the statement",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/an-de-2015-anuncia-hoja-de-ruta-desde-el-1-de-agosto-marco-rubio-respalda-el-comunicado/",
-      "published_date": "2026-07-14T15:18:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Portuguese: man strangled and buried his 20-year-old granddaughter because she rejected his courtship",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/portuguesa-hombre-estrangulo-y-enterro-a-su-nieta-de-20-anos-porque-rechazaba-su-noviazgo/",
-      "published_date": "2026-07-14T15:04:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jordan Walker relied on a Venezuelan to win the MLB Home Run Derby",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/jordan-walker-se-apoyo-en-un-venezolano-para-ganar-el-derby-de-jonrones-de-mlb/",
-      "published_date": "2026-07-14T14:49:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Press organizations demand the elimination of restrictions on journalists during the earthquake emergency",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/organizaciones-de-prensa-exigen-eliminar-restricciones-a-periodistas-durante-la-emergencia-por-los-terremotos/",
-      "published_date": "2026-07-14T23:05:22Z",
+      "url": "https://www.elnacional.com/2026/07/intentaron-robar-en-la-casa-de-lamine-yamal-en-una-zona-exclusiva-de-barcelona/",
+      "published_date": "2026-07-15T09:52:07Z",
       "category": "Military"
     },
     {
-      "title": "Miami judge orders compensation of $314 million to three Americans who denounced torture in Venezuela",
+      "title": "Miami judge orders 314 million dollars in compensation to 3 Americans who denounced torture in Venezuela",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/614847/juez-de-miami-ordena-indemnizacion-de-314-millones-de-dolares-a-tres-estadounidenses-que-denunciaron-torturas-en-venezuela/",
       "published_date": "2026-07-14T20:56:30Z",
@@ -563,6 +563,76 @@
       "category": "Economy"
     },
     {
+      "title": "Laser Airlines will temporarily activate domestic flights from Libertador Airport in Maracay",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/laser-airlines-activara-temporalmente-vuelos-nacionales-desde-el-aeropuerto-libertador-en-maracay/",
+      "published_date": "2026-07-15T11:37:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelans take advantage of foreign field hospitals due to deficiencies in the public network",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/venezolanos-aprovechan-hospitales-de-campana-extranjeros-ante-deficiencias-en-la-red-publica/",
+      "published_date": "2026-07-15T10:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "World Central Kitchen lights the stove to feed hope",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/dentro-de-la-operacion-de-world-central-kitchen-en-venezuela/",
+      "published_date": "2026-07-15T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Today's News | Afternoon • July 14",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/noticias-de-hoy-tarde-14-de-julio/",
+      "published_date": "2026-07-15T03:23:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Morris Tidball-Binz: State negligence in disaster prevention should not go unpunished (+ Keys)",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/morris-tidball-binz-la-negligencia-estatal-en-la-prevencion-de-desastres-no-deberia-quedar-impune-claves/",
+      "published_date": "2026-07-15T03:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "María Corina Machado y Edmundo González convocan a partidos y aliados a definir postura frente a la hoja de ruta del Parlamento",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/maria-corina-machado-y-edmundo-gonzalez-convocan-a-partidos-y-aliados-a-definir-postura-frente-a-la-hoja-de-ruta-del-parlamento/",
+      "published_date": "2026-07-15T00:47:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministry of Higher Education rules out the total destruction of universities after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/ministerio-de-educacion-superior-descarta-la-destruccion-total-de-universidades-tras-los-sismos/",
+      "published_date": "2026-07-15T00:37:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Construction Chamber proposes completing works of the Housing Mission through public-private alliances",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/camara-de-la-construccion-propone-culminar-obras-de-la-mision-vivienda-mediante-alianzas-publico-privadas/",
+      "published_date": "2026-07-15T00:18:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ICE suspends vehicle arrests in immigration operations after the death of two Latinos",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/ice-suspende-detenciones-de-vehiculos-en-operativos-migratorios-tras-muerte-de-dos-latinos/",
+      "published_date": "2026-07-15T00:14:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tragedy in Chile: seven Venezuelans die in a truck and bus crash",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/fatal-accidente-en-chile-identifican-como-venezolanos-a-los-siete-fallecidos/",
+      "published_date": "2026-07-15T00:12:48Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Free and fair elections, the focus of Trump's speech on Thursday",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/elecciones-libres-y-justas-el-foco-del-discurso-de-trump-del-jueves/",
@@ -581,13 +651,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/porro-y-cucurella-los-laterales-que-allanaron-el-camino-de-la-roja-a-la-final/",
       "published_date": "2026-07-14T23:10:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Morris Tidball-Binz: State negligence in disaster prevention should not go unpunished (+ Keys)",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/morris-tidball-binz-la-negligencia-estatal-en-la-prevencion-de-desastres-no-deberia-quedar-impune-claves/",
-      "published_date": "2026-07-14T22:56:31Z",
       "category": "Local Events"
     },
     {
@@ -637,69 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/an-discusion-ley-arrendamiento-estimular-mercado-terremotos/",
       "published_date": "2026-07-14T22:02:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fedecámaras creates committee to direct resources to areas affected by earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/fedecamaras-crea-comite-para-dirigir-recursos-a-areas-afectadas-por-terremotos/",
-      "published_date": "2026-07-14T21:56:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michael Kozak: The US does not want elections “too soon” or “too far away” in Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/michael-kozak-eeuu-no-quiere-elecciones-demasiado-pronto-ni-demasiado-lejos-en-venezuela/",
-      "published_date": "2026-07-14T21:54:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neighbors of Altagracia and Panteón Boulevard spend the night in camps",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/vecinos-de-altagracia-y-el-bulevar-panteon-pernoctan-en-campamentos-a-la-espera-de-reparaciones/",
-      "published_date": "2026-07-14T21:28:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain disarmed France and will play its second World Cup final",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/espana-desarmo-a-francia-y-jugara-su-segunda-final-mundialista/",
-      "published_date": "2026-07-14T21:26:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PCV denounces \"escalation\" of the US presence in Venezuela after the earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/pcv-denuncia-escalamiento-de-la-presencia-estadounidense-en-venezuela-luego-de-los-terremotos/",
-      "published_date": "2026-07-14T21:02:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "20 days later machinery arrives at OPP 22 in La Guaira after a complaint from relatives of missing persons",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/20-dias-despues-llega-maquinaria-a-los-opp-22-de-la-guaira-tras-denuncia-de-familiares-de-desaparecidos/",
-      "published_date": "2026-07-14T20:48:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Prepare Family demands greater information transparency to coordinate assistance to victims in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/prepara-familia-exige-mayor-transparencia-informativa-para-coordinar-asistencia-a-damnificados-en-venezuela/",
-      "published_date": "2026-07-14T20:32:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Find out which shelters receive pets rescued from earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/conoce-cuales-son-los-albergues-que-reciben-a-mascotas-rescatadas-de-los-terremotos/",
-      "published_date": "2026-07-14T20:25:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saime activates digital platform to reschedule passport appointments affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/saime-activa-plataforma-digital-para-reprogramar-citas-de-pasaporte-afectadas-por-los-sismos/",
-      "published_date": "2026-07-14T20:23:34Z",
       "category": "Local Events"
     }
   ]
