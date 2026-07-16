@@ -1,7 +1,28 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-16T00:05:29Z",
+  "last_updated": "2026-07-16T12:24:14Z",
   "stories": [
+    {
+      "title": "Pakistan asks to stop the escalation and resume technical talks between the US and Iran",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/pakistan-pide-frenar-la-escalada-y-retomar-las-conversaciones-tecnicas-entre-ee-uu-e-iran/",
+      "published_date": "2026-07-16T10:43:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "More than 20,000 people remain in temporary camps after the earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/mas-de-20-000-personas-permanecen-en-campamentos-transitorios-tras-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-16T10:28:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump announces that Iran released a US citizen detained since 2024",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/donald-trump-anuncia-liberacion-estadounidense-iran/",
+      "published_date": "2026-07-16T01:13:31Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "World Cup semi-finals: how two coaches shot their teams in the foot",
       "source": "El Nacional",
@@ -122,25 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "UCV reports 48 deaths from the earthquakes: 33 of the victims are students",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ucv-reporta-48-muertes-por-los-terremotos-33-de-las-victimas-son-estudiantes/",
-      "published_date": "2026-07-15T12:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Elliott Abrams: The United States is “losing Venezuela” by supporting Delcy Rodríguez",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/614865/elliott-abrams-estados-unidos-esta-perdiendo-venezuela-al-sostener-a-delcy-rodriguez/",
-      "published_date": "2026-07-15T10:34:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump's reversal on paying tolls in Hormuz reveals his difficulties in ending the war with Iran",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-marcha-atras-de-trump-respecto-al-pago-de-peajes-en-ormuz-revela-sus-dificultades-para-poner-fin-a-la-guerra-con-iran/",
-      "published_date": "2026-07-15T10:27:00Z",
-      "category": "Diplomacy"
+      "title": "Court denies parole to Perkins Rocha",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/tribunal-niega-libertad-condicional-perkins-rocha/",
+      "published_date": "2026-07-16T00:06:54Z",
+      "category": "Military"
     },
     {
       "title": "Guyana workers request mediation from the Ombudsman's Office for the restitution of labor rights",
@@ -171,7 +178,7 @@
       "category": "Military"
     },
     {
-      "title": "Penal Forum reports the release of Mazuco and five other political prisoners",
+      "title": "Penal Forum reports the release of Mazuco and other political prisoners",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/sucesos/foro-penal-reporta-excarcelacion-mazuco-y-otros-cinco-politic/",
       "published_date": "2026-07-15T21:46:48Z",
@@ -276,17 +283,24 @@
       "category": "Military"
     },
     {
-      "title": "The keys to the case of Pedro Sánchez's brother, sentenced to 9 years of disqualification for prevarication",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/las-claves-del-caso-del-hermano-de-pedro-sanchez-condenado-a-9-anos-de-inhabilitacion-por-prevaricacion/",
-      "published_date": "2026-07-14T19:36:42Z",
-      "category": "Military"
+      "title": "Delcy Rodríguez files a complaint against a Spanish businessman who accuses her of corruption in PDVSA",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/delcy-rodriguez-se-querella-contra-un-empresario-espanol-que-la-acusa-de-corrupcion-en-pdvsa/",
+      "published_date": "2026-07-16T12:12:35Z",
+      "category": "Energy"
     },
     {
-      "title": "World Central Kitchen lights the stove to fuel hope",
+      "title": "Families denounce abuses against migrants transferred from Alligator Alcatraz to Miami",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/world-central-kitchen-enciende-los-fogones-para-alimentar-la-esperanza/",
-      "published_date": "2026-07-15T23:32:36Z",
+      "url": "https://www.elnacional.com/2026/07/familias-denuncian-abusos-contra-migrantes-trasladados-de-alligator-alcatraz-a-miami/",
+      "published_date": "2026-07-16T10:09:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Can alternative routes to the Strait of Hormuz keep Gulf oil and gas flowing?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/pueden-las-rutas-alternativas-al-estrecho-de-ormuz-mantener-el-flujo-de-petroleo-y-gas-del-golfo/",
+      "published_date": "2026-07-16T09:49:22Z",
       "category": "Energy"
     },
     {
@@ -409,24 +423,24 @@
       "category": "Energy"
     },
     {
-      "title": "Women shape The Odyssey between strategy and power",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/las-mujeres-moldean-la-odisea-el-clasico-que-llega-a-la-pantalla/",
-      "published_date": "2026-07-13T09:01:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Power Maps: Is Diosdado Cabello losing one of his main sources of power?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/mapas-de-poder-pierde-diosdado-cabello-una-de-sus-principales-fuentes-de-poder/",
-      "published_date": "2026-07-12T21:39:38Z",
-      "category": "Energy"
+      "title": "Civil organizations to US congressmen: without justice or the rule of law there will be no economic recovery in Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/614946/organizaciones-civiles-a-congresistas-de-eeuu-sin-justicia-ni-estado-de-derecho-no-habra-recuperacion-economica-en-venezuela/",
+      "published_date": "2026-07-16T12:00:00Z",
+      "category": "Economy"
     },
     {
       "title": "AN approves project to stimulate rentals after the earthquakes: it promises protection to the owner",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/an-aprueba-proyecto-para-estimular-arrendamientos-luego-de-los-terremotos-promete-proteccion-al-propietario/",
       "published_date": "2026-07-15T18:26:03Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Asdrúbal Oliveros proposes tax reform to face emergency due to earthquakes",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/asdrubal-oliveros-plantea-reforma-tributaria-para-enfrentar-emergencia-por-los-terremotos/",
+      "published_date": "2026-07-15T13:19:57Z",
       "category": "Economy"
     },
     {
@@ -549,18 +563,60 @@
       "category": "Economy"
     },
     {
-      "title": "Portugal extends its aid to Venezuela with technical support and reconstruction projects",
+      "title": "They will install temporary camps in Ciudad Caribia for families affected by the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/portugal-extiende-su-ayuda-a-venezuela-con-apoyo-tecnico-y-proyectos-de-reconstruccion/",
-      "published_date": "2026-07-11T12:05:47Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/instalaran-campamentos-transitorios-en-ciudad-caribia-para-las-familias-afectadas-por-los-terremotos/",
+      "published_date": "2026-07-16T11:46:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Colombian Football Federation rejects threats to Jáminton Campaz",
+      "title": "When the classroom also shakes: a lesson outside the curriculum",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/614953/cuando-el-aula-tambien-tiembla-una-leccion-fuera-del-curriculo/",
+      "published_date": "2026-07-16T11:45:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Drills and the illusion of prevention: is there a true anti-seismic culture in Venezuela?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/federacion-colombiana-de-futbol-rechaza-amenazas-a-jaminton-campaz/",
-      "published_date": "2026-07-10T21:02:05Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/simulacros-existe-una-cultura-antisismica-en-venezuela/",
+      "published_date": "2026-07-16T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Where is Cristina Ramos, the “lady with pretty nails”?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/donde-esta-cristina-ramos-la-senora-de-las-unas-bonitas/",
+      "published_date": "2026-07-16T07:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Guaira three weeks after the double earthquake: a search that defies oblivion",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/la-guaira-a-tres-semanas-del-doble-terremoto-una-busqueda-que-desafia-al-olvido/",
+      "published_date": "2026-07-16T01:14:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Messi: “Once again we have shown that nobody gives us anything”",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/deportes/messi-una-vez-mas-hemos-demostrado-que-nadie-nos-regala-nada/",
+      "published_date": "2026-07-16T00:49:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain and Argentina meet in the World Cup final",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/deportes/espana-y-argentina-se-miden-en-la-final-por-la-copa-del-mundo/",
+      "published_date": "2026-07-16T00:25:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from earthquakes in Venezuela rises to 4,829 this #15Jul",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/terremotos-en-venezuela-suman-4-829-fallecidos-para-este-15jul/",
+      "published_date": "2026-07-16T00:19:27Z",
+      "category": "Local Events"
     },
     {
       "title": "College of Engineers deploys more than 3,000 professionals to evaluate structures affected by earthquakes",
@@ -570,7 +626,7 @@
       "category": "Local Events"
     },
     {
-      "title": "Organizations present before the US Congress measures for a democratic transition in Venezuela",
+      "title": "Organizations present before the US Congress measures for the democratic transition in Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/organizaciones-plantean-ante-el-congreso-de-ee-uu-medidas-para-una-transicion-democratica-en-venezuela/",
       "published_date": "2026-07-15T23:58:36Z",
@@ -584,7 +640,14 @@
       "category": "Local Events"
     },
     {
-      "title": "Marc Anthony, Feid and Ricardo Montaner will do a charity concert for Venezuela in Miami on #Aug16",
+      "title": "World Central Kitchen lights the stove to feed hope",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/world-central-kitchen-enciende-los-fogones-para-alimentar-la-esperanza/",
+      "published_date": "2026-07-15T23:32:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marc Anthony, Feid and Ricardo Montaner will do a charity concert for Venezuela in Miami on #16Aug",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/cultura/marc-anthony-feid-y-ricardo-montaner-haran-concierto-benefico-por-venezuela-en-miami-el-16ago/",
       "published_date": "2026-07-15T23:26:33Z",
@@ -637,69 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/el-junquito-delcy-rodriguez-anuncia-plan-maestro/",
       "published_date": "2026-07-15T22:49:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Balance #15Jul | Death toll due to earthquakes rises to 4,829",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/614930/balance-15jul-cifra-de-fallecidos-tras-doblete-sismico-se-eleva-a-4829/",
-      "published_date": "2026-07-15T22:42:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Caracas Metrocable System is reactivated this #15Jul",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sistema-metrocable-de-caracas-se-reactiva-este-15jul/",
-      "published_date": "2026-07-15T22:37:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lionel Scaloni after Argentina's epic triumph: “We are unique, it is not arrogance”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/lionel-scaloni-tras-el-triunfo-epico-de-argentina-somos-unicos-no-es-arrogancia/",
-      "published_date": "2026-07-15T22:33:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US congressmen listened to human rights defenders at a hearing on Venezuela: three key points",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/congresistas-eeuu-defensores-ddhh-audiencia-venezuela-claves/",
-      "published_date": "2026-07-15T22:16:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Floods in Apure: deterioration of the bridge over the Sarare river threatens to cut off two parishes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/inundaciones-en-apure-deterioro-del-puente-sobre-el-rio-sarare-amenaza-con-dejar-incomunicadas-a-dos-parroquias/",
-      "published_date": "2026-07-15T22:12:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tuchel does not regret his strategy and takes responsibility for the English defeat",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/tuchel-no-se-arrepiente-de-su-estrategia-y-asume-la-responsabilidad-de-la-derrota-inglesa/",
-      "published_date": "2026-07-15T22:07:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keiko Fujimori celebrates her proclamation: “Proud to be the first woman elected president in Peru”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-celebra-su-proclamacion-orgullosa-de-ser-la-primera-mujer-elegida-presidenta-en-el-peru/",
-      "published_date": "2026-07-15T21:59:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Educators continue with the demand for decent wages: \"the fight continues\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/educadores-continuan-con-la-exigencia-de-salarios-dignos-la-lucha-sigue-en-pie/",
-      "published_date": "2026-07-15T21:55:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death of a Venezuelan in ICE custody raises the death toll to 22",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/muerte-de-venezolano-bajo-custodia-del-ice-eleva-cifra-de-fallecidos-a-22/",
-      "published_date": "2026-07-15T21:47:00Z",
       "category": "Local Events"
     }
   ]
