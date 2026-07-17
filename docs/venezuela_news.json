@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-17T00:04:40Z",
+  "last_updated": "2026-07-17T12:13:31Z",
   "stories": [
+    {
+      "title": "Strong storms in France leave two dead and 53,000 homes without power",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/fuertes-tormentas-en-francia-dejan-dos-muertos-y-53-000-hogares-sin-luz/",
+      "published_date": "2026-07-17T11:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Declassified CIA files reveal Chavismo's tactics to manipulate the electronic voting system in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/votacion-electronica-en-venezuela-archivos-desclasificados-cia/",
+      "published_date": "2026-07-17T11:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China calls accusations of electoral interference in the US “complete falsehood”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/china-califica-de-completa-falsedad-las-acusaciones-de-interferencia-electoral-en-ee-uu/",
+      "published_date": "2026-07-17T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maiquetía remains a commercial engine in La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/maiquetia-se-mantiene-como-motor-comercial-en-la-guaira/",
+      "published_date": "2026-07-17T08:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump accuses China of interference and compares vulnerabilities to Venezuelan election rigging",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/donald-trump-acusa-china-interferencia-elecciones-venezuela/",
+      "published_date": "2026-07-17T01:57:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump receives Bukele at the White House for a private meeting",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/trump-recibe-a-bukele-en-la-casa-blanca-para-un-encuentro-privado/",
+      "published_date": "2026-07-17T00:35:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ecuador requests Venezuela and the United States for the extradition of two fugitives linked to the Villavicencio case",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/ecuador-solicita-a-venezuela-y-ee-uu-extradicion-de-dos-profugos-vinculados-al-caso-villavicencio/",
+      "published_date": "2026-07-17T00:27:23Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Abelardo de la Espriella announces that he will open the Colombian embassy in Jerusalem after reestablishing ties with Israel",
       "source": "El Nacional",
@@ -94,53 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Voluntad Popular supports the AN 2015 and its proposal for dialogue on August 1",
+      "title": "The father who found his daughter's body in the rubble 20 days after the earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-padre-que-encontro-el-cuerpo-de-su-hija-entre-los-escombros-20-dias-despues-de-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-17T10:48:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Nine Venezuelans led by mother and son plead guilty to trafficking network in the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/nueve-venezolanos-liderados-por-madre-e-hijo-se-declaran-culpables-de-red-de-trata-en-ee-uu/",
+      "published_date": "2026-07-17T10:25:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "The PSOE is experiencing its own earthquake caused by corruption",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-psoe-vive-su-propio-terremoto-provocado-por-la-corrupcion/",
+      "published_date": "2026-07-17T06:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump denounces plan for years to alter elections in Venezuela",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/voluntad-popular-apoya-a-la-an-2015-y-su-propuesta-de-dialogo-del-1-de-agosto/",
-      "published_date": "2026-07-16T20:15:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dinorah Figuera appreciates US support for the political dialogue scheduled for August between the interim government and a sector of the opposition",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/dinorah-figuera-agradece-respaldo-de-ee-uu-al-dialogo-politico-previsto-para-agosto-con-sectores-del-gobierno/",
-      "published_date": "2026-07-16T19:57:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They demand that the release of political prisoners be the first point of dialogue between AN of 2015 and the interim government",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/exigen-que-liberacion-de-presos-politicos-sea-el-primer-punto-del-dialogo-entre-an-de-2015-y-el-gobierno-interino/",
-      "published_date": "2026-07-16T19:18:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Relatives ask for a pardon for all political prisoners: \"Delcy Rodríguez has the key to free them\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/piden-indulto-para-todos-los-presos-politicos-delcy-rodriguez-tiene-la-llave-para-liberarlos/",
-      "published_date": "2026-07-16T19:11:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Banesco enables the purchase of dollars in cash for companies: this is how the process works",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/banesco-habilita-la-compra-de-dolares-en-efectivo-para-empresas-asi-funciona-el-proceso/",
-      "published_date": "2026-07-16T18:09:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela participates in the 67th International Mathematics Olympiad in Shanghai",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/olimpiada-internacional-de-matematicas-venezuela-shanghai/",
-      "published_date": "2026-07-16T18:05:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Oil and debt, two great mysteries of the relationship between Trump and the interim",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/petroleo-y-deuda-dos-misterios-entre-trump-y-el-interinato/",
-      "published_date": "2026-07-16T17:27:57Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/internacionales/trump-analisis-cia-elecciones/",
+      "published_date": "2026-07-17T03:07:16Z",
+      "category": "Military"
     },
     {
       "title": "The Madrid Court ratifies the jury trial of Begoña Gómez for the crimes of influence peddling and embezzlement",
@@ -252,34 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/canicultores-de-lara-y-yaracuy-exigen-reactivacion-operativa-del-central-rio-turbio/",
       "published_date": "2026-07-15T20:45:32Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Pentagon evaluates scenarios based on hypothetical military attacks against Cuba",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-pentagono-evalua-escenarios-basados-en-hipoteticos-ataques-militares-contra-cuba/",
-      "published_date": "2026-07-15T20:39:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Mazuco was received by relatives of political prisoners upon being released from El Rodeo I",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/mazuco-fue-recibido-por-familiares-de-presos-politicos-al-ser-excarcelado-de-el-rodeo-i/",
-      "published_date": "2026-07-15T20:12:58Z",
-      "category": "Military"
-    },
-    {
-      "title": "Perkins Rocha is denied parole: “Discrimination persists in his case”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/614939/niegan-libertad-condicional-a-perkins-rocha-persiste-la-discriminacion-en-su-caso/",
-      "published_date": "2026-07-15T20:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Objective: Rodríguez Zapatero's network used a firm in Dubai to exploit Venezuelan gold",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/the-objective-empresa-registrada-en-dubai-habria-sido-clave-en-un-presunto-negocio-de-oro-venezolano/",
-      "published_date": "2026-07-15T19:44:06Z",
       "category": "Military"
     },
     {
@@ -563,6 +563,62 @@
       "category": "Economy"
     },
     {
+      "title": "What does the CIA say about Chavismo's abilities to manipulate elections in Venezuela?",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615065/que-dice-la-cia-sobre-las-capacidades-del-chavismo-de-manipular-elecciones-en-venezuela/",
+      "published_date": "2026-07-17T11:44:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Democratic Republic of the Congo raises confirmed cases of Ebola to 2,124 and reports 828 deaths",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-republica-democratica-del-congo-eleva-a-2-124-los-casos-confirmados-de-ebola-y-reporta-828-fallecidos/",
+      "published_date": "2026-07-17T10:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“We just want to return home”: the desire of those affected by the earthquakes in Guarenas and Guatire",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-anhelo-de-los-afectados-por-terremotos-en-guarenas-y-guatire/",
+      "published_date": "2026-07-17T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“No country is great without free and fair elections”: Trump declassifies intelligence files on US elections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/donald-trump-desclasifica-archivos-inteligencia-electoral/",
+      "published_date": "2026-07-17T01:27:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Space X aborts 13th test launch of its Starship rocket",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/space-x-aborta-el-decimotercer-lanzamiento-de-prueba-de-su-cohete-starship/",
+      "published_date": "2026-07-17T00:51:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UNESCO representative assesses damage in the University City of Caracas after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/representante-de-la-unesco-evalua-danos-en-la-ciudad-universitaria-de-caracas-tras-los-terremotos/",
+      "published_date": "2026-07-17T00:49:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Curacao announces reopening of direct flights with Barcelona and Maracaibo airports",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/curazao-anuncia-reapertura-de-vuelos-directos-con-los-aeropuertos-de-barcelona-y-maracaibo/",
+      "published_date": "2026-07-17T00:16:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A third Avianca plane transported more than 55 tons of supplies to Venezuela to address the earthquake crisis",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/un-tercer-avion-de-avianca-transporto-mas-de-55-toneladas-de-insumos-a-venezuela-para-atender-la-crisis-por-sismos/",
+      "published_date": "2026-07-17T00:14:53Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Messi reaches the World Cup final leading the main offensive statistics",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/messi-llega-a-la-final-del-mundial-encabezando-las-principales-estadisticas-ofensivas/",
@@ -644,62 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/merida-donde-estan-las-obras-denuncian-que-alcaldia-no-invirtio-mas-de-dos-millones-de-dolares-en-servicios-basicos/",
       "published_date": "2026-07-16T21:45:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Journalist Yandris Saldivia was detained and intimidated by Corpocapital personnel in Parque Central",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/periodista-yandris-saldivia-fue-retenida-e-intimidada-por-personal-de-corpocapital-en-parque-central/",
-      "published_date": "2026-07-16T21:42:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ronald Acuña Jr. hits grand slam in his tune-up with Atlanta",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ronald-acuna-jr-conecta-grand-slam-en-su-puesta-a-tono-con-atlanta/",
-      "published_date": "2026-07-16T21:40:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "CNP in response to unverified news of the earthquakes: \"It is not a game of likes\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/cnp-ante-noticias-no-verificadas-de-los-terremotos-no-es-un-juego-de-likes/",
-      "published_date": "2026-07-16T21:11:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez supervised the rehabilitation works of homes damaged by the earthquakes in Guarenas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-superviso-en-guarenas-las-obras-de-rehabilitacion-de-viviendas-danadas-por-los-terremotos/",
-      "published_date": "2026-07-16T21:03:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "LeBron James keeps the NBA in suspense about his next destination",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/lebron-james-mantiene-a-la-nba-en-vilo-sobre-su-proximo-destino/",
-      "published_date": "2026-07-16T20:33:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The New Circus: epicenter of the victims of the Housing Mission",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/614971/el-nuevo-circo-epicentro-de-los-damnificados-de-la-mision-vivienda/",
-      "published_date": "2026-07-16T20:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The independent volunteers who helped La Guaira after the earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/615006/los-voluntarios-independientes-que-socorrieron-a-la-guaira-tras-los-terremotos/",
-      "published_date": "2026-07-16T19:58:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Access to the Waraira Repano remains restricted due to slope instability after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/mantienen-restringido-el-acceso-al-waraira-repano-por-inestabilidad-de-laderas-tras-los-terremotos/",
-      "published_date": "2026-07-16T19:57:37Z",
       "category": "Local Events"
     }
   ]
