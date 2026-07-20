@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-20T00:04:31Z",
+  "last_updated": "2026-07-20T13:10:18Z",
   "stories": [
+    {
+      "title": "Marco Rubio demands that Cuba immediately release more than 700 political prisoners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/ee-uu-exige-a-cuba-la-liberacion-de-700-presos-politicos/",
+      "published_date": "2026-07-20T12:21:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Thank you anyway!”: thousands of Argentines cheered on the team despite the defeat against Spain",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gracias-igual-miles-de-argentinos-alentaron-a-la-seleccion-pese-a-la-derrota-ante-espana/",
+      "published_date": "2026-07-20T10:35:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Milei will decree a holiday for Argentines to celebrate with national team players after the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/milei-decretara-un-feriado-para-que-argentinos-celebren-junto-a-jugadores-de-la-seleccion-tras-el-mundial/",
+      "published_date": "2026-07-20T09:57:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran has received new proposals from mediators to stop escalation with the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/iran-ha-recibido-nuevas-propuestas-de-mediadores-para-frenar-escalada-con-ee-uu/",
+      "published_date": "2026-07-20T09:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One dead in Spain after a fountain collapses during the World Cup celebrations",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/un-muerto-en-espana-tras-el-derrumbe-de-una-fuente-en-las-celebraciones-del-mundial/",
+      "published_date": "2026-07-20T00:46:51Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Messi, the bittersweet goodbye of an incomparable player",
       "source": "El Pitazo",
@@ -108,39 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The US welcomes Otero Alcántara and asks Cuba to release the rest of the political prisoners",
+      "title": "Peru reports that a 5.1 earthquake left five dead, 32 injured and 350 affected",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ee-uu-da-la-bienvenida-a-otero-alcantara-y-pide-a-cuba-liberar-al-resto-de-presos-politicos/",
-      "published_date": "2026-07-19T12:02:23Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/peru-reporta-que-sismo-de-51-dejo-cinco-muertos-32-heridos-y-350-damnificados/",
+      "published_date": "2026-07-20T10:19:00Z",
+      "category": "Military"
     },
     {
-      "title": "Jenna Ortega will star in Nasty, a drama about Olympic gymnastics",
+      "title": "The United States bombed military targets in Iran after the death of two soldiers in Jordan",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/jenna-ortega-protagonizara-nasty-un-drama-sobre-la-gimnasia-olimpica/",
-      "published_date": "2026-07-19T11:42:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lin-Manuel Miranda: Moana's music begins first in culture",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/lin-manuel-miranda-la-musica-de-moana-empieza-primero-en-la-cultura/",
-      "published_date": "2026-07-19T11:42:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Analysis of the environment: Whoever plays the balance only reinforces the dictatorship",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/analisis-de-entorno-quien-juega-al-equilibrio-no-hace-mas-que-reforzar-a-la-dictadura/",
-      "published_date": "2026-07-19T09:04:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The rodrigato agrees to resume political negotiations: Where is Chavismo moving?",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/rodrigato-reanudar-negociaciones-politicas-hacia-donde-chavismo/",
-      "published_date": "2026-07-19T06:15:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/estados-unidos-bombardeo-objetivos-militares-en-iran-tras-la-muerte-de-dos-soldados-en-jordania/",
+      "published_date": "2026-07-20T00:54:06Z",
+      "category": "Military"
     },
     {
       "title": "Cicpc arrests two men for stealing belongings from earthquake victims in La Guaira",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez promises to add 50% more electricity to the national supply in 4 years",
+      "title": "Brent oil surpasses $90 a barrel after new attacks in Iran",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-promete-sumar-en-4-anos-50-mas-de-electricidad-a-la-oferta-nacional/",
-      "published_date": "2026-07-17T19:04:53Z",
-      "category": "Military"
-    },
-    {
-      "title": "Schmid overtook Tejada to celebrate his first Tour de France stage victory",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/schmid-supero-a-tejada-para-celebrar-su-primera-victoria-de-etapa-en-el-tour-de-francia/",
-      "published_date": "2026-07-17T18:02:44Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/petroleo-brent-supera-los-90-por-barril-tras-nuevos-ataques-en-iran/",
+      "published_date": "2026-07-20T12:13:49Z",
+      "category": "Energy"
     },
     {
       "title": "Power Maps | Why did the US choose Dinorah Figuera to negotiate with Chavismo?",
@@ -416,11 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Trump attributed control of Venezuelan oil to the US",
+      "title": "Petro agrees to be the head of the Colombian opposition after a vacation",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/trump-atribuyo-a-ee-uu-el-control-del-petroleo-venezolano/",
-      "published_date": "2026-07-15T15:17:38Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/petro-acepta-ser-el-jefe-de-la-oposicion-colombiana-despues-de-unas-vacaciones/",
+      "published_date": "2026-07-20T11:16:00Z",
+      "category": "Economy"
     },
     {
       "title": "Paparoni warns that $346 million for earthquake reconstruction will end up in the hands of corruption",
@@ -556,11 +563,53 @@
       "category": "Economy"
     },
     {
-      "title": "The Binance dollar gains ground in the Venezuelan exchange market",
+      "title": "4.6 earthquake wakes up eastern Venezuela during the morning of this July 20",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/sismo-de-46-despierta-al-oriente-venezolano-durante-la-manana-de-este-20-de-julio/",
+      "published_date": "2026-07-20T12:53:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "France is willing to make an exception to guarantee Zidane's arrival",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-dolar-binance-gana-terreno-en-mercado-cambiario-venezolano/",
-      "published_date": "2026-07-16T20:23:25Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/francia-esta-dispuesta-hacer-una-excepcion-para-garantizar-la-llegada-de-zidane/",
+      "published_date": "2026-07-20T12:42:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canada increased humanitarian aid for Venezuela to $12 million due to the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/canada-aumento-a-12-millones-la-ayuda-humanitaria-para-venezuela-por-los-terremotos/",
+      "published_date": "2026-07-20T12:29:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ferran Torres is reborn: “I had no desire to play football”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/ferran-torres-renace-no-tenia-ni-ilusion-de-jugar-al-futbol/",
+      "published_date": "2026-07-20T11:46:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The dignity of those who do not give up",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/615284/solidaridad-venezuela-2/",
+      "published_date": "2026-07-20T04:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Geological expert ruled out reasons for alarm due to the earthquakes on La Tortuga Island: “It is a process of tectonic readjustment”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/experta-geologa-descarto-motivos-de-alarma-por-los-sismos-en-la-isla-la-tortuga-es-un-proceso-de-reajuste-tectonico/",
+      "published_date": "2026-07-20T00:26:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rodri: “We were brave to win the Cup”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/rodri-fuimos-valientes-para-ganar-la-copa/",
+      "published_date": "2026-07-20T00:13:02Z",
+      "category": "Local Events"
     },
     {
       "title": "The death toll from the double earthquake in Venezuela rises to 5,208",
@@ -651,55 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/deportes/dudamel-un-venezolano-en-el-show-del-medio-tiempo-del-mundial-2026/",
       "published_date": "2026-07-19T21:33:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Madonna, Shakira, BTS and Justin Bieber starred in a halftime show at the World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/madonna-shakira-bts-y-justin-bieber-protagonizaron-un-show-de-medio-tiempo-en-la-copa-mundial/",
-      "published_date": "2026-07-19T21:30:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gustavo Dudamel participates in the halftime show of the 2026 World Cup final with a charitable purpose",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/gustavo-dudamel-participa-en-espectaculo-del-medio-tiempo-de-la-final-del-mundial-2026-con-un-proposito-benefico/",
-      "published_date": "2026-07-19T21:15:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thunder traspasa a Lu Dort a los Hawks y Risacher llega a los Mavericks",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/thunder-traspasan-a-lu-dort-a-los-hawks-y-risacher-llega-a-los-mavericks/",
-      "published_date": "2026-07-19T21:12:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laura Pausini dedicated her presentation in the World Cup final to Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/laura-pausini-dedico-su-presentacion-en-la-final-del-mundial-a-venezuela/",
-      "published_date": "2026-07-19T20:47:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "What NGOs ask for Venezuelan children in their day",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/615315/lo-que-piden-las-ong-por-los-ninos-venezolanos-en-su-dia/",
-      "published_date": "2026-07-19T20:37:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump reaches the World Cup final: “It is difficult to bet against Messi”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/trump-llega-a-la-final-del-mundial-es-dificil-apostar-contra-messi/",
-      "published_date": "2026-07-19T20:28:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Activists and relatives of political prisoners scheduled a new vigil in front of El Rodeo I",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/activistas-y-familiares-de-presos-politicos-pautaron-nueva-vigilia-frente-a-el-rodeo-i/",
-      "published_date": "2026-07-19T20:16:14Z",
       "category": "Local Events"
     }
   ]
