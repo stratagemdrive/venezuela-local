@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-22T00:00:26Z",
+  "last_updated": "2026-07-22T12:30:06Z",
   "stories": [
+    {
+      "title": "Why is Iran risking so much for the Strait of Hormuz?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/por-que-iran-esta-arriesgando-tanto-por-el-estrecho-de-ormuz/",
+      "published_date": "2026-07-22T11:38:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FAO reports less hunger in Venezuela, but warns about the nutritional deterioration of women and children",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/que-revela-el-informe-2026-de-la-fao-sobre-venezuela/",
+      "published_date": "2026-07-22T11:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chilean Congress approves economic reform promoted by José Antonio Kast",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/congreso-chileno-aprueba-reforma-economica-impulsada-por-jose-antonio-kast/",
+      "published_date": "2026-07-22T01:03:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "US Prosecutor's Office proposes that the trial against Nicolás Maduro begin in June 2027",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/fiscalia-de-ee-uu-propone-que-el-juicio-contra-nicolas-maduro-comience-en-junio-de-2027/",
+      "published_date": "2026-07-22T01:02:12Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Albert Ramdin: “The OAS is prepared to support a peaceful and inclusive transition in Venezuela”",
       "source": "El Nacional",
@@ -66,13 +94,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FAO reports less hunger in Venezuela, but warns about the nutritional deterioration of women and children",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/que-revela-el-informe-2026-de-la-fao-sobre-venezuela/",
-      "published_date": "2026-07-21T17:33:29Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Salvador Pérez, one home run away from George Brett: “If I could do it here it would be great”",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/salvador-perez-a-un-jonron-de-george-brett-si-lo-lograra-aqui-seria-grandioso/",
@@ -122,25 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Luka Modric sets a date for his farewell to the Croatian national team",
+      "title": "The silent crisis of immunization in Venezuela: between dose rationing, broken promises and union helplessness",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/luka-modric-pone-fecha-a-su-despedida-de-la-seleccion-de-croacia/",
-      "published_date": "2026-07-21T13:25:21Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/la-crisis-silenciosa-de-la-inmunizacion-en-venezuela-entre-el-racionamiento-de-dosis-promesas-rotas-y-el-desamparo-gremial/",
+      "published_date": "2026-07-22T09:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "The extraordinary birth in Australia of identical quadruplets conceived naturally",
+      "title": "Relatives of victims of state crimes in Peru reject the legitimacy of Keiko Fujimori's government",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-nacimiento-en-australia-de-cuatrillizas-identicas/",
-      "published_date": "2026-07-21T11:58:45Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/familiares-de-victimas-de-crimenes-de-estado-en-peru-rechazan-la-legitimidad-del-gobierno-de-keiko-fujimori/",
+      "published_date": "2026-07-22T00:44:43Z",
+      "category": "Military"
     },
     {
-      "title": "The ancient Buddhist temple in South Korea where monks help young people find a partner (and encourage them to have children)",
+      "title": "The United States records the highest number of immigration detentions in a month during the Trump administration",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-templo-budista-donde-los-monjes-ayudan-a-encontrar-pareja/",
-      "published_date": "2026-07-21T11:54:11Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/estados-unidos-registra-la-cifra-mas-alta-de-detenciones-migratorias-en-un-mes-durante-la-administracion-trump/",
+      "published_date": "2026-07-22T00:26:46Z",
+      "category": "Military"
     },
     {
       "title": "They enable 15 single registration points for families affected by the earthquakes in La Guaira",
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "César Pérez Vivas denounces electoral delay and asks the TSJ to open the way to the presidential elections",
+      "title": "Judge detects signs of manipulation in PDVSA documents provided by Garzón's law firm",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/cesar-perez-vivas-denuncia-retraso-electoral-y-pide-al-tsj-abrir-camino-a-los-comicios-presidenciales/",
-      "published_date": "2026-07-20T21:19:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Petro calls for a “general and indefinite strike” if Abelardo de la Espriella repeals his reforms",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/petro-llama-a-huelga-general-e-indefinida-si-abelardo-de-la-espriella-deroga-sus-reformas/",
-      "published_date": "2026-07-20T21:02:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Vigil 193 in El Rodeo I: families denounce repression against prisoners who demand safe cells",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615357/vigilia-193-en-el-rodeo-i-familias-denuncian-represion-contra-presos-que-exigen-celdas-seguras/",
-      "published_date": "2026-07-20T21:00:57Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/jueza-detecta-indicios-de-manipulacion-en-documentos-de-pdvsa-aportados-por-el-bufete-de-garzon/",
+      "published_date": "2026-07-22T10:06:00Z",
+      "category": "Energy"
     },
     {
       "title": "Trump on Venezuela: “The war ended in one day and now we have an incredible relationship”",
@@ -413,13 +420,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/venezuela-revela-su-preseleccion-femenina-para-el-clasificatorio-sudamericano-al-americup-2027/",
       "published_date": "2026-07-16T20:53:13Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Diosdado Cabello points to the Machado Zuloagas for the Tacoa tragedy: former director of Caracas Electricity refutes that version",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/diosdado-cabello-senala-a-los-machado-zuloaga-por-la-tragedia-de-tacoa-exdirector-de-la-electricidad-de-caracas-refuta-esa-version/",
-      "published_date": "2026-07-16T20:40:13Z",
       "category": "Energy"
     },
     {
@@ -563,6 +563,55 @@
       "category": "Economy"
     },
     {
+      "title": "Santos beat UCV 4-1 in the Copa Sudamericana playoff",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/santos-goleo-4-1-a-ucv-en-el-repechaje-de-la-copa-sudamericana/",
+      "published_date": "2026-07-22T12:13:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US organizations and congressmen press for TPS for Venezuelans after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/organizaciones-y-congresistas-de-ee-uu-presionan-por-el-tps/",
+      "published_date": "2026-07-22T11:43:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The new species of monkey with orange lips that was discovered in the heart of Africa",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-nueva-especie-de-mono-con-labios-naranjas/",
+      "published_date": "2026-07-22T11:40:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The death toll from the double earthquake rises to 5,346",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/asciende-5346-cifra-muertos-doble-terremoto/",
+      "published_date": "2026-07-22T10:49:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Scientists from Peru seek to determine why the 5.1 earthquake in the Andes was so intense",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/cientificos-de-peru-buscan-determinar-por-que-el-sismo-de-51-en-los-andes-fue-tan-intenso/",
+      "published_date": "2026-07-22T10:32:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez thanked the Israeli delegation for support after the double earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-agradecio-apoyo-de-delegacion-de-israel-tras-doble-terremoto/",
+      "published_date": "2026-07-22T10:19:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez inspects land to build anti-seismic homes for affected families in La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-inspecciona-terrenos-para-construir-viviendas-antisismicas-destinadas-a-familias-damnificadas-en-la-guaira/",
+      "published_date": "2026-07-22T00:18:53Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Trump Administration asks prosecutors to grant immunity to Delcy Rodríguez in the US",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/administracion-de-trump-pide-a-la-fiscalia-otorgar-inmunidad-a-delcy-rodriguez-en-ee-uu/",
@@ -619,7 +668,7 @@
       "category": "Local Events"
     },
     {
-      "title": "More than a thousand Unimet volunteers mobilize to respond to the emergency after the earthquakes",
+      "title": "More than a thousand Unimet volunteers have been mobilized to respond to the earthquake emergency",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/con-proposito/615566/mas-de-mil-voluntarios-de-la-unimet-se-movilizan-para-atender-la-emergencia-tras-los-sismos/",
       "published_date": "2026-07-21T22:20:16Z",
@@ -651,55 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/grupo-nutresa-compra-helados-tio-rico-y-fortalece-presencia-en-venezuela/",
       "published_date": "2026-07-21T22:03:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Caracas Lions cap in the celebration of Spain: the details of how it came to Víctor Muñoz",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/la-gorra-de-los-leones-del-caracas-en-la-celebracion-de-espana-los-detalles-de-como-llego-a-victor-munoz/",
-      "published_date": "2026-07-21T21:44:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Respiratory infections, diarrhea and hepatitis A on the rise after the earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615488/infecciones-respiratorias-diarreas-y-hepatitis-a-en-aumento-tras-los-sismos/",
-      "published_date": "2026-07-21T21:27:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chacao Mayor's Office: Owners of collapsed buildings preserve their rights over the land",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/alcaldia-de-chacao-aclara-que-propietarios-de-edificios-colapsados-conservan-sus-derechos-sobre-el-terreno/",
-      "published_date": "2026-07-21T21:20:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The UCV creates a contingency fund to assist community members affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-ucv-crea-un-fondo-de-contingencia-para-atender-danos-estructurales-y-auxiliar-a-miembros-de-la-comunidad-afectados-por-los-sismos/",
-      "published_date": "2026-07-21T21:19:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fernando Alonso clarifies that his future in F1 will depend on the regulations",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/fernando-alonso-aclara-que-su-futuro-en-la-f1-dependera-del-reglamento/",
-      "published_date": "2026-07-21T21:16:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Opponents ask 2015 deputies to set a date for the presidential election",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/zulia-opositores-piden-a-diputados-de-2015-fijar-una-fecha-para-la-eleccion-presidencial/",
-      "published_date": "2026-07-21T21:08:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessman investigated for the Plus Ultra case affirms that Zapatero put him in contact with Delcy Rodríguez",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/empresario-asegura-ante-la-justicia-que-zapatero-lo-conecto-con-delcy-rodriguez-y-empresas-venezolanas/",
-      "published_date": "2026-07-21T21:03:17Z",
       "category": "Local Events"
     }
   ]
