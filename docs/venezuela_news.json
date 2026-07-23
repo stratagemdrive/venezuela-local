@@ -1,7 +1,28 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-23T00:08:20Z",
+  "last_updated": "2026-07-23T12:26:34Z",
   "stories": [
+    {
+      "title": "Marco Rubio: María Corina Machado can play a role in the reconciliation of Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/marco-rubio-maria-corina-machado-puede-tener-un-rol-en-la-reconciliacion-de-venezuela/",
+      "published_date": "2026-07-23T11:41:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Supreme Court of Peru ratifies one more year of preventive detention against Pedro Castillo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/corte-suprema-de-peru-ratifica-un-ano-mas-de-prision-preventiva-contra-pedro-castillo/",
+      "published_date": "2026-07-23T01:08:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula responds pragmatically to US trade barriers and rules out direct retaliation",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/lula-responde-con-pragmatismo-ante-las-barreras-comerciales-de-ee-uu-y-descarta-represalias-directas/",
+      "published_date": "2026-07-23T00:28:26Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Tigre rejected the shooting attack suffered by its fans in Uruguay",
       "source": "El Nacional",
@@ -38,6 +59,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Maduro and Flores hearing: judge orders trial to begin in June 2027",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615608/audiencia-de-maduro-y-flores-juez-ordena-iniciar-juicio-en-junio-de-2027/",
+      "published_date": "2026-07-22T21:43:00Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "The good, the bad and the ugly of the 2026 World Cup",
       "source": "Runrun.es",
       "url": "https://runrun.es/opinion/615652/mundial-2026/",
@@ -49,6 +77,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/iran-amenaza-con-atacar-intereses-de-ee-uu-y-sus-aliados-si-washington-bombardea-sus-centros-nucleares/",
       "published_date": "2026-07-22T21:18:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Judge sets the start of the trial against Nicolás Maduro and Cilia Flores for June 1, 2027",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/juez-juicio-maduro-cilia/",
+      "published_date": "2026-07-22T20:40:00Z",
       "category": "Diplomacy"
     },
     {
@@ -80,13 +115,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Maduro and Flores hearing: judge orders trial to begin in June 2027",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615608/audiencia-de-maduro-y-flores-juez-ordena-iniciar-juicio-en-junio-de-2027/",
-      "published_date": "2026-07-22T18:43:15Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Inter Miami announces Casemiro, but MLS investigates the signing",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/inter-miami-anuncia-a-casemiro-pero-la-mls-investiga-el-fichaje/",
@@ -98,13 +126,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/tribunal-de-nueva-york-fija-para-1-junio-de-2027-juicio-por-narcotrafico-contra-nicolas-maduro-y-cilia-flores/",
       "published_date": "2026-07-22T17:42:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Judge sets the start of the trial against Nicolás Maduro and Cilia Flores for June 1, 2027",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/juez-juicio-maduro-cilia/",
-      "published_date": "2026-07-22T17:14:14Z",
       "category": "Diplomacy"
     },
     {
@@ -122,25 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Maiquetía plans to restart operations with a field airport installed in its parking lots",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/maiquetia-planea-reiniciar-operaciones-con-un-aeropuerto-de-campana-instalado-en-sus-estacionamientos/",
-      "published_date": "2026-07-22T16:43:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bloomberg: Venezuelan engineer claims he warned for years about the risk of a disaster in La Guaira",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/bloomberg-ingeniero-venezolano-afirma-que-advirtio-durante-anos-sobre-el-riesgo-de-un-desastre-en-la-guaira/",
-      "published_date": "2026-07-22T16:37:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alex Saab pleads “not guilty” before a Florida court",
+      "title": "3 international investigations into Nicolás Maduro and his government in addition to the New York judicial process",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/alex-saab-se-declara-no-culpable-ante-una-corte-de-florida/",
-      "published_date": "2026-07-22T16:01:06Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/3-investigaciones-internacionales-sobre-nicolas-maduro-y-su-gobierno-ademas-del-proceso-judicial-de-nueva-york/",
+      "published_date": "2026-07-23T11:56:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "Balance #22Jul | Government confirms 5,398 deaths from the earthquakes of June 24",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/",
+      "published_date": "2026-07-23T01:15:45Z",
+      "category": "Military"
+    },
+    {
+      "title": "Seismic double deepened the human rights crisis of political prisoners",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615645/doblete-sismico-profundizo-la-crisis-de-derechos-humanos-de-los-presos-politicos/",
+      "published_date": "2026-07-22T23:40:00Z",
+      "category": "Military"
     },
     {
       "title": "Inameh warns about the advance of three tropical waves towards Venezuela",
@@ -154,13 +175,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/ola-de-calor-espana-pronostico-temperaturas-jueves-aemet/",
       "published_date": "2026-07-22T21:41:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Seismic double deepened the human rights crisis of political prisoners",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615645/doblete-sismico-profundizo-la-crisis-de-derechos-humanos-de-los-presos-politicos/",
-      "published_date": "2026-07-22T21:40:04Z",
       "category": "Military"
     },
     {
@@ -269,18 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Images of the murder of a Venezuelan DJ in New York are released",
+      "title": "A barrel of oil approaches $100 after new attacks in the Middle East",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/difunden-imagenes-del-asesinato-de-dj-venezolano-en-nueva-york/",
-      "published_date": "2026-07-21T16:05:07Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/barril-de-petroleo-se-acerca-a-los-100-tras-nuevos-ataques-en-medio-oriente/",
+      "published_date": "2026-07-23T11:59:35Z",
+      "category": "Energy"
     },
     {
-      "title": "Cashea raises $100 million in the US to expand its operations",
+      "title": "Repsol expects to receive four ships with crude oil from Venezuela in the remainder of the year",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/cashea-levanta-100-millones-en-eeuu-para-ampliar-sus-operaciones/",
-      "published_date": "2026-07-21T15:29:36Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/repsol-espera-recibir-cuatro-barcos-con-crudo-de-venezuela-en-lo-que-queda-de-ano/",
+      "published_date": "2026-07-23T10:32:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Global Empowerment Mission has provided aid to 55,000 families affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/global-empowerment-mission-ha-entregado-ayuda-a-55-000-familias-afectadas-por-los-terremotos/",
+      "published_date": "2026-07-23T09:59:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "“Until we find them we won't leave”, searches continue in Vargas one month after the double earthquake",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/hasta-hallarlos-no-nos-vamos-siguen-busquedas-en-vargas-a-un-mes-de-terremotos/",
+      "published_date": "2026-07-23T00:55:39Z",
+      "category": "Energy"
     },
     {
       "title": "Civil Protection confirmed the deterioration of the structure on the bridge over the Guanare River",
@@ -392,34 +420,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/sin-hogar-pero-evaluando-viviendas-el-rostro-de-la-ingenieria-tras-sismos-en-venezuela/",
       "published_date": "2026-07-18T17:35:21Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Saime holds a special day of free identification this Saturday in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/saime-realiza-este-sabado-jornada-especial-de-cedulacion-gratuita-en-la-guaira/",
-      "published_date": "2026-07-18T15:26:52Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Two different styles in the final: Spanish control versus Argentine power",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/dos-estilos-diferentes-en-la-final-el-control-espanol-versus-la-potencia-argentina/",
-      "published_date": "2026-07-18T12:43:58Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Sntp and CNP in Monagas reject calls from the government to limit coverage for people affected by earthquakes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sntp-y-cnp-en-monagas-rechazan-llamados-de-la-gobernacion-a-limitar-cobertura-de-personas-damnificadas-por-terremotos/",
-      "published_date": "2026-07-17T23:06:25Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Recovery of thermoelectric plant affected by earthquakes will take a month and a half, according to minister",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/recuperacion-de-termoelectrica-afectada-por-terremotos-tardara-un-mes-y-medio-segun-ministro/",
-      "published_date": "2026-07-17T22:31:19Z",
       "category": "Energy"
     },
     {
@@ -563,6 +563,62 @@
       "category": "Economy"
     },
     {
+      "title": "It's official: Karim Adeyemi will play with Barcelona until 2031",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/es-oficial-karim-adeyemi-jugara-con-barcelona-hasta-2031/",
+      "published_date": "2026-07-23T11:57:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Judge authorizes Alex Saab not to appear at the hearing this Friday in Miami",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/jueza-autoriza-que-alex-saab-no-comparezca-en-la-audiencia-de-este-viernes-en-miami/",
+      "published_date": "2026-07-23T10:48:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The death toll from the double earthquake in Venezuela rises to 5,398",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/sube-a-5-398-la-cifra-de-muertos-por-el-doble-sismico-en-venezuela/",
+      "published_date": "2026-07-23T10:15:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aztec Moles from Mexico teach in Caracas what to do during an earthquake and dismantle evacuation myths",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/que-hacer-durante-un-sismo-claves-de-los-topos-aztecas/",
+      "published_date": "2026-07-23T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "15 years after Amy Winehouse's death, her heartbreaking voice still resonates",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/a-15-anos-de-la-muerte-de-amy-winehouse-todavia-resuena-la-voz-que-desgarra/",
+      "published_date": "2026-07-23T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Death toll from double earthquake rises to 5,398",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/sucesos/sube-5398-numero-muertos-doble-terremoto/",
+      "published_date": "2026-07-23T02:11:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula's party denounces Flávio Bolsonaro before the Electoral Justice for questioning the voting system",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-partido-de-lula-denuncia-a-flavio-bolsonaro-ante-la-justicia-electoral-por-poner-en-duda-el-sistema-de-votacion/",
+      "published_date": "2026-07-23T01:06:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombian Senate supports holding De la Espriella's presidential investiture in Cauca",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/senado-colombiano-respalda-celebrar-en-cauca-la-investidura-presidencial-de-de-la-espriella/",
+      "published_date": "2026-07-23T00:44:33Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Nicaragua prepares reform that would exclude opponents from elections",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/nicaragua-prepara-reforma-que-excluiria-a-opositores-de-elecciones/",
@@ -574,13 +630,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/internacionales/hermana-del-venezolano-muerto-bajo-custodia-de-ice-pide-una-investigacion/",
       "published_date": "2026-07-22T23:50:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bishops recognize “civil heroism” in the face of earthquakes and ask for a “dignified” reconstruction",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615684/obispos-reconocen-heroismo-civil-ante-los-sismos-y-piden-una-reconstruccion-digna/",
-      "published_date": "2026-07-22T22:55:01Z",
       "category": "Local Events"
     },
     {
@@ -602,6 +651,13 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/federico-valverde-es-el-nuevo-primer-capitan-del-real-madrid/",
       "published_date": "2026-07-22T22:29:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Conversation of ARI | A month after the earthquakes, the challenge is managing donations",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615695/la-conversa-de-ari-un-mes-despues-de-los-sismos-el-reto-esta-en-gestionar-las-donaciones/",
+      "published_date": "2026-07-22T22:27:00Z",
       "category": "Local Events"
     },
     {
@@ -644,62 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/otras-noticias/sin-respuesta-de-ee-uu-ni-de-delcy-rodriguez-vigilia-de-familiares-de-presos-politicos-en-la-embajada-suma-45-dias/",
       "published_date": "2026-07-22T21:46:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Willson Contreras doubles and Red Sox equal their record for consecutive wins",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/willson-contreras-duplica-y-guia-a-boston-a-igualar-su-record-de-triunfos-al-hilo/",
-      "published_date": "2026-07-22T21:41:17Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They demand the unconditional release of political prisoners due to the lack of medical care and the risk of earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/exigen-liberacion-incondicional-de-los-presos-politicos-ante-la-falta-de-atencion-medica-y-el-riesgo-por-los-terremotos/",
-      "published_date": "2026-07-22T21:29:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Scoring X-ray of the World Cup: more were scored outside the area and less in the shoot-outs",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/radiografia-goleadora-del-mundial-se-anoto-mas-fuera-del-area-y-menos-en-las-tandas/",
-      "published_date": "2026-07-22T21:16:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Spain is the country with the largest burned forest area in the entire European Union",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/incendios-forestales-espana-avances-estabilizacion-ola-calor/",
-      "published_date": "2026-07-22T21:14:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PAHO urges Venezuela to take advantage of the reconstruction after the earthquakes to strengthen the health system",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/salud/ops-insta-a-venezuela-a-aprovechar-la-reconstruccion-tras-los-terremotos-para-fortalecer-el-sistema-de-salud/",
-      "published_date": "2026-07-22T21:13:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cybersecurity editorial guide for everyday internet users",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/guia-editorial-de-ciberseguridad-para-usuarios-cotidianos-de-internet/",
-      "published_date": "2026-07-22T21:12:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Death in custody [I]",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/615642/muerte-bajo-custodia/",
-      "published_date": "2026-07-22T20:42:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“It is impossible to have a 100% business”: merchants denounce extortion by Seniat in Punto y Contexto",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/es-imposible-tener-un-negocio-al-100-comerciantes-denuncian-en-punto-y-contexto-extorsiones-del-seniat/",
-      "published_date": "2026-07-22T20:40:10Z",
       "category": "Local Events"
     }
   ]
