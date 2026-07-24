@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-24T00:07:11Z",
+  "last_updated": "2026-07-24T12:23:51Z",
   "stories": [
+    {
+      "title": "The United States Justice Department postpones the closing of the merger between Paramount and Warner Bros. Discovery for two weeks",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-justicia-de-estados-unidos-aplaza-por-dos-semanas-el-cierre-de-la-fusion-entre-paramount-y-warner-bros-discovery/",
+      "published_date": "2026-07-24T00:47:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "FCU clarifies that no party coordinates the collection center installed at the UCV",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/fcu-aclara-que-ningun-partido-coordina-centro-de-acopio-instalado-en-la-ucv/",
+      "published_date": "2026-07-24T00:34:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chile highlights “more fluid” communication with Venezuela after the aid sent by the earthquakes, although without progress at the consular level",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/chile-destaca-una-comunicacion-mas-fluida-con-venezuela-tras-la-ayuda-enviada-por-los-sismos-aunque-sin-avances-en-el-plano-consular/",
+      "published_date": "2026-07-24T00:29:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cofavic demands the application of international standards during the identification of earthquake victims",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/cofavic-exige-aplicar-estandares-internacionales-durante-identificacion-de-victimas-de-los-terremotos/",
+      "published_date": "2026-07-24T00:17:17Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The United States applies harsh sanctions to the Cuban Minister of Health and attacks medical missions abroad",
       "source": "El Nacional",
@@ -115,32 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Marco Rubio affirms that María Corina Machado \"represents an important element\" in the reconciliation of Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/marco-rubio-afirma-que-maria-corina-machado-representa-un-elemento-importante-en-la-reconciliacion-de-venezuela/",
-      "published_date": "2026-07-23T13:04:40Z",
-      "category": "Diplomacy"
+      "title": "Iran attacked US military positions in Bahrain and Jordan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/iran-ataco-posiciones-militares-de-ee-uu-en-barein-y-jordania/",
+      "published_date": "2026-07-24T12:16:24Z",
+      "category": "Military"
     },
     {
-      "title": "Norway denounces the Balogun case to FIFA: “It puts all of football in danger”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/noruega-denuncia-ante-fifa-el-caso-balogun-pone-en-peligro-todo-el-futbol/",
-      "published_date": "2026-07-23T12:35:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marco Rubio: María Corina Machado can play a role in the reconciliation of Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/marco-rubio-maria-corina-machado-puede-tener-un-rol-en-la-reconciliacion-de-venezuela/",
-      "published_date": "2026-07-23T11:41:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Demandan a ChatGPT por desalentar a un pastor en Florida a buscar atención médica",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/chatgpt-desalento-a-un-pastor-a-buscar-atencion-medica/",
-      "published_date": "2026-07-23T09:01:00Z",
-      "category": "Diplomacy"
+      "title": "Dinorah Figuera, Washington's “wild card”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/615783/dinorah-figuera/",
+      "published_date": "2026-07-24T04:32:16Z",
+      "category": "Military"
     },
     {
       "title": "Distress in the Juáres parish: More than 10 years without channeling exposes 30 families after the ravine floods",
@@ -266,20 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/ola-de-calor-espana-pronostico-temperaturas-jueves-aemet/",
       "published_date": "2026-07-22T21:41:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Huniades Urbina explains preventive measures against hantavirus: cleanliness is the key",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/salud/doctor-huniades-urbina-explica-medidas-preventivas-contra-el-hantavirus-limpieza-es-la-clave/",
-      "published_date": "2026-07-22T19:57:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGOs and relatives demand humanitarian freedom for political prisoners after earthquake damage",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-y-familiares-exigen-libertad-humanitaria-para-presos-politicos-tras-danos-por-terremotos/",
-      "published_date": "2026-07-22T18:22:31Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "Unicef: More than 65 million dollars are required to address the impact of earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/unicef-se-requieren-65-millones-de-dolares-para-atender-el-impacto-de-sismos-en-venezuela/",
+      "published_date": "2026-07-24T12:01:35Z",
+      "category": "Economy"
+    },
+    {
       "title": "The official dollar breaks the barrier of 737 bolivars and will open this Monday, July 27, at 742.23 Bs.",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/economia/el-dolar-oficial-rompe-la-barrera-de-los-737-bolivares-y-abrira-este-lunes-27-de-julio-en-74223-bs/",
@@ -556,11 +563,32 @@
       "category": "Economy"
     },
     {
-      "title": "Paparoni warns that $346 million for earthquake reconstruction will end up in the hands of corruption",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/paparoni-advierte-que-346-millones-para-reconstruccion-por-terremotos-terminara-en-manos-de-la-corrupcion/",
-      "published_date": "2026-07-19T19:19:08Z",
-      "category": "Economy"
+      "title": "6,000 victims camped in the streets after the earthquakes, according to Doctors Without Borders",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/6-000-damnificados-acampan-en-la-calle-luego-de-los-terremotos-segun-medicos-sin-fronteras/",
+      "published_date": "2026-07-24T11:47:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At ground zero: chronicle of an earthquake that has not ended",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615787/en-la-zona-cero-cronica-de-un-terremoto-que-no-ha-terminado/",
+      "published_date": "2026-07-24T11:43:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The citizen impulse that sustained the rescues after the earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-impulso-ciudadano-sostuvo-los-rescates-despues-del-terremoto/",
+      "published_date": "2026-07-24T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netflix: what were the most watched series and movies this week in Venezuela?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/netflix-las-series-y-peliculas-mas-vistas-esta-semana-en-venezuela-28/",
+      "published_date": "2026-07-24T07:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Latam Colombia will continue its flights between Bogotá and Barcelona during August to maintain a route with Venezuela",
@@ -672,34 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/falso-positivo-en-opp-26-no-hubo-sobrevivientes-en-la-estructura-colapsada-de-la-guaira/",
       "published_date": "2026-07-23T21:06:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "One month after the seismic double, Caracas residents denounce slowness in institutional care",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615758/a-un-mes-del-doblete-sismico-caraquenos-denuncian-lentitud-en-la-atencion-institucional/",
-      "published_date": "2026-07-23T20:39:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They call to identify 38 bodies of minors in the La Guaira morgue",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/convocan-a-identificar-38-cuerpos-de-menores-de-edad-en-morgue-de-la-guaira/",
-      "published_date": "2026-07-23T20:19:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cofavic demands the application of international protocols to identify the victims of the earthquakes in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/cofavic-exige-aplicar-protocolos-internacionales-para-identificar-a-las-victimas-de-los-terremotos-en-venezuela/",
-      "published_date": "2026-07-23T20:19:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Senamecf alerts about 38 unclaimed bodies of children and adolescents in Silos de La Guaira",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/senamecf-alerta-sobre-38-cuerpos-de-ninos-y-adolescentes-sin-reclamar-en-silos-de-la-guaira/",
-      "published_date": "2026-07-23T19:55:38Z",
       "category": "Local Events"
     }
   ]
