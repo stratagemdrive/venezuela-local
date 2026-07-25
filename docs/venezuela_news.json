@@ -1,7 +1,21 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-25T00:11:13Z",
+  "last_updated": "2026-07-25T12:05:21Z",
   "stories": [
+    {
+      "title": "Iris Varela against the negotiations between Dinorah Figuera and Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/iris-varela-en-contra-de-las-negociaciones-entre-dinorah-figuera-y-delcy-rodriguez/",
+      "published_date": "2026-07-25T11:58:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The NASA station in Madrid was evacuated due to a large forest fire",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/desalojaron-la-estacion-de-la-nasa-de-madrid-a-causa-de-un-gran-incendio-forestal/",
+      "published_date": "2026-07-25T11:11:11Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Fleeing from earthquakes: the pain of migrating and the doubt between returning or starting from scratch",
       "source": "El Pitazo",
@@ -129,18 +143,11 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Ali Daniels: “Denunciation of the Rome Statute does not stop the ICC investigation into Venezuela”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/615868/ali-daniels-denuncia-del-estatuto-de-roma-no-detiene-la-investigacion-de-la-cpi-sobre-venezuela/",
-      "published_date": "2026-07-24T17:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Donald Trump praised Miguel Rojas' home run that lifted the Dodgers in the World Series",
+      "title": "Delcy Rodríguez changes the operational head of the FANB and announces other appointments",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/donald-trump-elogio-jonron-de-miguel-rojas-que-saco-a-flote-a-los-dodgers-en-la-serie-mundial/",
-      "published_date": "2026-07-24T16:49:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-cambia-al-jefe-operativo-de-la-fanb-y-anuncia-otras-designaciones/",
+      "published_date": "2026-07-25T11:50:00Z",
+      "category": "Military"
     },
     {
       "title": "One month after the seismic double, 70% of the businesses in La Guaira try to resume their activities",
@@ -273,13 +280,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/615709/balance-22jul-gobierno-confirma-5398-fallecidos-por-los-terremotos-del-24-de-junio/",
       "published_date": "2026-07-23T01:15:45Z",
-      "category": "Military"
-    },
-    {
-      "title": "Seismic double deepened the human rights crisis of political prisoners",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615645/doblete-sismico-profundizo-la-crisis-de-derechos-humanos-de-los-presos-politicos/",
-      "published_date": "2026-07-22T23:40:00Z",
       "category": "Military"
     },
     {
@@ -563,9 +563,79 @@
       "category": "Economy"
     },
     {
+      "title": "“Friends forever”: Shakira said goodbye to the Ghetto Kids of Uganda",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/amigos-por-siempre-shakira-se-despidio-de-los-ghetto-kids-de-uganda/",
+      "published_date": "2026-07-25T11:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "This is what the Madrid sky looks like due to the strong forest fires",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/asi-se-ve-el-cielo-de-madrid-debido-a-los-fuertes-incendios-forestales/",
+      "published_date": "2026-07-25T11:22:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The wish of the boot",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/el-deseo-de-la-bota/",
+      "published_date": "2026-07-25T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The earthquakes also revealed the cracks in the freedom of information in Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/615805/los-sismos-tambien-revelaron-las-grietas-en-la-libertad-de-informar-en-venezuela/",
+      "published_date": "2026-07-25T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The death toll in the double earthquake in Venezuela is updated to 5,546",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/actualizan-a-5-546-la-cifra-de-fallecidos-en-el-doble-terremoto-en-venezuela/",
+      "published_date": "2026-07-25T01:17:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They propose a supranational technical committee to determine responsibilities for building collapses during earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/proponen-comite-tecnico-supranacional-que-determine-responsabilidades-por-colapsos-de-edificios-durante-los-terremotos/",
+      "published_date": "2026-07-25T00:58:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chacao Mayor's Office evaluates installing a seismic alert system with support from experts",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/alcaldia-de-chacao-evalua-instalar-un-sistema-de-alertas-sismicas-con-apoyo-de-expertos/",
+      "published_date": "2026-07-25T00:42:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Doctors Without Borders: about 6,000 people are still camping in the streets due to the earthquakes in Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/ultimas-noticias/medicos-sin-fronteras-unas-6-000-personas-siguen-acampadas-en-la-calle-por-los-terremotos-en-venezuela/",
+      "published_date": "2026-07-25T00:32:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump threatened the European Union with new tariffs after the Google sanction",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/trump-amenazo-a-la-union-europea-con-nuevos-aranceles-tras-la-sancion-a-google/",
+      "published_date": "2026-07-25T00:15:33Z",
+      "category": "Local Events"
+    },
+    {
       "title": "How to live waiting for a remittance to complete your pension",
       "source": "Runrun.es",
       "url": "https://runrun.es/inicio/615877/como-se-vive-esperando-una-remesa-para-completar-la-pension/",
+      "published_date": "2026-07-25T00:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How to live waiting for a remittance to complete your pension",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/como-se-vive/615877/como-se-vive-esperando-una-remesa-para-completar-la-pension/",
       "published_date": "2026-07-25T00:00:00Z",
       "category": "Local Events"
     },
@@ -630,76 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/trump-afirma-que-seguira-vigilando-a-venezuela-no-estan-preparados-aun-para-las-elecciones/",
       "published_date": "2026-07-24T21:12:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump says Venezuela “is not ready” for elections",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-dice-que-venezuela-no-esta-lista-para-unas-elecciones/",
-      "published_date": "2026-07-24T20:45:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICC countries dismiss prosecutor Karim Khan after sexual misconduct accusation",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/los-paises-de-la-cpi-destituyeron-al-fiscal-karim-khan-tras-acusacion-por-conducta-sexual-indebida/",
-      "published_date": "2026-07-24T20:35:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "National Assembly of 2015 ratifies roadmap one month after the double earthquake",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/asamblea-nacional-de-2015-ratifica-hoja-de-ruta-a-un-mes-del-doble-terremoto/",
-      "published_date": "2026-07-24T20:26:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monsignor Raúl Biord celebrated mass to pray for the eternal rest of the victims of the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/monsenor-raul-biord-celebro-misa-para-orar-por-el-eterno-descanso-de-las-victimas-de-los-terremotos/",
-      "published_date": "2026-07-24T20:21:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "It is false that the double earthquake caused a massive invasion of snakes and crocodiles in houses and buildings",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/cocuyo-chequea/es-falso-que-el-doble-terremoto-provoco-una-invasion-masiva-de-serpientes-y-cocodrilos-en-casas-y-edificios/",
-      "published_date": "2026-07-24T20:07:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More than 30,000 meals a day are distributed by World Central Kitchen in Caracas and La Guaira after earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/mas-de-30-000-comidas-al-dia-son-distribuidas-por-world-central-kitchen-en-caracas-y-la-guaira/",
-      "published_date": "2026-07-24T19:43:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francisco Soto: a testimony of life among the rubble",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/francisco-soto-un-testimonio-de-vida-entre-los-escombros/",
-      "published_date": "2026-07-24T19:34:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bloomberg: Trump seeks to unlock frozen assets of Venezuela to cover expenses due to earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/bloomberg-trump-busca-desbloquear-activos-congelados-de-venezuela-para-cubrir-gastos-por-los-terremotos/",
-      "published_date": "2026-07-24T19:18:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Guanipa highlighted the solidarity among Venezuelans despite the lack of attention in La Guaira a month after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/juan-pablo-guanipa-destaco-la-solidaridad-entre-venezolanos-pese-a-desatencion-en-la-guaira-a-un-mes-de-los-terremotos/",
-      "published_date": "2026-07-24T18:57:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Melody dedicated a message to Venezuela by reinterpreting one of her musical hits: “I carry them in my heart”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/melody-dedico-mensaje-a-venezuela-al-reinterpretar-uno-de-sus-exitos-musicales-los-llevo-en-mi-corazon/",
-      "published_date": "2026-07-24T18:43:56Z",
       "category": "Local Events"
     }
   ]
