@@ -1,19 +1,110 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-26T12:07:15Z",
+  "last_updated": "2026-07-27T00:06:50Z",
   "stories": [
     {
-      "title": "Rubio highlights leading role of the US in Venezuelan negotiations: analysts",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/rubio-remarca-papel-protagonico-de-eeuu-en-negociaciones-venezolanas-analistas/",
-      "published_date": "2026-07-26T06:45:00Z",
+      "title": "UNES Barinas expelled four students who recorded themselves with a bottle of whiskey in a car",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/unes-barinas-expulso-a-cuatro-estudiantes-que-se-grabaron-con-una-botella-de-whisky-en-un-carro/",
+      "published_date": "2026-07-26T23:39:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venamcham met with US Congressional delegation to promote bilateral trade",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/venamcham-se-reunio-con-delegacion-del-congreso-de-ee-uu-para-impulsar-el-comercio-bilateral/",
+      "published_date": "2026-07-26T23:21:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran reports progress in talks with Oman on safe passage through Hormuz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/iran-informa-de-avances-en-conversaciones-con-oman-sobre-el-transito-seguro-por-ormuz/",
+      "published_date": "2026-07-26T23:17:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "María Corina Machado and Edmundo González: they distance themselves from the dialogue but they will not be an obstacle",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/616009/maria-corina-machado-y-edmundo-gonzalez-se-desmarcan-del-dialogo-pero-no-seran-un-obstaculo/",
+      "published_date": "2026-07-26T22:07:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "One Venezuelan dead and two missing after smuggling boat capsizes in Trinidad and Tobago",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/un-venezolano-muerto-y-dos-desaparecidos-tras-naufragio-de-embarcacion-de-contrabando-en-trinidad-y-tobago/",
+      "published_date": "2026-07-26T21:43:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Machado and González Urrutia affirm that \"they will not be an obstacle\" to dialogue with Chavismo",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/machado-y-gonzalez-urrutia-afirman-que-no-seran-obstaculo-para-el-dialogo-con-el-chavismo/",
+      "published_date": "2026-07-26T21:37:07Z",
       "category": "Diplomacy"
     },
     {
       "title": "Capriles defends Machado's role and UNT calls to relaunch unity: What is the calculation?",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/capriles-mcm-negociaciones-unt-relanzar-unidad-calculo/",
-      "published_date": "2026-07-26T06:30:00Z",
+      "published_date": "2026-07-26T20:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diario ABC: Preparatory meetings for the opposition's dialogue with Chavismo are held in Madrid",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/diario-abc-en-madrid-se-realizan-las-reuniones-preparatorias-para-el-dialogo-de-la-oposicion-con-el-chavismo/",
+      "published_date": "2026-07-26T19:45:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brazil calls its ambassador in Argentina for consultations after insults made by Milei",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/brasil-llama-a-consultas-a-su-embajador-en-argentina-tras-ofensas-proferidas-por-milei/",
+      "published_date": "2026-07-26T19:02:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio highlights leading role of the US in Venezuelan negotiations: analysts",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/rubio-remarca-papel-protagonico-de-eeuu-en-negociaciones-venezolanas-analistas/",
+      "published_date": "2026-07-26T18:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US celebrates Venezuela's departure from the ICC and asks other countries to leave the court",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/ee-uu-celebra-salida-de-venezuela-de-la-cpi-y-pide-a-otros-paises-abandonar-el-tribunal/",
+      "published_date": "2026-07-26T15:45:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inameh warned that the passage of a tropical wave will cause more rains and intense electric shocks in several states of the country",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/inameh-alerto-que-paso-de-onda-tropical-causara-mas-lluvias-e-intensas-descargas-electricas-en-parte-del-pais/",
+      "published_date": "2026-07-26T15:40:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marvel announces David Jonsson as the new Black Panther",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/marvel-anuncia-a-david-jonsson-como-la-nueva-pantera-negra/",
+      "published_date": "2026-07-26T15:32:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "At least one dead and 16 injured left by multiple car accident in Berlin during LGBTI Pride Day celebration",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/al-menos-un-muerto-y-16-heridos-dejo-arrollamiento-multiple-en-berlin-durante-celebracion-por-el-dia-del-orgullo-lgbti/",
+      "published_date": "2026-07-26T15:09:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The San Juan earthquakes also hit religious heritage",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/615956/los-sismos-de-san-juan-tambien-golpearon-el-patrimonio-religioso/",
+      "published_date": "2026-07-26T12:57:00Z",
       "category": "Diplomacy"
     },
     {
@@ -52,98 +143,63 @@
       "category": "Diplomacy"
     },
     {
-      "title": "They urgently ask to prioritize vaccination in shelters for pets rescued after a seismic double",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/piden-priorizar-la-vacunacion-de-animales-en-refugios-tras-doblete-sismico/",
-      "published_date": "2026-07-25T22:28:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un Mundo Sin Mordaza denounced the demolition of buildings in La Guaira without authorization from the owners",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/un-mundo-sin-mordaza-denuncio-demolicion-de-edificios-en-la-guaira-sin-autorizacion-de-propietarios/",
-      "published_date": "2026-07-25T21:23:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Luis Silva appeared in Playa Verde in solidarity with those killed by the earthquakes one month after the tragedy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/luis-silva-se-presento-en-playa-verde-en-solidaridad-con-los-caidos-por-los-terremotos-a-un-mes-de-la-tragedia/",
-      "published_date": "2026-07-25T20:49:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Luis Silva appeared in Playa Verde in solidarity with the survivors of the earthquakes one month after the tragedy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/luis-silva-se-presento-en-playa-verde-en-solidaridad-con-los-sobrevivientes-de-los-terremotos-a-un-mes-de-la-tragedia/",
-      "published_date": "2026-07-25T20:49:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Salvador Pérez breaks George Brett's record and becomes Kansas City's top home run hitter",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/salvador-perez-rompe-el-record-de-george-brett-y-se-convierte-en-el-maximo-jonronero-de-kansas-city/",
-      "published_date": "2026-07-25T20:42:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Single housing registration began for victims of the earthquakes in Miranda",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/inicio-registro-unico-de-vivienda-para-damnificados-por-los-terremotos-en-miranda/",
-      "published_date": "2026-07-25T19:57:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGO Techo launches campaign to support the Venezuelan population affected by the earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615914/ong-techo-lanza-campana-para-apoyar-a-poblacion-venezolana-tras-los-sismos/",
-      "published_date": "2026-07-25T19:13:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Architectural icons and emblematic buildings suffered damage after the double earthquake in Venezuela",
+      "title": "US Army concludes aid mission after double earthquake in Venezuela",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/los-iconos-arquitectonicos-y-edificios-emblematicos-que-sufrieron-tras-el-doble-sismo-en-venezuela/",
-      "published_date": "2026-07-25T18:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/la-humanidad/ejercito-de-eeuu-concluye-mision-de-ayuda-tras-doble-terremoto-en-venezuela/",
+      "published_date": "2026-07-26T20:30:21Z",
+      "category": "Military"
     },
     {
-      "title": "Provea rejected Venezuela's departure from the ICC and recalled the validity of the investigations",
+      "title": "Pogacar won his fifth Tour de France",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/provea-rechazo-la-salida-de-venezuela-de-la-cpi-y-recordo-la-vigencia-de-las-investigaciones/",
-      "published_date": "2026-07-25T18:05:44Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/pogacar-gano-su-quinto-tour-de-francia/",
+      "published_date": "2026-07-26T18:47:00Z",
+      "category": "Military"
     },
     {
-      "title": "Iris Varela on negotiations that begin on August 1: “I do not support that, it is a falsehood”",
+      "title": "Southern Command concludes earthquake mission in Venezuela and assures that US support will continue",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/615987/comando-sur-se-retira-de-venezuela-tras-terremotos-y-ratifica-que-continuara-el-apoyo-de-ee-uu/",
+      "published_date": "2026-07-26T18:14:11Z",
+      "category": "Military"
+    },
+    {
+      "title": "They arrest in Chile a person convicted of the murder of singer-songwriter Víctor Jara who was a fugitive for years",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/detienen-en-chile-a-condenado-por-el-asesinato-del-cantautor-victor-jara-que-estuvo-profugo-por-anos/",
+      "published_date": "2026-07-26T18:11:48Z",
+      "category": "Military"
+    },
+    {
+      "title": "This is how NGOs and human rights activists reacted to the announcement of Venezuela's departure from the ICC",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/iris-varela-sobre-negociaciones-que-inician-el-1-de-agosto-no-apoyo-eso-es-una-falsedad/",
-      "published_date": "2026-07-25T17:36:30Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/asi-reaccionaron-ong-y-activistas-de-ddhh-al-anuncio-de-salida-de-venezuela-de-la-cpi/",
+      "published_date": "2026-07-26T17:44:46Z",
+      "category": "Military"
     },
     {
-      "title": "Donald Trump believes that Venezuela is not yet ready to go to elections",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615899/donald-trump-opina-que-venezuela-no-esta-lista-aun-para-ir-a-elecciones/",
-      "published_date": "2026-07-25T17:08:57Z",
-      "category": "Diplomacy"
+      "title": "Southern Command concludes military assistance in Venezuela after earthquakes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/comando-sur-concluye-asistencia-militar-en-venezuela-tras-terremotos/",
+      "published_date": "2026-07-26T17:39:18Z",
+      "category": "Military"
     },
     {
-      "title": "María Elvira Salazar after burning flags in Caracas: “The Chavistas have never been and will never be allies of the United States”",
+      "title": "Clippve demands that Delcy Rodríguez's government reverse the decision to leave the ICC",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/maria-elvira-salazar-tras-quema-de-banderas-en-caracas-los-chavistas-nunca-han-sido-ni-seran-aliados-de-ee-uu/",
-      "published_date": "2026-07-25T16:25:01Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/clippve-exige-a-gobierno-de-delcy-rodriguez-revertir-la-decision-de-salir-de-la-cpi/",
+      "published_date": "2026-07-26T13:08:07Z",
+      "category": "Military"
     },
     {
-      "title": "Provea rejects Venezuela's departure from the International Criminal Court",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-rechaza-la-salida-de-venezuela-de-la-corte-penal-internacional/",
-      "published_date": "2026-07-25T16:18:36Z",
-      "category": "Diplomacy"
+      "title": "Funvisis advisor urged to build a culture of permanent prevention in Venezuela after seismic double",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/asesor-de-funvisis-insto-a-construir-una-cultura-de-prevencion-permanente-en-venezuela-tras-doblete-sismico/",
+      "published_date": "2026-07-26T12:37:27Z",
+      "category": "Military"
     },
     {
-      "title": "The US highlighted that its ships will combat drug trafficking in the Caribbean after assisting Venezuela due to the earthquakes",
+      "title": "US ships will combat drug trafficking in the Caribbean after assisting Venezuela due to the earthquakes",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/ee-uu-advirtio-que-sus-buques-combatiran-el-narcotrafico-en-el-caribe-tras-asistir-a-venezuela-por-los-terremotos/",
       "published_date": "2026-07-26T11:53:20Z",
@@ -227,60 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Perkins Rocha questions the validity of Venezuela's departure from the ICC",
+      "title": "Farruco Sesto denies omission in the Great Housing Mission: “It is impossible to build without soil studies”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/perkins-rocha-cuestiona-la-validez-de-la-salida-de-venezuela-de-la-cpi/",
-      "published_date": "2026-07-25T12:18:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/exministro-chavista-desmiente-omision-en-la-gran-mision-vivienda-es-imposible-construir-sin-estudios-de-suelo/",
+      "published_date": "2026-07-26T20:14:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Delcy Rodríguez changes the operational head of the FANB and announces other appointments",
+      "title": "Cuba will register blackouts this Sunday that will affect up to 65% of the island",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-cambia-al-jefe-operativo-de-la-fanb-y-anuncia-otras-designaciones/",
-      "published_date": "2026-07-25T11:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "One month after the seismic double, 70% of the businesses in La Guaira try to resume their activities",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/a-un-mes-del-doblete-sismico-el-70-de-los-comercios-de-la-guaira-intentan-reanudar-sus-actividades/",
-      "published_date": "2026-07-24T17:41:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Judge refuses to annul the investigation into Rodríguez Zapatero by requesting it after the deadline",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/juez-rechaza-anular-la-investigacion-a-rodriguez-zapatero-al-pedirlo-fuera-de-plazo/",
-      "published_date": "2026-07-24T17:30:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Iran attacked US military positions in Bahrain and Jordan",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/iran-ataco-posiciones-militares-de-ee-uu-en-barein-y-jordania/",
-      "published_date": "2026-07-24T12:16:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Dinorah Figuera, Washington's “wild card”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/615783/dinorah-figuera/",
-      "published_date": "2026-07-24T04:32:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Distress in the Juáres parish: More than 10 years without channeling exposes 30 families after the ravine floods",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/zozobra-en-la-parroquia-juares-mas-de-10-anos-sin-canalizacion-exponen-a-30-familias-tras-crecida-de-quebrada/",
-      "published_date": "2026-07-23T21:30:07Z",
-      "category": "Military"
-    },
-    {
-      "title": "Delcy Rodríguez promotes 58 Army officers to the rank of general",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-asciende-a-58-oficiales-del-ejercito-a-grados-de-general/",
-      "published_date": "2026-07-23T20:52:45Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/cuba-registrara-este-domingo-apagones-que-afectaran-hasta-el-65-de-la-isla/",
+      "published_date": "2026-07-26T13:45:09Z",
+      "category": "Energy"
     },
     {
       "title": "Netanyahu talks to Rubio about dismantling the ICC",
@@ -409,18 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "“Until we find them we won't leave”, searches continue in Vargas one month after the double earthquake",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/hasta-hallarlos-no-nos-vamos-siguen-busquedas-en-vargas-a-un-mes-de-terremotos/",
-      "published_date": "2026-07-23T00:55:39Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Civil Protection confirmed the deterioration of the structure on the bridge over the Guanare River",
+      "title": "Venezuelans sued two airlines for flights that took them from the US to CECOT in El Salvador",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/proteccion-civil-confirmo-el-deterioro-de-la-estructura-en-el-puente-sobre-el-rio-guanare/",
-      "published_date": "2026-07-22T23:58:38Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/tres-venezolanos-demandaron-a-dos-aerolineas-por-vuelos-que-los-trasladaron-de-ee-uu-al-cecot-de-el-salvador/",
+      "published_date": "2026-07-26T14:14:59Z",
+      "category": "Economy"
     },
     {
       "title": "A new architecture of the tax system, the Consecomercio proposal",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "CIV: Reconstruction of La Guaira must combine economic development with the social fabric",
+      "title": "Venezuelans in Panama paid tribute to the victims of the double earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/venezolanos-en-panama-rindieron-homenaje-a-las-victimas-del-doble-terremoto/",
+      "published_date": "2026-07-26T23:07:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Machado and González Urrutia will not participate in conversations between the government and AN2015",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/civ-reconstruccion-de-la-guaira-debe-conjugar-desarrollo-economico-con-el-tejido-social/",
-      "published_date": "2026-07-20T20:09:01Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/politica/mcm-y-edmundo-no-participaran-en-conversaciones-entre-el-gobierno-y-an2015/",
+      "published_date": "2026-07-26T22:47:05Z",
+      "category": "Local Events"
     },
     {
-      "title": "Trust agreement, the necessary invisible institution for Venezuela",
+      "title": "Government of Uruguay expressed concern about Daniel Ortega's statements about the elections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gobierno-de-uruguay-expreso-preocupacion-por-las-declaraciones-de-daniel-ortega-sobre-las-elecciones/",
+      "published_date": "2026-07-26T22:11:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Single Housing Registry has registered 21,075 homes in La Guaira, to date",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/opinion/pacto-fiducia-necesaria-institucion-invisiblevenezuela/",
-      "published_date": "2026-07-26T12:00:00Z",
+      "url": "https://efectococuyo.com/la-humanidad/registro-unico-de-viviendas-ha-censado-21-075-hogares-en-la-guaira-hasta-la-fecha/",
+      "published_date": "2026-07-26T22:04:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Environment analysis: Social pressure overflows the transition laboratory",
+      "title": "Bruno Mars surprised the London public by impersonating Harry Potter alongside Dobby",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/analisis-de-entorno-la-presion-social-desborda-el-laboratorio-de-la-transicion/",
-      "published_date": "2026-07-26T11:50:43Z",
+      "url": "https://www.elnacional.com/2026/07/bruno-mars-sorprendio-al-publico-de-londres-al-personificar-a-harry-potter-junto-a-dobby/",
+      "published_date": "2026-07-26T21:57:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Rains caused major floods and landslides in several parts of Caracas and La Guaira",
+      "title": "María Corina Machado and Edmundo González: We will not be an obstacle to transition initiatives with verifiable results",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/lluvias-ocasionaron-inundaciones-y-deslizamientos-de-tierra-en-varios-puntos-de-caracas-y-la-guaira/",
-      "published_date": "2026-07-26T11:19:32Z",
+      "url": "https://www.elnacional.com/2026/07/maria-corina-machado-y-edmundo-gonzalez-no-seremos-obstaculo-a-iniciativas-de-transicion-con-resultados-verificables/",
+      "published_date": "2026-07-26T21:34:00Z",
       "category": "Local Events"
     },
     {
-      "title": "They located a bus that was crushed by the OPPE-26 debris in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/localizaron-autobus-con-varias-personas-que-resulto-aplastado-por-los-escombros-de-la-oppe-26-durante-doblete-sismico-en-la-guaira/",
-      "published_date": "2026-07-26T10:58:54Z",
+      "title": "Students of the Maritime University: “We thought we would die from the earthquakes”",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/reportajes/estudiantes-de-la-universidad-maritima-creimos-que-moririamos-con-los-terremotos/",
+      "published_date": "2026-07-26T21:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Figuera-Rodríguez Dialogue marks the beginning of the fragile transition roadmap",
+      "title": "In-person attention is suspended in five Saime offices in Caracas and La Guaira",
       "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/615902/dialogo-figuera-rodriguez-marca-el-inicio-de-la-fragil-hoja-de-ruta-de-la-transicion/",
-      "published_date": "2026-07-26T10:28:00Z",
+      "url": "https://runrun.es/noticias/615999/suspenden-atencion-presencial-en-cinco-oficinas-del-saime-en-caracas-y-la-guaira/",
+      "published_date": "2026-07-26T21:29:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Oscar Murillo and the double earthquake: Critical gap of the State reveals public policy crisis",
+      "title": "Amputations: the other emergency left by the double earthquake (Series 1/2)",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/oscar-murillo-a-un-mes-del-terremoto-el-desfase-critico-del-estado-desnuda-una-crisis-de-politicas-publicas/",
-      "published_date": "2026-07-26T06:55:00Z",
+      "url": "https://efectococuyo.com/la-humanidad/amputaciones-la-otra-emergencia-que-deja-el-doble-terremoto/",
+      "published_date": "2026-07-26T21:20:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Anriquelis Barrios won gold in judo at the Central American Santo Domingo 2026",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/anriquelis-barrios-conquisto-el-oro-en-judo-en-los-centroamericanos-santo-domingo-2026/",
+      "published_date": "2026-07-26T21:08:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From rescue to sustained care: the Red Cross remains with Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/del-rescate-a-la-atencion-sostenida-la-cruz-roja-permanece-junto-a-venezuela/",
+      "published_date": "2026-07-26T20:46:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Passage of tropical waves left a rebound in viruses and diseases in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/paso-de-las-ondas-tropicales-dejo-un-repunte-de-virus-y-enfermedades-en-venezuela/",
+      "published_date": "2026-07-26T20:37:00Z",
       "category": "Local Events"
     },
     {
       "title": "Dissident Chavismo: El Rodrigato and Cabello seek to take advantage of the emergency",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/chavismo-disidente-rodrigato-cabello-provecho-emergencia-ya-es-tarde/",
-      "published_date": "2026-07-26T06:15:00Z",
+      "published_date": "2026-07-26T20:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Rains this #25Jul: lightning leaves people injured in Valencia and streets flood in Caracas",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615945/lluvias-este-25jul-un-rayo-deja-heridos-en-valencia-y-calles-se-inundan-en-caracas/",
-      "published_date": "2026-07-26T02:53:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Calderón's promise: he lost 26 relatives in the earthquakes and wants to find all the bodies",
+      "title": "Why did the regime take 18 days to respond to the double earthquake?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/la-promesa-de-calderon-perdio-26-familiares-en-los-terremotos-y-quiere-encontrar-todos-los-cuerpos/",
-      "published_date": "2026-07-26T01:17:41Z",
+      "url": "https://elpitazo.net/politica/por-que-el-regimen-tardo-18-dias-en-responder-al-doble-terremoto/",
+      "published_date": "2026-07-26T20:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Calderón's promise: he lost 26 relatives in the earthquakes and wants to find all the bodies",
+      "title": "Fujimori profundiza el giro a la derecha en Latinoamérica y acerca a Perú a Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/fujimori-profundiza-el-giro-a-la-derecha-en-latinoamerica-y-acerca-a-peru-a-trump/",
+      "published_date": "2026-07-26T19:55:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Spain to Venezuela: 200 tons of aid sent to La Guaira",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/centro/la-promesa-de-calderon-perdio-26-familiares-en-los-terremotos-y-quiere-encontrar-todos-los-cuerpos/",
-      "published_date": "2026-07-26T01:17:41Z",
+      "url": "https://elpitazo.net/caracas/de-espana-a-venezuela-200-toneladas-de-ayuda-envian-a-la-guaira/",
+      "published_date": "2026-07-26T19:40:49Z",
       "category": "Local Events"
     },
     {
-      "title": "Cecodap: 221 children and adolescents died and 273 are still missing a month after the earthquakes",
+      "title": "Nearly 330,000 evacuated in Spain and France due to uncontrollable forest fires",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/cerca-de-330-000-evacuados-en-espana-y-francia-por-los-incontrolables-incendios-forestales/",
+      "published_date": "2026-07-26T19:30:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "US State Department confirmed that Venezuelans will define the democratic transition",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/departamento-de-estado-de-ee-uu-ratifico-que-los-venezolanos-definiran-la-transicion-democratica/",
+      "published_date": "2026-07-26T19:08:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Those affected by earthquakes in La Guaira report queues of up to 12 hours to register for the housing census",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/cecodap-221-ninos-y-adolescentes-murieron-y-273-siguen-desaparecidos-un-mes-despues-de-los-terremotos/",
-      "published_date": "2026-07-26T00:51:53Z",
+      "url": "https://elpitazo.net/regiones/afectados-por-terremotos-en-la-guaira-denuncian-colas-de-hasta-12-horas-para-registrarse-en-censo-por-viviendas/",
+      "published_date": "2026-07-26T19:02:10Z",
       "category": "Local Events"
     },
     {
-      "title": "At least 120 teachers died from the earthquakes in Venezuela, reported the organization Consenso Educativo",
+      "title": "Heavy snowfall reported in the Sierra Nevada National Park in Mérida",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/al-menos-120-maestros-murieron-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-07-26T00:29:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rains generated floods in western Caracas",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/destacado-1/lluvias-generaron-inundaciones-en-el-oeste-de-caracas/",
-      "published_date": "2026-07-25T23:53:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rains generated floods in western Caracas",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/cambio-climatico/lluvias-generaron-inundaciones-en-el-oeste-de-caracas/",
-      "published_date": "2026-07-25T23:53:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They protested for Mariposa, the dog they killed after they rescued her in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/proteccionistas-de-animales-protestaron-por-la-brutal-muerte-de-una-perrita-rescatada-en-la-guaira-tras-los-terremotos/",
-      "published_date": "2026-07-25T23:27:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sidor stated that it maintains its steel production active to supply reconstruction works after earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/sidor-mantiene-activa-su-produccion-de-acero-para-abastecer-obras-de-reconstruccion-tras-terremotos/",
-      "published_date": "2026-07-25T22:56:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cecodap registers 1,405 children and adolescents affected after earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/615931/cecodap-registra-1-405-ninos-ninas-y-adolescentes-afectados-tras-sismos/",
-      "published_date": "2026-07-25T22:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "How Latin American technology companies are complying with health cybersecurity standards",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/como-las-tecnologicas-de-latinoamerica-estan-cumpliendo-con-los-estandares-de-ciberseguridad-en-salud/",
-      "published_date": "2026-07-25T22:14:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Floods due to rain left more than 50 homes affected in Maturín",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/inundaciones-por-lluvias-dejaron-mas-de-50-viviendas-afectadas-en-maturin/",
-      "published_date": "2026-07-25T22:03:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Richard Carapaz emerged as the king of the Alps in the penultimate stage of the Tour de France",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/richard-carapaz-se-erigio-como-el-rey-de-los-alpes-en-el-tour-de-francia/",
-      "published_date": "2026-07-25T21:50:07Z",
+      "url": "https://www.elnacional.com/2026/07/reportan-gran-nevada-en-el-parque-nacional-sierra-nevada-en-merida/",
+      "published_date": "2026-07-26T18:55:00Z",
       "category": "Local Events"
     }
   ]
