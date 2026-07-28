@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-28T00:08:33Z",
+  "last_updated": "2026-07-28T12:57:43Z",
   "stories": [
+    {
+      "title": "Trump and Netanyahu meet for the first time since the start of the war in the Middle East",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/trump-y-netanyahu-se-reunen-por-primera-vez-desde-el-inicio-de-la-guerra-en-oriente-medio/",
+      "published_date": "2026-07-28T10:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vaclav Havel enlightens the Venezuelan nation",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/616091/vaclav-havel-2/",
+      "published_date": "2026-07-28T04:32:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Labor inclusion: much more than an obligation",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/616088/inclusion-laboral-2/",
+      "published_date": "2026-07-28T01:12:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keiko Fujimori announces her key prime ministers one day after assuming the Presidency of Peru",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/keiko-fujimori-anuncia-a-sus-primeros-ministros-clave-a-un-dia-de-asumir-la-presidencia-de-peru/",
+      "published_date": "2026-07-28T01:10:09Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brutus, Judas, Ephialtes and… Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/616084/traicion-venezuela/",
+      "published_date": "2026-07-28T00:42:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Chavismo will ask for the lifting of sanctions against Venezuela in dialogue with the opposition sector",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-chavismo-pedira-levantamiento-de-sanciones-a-venezuela-en-dialogo-con-sector-opositor/",
+      "published_date": "2026-07-28T00:32:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "In tents and sidewalks, residents of Misión Vivienda wait for apartment repairs",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/carpas-aceras-vecinos-mision-vivienda-esperan-reparaciones/",
+      "published_date": "2026-07-28T00:31:22Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Cofavic asks that international standards be met in the identification of victims",
       "source": "Runrun.es",
@@ -94,53 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "The first half of the season ends in F1: the best and the worst",
+      "title": "US confirms new round of talks between Lebanon and Israel in Rome",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/termina-la-primera-mitad-de-la-temporada-en-f1-lo-mejor-y-lo-peor/",
-      "published_date": "2026-07-27T19:45:50Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/ee-uu-confirma-nueva-ronda-de-conversaciones-entre-libano-e-israel-en-roma/",
+      "published_date": "2026-07-28T10:16:00Z",
+      "category": "Military"
     },
     {
-      "title": "UN Mission asks the Government of Venezuela to reconsider its withdrawal from the CPI",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/mision-de-la-onu-pide-al-gobierno-de-venezuela-que-reconsidere-su-retirada-del-cpi/",
-      "published_date": "2026-07-27T19:08:45Z",
-      "category": "Diplomacy"
+      "title": "Rubén Darío Belzares Escobar, the new commander of Ceofanb",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/ruben-dario-belzares-escobar-comandante-ceofanb-fanb/",
+      "published_date": "2026-07-28T10:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "They propose the construction of an international airport in Merecure, Miranda state",
+      "title": "7.1 magnitude earthquake hits southern Japan, prompting tsunami warning",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/proponen-la-construccion-de-un-aeropuerto-internacional-en-merecure-estado-miranda/",
-      "published_date": "2026-07-27T17:56:42Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/terremoto-de-magnitud-71-sacude-el-sur-de-japon-y-provoca-una-alerta-de-tsunami/",
+      "published_date": "2026-07-28T09:50:51Z",
+      "category": "Military"
     },
     {
-      "title": "Delcy Rodríguez managed a $4 million contract with an international law firm to seek relief from US sanctions in 2020",
+      "title": "Recovery of the Maiquetía airport could take up to 12 weeks",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-gestiono-contrato-por-4-millones-con-firma-de-abogados-internacionales-para-buscar-alivio-de-sanciones-de-ee-uu-en-2020/",
-      "published_date": "2026-07-27T17:28:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN Mission asks Venezuela to revoke its withdrawal from the International Criminal Court",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/cpi-venezuela-retiro-onu-mision-derechos-humanos/",
-      "published_date": "2026-07-27T17:22:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "They arrested a man in Cojedes for abusing his ex-partner's daughter out of revenge",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/detuvieron-a-un-hombre-en-cojedes-por-abusar-de-su-exhijastra-en-venganza-contra-su-expareja/",
-      "published_date": "2026-07-27T16:16:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iran suspends attacks while Trump gives room for dialogue",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/iran-suspende-ataques-mientras-trump-da-espacio-al-dialogo/",
-      "published_date": "2026-07-27T15:44:30Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/recuperacion-del-aeropuerto-podria-demorarse-hasta-12-semanas/",
+      "published_date": "2026-07-28T05:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Trump uses the case of Venezuela as an example to question the effectiveness of Russian weapons",
@@ -255,32 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Clippve demands that Delcy Rodríguez's government reverse the decision to leave the ICC",
+      "title": "PDVSA plans the temporary stoppage of the El Palito refinery",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/clippve-exige-a-gobierno-de-delcy-rodriguez-revertir-la-decision-de-salir-de-la-cpi/",
-      "published_date": "2026-07-26T13:08:07Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/pdvsa-planifica-la-paralizacion-temporal-de-la-refineria-el-palito/",
+      "published_date": "2026-07-28T12:03:48Z",
+      "category": "Energy"
     },
     {
-      "title": "Funvisis advisor urged to build a culture of permanent prevention in Venezuela after seismic double",
+      "title": "Sustain yourself in reading: books to navigate grief",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/asesor-de-funvisis-insto-a-construir-una-cultura-de-prevencion-permanente-en-venezuela-tras-doblete-sismico/",
-      "published_date": "2026-07-26T12:37:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "US ships will combat drug trafficking in the Caribbean after assisting Venezuela due to the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ee-uu-advirtio-que-sus-buques-combatiran-el-narcotrafico-en-el-caribe-tras-asistir-a-venezuela-por-los-terremotos/",
-      "published_date": "2026-07-26T11:53:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "US Southern Command announced that it ended its mission in Venezuela due to the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/comando-sur-de-ee-uu-anuncio-que-culmino-su-mision-en-venezuela-por-los-terremotos/",
-      "published_date": "2026-07-26T11:32:23Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/sostenerse-en-la-lectura-libros-para-transitar-el-duelo/",
+      "published_date": "2026-07-28T08:00:00Z",
+      "category": "Energy"
     },
     {
       "title": "Petro faces a new scandal of alleged corruption 11 days after leaving power",
@@ -406,20 +420,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/barril-de-petroleo-se-acerca-a-los-100-tras-nuevos-ataques-en-medio-oriente/",
       "published_date": "2026-07-23T11:59:35Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Repsol expects to receive four ships with crude oil from Venezuela in the remainder of the year",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/repsol-espera-recibir-cuatro-barcos-con-crudo-de-venezuela-en-lo-que-queda-de-ano/",
-      "published_date": "2026-07-23T10:32:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Global Empowerment Mission has provided aid to 55,000 families affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/global-empowerment-mission-ha-entregado-ayuda-a-55-000-familias-afectadas-por-los-terremotos/",
-      "published_date": "2026-07-23T09:59:00Z",
       "category": "Energy"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "The ruling party will march this Tuesday for the birth of Hugo Chávez in a day marked by opposition mobilizations two years before 28J",
+      "title": "Zinedine Zidane: “The position of France coach was the only one I wanted”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-oficialismo-marchara-este-martes-por-el-natalicio-de-hugo-chavez-en-una-jornada-marcada-por-movilizaciones-de-la-oposicion-a-dos-anos-del-28j/",
-      "published_date": "2026-07-27T23:54:15Z",
+      "url": "https://www.elnacional.com/2026/07/zinedine-zidane-el-cargo-de-seleccionador-de-francia-era-el-unico-que-queria/",
+      "published_date": "2026-07-28T12:21:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Stock Exchange, UNDP and the Real Estate Chamber evaluate options for the reconstruction of homes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/bolsa-de-valores-pnud-y-la-camara-inmobiliaria-evaluan-opciones-para-la-reconstruccion-de-viviendas/",
-      "published_date": "2026-07-27T23:38:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The dilemma: who has the most to lose in the negotiation?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/el-dilema-quien-tiene-mas-que-perder-en-la-negociacion/",
-      "published_date": "2026-07-27T23:36:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saime temporarily suspends service in six offices in Caracas and La Guaira due to the seismic emergency",
+      "title": "Edmundo González reiterates his commitment to change in Venezuela two years after July 28",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-saime-suspende-temporalmente-la-atencion-en-seis-oficinas-de-caracas-y-la-guaira-por-la-emergencia-sismica/",
-      "published_date": "2026-07-27T23:25:50Z",
+      "url": "https://www.elnacional.com/2026/07/edmundo-gonzalez-reitera-su-compromiso-con-el-cambio-en-venezuela-dos-anos-despues-del-28-de-julio/",
+      "published_date": "2026-07-28T12:07:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Cotejo.info: “half-truth” in Jorge Rodríguez's speech on debris management",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/616067/cotejo-info-media-verdad-el-discurso-de-jorge-rodriguez-sobre-gestion-de-escombros/",
-      "published_date": "2026-07-27T23:16:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Petare residents denounce that inspections in that sector were selective after the earthquakes",
+      "title": "The vacation bonus reflects the salary crisis of teachers in Venezuela: they no longer travel or enjoy the payment",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/vecinos-de-petare-denuncian-que-inspecciones-en-ese-sector-fueron-selectivas-despues-de-los-terremotos/",
-      "published_date": "2026-07-27T23:09:56Z",
+      "url": "https://elpitazo.net/economia/el-bono-vacacional-refleja-la-crisis-salarial-de-los-docentes-en-venezuela-ya-no-viajan-ni-disfrutan-con-el-pago/",
+      "published_date": "2026-07-28T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Central American and Caribbean: Jeshuath Pedraza gives Venezuela its second gold in taekwondo",
+      "title": "Dozens injured and buildings collapsed after 7.1 magnitude earthquake in Japan",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/yohandri-granado-acaba-con-la-sequia-del-taekwondo-para-venezuela-en-los-centroamericanos/",
-      "published_date": "2026-07-27T23:08:08Z",
+      "url": "https://www.elnacional.com/2026/07/decenas-de-heridos-y-edificios-colapsados-tras-terremoto-de-magnitud-71-en-japon/",
+      "published_date": "2026-07-28T10:31:00Z",
       "category": "Local Events"
     },
     {
-      "title": "José Correa is chosen as the third best U-21 midfielder in South America",
+      "title": "The tragedy could have been avoided",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/jose-correa-es-elegido-como-el-tercer-mejor-mediocampista-sub-21-de-sudamerica/",
-      "published_date": "2026-07-27T23:02:55Z",
+      "url": "https://www.elnacional.com/2026/07/mision-vivienda-terremoto-normas-covenin-colapso-antonio-callaos/",
+      "published_date": "2026-07-28T09:55:00Z",
       "category": "Local Events"
     },
     {
-      "title": "\"We don't understand labels\": residents of western Caracas feel confused and neglected",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/otras-noticias/no-entendemos-las-etiquetas-vecinos-del-oeste-de-caracas-se-sienten-confundidos-y-desatendidos/",
-      "published_date": "2026-07-27T23:02:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Why in swimming can the start and turn decide a race?",
+      "title": "Two years after the presidential elections: the triumph of Edmundo González Urrutia that the regime ignored",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/por-que-en-natacion-la-salida-y-el-viraje-pueden-decidir-una-carrera/",
-      "published_date": "2026-07-27T22:56:12Z",
+      "url": "https://www.elnacional.com/2026/07/elecciones-en-venezuela-28-julio-2024-dos-anos-triunfo-edmundo-gonzalez/",
+      "published_date": "2026-07-28T09:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Strong electrical outage affected Caracas and several regions of Venezuela this #27Jul",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/fuerte-bajon-electrico-afecto-a-caracas-y-varias-regiones-de-venezuela-este-27jun/",
-      "published_date": "2026-07-27T22:48:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jeremy Peña and CJ Abrams stand out as MLB Players of the Week",
+      "title": "Karol G and Pedro Pascal will receive a star on the Walk of Fame in 2027",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/jeremy-pena-y-cj-abrams-destacan-como-los-jugadores-de-la-semana-en-mlb/",
-      "published_date": "2026-07-27T22:35:57Z",
+      "url": "https://www.elnacional.com/2026/07/karol-g-y-pedro-pascal-recibiran-una-estrella-en-el-paseo-de-la-fama-en-2027/",
+      "published_date": "2026-07-28T09:10:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Carpita City, the ingenuity of the Guaireño in the face of tragedy",
+      "title": "D4vd will go to trial for the murder of Celeste Rivas Hernández",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ciudad-carpita-el-ingenio-del-guaireno-ante-la-tragedia/",
-      "published_date": "2026-07-27T22:30:40Z",
+      "url": "https://www.elnacional.com/2026/07/d4vd-ira-a-juicio-por-el-homicidio-de-celeste-rivas-hernandez/",
+      "published_date": "2026-07-28T08:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Vente Venezuela calls for rallies for this #28Jul: Diosdado Cabello also calls to take to the streets that day",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/vente-venezuela-convoca-concentraciones-para-este-28jul-diosdado-cabello-tambien-llama-a-tomar-las-calles-ese-dia/",
-      "published_date": "2026-07-27T22:07:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "In La Guaira, Chavismo's promises of safe reconstruction failed",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/reportajes/en-la-guaira-fallaron-las-promesas-de-reconstruccion-segura-del-chavismo/",
-      "published_date": "2026-07-27T22:01:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "First Justice supports dialogue between the AN in 2015 with Chavismo and proposes conditions for the elections",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/primero-justicia-respalda-el-dialogo-nacional-y-plantea-condiciones-para-elecciones-presidenciales/",
-      "published_date": "2026-07-27T21:57:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barinas | UNES expels four students after a video with liquor and obscene language went viral",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/barinas-unes-expulsa-a-cuatro-estudiantes-tras-viralizarse-un-video-con-licor-y-lenguaje-obsceno/",
-      "published_date": "2026-07-27T21:34:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The female Vinotinto announces its call for the Central American and Caribbean Games",
+      "title": "FUNDANA prepares to receive children affected by the earthquakes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-vinotinto-femenina-anuncia-su-convocatoria-para-los-juegos-centroamericanos-y-del-caribe/",
-      "published_date": "2026-07-27T21:03:05Z",
+      "url": "https://www.elnacional.com/2026/07/fundana-se-prepara-para-recibir-a-ninos-afectados-por-los-terremotos/",
+      "published_date": "2026-07-28T04:09:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Family requests solidarity support for surgery of patient with brain hemorrhage after earthquakes",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/familia-solicita-apoyo-solidario-para-cirugia-de-paciente-con-hemorragia-cerebral-tras-los-terremotos/",
-      "published_date": "2026-07-27T20:54:31Z",
+      "title": "Yerfenson Torres, a young bricklayer from Catia, found his purpose among the rubble of La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/yerfenson-torres-un-joven-albanil-de-catia-encontro-su-proposito-entre-los-escombros-de-la-guaira-2/",
+      "published_date": "2026-07-28T03:59:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Lara | Vehicle falls into the void on the demolished section of the Yacural bridge",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/vehiculo-cae-vacio-puente-yacural-lara/",
-      "published_date": "2026-07-27T20:41:54Z",
+      "title": "How the McDonald's in La Guaira became a hospital",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/como-el-mcdonalds-de-la-guaira-se-convirtio-en-hospital-2/",
+      "published_date": "2026-07-28T03:50:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maiquetía becomes the commercial refuge of Guaira hit by the earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/maiquetia-se-convierte-en-el-refugio-comercial-de-una-guaira-golpeada-por-el-terremoto/",
+      "published_date": "2026-07-28T03:46:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Guatire and Guarenas: families ask for help to REBUILD their homes after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/guatire-y-guarenas-familias-piden-ayuda-para-recontruir-sus-hogares-tras-los-terremotos/",
+      "published_date": "2026-07-28T03:34:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Debris in La Guaira: what is true about the reports of waste in the sea",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/escombros-en-la-guaira-que-hay-de-cierto-sobre-las-denuncias-de-desechos-en-el-mar/",
+      "published_date": "2026-07-28T03:25:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ciudad Bendita: the camp that restores hope to La Guaira after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/ciudad-bendita-el-campamento-que-devuelve-la-esperanza-a-la-guaira-tras-los-terremotos/",
+      "published_date": "2026-07-28T02:46:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Portugal will support the reconstruction of Venezuela after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/portugal-apoyara-la-reconstruccion-de-venezuela-tras-los-terremotos/",
+      "published_date": "2026-07-28T02:08:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spanish hospital treats hundreds of patients in Parque del Este after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/hospital-espanol-atiende-a-cientos-de-pacientes-en-el-parque-del-este-tras-los-sismos/",
+      "published_date": "2026-07-28T01:38:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Art and laughter, a space of containment for children affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/arte-y-risas-un-espacio-de-contencion-para-la-infancia-afectada-por-los-terremotos-2/",
+      "published_date": "2026-07-28T01:26:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Road Safety Observatory recorded 133 deaths due to road accidents during June in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/observatorio-seguridad-vial-registro-133-fallecidos-por-accidentes-viales-durante-junio-en-venezuela/",
+      "published_date": "2026-07-28T01:04:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelan journalist Wilmer Solano was detained by ICE in Miami Beach",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/periodista-venezolano-wilmer-solano-fue-detenido-por-ice-en-miami-beach/",
+      "published_date": "2026-07-28T01:01:20Z",
       "category": "Local Events"
     }
   ]
