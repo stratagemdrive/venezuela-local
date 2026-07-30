@@ -1,7 +1,35 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-07-30T00:05:23Z",
+  "last_updated": "2026-07-30T12:48:50Z",
   "stories": [
+    {
+      "title": "Renowned Venezuelan journalist Manuel Corao died in Miami",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/fallecio-en-miami-el-reconocido-periodista-venezolano-manuel-corao/",
+      "published_date": "2026-07-30T11:19:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Saudi Arabia's dilemma in trying to stay out of the US-Iran war",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-dilema-de-arabia-saudita-al-intentar-mantenerse-al-margen-de-la-guerra-entre-ee-uu-e-iran/",
+      "published_date": "2026-07-30T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Benjamin Alire Sáenz, a reference in Latin literature in the United States, died",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/murio-benjamin-alire-saenz-referente-de-la-literatura-latina-en-ee-uu/",
+      "published_date": "2026-07-30T09:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Nacional Survey: 74% of Venezuelans consider that María Corina Machado and Edmundo González are right not to join the negotiations",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/encuesta-el-nacional-74-por-ciento-apoya-decision-machado-gonzalez-negociacion/",
+      "published_date": "2026-07-30T07:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Delcy Rodríguez honors the UN resident coordinator in Venezuela, Gianluca Rampolla, who concludes his mission",
       "source": "El Nacional",
@@ -115,32 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Luz Mely Reyes wins the María Moors Cabot Prize 2026",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/luz-mely-reyes-gana-el-premio-maria-moors-cabot-2026/",
-      "published_date": "2026-07-29T16:46:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La UEFA acusa a la FIFA de usar el fútbol “para enriquecerse a sí misma y a sus amigos”",
+      "title": "Specialist warns about respiratory diseases due to debris particles",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-uefa-acusa-a-la-fifa-de-usar-el-futbol-para-enriquecerse-a-si-misma-y-a-sus-amigos/",
-      "published_date": "2026-07-29T15:58:45Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/especialista-alerta-sobre-enfermedades-respiratorias-por-particulas-de-los-escombros/",
+      "published_date": "2026-07-30T12:13:00Z",
+      "category": "Military"
     },
     {
-      "title": "Government congratulates Keiko Fujimori after being sworn in as president of Peru",
+      "title": "ICE seeks to add 5,500 detention beds for migrants in Miami and other US cities",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/gobierno-felicita-a-keiko-fujimori-tras-ser-juramentada-como-presidenta-de-peru/",
-      "published_date": "2026-07-29T14:25:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"This is not Venezuela\", the statement by the Iranian foreign minister that led Chavismo to deliver a note of protest",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/esto-no-es-venezuela-la-declaracion-del-canciller-irani-que-llevo-al-chavismo-a-entregar-una-nota-de-protesta/",
-      "published_date": "2026-07-29T14:15:51Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/ice-busca-anadir-5-500-camas-de-detencion-para-migrantes-en-miami-y-otras-ciudades-de-ee-uu/",
+      "published_date": "2026-07-30T00:32:43Z",
+      "category": "Military"
     },
     {
       "title": "Seven people die after a Federal Emergency Agency helicopter crashes in western Argentina",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Colonel José Jesús Lozano Mogollón is released from prison",
+      "title": "Make way for Luis Arráez, the new leading bat of the Major Leagues, to arrive",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/excarcelan-al-coronel-jose-jesus-lozano-mogollon/",
-      "published_date": "2026-07-29T06:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Guanipa sees the return of María Corina as necessary to conduct the electoral process in the country",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/guanipa-ve-necesario-el-retorno-de-maria-corina-para-conducir-el-proceso-electoral-en-el-pais/",
-      "published_date": "2026-07-29T01:04:54Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/07/abran-paso-que-llego-luis-arraez-el-nuevo-lider-bate-de-las-grandes-ligas/",
+      "published_date": "2026-07-30T00:35:40Z",
+      "category": "Energy"
     },
     {
       "title": "ENI ratifies plans to produce more oil and gas in Venezuela with new law",
@@ -416,11 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Spider-Man's secret to conquering platforms, languages ​​and generations",
+      "title": "Delcy Rodríguez addresses the use of resources for reconstruction with the IMF",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-secreto-de-spider-man-para-conquistar-plataformas-lenguajes-y-generaciones/",
-      "published_date": "2026-07-28T07:59:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-aborda-con-el-fmi-el-uso-de-reservas-para-la-recuperacion-tras-los-sismos/",
+      "published_date": "2026-07-30T10:06:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The Cuban government assures that its economic reform package will not divert the island from socialism",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/el-gobierno-cubano-asegura-que-su-paquete-de-reformas-economicas-no-desviara-a-la-isla-del-socialismo/",
+      "published_date": "2026-07-30T00:55:16Z",
+      "category": "Economy"
     },
     {
       "title": "Reuters: Ballard Partners will set up an office in Caracas due to growing business interest in Venezuela",
@@ -549,18 +563,67 @@
       "category": "Economy"
     },
     {
-      "title": "This is Seller, the new app for Facebook Marketplace sellers",
+      "title": "The death toll from the earthquake in Japan rises to 34",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/asi-es-seller-la-nueva-app-para-vendedores-de-facebook/",
-      "published_date": "2026-07-27T09:00:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/asciende-a-34-el-numero-de-muertos-por-el-terremoto-en-japon/",
+      "published_date": "2026-07-30T10:40:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Venezuelans sued two airlines for flights that took them from the US to CECOT in El Salvador",
+      "title": "Francia autoriza a regresar a sus hogares a 84.000 evacuados por megaincendio",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/tres-venezolanos-demandaron-a-dos-aerolineas-por-vuelos-que-los-trasladaron-de-ee-uu-al-cecot-de-el-salvador/",
-      "published_date": "2026-07-26T14:14:59Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/francia-autoriza-a-regresar-a-sus-hogares-a-84-000-evacuados-por-megaincendio/",
+      "published_date": "2026-07-30T10:23:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "I don't regret feeling so much, Karol G's new album",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/no-me-arrepiento-de-sentir-tanto-el-nuevo-album-de-karol-g/",
+      "published_date": "2026-07-30T09:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of July 30: Cases of hepatitis A and diarrhea increased after the earthquakes",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/616285/el-mananero-del-30-de-julio-casos-de-hepatitis-a-y-diarreas-aumentaron-despues-de-los-terremotos/",
+      "published_date": "2026-07-30T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Amputations, dialysis and grief: the battle faced by survivors of the tragedy",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/amputaciones-dialisis-y-duelo-la-salud-tras-la-tragedia/",
+      "published_date": "2026-07-30T07:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Banking as a tool of inclusion",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/616099/bancarizacion/",
+      "published_date": "2026-07-30T04:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain authorizes return of thousands of evacuees while fires remain active in Madrid",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/espana-autoriza-regreso-de-miles-de-evacuados-mientras-incendios-siguen-activos-en-madrid/",
+      "published_date": "2026-07-30T01:09:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Point and Context: What could lead Delcy and Jorge Rodríguez to negotiate a transition?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/punto-y-contexto-que-podria-llevar-a-delcy-y-jorge-rodriguez-a-negociar-una-transicion/",
+      "published_date": "2026-07-30T00:45:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jared Leto denies sexual assault allegations",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/jared-leto-niega-denuncias-de-agresion-sexual/",
+      "published_date": "2026-07-30T00:27:52Z",
+      "category": "Local Events"
     },
     {
       "title": "Kidnapping in Táchira: armed men took the Colombian reverend Samuel Salazar",
@@ -637,69 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/07/italia-presenta-a-claudio-ranieri-y-roberto-mancini-para-liderar-su-nuevo-proyecto/",
       "published_date": "2026-07-29T21:19:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Resilience and transparency: the USB Litoral Humanitarian Aid Plan after the two earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/plan-de-ayuda-humanitaria-usb-litoral-sismos-la-guaira/",
-      "published_date": "2026-07-29T21:11:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "“la Caixa” Foundation will contribute up to one million euros for reconstruction in Venezuela after the earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/616241/fundacion-la-caixa-aportara-hasta-un-millon-de-euros-para-la-reconstruccion-en-venezuela-tras-los-sismos/",
-      "published_date": "2026-07-29T21:08:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The credit and subsidy scheme announced by Delcy Rodríguez for families affected by earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/616230/el-esquema-de-creditos-y-subsidios-que-anuncio-delcy-rodriguez-para-familias-afectadas-por-sismos/",
-      "published_date": "2026-07-29T20:45:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivian Prosecutor's Office orders the capture of Evo Morales for 2026 protests",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/fiscalia-de-bolivia-ordena-la-captura-de-evo-morales-por-protestas-de-2026/",
-      "published_date": "2026-07-29T20:33:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Infantino defends the project to privatize the World Cup and clarifies that it is not an “obligation”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/infantino-defiende-el-proyecto-de-la-fifa-y-aclara-que-no-es-una-obligacion/",
-      "published_date": "2026-07-29T20:18:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francisco Garcés: “No structure will be demolished if it has bodies to recover” in La Guaira",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/francisco-garces-ninguna-estructura-sera-demolida-si-tiene-cuerpos-por-recuperar-en-la-guaira/",
-      "published_date": "2026-07-29T20:00:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Futve League will adopt seven modifications to the Rules of the Game for the Clausura Tournament",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-liga-futve-adoptara-siete-modificaciones-a-las-reglas-del-juego-para-el-torneo-clausura/",
-      "published_date": "2026-07-29T19:54:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Japanese medical team completes humanitarian mission in Venezuela after caring for more than 1,600 people affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/equipo-medico-de-japon-culmina-mision-humanitaria-en-venezuela-tras-atender-a-mas-de-1-600-afectados-por-los-terremotos/",
-      "published_date": "2026-07-29T19:51:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Eduardo Rodríguez reaches ten victories this year by blanking Pittsburgh",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/eduardo-rodriguez-alcanza-la-decena-de-victorias-al-dejar-en-blanco-a-pittsburgh/",
-      "published_date": "2026-07-29T19:35:56Z",
       "category": "Local Events"
     }
   ]
