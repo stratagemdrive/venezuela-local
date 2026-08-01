@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-01T00:07:28Z",
+  "last_updated": "2026-08-01T12:05:20Z",
   "stories": [
+    {
+      "title": "They form a network of survivors from La Guaira to supervise the process of reconstruction of the state",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/constituyen-red-de-sobrevivientes-de-la-guaira-para-supervisar-el-proceso-de-reconstruccion-del-estado/",
+      "published_date": "2026-08-01T11:52:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maiquetía Airport will resume cargo operations starting next August 5",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/aeropuerto-de-maiquetia-reanudara-operaciones-de-carga-a-partir-del-proximo-5-de-agosto/",
+      "published_date": "2026-08-01T11:38:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Accident on the Valle-Coche highway left at least one dead and five injured",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/accidente-en-la-autopista-valle-coche-dejo-al-menos-un-fallecido-y-cinco-heridos/",
+      "published_date": "2026-08-01T11:14:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The scars of improvisation",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/las-cicatrices-de-la-improvisacion/",
+      "published_date": "2026-08-01T11:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The negotiation supervised by the US and without María Corina Machado starts between skepticism and uncertainty",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/negociacion-venezuela-1-agosto-maria-corina-machado-eeuu/",
+      "published_date": "2026-08-01T07:00:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "The US will require deposits of up to $20,000 to grant tourist and business visas to Venezuelan citizens and other countries",
       "source": "El Nacional",
@@ -108,39 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Trump assures that the \"terrible\" immigration crisis in Spain is a warning for the United States",
+      "title": "A judge from the Supreme Court of Brazil authorizes a second investigation against Lula da Silva's son for influence peddling",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/trump-asegura-que-la-terrible-crisis-migratoria-en-espana-es-una-advertencia-para-ee-uu/",
-      "published_date": "2026-07-31T16:29:26Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/un-juez-del-supremo-de-brasil-autoriza-una-segunda-investigacion-contra-el-hijo-de-lula-da-silva-por-trafico-de-influencias/",
+      "published_date": "2026-08-01T00:39:48Z",
+      "category": "Military"
     },
     {
-      "title": "Leomagno Flores: The future of Venezuela “cannot be decreed from a distance”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/leomagno-flores-dialogo-transicion-venezuela-eeuu/",
-      "published_date": "2026-07-31T16:28:11Z",
-      "category": "Diplomacy"
+      "title": "Luitxon Caripe: the head of the Tres Raíces collective who was arrested with 3 tons of cocaine in Monagas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/hombre-detenido-en-2020-por-estafa-vuelve-a-quedar-bajo-arresto-por-un-alijo-de-cocaina/",
+      "published_date": "2026-08-01T00:33:11Z",
+      "category": "Military"
     },
     {
-      "title": "ESPN: FIFA begins the consultation to expand the teams in the World Cup to 64",
+      "title": "Ilich Ramírez, alias Carlos el Chacal, requests parole in France to be deported to Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/espn-fifa-inicia-la-consulta-para-ampliar-a-64-las-selecciones-en-el-mundial/",
-      "published_date": "2026-07-31T16:22:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Angy Quintero returns strongly at the CAC: “I didn't think I would be on the podium again”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/angy-quintero-regresa-con-fuerza-en-los-cac-no-pense-volver-a-estar-en-el-podio/",
-      "published_date": "2026-07-31T15:57:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "UN promises in-depth assessment of earthquake damage: \"It is not a simple census of cracks\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/onu-promete-una-evaluacion-profunda-de-los-danos-por-los-terremotos-no-es-un-simple-censo-de-grietas/",
-      "published_date": "2026-07-31T15:32:43Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/07/ilich-ramirez-alias-carlos-el-chacal-solicita-la-libertad-condicional-en-francia-para-ser-deportado-a-venezuela/",
+      "published_date": "2026-08-01T00:05:11Z",
+      "category": "Military"
     },
     {
       "title": "OVP denounces the death of a prisoner in Zulia due to complications of tuberculosis",
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Border with Colombia | Authorities report two attacks with explosives in the last hours",
+      "title": "PDVSA-Crypto | Justice and Process affirms that investigated companies are creditors of the state oil company",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/frontera-con-colombia-autoridades-reportan-dos-ataques-con-explosivos-en-las-ultimas-horas/",
-      "published_date": "2026-07-30T21:26:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "The OVP demands to investigate medical care in Carabobo prison for the death of two inmates in less than 48 hours",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-ovp-exige-investigar-atencion-medica-en-carcel-de-carabobo-por-la-muerte-de-dos-reclusos-en-menos-de-48-horas/",
-      "published_date": "2026-07-30T21:11:59Z",
-      "category": "Military"
-    },
-    {
-      "title": "Penal Forum registers 379 political prisoners in Venezuela as of July 27, 2026",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/foro-penal-registra-379-presos-politicos/",
-      "published_date": "2026-07-30T21:08:35Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/politica/pdvsa-cripto-justicia-y-proceso-afirma-que-empresas-investigadas-son-acreedoras-de-la-estatal-petrolera/",
+      "published_date": "2026-08-01T00:55:27Z",
+      "category": "Energy"
     },
     {
       "title": "Chevron expects to recover all its debt in Venezuela by early 2027",
@@ -416,11 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "Eduardo Valencia had a historic night on his return to the Major Leagues",
+      "title": "Ivo Hernández: The challenge is to rebuild the Republic",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/eduardo-valencia-tuvo-una-noche-historica-en-su-regreso-a-grandes-ligas/",
-      "published_date": "2026-07-29T16:00:58Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/08/ivo-hernandez-el-desafio-es-reconstruir-la-republica-venezuela/",
+      "published_date": "2026-08-01T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "FIFA abandons its intention to create a subsidiary to market the World Cup",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/la-fifa-desiste-de-su-intencion-de-crear-una-filial-para-comercializar-la-copa-del-mundo/",
+      "published_date": "2026-08-01T01:05:24Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gustavo Petro lands in Havana to meet with Miguel Díaz-Canel on his last official trip as president",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/gustavo-petro-aterriza-en-la-habana-para-reunirse-con-miguel-diaz-canel-en-su-ultimo-viaje-oficial-como-presidente/",
+      "published_date": "2026-08-01T00:57:22Z",
+      "category": "Economy"
     },
     {
       "title": "Minimum fare rises to 190 bolivars as of August 1",
@@ -542,25 +563,46 @@
       "category": "Economy"
     },
     {
-      "title": "IMF analyzes interim use of reserves to finance post-earthquake reconstruction",
+      "title": "Search for victims ends in shopping center destroyed after earthquake in Japan",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/culmino-busqueda-de-victimas-en-centro-comercial-destruido-tras-terremoto-en-japon/",
+      "published_date": "2026-08-01T11:51:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A week without an official update: silence remains on the death toll from the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/una-semana-sin-actualizacion-oficial-se-mantiene-el-silencio-sobre-cifra-de-muertos-por-los-terremotos/",
+      "published_date": "2026-08-01T11:32:19Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela: expectations and realities of the negotiation",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/destacado-3/fmi-analiza-con-interinato-uso-de-reservas-para-financiar-reconstruccion-post-terremotos/",
-      "published_date": "2026-07-30T13:39:21Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/politica/venezuela-expectativas-y-realidades-de-la-negociacion/",
+      "published_date": "2026-08-01T11:30:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez addresses the use of resources for reconstruction with the IMF",
+      "title": "Venezuelan Marcela Jabes won at the Guanajuato Film Festival",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/delcy-rodriguez-aborda-con-el-fmi-el-uso-de-reservas-para-la-recuperacion-tras-los-sismos/",
-      "published_date": "2026-07-30T10:06:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/08/la-venezolana-marcela-jabes-gano-en-el-festival-de-cine-de-guanajuato/",
+      "published_date": "2026-08-01T08:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "The Cuban government assures that its economic reform package will not divert the island from socialism",
+      "title": "Morocco arrests 70 people after riots over the migration crisis on the border with Ceuta",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-gobierno-cubano-asegura-que-su-paquete-de-reformas-economicas-no-desviara-a-la-isla-del-socialismo/",
-      "published_date": "2026-07-30T00:55:16Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/07/marruecos-arresta-a-70-personas-tras-disturbios-por-la-crisis-migratoria-en-la-frontera-con-ceuta/",
+      "published_date": "2026-08-01T00:59:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "National Assembly approves new Leasing Law to promote access to housing after the earthquake",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/07/asamblea-nacional-aprueba-nueva-ley-de-arrendamientos-para-impulsar-el-acceso-a-viviendas-tras-el-terremoto/",
+      "published_date": "2026-08-01T00:14:02Z",
+      "category": "Local Events"
     },
     {
       "title": "Maiquetía Airport reactivates cargo flights starting #5Aug",
@@ -658,48 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/internacionales/mediador-de-trump-en-venezuela-abandona-el-cargo/",
       "published_date": "2026-07-31T21:24:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They demand the transfer of dams from the Caraballeda checkpoint, affected by the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/exigen-el-traslado-de-presas-del-reten-de-caraballeda-afectado-por-los-terremotos/",
-      "published_date": "2026-07-31T21:09:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Blackouts in Venezuela: citizens protest almost daily due to the electricity crisis",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/apagones-en-venezuela-ciudadanos-protestan-casi-a-diario-por-la-crisis-electrica/",
-      "published_date": "2026-07-31T21:03:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "More control and criticism of Spanish policies: Europe's reaction to the crisis in Ceuta",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/mas-control-y-criticas-a-las-politicas-espanolas-la-reaccion-de-europa-a-la-crisis-en-ceuta/",
-      "published_date": "2026-07-31T20:51:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chile | Venezuelan teenager stabbed to death in a fight outside a high school",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/muere-adolescente-venezolano-de-15-anos-tras-ser-atacado-con-un-arma-blanca-en-chile/",
-      "published_date": "2026-07-31T20:40:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Transparency Venezuela questions the profile of some aspiring judges of the Supreme Court of Justice",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/transparencia-venezuela-cuestiona-perfil-de-aspirantes-a-magistrados-al-tribunal-supremo-de-justicia/",
-      "published_date": "2026-07-31T20:20:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They extend the registration period in the Opsu National Income System for 15 days",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/extienden-por-15-dias-plazo-de-registro-en-sistema-nacional-de-ingresos-de-opsu/",
-      "published_date": "2026-07-31T20:17:12Z",
       "category": "Local Events"
     }
   ]
