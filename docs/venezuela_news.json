@@ -1,7 +1,42 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-02T00:03:49Z",
+  "last_updated": "2026-08-02T12:05:47Z",
   "stories": [
+    {
+      "title": "Who are the members of the government and opposition delegations in the dialogue?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/jorge-rodriguez-y-dinorah-figuera-dieron-a-conocer-los-nombres-que-los-representaran-en-la-mesa-de-negociacion/",
+      "published_date": "2026-08-02T11:21:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Relatives demand to include freedom of political prisoners in dialogue between Chavismo and opposition",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/familiares-exigen-incluir-libertad-de-presos-politicos-en-dialogo-de-chavismo-y-oposicion/",
+      "published_date": "2026-08-02T11:18:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“This is not about me, it is about the people who gave a mandate”: Machado on his exclusion from the dialogue",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/616447/esto-no-se-trata-de-mi-se-trata-del-pueblo-que-dio-un-mandato-machado-sobre-su-exclusion-del-dialogo/",
+      "published_date": "2026-08-02T02:47:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US celebrates the start of dialogue in Venezuela and offers support to the process",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/estados-unidos-celebra-el-inicio-del-dialogo-en-venezuela-y-ofrece-respaldo-al-proceso/",
+      "published_date": "2026-08-02T00:56:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Central Bank of Venezuela received the IMF team and expressed commitment to dialogue",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/bcv-recibio-a-equipo-del-fmi-y-expreso-compromiso-con-el-dialogo/",
+      "published_date": "2026-08-02T00:13:25Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dialogue between Chavismo and the opposition begins with a call and presentation of the delegations",
       "source": "Efecto Cocuyo",
@@ -108,39 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "How does the opposition arrive at the August 1 negotiations?",
+      "title": "The interim and the announcement of the withdrawal of the ICC: The opportunity in the midst of tutelage",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/reconocimiento-eeuu-escepticismo-llega-oposicion-negociaciones/",
-      "published_date": "2026-08-01T12:30:00Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/politica/interinato-anuncio-retiro-cpi-oportunidad-tutelaje/",
+      "published_date": "2026-08-02T06:15:00Z",
+      "category": "Military"
     },
     {
-      "title": "They form a network of survivors from La Guaira to supervise the process of reconstruction of the state",
+      "title": "Delcy Rodríguez proposes to José Antonio Kast a cooperation agenda between Venezuela and Chile",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/constituyen-red-de-sobrevivientes-de-la-guaira-para-supervisar-el-proceso-de-reconstruccion-del-estado/",
-      "published_date": "2026-08-01T11:52:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Maiquetía Airport will resume cargo operations starting next August 5",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/aeropuerto-de-maiquetia-reanudara-operaciones-de-carga-a-partir-del-proximo-5-de-agosto/",
-      "published_date": "2026-08-01T11:38:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Accident on the Valle-Coche highway left at least one dead and five injured",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/accidente-en-la-autopista-valle-coche-dejo-al-menos-un-fallecido-y-cinco-heridos/",
-      "published_date": "2026-08-01T11:14:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The scars of improvisation",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/opinion/las-cicatrices-de-la-improvisacion/",
-      "published_date": "2026-08-01T11:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-propone-a-jose-antonio-kast-una-agenda-de-cooperacion-entre-venezuela-y-chile/",
+      "published_date": "2026-08-02T00:30:03Z",
+      "category": "Military"
     },
     {
       "title": "They denounce that two miners died boarded up after an accident in a clandestine mine controlled by the PNB management",
@@ -269,18 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "They warn about confinement conditions at the Caraballeda checkpoint after the earthquakes",
+      "title": "The end of guardianships and the time of the nation",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/616351/alertan-sobre-condiciones-de-reclusion-en-reten-de-caraballeda-luego-de-los-sismos/",
-      "published_date": "2026-07-31T17:06:07Z",
-      "category": "Military"
+      "url": "https://runrun.es/opinion/616458/nacion-venezolana-2/",
+      "published_date": "2026-08-02T05:31:55Z",
+      "category": "Energy"
     },
     {
-      "title": "The war in the Middle East also boosts profits for ExxonMobil and Chevron",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/la-guerra-en-oriente-medio-tambien-dispara-ganancias-de-exxonmobil-y-chevron/",
-      "published_date": "2026-07-31T16:22:23Z",
-      "category": "Military"
+      "title": "Citizens report blackout in several areas of Caracas on the night of August 1",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/ciudadanos-reportan-apagon-en-varias-zonas-de-caracas-la-noche-de-este-1-de-agosto/",
+      "published_date": "2026-08-02T00:21:06Z",
+      "category": "Energy"
     },
     {
       "title": "Monagas Construction Chamber created a commission to review buildings and prevent risks from earthquakes",
@@ -409,18 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Blackouts of up to 15 hours expose the electricity crisis in Venezuela: Caracas remains excluded from the cuts",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/apagones-de-hasta-15-horas-exponen-la-crisis-electrica-en-venezuela-caracas-sigue-excluida-de-los-cortes/",
-      "published_date": "2026-07-29T20:08:00Z",
-      "category": "Energy"
+      "title": "Marco Rubio on the transition in Venezuela: \"At some point there must be elections\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/marco-rubio-sobre-la-transicion-en-venezuela-en-algun-momento-debe-haber-elecciones/",
+      "published_date": "2026-08-02T11:55:01Z",
+      "category": "Economy"
     },
     {
-      "title": "Gas cylinder explosion leaves two injured in Caracas",
+      "title": "An insurance worker, a pastry chef and a motorcycle taxi struggle from tents on Bolívar Avenue",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/explosion-de-bombonas-de-gas-deja-dos-heridos-en-caracas/",
-      "published_date": "2026-07-29T18:35:56Z",
-      "category": "Energy"
+      "url": "https://efectococuyo.com/uncategorized/un-trabajador-de-seguros-una-repostera-y-un-mototaxi-sostienen-sus-empleos-desde-las-carpas-en-la-av-bolivar/",
+      "published_date": "2026-08-02T06:15:00Z",
+      "category": "Economy"
     },
     {
       "title": "Minimum urban fare increased to 190 bolivars from August 1",
@@ -549,18 +563,67 @@
       "category": "Economy"
     },
     {
-      "title": "The alleged murderer of a man is arrested in Carabobo for a debt of 150 dollars",
+      "title": "Funvisis confirmed a 4.2 magnitude earthquake with an epicenter in the Yaracuy state",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/detienen-en-carabobo-al-presunto-homicida-de-un-hombre-por-una-deuda-de-150-dolares/",
-      "published_date": "2026-07-30T20:26:12Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/08/funvisis-confirmo-sismo-de-magnitud-de-4-2-con-epicentro-en-el-estado-yaracuy/",
+      "published_date": "2026-08-02T11:37:18Z",
+      "category": "Local Events"
     },
     {
-      "title": "Economists estimate that Venezuela will close 2026 with inflation of 200% and the dollar close to 1,000 bolivars",
+      "title": "Opposition thanks the US for its support to achieve a political transition in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/oposicion-agradece-a-ee-uu-por-acompanamiento-para-lograr-una-transicion-politica-en-venezuela/",
+      "published_date": "2026-08-02T11:26:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The OPPPE of La Guaira were not the safe place that the government promised",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/economistas-estiman-que-venezuela-cerrara-2026-con-inflacion-de-200-y-el-dolar-cercano-a-1-000-bolivares/",
-      "published_date": "2026-07-30T19:11:53Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/alianzas/las-opppe-de-la-guaira-no-eran-el-lugar-seguro-que-prometio-el-gobierno/",
+      "published_date": "2026-08-02T11:10:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Great Housing Mission: the social program that ended up portraying Chavismo",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/gran-mision-vivienda-programa-social-chavismo/",
+      "published_date": "2026-08-02T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The OPPPE of La Guaira were not the safe place that the government promised",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/616442/las-opppe-de-la-guaira-no-eran-el-lugar-seguro-que-prometio-el-gobierno/",
+      "published_date": "2026-08-02T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Unexpo is at risk of total demolition at one of its headquarters in Guarenas",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/unexpo-corre-riesgo-de-demolicion-total-en-una-de-sus-sedes-en-guarenas/",
+      "published_date": "2026-08-02T08:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Environment analysis: Table with clay feet and without María Corina Machado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/analisis-de-entorno-mesa-con-pies-de-barro-y-sin-maria-corina-machado/",
+      "published_date": "2026-08-02T07:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mental health: Manuel Llorens' guide to managing stress",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/salud-mental-guia-de-manuel-llorens-para-gestionar-el-estres/",
+      "published_date": "2026-08-02T06:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Why was the start of the negotiation table between the ruling party and the AN in 2015 delayed?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/por-que-se-retraso-el-inicio-de-la-mesa-de-negociacion-entre-el-oficialismo-y-la-an-de-2015/",
+      "published_date": "2026-08-02T01:09:58Z",
+      "category": "Local Events"
     },
     {
       "title": "Health alert issued in Venezuela due to counterfeit medication for hypertension",
@@ -637,69 +700,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/guayana/sos-orinoco-reporta-muerte-de-dos-mineros-en-yacimiento-ilegal-en-rio-caroni/",
       "published_date": "2026-08-01T19:05:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "José Díaz revalidated the gold in the 125 kilograms of wrestling",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jose-diaz-revalido-el-oro-en-los-125-kilogramos-de-la-lucha-libre/",
-      "published_date": "2026-08-01T19:04:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mobile payment, Biopago and Binance Pay, three favorite payment methods for Venezuelans",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/pago-movil-binance-pay-formas-de-pago/",
-      "published_date": "2026-08-01T19:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zuckerberg plans to develop AI agents to boost entrepreneurs",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/zuckerberg-planea-desarrollar-agentes-de-ia-para-impulsar-a-los-emprendedores/",
-      "published_date": "2026-08-01T18:38:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Disney+ canceled the Wonder Man series",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/disney-cancelo-la-serie-wonder-man/",
-      "published_date": "2026-08-01T18:14:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Barinas | Students could not attend their graduation due to the flooding of a river and ask the school for a symbolic act",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/barinas-estudiantes-no-pudieron-asistir-a-su-graduacion-por-la-crecida-de-un-rio-y-piden-al-colegio-un-acto-simbolico/",
-      "published_date": "2026-08-01T18:13:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan Red Cross estimated a two-year assistance plan to address the emergency after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cruz-roja-venezolana-estimo-un-plan-de-asistencia-de-dos-anos-para-atender-la-emergencia-tras-los-terremotos/",
-      "published_date": "2026-08-01T18:06:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mayor in Barinas asked the national government for support for channeling the stream",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/alcalde-en-barinas-pidio-apoyo-al-gobierno-nacional-para-canalizacion-de-quebrada/",
-      "published_date": "2026-08-01T18:01:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abelardo De la Espriella condemned the attack in Cúcuta and assured that terrorism will not intimidate Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/abelardo-de-la-espriella-condeno-el-atentado-en-cucuta-y-aseguro-que-el-terrorismo-no-intimidara-a-colombia/",
-      "published_date": "2026-08-01T17:46:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SOS Orinoco report identified 26 irregular armed groups in southern Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/informe-de-sos-orinoco-identifico-a-26-grupos-armados-en-el-sur-de-venezuela/",
-      "published_date": "2026-08-01T17:18:28Z",
       "category": "Local Events"
     }
   ]
