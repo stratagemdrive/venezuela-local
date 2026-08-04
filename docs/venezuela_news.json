@@ -1,23 +1,44 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-04T00:13:29Z",
+  "last_updated": "2026-08-04T13:06:24Z",
   "stories": [
     {
-      "title": "Hamás condiciona su desarme a la retirada oficial de Israel y exige aclaraciones a la Junta de Paz",
+      "title": "From untouchable to repudiated. Will Gianni Infantino manage to remain at the head of FIFA?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/de-intocable-a-repudiado-conseguira-gianni-infantino-mantenerse-a-la-cabeza-de-la-fifa/",
+      "published_date": "2026-08-04T12:21:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Keiko Fujimori's government will evaluate a request for a pardon for former President Alejandro Toledo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/gobierno-de-keiko-fujimori-evaluara-pedido-de-indulto-al-expresidente-alejandro-toledo/",
+      "published_date": "2026-08-04T10:29:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ecarri affirms that the transition must prioritize a reconstruction plan to avoid a new crisis",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ecarri-afirma-que-la-transicion-debe-priorizar-un-plan-de-reconstruccion-para-evitar-una-nueva-crisis/",
+      "published_date": "2026-08-04T01:00:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tibisay Suárez: a missile in the fog of oblivion",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/monitor-de-victimas/616564/tibisay-suarez-un-misil-en-la-niebla-del-olvido/",
+      "published_date": "2026-08-04T00:13:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hamas conditions its disarmament on Israel's official withdrawal and demands clarifications from the Peace Board",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/hamas-condiciona-su-desarme-a-la-retirada-oficial-de-israel-y-exige-aclaraciones-a-la-junta-de-paz/",
       "published_date": "2026-08-03T23:53:38Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Capriles exige al gobierno presentar un plan ante posibles restricciones eléctricas y de agua",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/capriles-exige-al-gobierno-presentar-un-plan-ante-posibles-restricciones-electricas-y-de-agua/",
-      "published_date": "2026-08-03T23:31:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "República Democrática del Congo eleva a 1.657 el número de muertos y los 3.700 casos por el brote de ébola",
+      "title": "Democratic Republic of the Congo raises the death toll to 1,657 and 3,700 cases due to the Ebola outbreak",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/republica-democratica-del-congo-eleva-a-1-657-el-numero-de-muertos-y-los-3-700-casos-por-el-brote-de-ebola/",
       "published_date": "2026-08-03T22:55:25Z",
@@ -31,17 +52,17 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Veinticinco estados de EE UU demandan a la administración Trump por la última ronda de aranceles",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/veinticinco-estados-de-ee-uu-demandan-a-la-administracion-trump-por-la-ultima-ronda-de-aranceles/",
-      "published_date": "2026-08-03T22:38:08Z",
+      "title": "Cabello supports the start of dialogue and that only PSUV militants negotiate with the opposition",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/cabello-apoya-inicio-dialogo-militantes-psuv-negociaran-oposicion/",
+      "published_date": "2026-08-03T21:26:44Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Delegado de la Cancillería de Chile llega a Caracas para reactivar relaciones consulares con Venezuela",
+      "title": "Caso Alex Saab: jueza estadounidense fija el inicio del juicio para septiembre",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/delegado-de-la-cancilleria-de-chile-llega-a-caracas-para-reactivar-relaciones-consulares-con-venezuela/",
-      "published_date": "2026-08-03T22:33:44Z",
+      "url": "https://elpitazo.net/politica/juicio-contra-alex-saab-es-fijado-para-septiembre-por-jueza-de-ee-uu/",
+      "published_date": "2026-08-03T21:04:50Z",
       "category": "Diplomacy"
     },
     {
@@ -59,14 +80,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "EE UU respalda iniciativas de la AN de 2015 y el gobierno interino para atender la emergencia por los terremotos y promover la transición política en el país",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-respalda-iniciativas-de-la-an-de-2015-y-el-gobierno-interino-para-atender-la-emergencia-por-los-terremotos-y-promover-la-transicion-politica-en-el-pais/",
-      "published_date": "2026-08-03T19:05:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diáspora venezolana en República Dominicana respalda la reactivación de las relaciones bilaterales entre ambas naciones",
+      "title": "Venezuelan diaspora in the Dominican Republic supports the reactivation of bilateral relations between both nations",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/diaspora-venezolana-en-republica-dominicana-respalda-la-reactivacion-de-las-relaciones-bilaterales-entre-ambas-naciones/",
       "published_date": "2026-08-03T19:02:24Z",
@@ -80,31 +94,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fijan para septiembre el juicio contra Alex Saab por lavado de dinero en EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/fijan-para-septiembre-el-juicio-contra-alex-saab-por-lavado-de-dinero-en-ee-uu/",
-      "published_date": "2026-08-03T18:46:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Productores de arroz de Portuguesa y Guárico alertan riesgo de pérdidas si la industria no respeta el precio acordado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/productores-de-arroz-de-portuguesa-y-guarico-alertan-riesgo-de-perdidas-si-la-industria-no-respeta-el-precio-acordado/",
-      "published_date": "2026-08-03T18:19:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Mercado de fichajes en Europa: Jóvenes talentos refuerzan a grandes clubes",
+      "title": "Transfer market in Europe: Young talents reinforce big clubs",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/mercado-de-fichajes-en-europa-jovenes-talentos-refuerzan-a-grandes-clubes/",
       "published_date": "2026-08-03T18:13:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Danry Vásquez was suspended \"immediately and indefinitely\" in the Mexican league",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/danry-vasquez-fue-suspendido-inmediata-e-indefinidamente-en-la-liga-mexicana/",
-      "published_date": "2026-08-03T18:03:30Z",
       "category": "Diplomacy"
     },
     {
@@ -115,17 +108,24 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Infantino pierde aliados: la Federación Inglesa retiraría el apoyo a su reelección",
+      "title": "Infantino loses allies: the English Federation would withdraw support for his re-election",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/infantino-pierde-aliados-la-federacion-inglesa-retiraria-el-apoyo-a-su-reeleccion/",
       "published_date": "2026-08-03T17:15:49Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Empresas de Brasil traen a Venezuela otras 16 toneladas de ayuda humanitaria",
+      "title": "Brazilian companies bring another 16 tons of humanitarian aid to Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/empresas-de-brasil-traen-a-venezuela-otras-16-toneladas-de-ayuda-humanitaria/",
       "published_date": "2026-08-03T17:14:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The official dollar rose almost 20% in July: it is the second highest monthly increase of the year",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/dolar-oficial-subio-casi-20-en-julio-es-el-segundo-incremento-mensual-mas-alto-del-ano/",
+      "published_date": "2026-08-03T16:34:56Z",
       "category": "Diplomacy"
     },
     {
@@ -143,10 +143,73 @@
       "category": "Diplomacy"
     },
     {
+      "title": "New York celebrates 125 years of Louis Armstrong",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/nueva-york-celebra-los-125-anos-de-louis-armstrong/",
+      "published_date": "2026-08-04T09:01:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "General agenda, Chavista rearrangement and warning signs: readings from the beginning of the table",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/agenda-reacomodo-chavismo-alerta-inicio-negociaciones/",
+      "published_date": "2026-08-04T02:24:21Z",
+      "category": "Military"
+    },
+    {
+      "title": "An migrant dies in ICE custody in a New Jersey detention center",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/fallece-un-migrante-bajo-custodia-del-ice-en-un-centro-de-detencion-de-nueva-jersey/",
+      "published_date": "2026-08-04T00:57:02Z",
+      "category": "Military"
+    },
+    {
+      "title": "Thousands of migrants who are still in Ceuta live on the streets and on charity",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/miles-de-migrantes-que-aun-estan-en-ceuta-viven-en-las-calles-y-de-la-caridad/",
+      "published_date": "2026-08-03T23:04:33Z",
+      "category": "Military"
+    },
+    {
       "title": "The IDB warns that it still cannot lend more money to Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/banco-interamericano-advierte-que-todavia-no-puede-prestar-mas-dinero-a-venezuela/",
       "published_date": "2026-08-03T21:59:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Provea demands to update figures of deaths and missing people due to the earthquakes in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/provea-exige-actualizar-cifras-de-fallecidos-y-desaparecidos-por-los-terremotos-en-venezuela/",
+      "published_date": "2026-08-03T20:36:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "They report death due to alleged suicide of an inmate in Santa Ana prison",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/616550/denuncian-muerte-por-presunto-suicidio-de-recluso-en-carcel-de-santa-ana/",
+      "published_date": "2026-08-03T19:54:05Z",
+      "category": "Military"
+    },
+    {
+      "title": "The double tragedy of flight 164: The disappearance and death in earthquakes of deportees from the US.",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/616538/la-doble-tragedia-del-vuelo-164-la-desaparicion-y-muerte-en-sismos-de-deportados-de-ee-uu/",
+      "published_date": "2026-08-03T19:09:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "The trial against Alex Saab for money laundering in the US is set for September",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/fijan-para-septiembre-el-juicio-contra-alex-saab-por-lavado-de-dinero-en-ee-uu/",
+      "published_date": "2026-08-03T18:46:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rice producers from Portuguesa and Guárico warn of risk of losses if the industry does not respect the agreed price",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/productores-de-arroz-de-portuguesa-y-guarico-alertan-riesgo-de-perdidas-si-la-industria-no-respeta-el-precio-acordado/",
+      "published_date": "2026-08-03T18:19:23Z",
       "category": "Military"
     },
     {
@@ -157,24 +220,45 @@
       "category": "Military"
     },
     {
-      "title": "La normalidad se mantiene en la frontera entre Marruecos y Ceuta",
+      "title": "Normality remains on the border between Morocco and Ceuta",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/la-normalidad-se-mantiene-en-la-frontera-entre-marruecos-y-ceuta/",
       "published_date": "2026-08-03T16:18:25Z",
       "category": "Military"
     },
     {
-      "title": "Cómplice del asesinato del adolescente venezolano en Chile recibió arresto domiciliario",
+      "title": "Accomplice in the murder of the Venezuelan teenager in Chile received house arrest",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/complice-del-asesinato-del-adolescente-venezolano-en-chile-recibio-arresto-domiciliario/",
       "published_date": "2026-08-03T14:50:33Z",
       "category": "Military"
     },
     {
-      "title": "Sigue el conflicto: UEFA considera emprender acciones legales contra la FIFA",
+      "title": "Three bonuses will arrive this week through the Patria System: know the amounts",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/tres-bonos-llegaran-esta-semana-a-traves-del-sistema-patria-conoce-los-montos/",
+      "published_date": "2026-08-03T14:39:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "The conflict continues: UEFA considers taking legal action against FIFA",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/sigue-el-conflicto-uefa-considera-emprender-acciones-legales-contra-la-fifa/",
       "published_date": "2026-08-03T14:05:22Z",
+      "category": "Military"
+    },
+    {
+      "title": "Venezuelans' rejection of Trump's policy towards Delcy Rodríguez's interim term is growing",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/crece-el-rechazo-de-los-venezolanos-a-la-politica-de-trump-hacia-el-interinato-de-delcy-rodriguez/",
+      "published_date": "2026-08-03T12:51:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Demolition operations aggravated damage to the Los Dos Delfines building in La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/operaciones-de-demolicion-agravaron-danos-en-el-edificio-los-dos-delfines-de-la-guaira/",
+      "published_date": "2026-08-03T12:32:00Z",
       "category": "Military"
     },
     {
@@ -199,94 +283,52 @@
       "category": "Military"
     },
     {
-      "title": "This would be the new cabinet appointed by Abelardo de la Espriella",
+      "title": "Venezuelan oil exports to the United States increased in July",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/este-seria-el-nuevo-gabinete-nombrado-por-abelardo-de-la-espriella/",
-      "published_date": "2026-08-02T22:58:51Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/08/exportaciones-de-petroleo-venezolano-a-estados-unidos-aumentaro-en-julio/",
+      "published_date": "2026-08-04T12:36:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Ofrecen hasta 270.000 dólares por información de atentado que dejó 11 heridos en Colombia",
+      "title": "How long will the total solar eclipse last on August 12 and how to see it safely?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ofrecen-hasta-270-000-dolares-por-informacion-de-atentado-que-dejo-11-heridos-en-colombia/",
-      "published_date": "2026-08-02T19:49:23Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/08/cuanto-tiempo-durara-el-eclipse-solar-total-del-12-de-agosto/",
+      "published_date": "2026-08-04T08:59:00Z",
+      "category": "Energy"
     },
     {
-      "title": "National Institute of Hygiene warns about counterfeit batch of the hypertension drug Cander",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/salud/instituto-nacional-de-higiene-alerta-sobre-lote-falsificado-del-medicamento-para-la-hipertension-cander/",
-      "published_date": "2026-08-02T16:53:03Z",
-      "category": "Military"
+      "title": "Jazmín Urimare, the teacher who fights to educate under a tent in Vargas",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/jazmin-urimare-la-maestra-que-lucha-por-educar-bajo-una-carpa-en-vargas/",
+      "published_date": "2026-08-04T01:48:41Z",
+      "category": "Energy"
     },
     {
-      "title": "Electrical outages of up to six hours in Zulia complicate medical treatments and affect kidney patients",
+      "title": "Capriles demands that the government present a plan for possible electricity and water restrictions",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cortes-electricos-de-hasta-seis-horas-en-zulia-complican-tratamientos-medicos-y-afectan-a-pacientes-renales/",
-      "published_date": "2026-08-02T16:32:06Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/08/capriles-exige-al-gobierno-presentar-un-plan-ante-posibles-restricciones-electricas-y-de-agua/",
+      "published_date": "2026-08-03T23:31:04Z",
+      "category": "Energy"
     },
     {
-      "title": "Democratic Unitary Platform indicated that the roadmap must specify the transition with a reliable CNE",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/plataforma-unitaria-democratica-senalo-que-hoja-de-ruta-debe-concretar-transicion-con-un-cne-confiable/",
-      "published_date": "2026-08-02T15:35:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Comerciantes falconianos esperan que reactivación de vuelos con Aruba impulse economía local",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/comerciantes-falconianos-esperan-que-reactivacion-de-vuelos-con-aruba-impulse-economia-local/",
-      "published_date": "2026-08-02T14:18:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Astrid Montero y Nathaly Grimán conquistaron dos oros para Venezuela en los Juegos Centroamericanos y del Caribe",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/astrid-montero-y-nathaly-griman-conquistaron-dos-oros-para-venezuela-en-los-juegos-centroamericanos-del-caribe/",
-      "published_date": "2026-08-02T14:06:12Z",
-      "category": "Military"
-    },
-    {
-      "title": "Delcy Rodríguez proposes to José Antonio Kast a cooperation agenda between Venezuela and Chile",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-propone-a-jose-antonio-kast-una-agenda-de-cooperacion-entre-venezuela-y-chile/",
-      "published_date": "2026-08-02T00:30:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "They denounce that two miners died boarded up after an accident in a clandestine mine controlled by the PNB management",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/denuncian-que-dos-mineros-murieron-tapiados-tras-accidente-en-mina-clandestina-controlada-por-direccion-de-la-pnb/",
-      "published_date": "2026-08-01T23:04:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "13 dead when a small plane carrying tourists crashes near the Nasca Lines in southern Peru",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/13-muertos-al-caer-avioneta-con-turistas-cerca-de-lineas-de-nasca-en-el-sur-de-peru/",
-      "published_date": "2026-08-01T21:41:57Z",
-      "category": "Military"
-    },
-    {
-      "title": "Falcon | Boy stabbed to death and his brother is injured: the mother is the main suspect",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/falcon-nino-muere-acuchillado-y-su-hermano-queda-herido-la-madre-es-la-principal-sospechosa/",
-      "published_date": "2026-08-01T21:03:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "SOS Orinoco denounces the death of two miners in a mine controlled by the Aquatic Spaces Police",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/616411/sos-orinoco-denuncia-la-muerte-de-dos-mineros-en-una-mina-clandestina-en-el-caroni/",
-      "published_date": "2026-08-01T18:01:46Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ofac emite nueva licencia que protege bonos de Pdvsa y a Citgo",
+      "title": "Ofac issues new license that protects PDVSA and Citgo bonds",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/economia/ofac-emite-nueva-licencia-que-protege-bonos-de-pdvsa-y-a-citgo/",
       "published_date": "2026-08-03T22:21:44Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Delcy Rodríguez's request to ration water and electricity causes outrage: how are we going to save what we never have?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/peticion-de-delcy-rodriguez-de-racionar-el-agua-y-la-luz-causa-indignacion-como-vamos-a-ahorrar-lo-que-nunca-tenemos/",
+      "published_date": "2026-08-03T22:18:10Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Donald Trump afirma que \"la inmigración ilegal está matando\" a Europa y compara la crisis de Ceuta con la frontera estadounidense",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/donald-trump-afirma-que-la-inmigracion-ilegal-esta-matando-a-europa-y-compara-la-crisis-de-ceuta-con-la-frontera-estadounidense/",
+      "published_date": "2026-08-03T20:38:15Z",
       "category": "Energy"
     },
     {
@@ -297,6 +339,20 @@
       "category": "Energy"
     },
     {
+      "title": "Until when do they ask for sacrifices?”: Capriles questions the lack of responses to the electricity crisis",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/hasta-cuando-piden-sacrificios-capriles/",
+      "published_date": "2026-08-03T16:37:19Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Opec+ increases its oil production quota by 188,000 barrels per day",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/la-opep-aumenta-su-cuota-de-producion-de-petroleo-en-188-000-barriles-diarios/",
+      "published_date": "2026-08-03T16:26:43Z",
+      "category": "Energy"
+    },
+    {
       "title": "The US evaluates the El Guri dam to define the path to modernize the electrical system",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/ee-uu-evalua-la-represa-el-guri-para-definir-la-ruta-de-modernizacion-del-sistema-electrico/",
@@ -304,7 +360,7 @@
       "category": "Energy"
     },
     {
-      "title": "Ecopetrol y Petrobras encuentran más gas en el Caribe de Colombia",
+      "title": "Ecopetrol and Petrobras find more gas in the Caribbean of Colombia",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/ecopetrol-y-petrobras-encuentran-mas-gas-en-el-caribe-de-colombia/",
       "published_date": "2026-08-03T15:29:43Z",
@@ -325,10 +381,10 @@
       "category": "Energy"
     },
     {
-      "title": "Delcy Rodríguez asked to save electricity and water due to the \"Superniño\" climate phenomenon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-pidio-ahorrar-luz-y-agua-por-el-fenomeno-climatico-supernino/",
-      "published_date": "2026-08-03T09:49:00Z",
+      "title": "Delcy Rodríguez asks Venezuelans to save electricity and water",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-pide-a-venezolanos-ahorrar-electricidad-y-agua/",
+      "published_date": "2026-08-03T01:24:44Z",
       "category": "Energy"
     },
     {
@@ -367,63 +423,35 @@
       "category": "Energy"
     },
     {
-      "title": "Monagas Construction Chamber created a commission to review buildings and prevent risks from earthquakes",
+      "title": "El trágico caso de la pareja que temía ser deportada de EE.UU. y acabó asesinada en Guatemala",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/camara-de-la-construccion-de-monagas-creo-comision-para-revisar-edificaciones-y-prevenir-riesgos-por-sismos/",
-      "published_date": "2026-08-01T16:38:56Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/08/el-tragico-caso-de-la-pareja-que-temia-ser-deportada-de-ee-uu-y-acabo-asesinada-en-guatemala/",
+      "published_date": "2026-08-04T11:01:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Delcy Rodríguez headed a working group with the electricity sector to coordinate the maintenance of the national system",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-encabezo-mesa-de-trabajo-con-el-sector-electrico-para-coordinar-el-mantenimiento-del-sistema-nacional/",
-      "published_date": "2026-08-01T13:44:13Z",
-      "category": "Energy"
+      "title": "Need for an “entente cordiale”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/616645/tutelaje-venezuela-4/",
+      "published_date": "2026-08-04T04:00:00Z",
+      "category": "Economy"
     },
     {
-      "title": "PDVSA-Crypto | Justice and Process affirms that investigated companies are creditors of the state oil company",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/pdvsa-cripto-justicia-y-proceso-afirma-que-empresas-investigadas-son-acreedoras-de-la-estatal-petrolera/",
-      "published_date": "2026-08-01T00:55:27Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Chevron espera recuperar toda su deuda en Venezuela a principios de 2027",
+      "title": "UCV collection center: Donations fall 70%, despite the fact that the emergency has not ended",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/chevron-espera-recuperar-toda-su-deuda/",
-      "published_date": "2026-07-31T18:55:34Z",
-      "category": "Energy"
+      "url": "https://efectococuyo.com/la-humanidad/centro-de-acopio-ucv-donaciones-caen-70-pese-a-que-la-emergencia-no-ha-terminado/",
+      "published_date": "2026-08-04T01:54:33Z",
+      "category": "Economy"
     },
     {
-      "title": "Reuters: Mauricio Claver-Carone, Trump's unofficial advisor for Venezuela, leaves office",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/reuters-mauricio-claver-carone-deja-su-papel-informal-como-asesor-clave-de-trump-para-venezuela/",
-      "published_date": "2026-07-31T18:49:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "US oil companies have not yet made investments in Venezuela, despite Trump's expectations",
+      "title": "Elías Matta proposes the privatization of basic companies in Guayana to reactivate the aluminum industry",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/petroleras-de-ee-uu-aun-no-concretan-inversiones-en-venezuela-pese-a-las-expectativas-de-trump/",
-      "published_date": "2026-07-31T17:09:49Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/08/elias-matta-plantea-la-privatizacion-de-las-empresas-basicas-de-guayana-para-reactivar-la-industria-del-aluminio/",
+      "published_date": "2026-08-04T00:25:59Z",
+      "category": "Economy"
     },
     {
-      "title": "Wave of slowdowns and prolonged power outages hits states in the central region",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/ola-de-bajones-y-cortes-de-luz-prolongados-azota-a-estados-de-la-region-central/",
-      "published_date": "2026-07-31T14:34:51Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Chevron plans to increase its oil production in Venezuela by 15% in two years",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/chevron-preve-aumentar-en-15-en-dos-anos-su-produccion-de-petroleo-en-venezuela/",
-      "published_date": "2026-07-31T14:19:23Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Radiografía de una crisis: el comercio en Carora agoniza entre tributos asfixiantes y la precariedad de los servicios públicos",
+      "title": "X-ray of a crisis: commerce in Carora is dying between suffocating taxes and the precariousness of public services",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/comercio-en-carora-crisis-fiscal/",
       "published_date": "2026-08-03T22:19:52Z",
@@ -444,6 +472,13 @@
       "category": "Economy"
     },
     {
+      "title": "Carlos Narváez leaves via trade from Boston to Baltimore",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/carlos-narvaez-sale-via-cambio-de-boston-a-baltimore/",
+      "published_date": "2026-08-03T19:57:39Z",
+      "category": "Economy"
+    },
+    {
       "title": "How to buy on credit in Venezuela?: stores and applications that offer their own financing",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/economia/como-comprar-a-credito-en-venezuela-las-tiendas-y-aplicaciones-que-ofrecen-financiamiento-propio/",
@@ -451,24 +486,17 @@
       "category": "Economy"
     },
     {
-      "title": "Dólar oficial subió casi 20 % en julio: es el segundo incremento mensual más alto del año",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/dolar-oficial-subio-casi-20-en-julio-es-el-segundo-incremento-mensual-mas-alto-del-ano/",
-      "published_date": "2026-08-03T16:34:56Z",
-      "category": "Economy"
-    },
-    {
-      "title": "EE UU renueva medida que protege a Citgo contra dueños de bonos de deuda venezolana",
+      "title": "The US renews a measure that protects Citgo against owners of Venezuelan debt bonds",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/ee-uu-renueva-medida-que-protege-a-citgo-contra-duenos-de-bonos-de-deuda-venezolana/",
       "published_date": "2026-08-03T16:29:38Z",
       "category": "Economy"
     },
     {
-      "title": "Tres bonos llegarán esta semana a través del Sistema Patria: conoce los montos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/tres-bonos-llegaran-esta-semana-a-traves-del-sistema-patria-conoce-los-montos/",
-      "published_date": "2026-08-03T14:39:52Z",
+      "title": "New fee at Valencia airport: amounts, who pays and who is exempt",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/nueva-tarifa-en-el-aeropuerto-de-valencia-montos-quienes-pagan-y-quienes-quedan-exentos/",
+      "published_date": "2026-08-03T14:20:00Z",
       "category": "Economy"
     },
     {
@@ -535,42 +563,84 @@
       "category": "Economy"
     },
     {
-      "title": "Minimum fare rises to 190 bolivars as of August 1",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/pasaje-minimo-sube-a-190-bolivares-a-partir-del-1-de-agosto/",
-      "published_date": "2026-07-31T22:03:07Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Gleyber Torres appears as a potential target for the Red Sox",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/gleyber-torres-se-asoma-como-un-potencial-objetivo-para-los-medias-rojas/",
-      "published_date": "2026-07-31T21:49:10Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Pasaje urbano subirá a 190 bolívares a partir del 1 de agosto",
+      "title": "A new High Command for an empty shell",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/pasaje-urbano-subira-a-190-bolivares-a-partir-del-1-de-agosto/",
-      "published_date": "2026-07-31T20:52:03Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/sin-categoria/un-nuevo-alto-mando-para-un-cascaron-vacio/",
+      "published_date": "2026-08-04T12:15:19Z",
+      "category": "Local Events"
     },
     {
-      "title": "The Seniat will stop applying fines to those who do not display the RIF \"in a visible place\"",
+      "title": "Trump's social network already sells subscribers the fastest access to the president's messages",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/07/el-seniat-dejara-de-aplicar-multas-a-quien-no-muestre-el-rif-en-un-lugar-visible/",
-      "published_date": "2026-07-31T20:34:19Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/08/red-social-de-trump-ya-vende-a-suscriptores-el-acceso-mas-rapido-a-los-mensajes-del-presidente/",
+      "published_date": "2026-08-04T12:09:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Aeropuerto Arturo Michelena moviliza hasta 4.600 pasajeros diarios tras aumento de operaciones",
+      "title": "Electoral expert proposes that the new CNE activate the political participation council to ensure the transition process",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/experto-electoral-plantea-que-nuevo-cne-active-el-consejo-de-participacion-politica-para-asegurar-proceso-de-transicion/",
+      "published_date": "2026-08-04T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Egypt sent five tons of medicines to Venezuela to respond to earthquake emergencies",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/egipto-envia-cinco-toneladas-de-medicamentos-a-venezuela-para-atender-emergencia-por-terremotos/",
+      "published_date": "2026-08-04T11:46:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The first repatriation flight from the US arrives in Venezuela since the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/llega-a-venezuela-el-primer-vuelo-de-repatriacion-procedente-de-ee-uu-desde-los-terremotos/",
+      "published_date": "2026-08-04T10:17:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“He was our life triangle”: Yefferson González's last hug saved his wife Diliana and his son Santiago",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/diliana-torrealba-sobreviviente-la-guaira/",
+      "published_date": "2026-08-04T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump asegura que EE UU e Irán están negociando: \"Quiero darles hasta la última oportunidad antes de la decapitación\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/trump-asegura-que-ee-uu-e-iran-estan-negociando-quiero-darles-hasta-la-ultima-oportunidad-antes-de-la-decapitacion/",
+      "published_date": "2026-08-04T09:49:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Volunteers reconstruct the memory rescued from the rubble of Chacao",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/voluntarios-reconstruyen-la-memoria-entre-los-escombros-de-chacao/",
+      "published_date": "2026-08-04T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of August 4: the number of missing people in earthquakes remains in limbo",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/616613/el-mananero-del-04-de-agosto-la-cifra-de-desaparecidos-en-sismos-sigue-en-el-limbo/",
+      "published_date": "2026-08-04T04:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colegio de Ingenieros y Cámara de la Construcción piden preservar escombros para investigar causas de colapsos tras terremotos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/colegio-de-ingenieros-y-camara-de-construccion-pide-preservar-escombros-para-investigar-causas-de-colapsos-tras-terremotos/",
+      "published_date": "2026-08-04T00:42:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Arturo Michelena Airport moves up to 4,600 passengers daily after increased operations",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/aeropuerto-arturo-michelena-moviliza-hasta-4-600-pasajeros-diarios-tras-aumento-de-operaciones/",
       "published_date": "2026-08-03T23:57:05Z",
       "category": "Local Events"
     },
     {
-      "title": "Reaparece el balance de los sismos: ahora será semanal y sigue sin reportar desaparecidos",
+      "title": "The balance of the earthquakes reappears: now it will be weekly and there are still no reports of missing people",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/616598/reaparece-el-balance-de-los-sismos-ahora-sera-semanal-y-sigue-sin-reportar-desaparecidos/",
       "published_date": "2026-08-03T23:22:22Z",
@@ -584,17 +654,10 @@
       "category": "Local Events"
     },
     {
-      "title": "Hay muertos por los terremotos sin reclamar en la morgue de Bello Monte: algunos no están identificados",
+      "title": "There are unclaimed deaths from the earthquakes in the Bello Monte morgue: some are not identified",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/sucesos/hay-muertos-por-los-terremotos-sin-reclamar-en-la-morgue-de-bello-monte-algunos-no-estan-identificados/",
       "published_date": "2026-08-03T23:18:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thousands of migrants who are still in Ceuta live on the streets and on charity",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/miles-de-migrantes-que-aun-estan-en-ceuta-viven-en-las-calles-y-de-la-caridad/",
-      "published_date": "2026-08-03T23:04:33Z",
       "category": "Local Events"
     },
     {
@@ -612,94 +675,31 @@
       "category": "Local Events"
     },
     {
-      "title": "Movimiento de Abelardo de la Espriella se convierte oficialmente en partido político",
+      "title": "Abelardo de la Espriella's movement officially becomes a political party",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/movimiento-de-abelardo-de-la-espriella-se-convierte-oficialmente-en-partido-politico/",
       "published_date": "2026-08-03T22:44:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Julio Iemma brinda la vigésima dorada para Venezuela en los Centroamericanos y del Caribe",
+      "title": "Julio Iemma provides the twentieth gold for Venezuela in the Central American and Caribbean Championships",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/julio-iemma-brinda-la-vigesima-dorada-para-venezuela-en-los-centroamericanos-y-del-caribe/",
       "published_date": "2026-08-03T22:44:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Petición de Delcy Rodríguez de racionar el agua y la luz causa indignación: ¿cómo vamos a ahorrar lo que nunca tenemos?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/peticion-de-delcy-rodriguez-de-racionar-el-agua-y-la-luz-causa-indignacion-como-vamos-a-ahorrar-lo-que-nunca-tenemos/",
-      "published_date": "2026-08-03T22:18:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lara | Pacientes renales del IVSS Pastor Oropeza exigen aires óptimos para evitar infecciones",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/lara-pacientes-renales-del-ivss-pastor-oropeza-exigen-aires-optimos-para-evitar-infecciones/",
-      "published_date": "2026-08-03T21:53:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tras 10 días sin cifras, interinato anuncia 6.125 muertos por terremotos",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/10-dias-sin-cifras-interinato-anuncia-6-125-muertos/",
-      "published_date": "2026-08-03T21:50:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AN de 2015 celebra respaldo de EE UU a iniciativa para impulsar la transición en Venezuela",
+      "title": "Twenty-five US states sue the Trump administration over the latest round of tariffs",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/an-de-2015-celebra-respaldo-de-ee-uu-a-iniciativa-para-impulsar-la-transicion-en-venezuela/",
-      "published_date": "2026-08-03T21:46:27Z",
+      "url": "https://www.elnacional.com/2026/08/veinticinco-estados-de-ee-uu-demandan-a-la-administracion-trump-por-la-ultima-ronda-de-aranceles/",
+      "published_date": "2026-08-03T22:38:08Z",
       "category": "Local Events"
     },
     {
-      "title": "Jorge Rodríguez updates earthquake figures after 10 days of silence: deaths rise to 6,125",
+      "title": "Delegate of the Chilean Foreign Ministry arrives in Caracas to reactivate consular relations with Venezuela",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/jorge-rodriguez-actualiza-cifras-de-los-terremotos-tras-10-dias-de-silencio-fallecidos-suben-a-6-125/",
-      "published_date": "2026-08-03T21:37:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Se eleva a más de 6.000 el número de muertos por los terremotos en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/se-eleva-a-mas-de-6-000-el-numero-de-muertos-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-08-03T21:34:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The La Guaira OPPPE were not the safe place that the government promised",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/las-opppe-de-la-guaira/",
-      "published_date": "2026-08-03T21:33:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Guaira | Educator turns a tent into a school for earthquake victims",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/la-guaira-educadora-convierte-una-carpa-en-una-escuela-para-damnificados-por-el-terremoto/",
-      "published_date": "2026-08-03T21:31:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cabello apoya inicio del diálogo y que sólo militantes del Psuv negocien con la oposición",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/cabello-apoya-inicio-dialogo-militantes-psuv-negociaran-oposicion/",
-      "published_date": "2026-08-03T21:26:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Hurry | Nursing union reports receiving threats with “Operation Tun Tun” and warns of staggered strike",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/apure-gremio-de-enfermeria-denuncia-que-recibe-amenazas-con-la-operacion-tun-tun-y-advierte-de-paro-escalonado/",
-      "published_date": "2026-08-03T21:26:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "94 las estructuras religiosas afectadas por los terremotos, según balance preliminar de la CEV",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/94-las-estructuras-religiosas-afectadas-por-los-terremotos-segun-balance-preliminar-de-la-cev/",
-      "published_date": "2026-08-03T21:11:25Z",
+      "url": "https://elpitazo.net/migracion/delegado-de-la-cancilleria-de-chile-llega-a-caracas-para-reactivar-relaciones-consulares-con-venezuela/",
+      "published_date": "2026-08-03T22:33:44Z",
       "category": "Local Events"
     }
   ]
