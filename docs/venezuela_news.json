@@ -1,7 +1,98 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-06T00:05:52Z",
+  "last_updated": "2026-08-06T13:00:12Z",
   "stories": [
+    {
+      "title": "Cabello upon arrival of the opposition commission for the dialogue table: \"Welcome, as long as they come to add\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/cabello-ante-llegada-de-la-comision-opositora-para-mesa-de-dialogo-bienvenidos-siempre-que-vengan-a-sumar/",
+      "published_date": "2026-08-06T12:33:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "2015 AN Commission and interim government will set up a dialogue table this Thursday in La Carlota",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/comision-de-la-an-de-2015-y-gobierno-interino-instalaran-mesa-de-dialogo-este-jueves-en-la-carlota/",
+      "published_date": "2026-08-06T10:36:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "2015 AN Commission and interim government will set up a dialogue table this Thursday in La Carlota",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/comision-de-la-an-de-2015-y-gobierno-interino-instalaran-mesa-de-dialogo-este-jueves-en-la-carlota/",
+      "published_date": "2026-08-06T10:36:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran announces agreement with Oman on Hormuz, but says its reopening will depend on the US",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/iran-anuncia-acuerdo-con-oman-sobre-ormuz-pero-dice-que-su-reapertura-dependera-de-ee-uu/",
+      "published_date": "2026-08-06T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Iran announces agreement with Oman on Hormuz, but says its reopening will depend on the US",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/iran-anuncia-acuerdo-con-oman-sobre-ormuz-pero-dice-que-su-reapertura-dependera-de-ee-uu/",
+      "published_date": "2026-08-06T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marisol Escobar enters the list of key sculptures of The New York Times",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/marisol-escobar-entra-en-la-lista-de-esculturas-clave-de-the-new-york-times/",
+      "published_date": "2026-08-06T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marisol Escobar enters the list of key sculptures of The New York Times",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/marisol-escobar-entra-en-la-lista-de-esculturas-clave-de-the-new-york-times/",
+      "published_date": "2026-08-06T08:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miraflores, Mexico, Norway, Barbados: two decades of failed dialogues between Chavismo and the opposition",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/miraflores-mexico-noruega-barbados-dos-decadas-de-dialogos-fallidos-entre-el-chavismo-y-la-oposicion/",
+      "published_date": "2026-08-06T06:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miraflores, Mexico, Norway, Barbados: two decades of failed dialogues between Chavismo and the opposition",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/miraflores-mexico-noruega-barbados-dos-decadas-de-dialogos-fallidos-entre-el-chavismo-y-la-oposicion/",
+      "published_date": "2026-08-06T06:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba condecora a una brigada de rescatistas militares por su labor de salvamento en Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/cuba-condecora-a-una-brigada-de-rescatistas-militares-por-su-labor-de-salvamento-en-venezuela/",
+      "published_date": "2026-08-06T00:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba honors a brigade of military rescuers for their rescue work in Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/cuba-condecora-a-una-brigada-de-rescatistas-militares-por-su-labor-de-salvamento-en-venezuela/",
+      "published_date": "2026-08-06T00:44:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They reveal the death of a third migrant in ICE custody",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/denuncian-tercera-muerte-de-inmigrante-bajo-custodia-de-ice/",
+      "published_date": "2026-08-06T00:41:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They reveal the death of a third migrant in ICE custody",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/denuncian-tercera-muerte-de-inmigrante-bajo-custodia-de-ice/",
+      "published_date": "2026-08-06T00:41:12Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "New York authorizes assisted death under strict requirements for patients with terminal illnesses",
       "source": "El Nacional",
@@ -10,42 +101,35 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Donald Trump's helicopter records an in-flight approach with a commercial plane in Washington",
+      "title": "New York authorizes assisted death under strict requirements for patients with terminal illnesses",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-helicoptero-de-donald-trump-registra-un-acercamiento-en-vuelo-con-un-avion-comercial-en-washington/",
-      "published_date": "2026-08-05T23:37:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Donald Trump's helicopter records an in-flight approach with a commercial plane in Washington",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-helicoptero-de-donald-trump-registra-un-acercamiento-en-vuelo-con-un-avion-comercial-en-washington/",
-      "published_date": "2026-08-05T23:37:12Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/nueva-york-autoriza-muerte-asistida-bajo-estrictos-requisitos-para-pacientes-con-enfermedades-terminales/",
+      "published_date": "2026-08-06T00:02:38Z",
       "category": "Diplomacy"
     },
     {
       "title": "Maiquetía Airport takes a step towards normalization with the arrival of a cargo flight",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/aeropuerto-de-maiquetia-da-un-paso-hacia-su-normalizacion-con-la-llegada-de-un-vuelo-de-carga/",
+      "url": "https://www.elnacional.com/2026/08/aeropuerto-de-maiquetia-da-un-paso-hacia-su-normalizacion-con-la-llegada-de-un-vuelo-de-carga/",
       "published_date": "2026-08-05T23:31:10Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Rodríguez announces progress in the recovery of 13,000 homes affected by the earthquakes",
+      "title": "Rodríguez anuncia avances en recuperación de 13.000 viviendas afectadas por los terremotos",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/rodriguez-anuncia-avances-en-recuperacion-de-13-000-viviendas-afectadas-por-los-terremotos/",
       "published_date": "2026-08-05T23:21:18Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Brazil's diplomatic crises with the US and Argentina worsen",
+      "title": "Se agravan crisis diplomáticas de Brasil con EE UU y Argentina",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/se-agravan-crisis-diplomaticas-de-brasil-con-ee-uu-y-argentina/",
       "published_date": "2026-08-05T23:09:20Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Brazil's diplomatic crises with the US and Argentina worsen",
+      "title": "Se agravan crisis diplomáticas de Brasil con EE UU y Argentina",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/se-agravan-crisis-diplomaticas-de-brasil-con-ee-uu-y-argentina/",
       "published_date": "2026-08-05T23:09:20Z",
@@ -59,88 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "First results of the political dialogue in Venezuela will be known in December",
+      "title": "Murder of César Gastélum: how influencers in Mexico became targets of drug traffickers",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/resultados-del-dialogo-politico-en-venezuela-se-conoceran-en-diciembre-de-2026/",
-      "published_date": "2026-08-05T22:35:32Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/asesinato-de-cesar-gastelum-como-los-influencers-en-mexico-se-convirtieron-en-objetivo-del-narco/",
+      "published_date": "2026-08-06T10:48:06Z",
+      "category": "Military"
     },
     {
-      "title": "Así ha usado el chavismo los diálogos con la oposición desde el año 2002",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/asi-ha-usado-el-chavismo-los-dialogos-con-la-oposicion-desde-el-ano-2002/",
-      "published_date": "2026-08-05T22:32:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meta presents Muse Code, its first AI agent for programming aimed at competing with OpenAI and Anthropic",
+      "title": "Murder of César Gastélum: how influencers in Mexico became targets of drug traffickers",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/meta-presenta-muse-code-su-primer-agente-de-ia-para-programacion-orientado-a-competir-con-openai-y-anthropic/",
-      "published_date": "2026-08-05T22:30:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meta presents Muse Code, its first AI agent for programming aimed at competing with OpenAI and Anthropic",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/meta-presenta-muse-code-su-primer-agente-de-ia-para-programacion-orientado-a-competir-con-openai-y-anthropic/",
-      "published_date": "2026-08-05T22:30:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The pieces on the board of the new attempt at dialogue in Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/616909/las-piezas-en-el-tablero-del-nuevo-intento-de-dialogo-en-venezuela/",
-      "published_date": "2026-08-05T21:26:51Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Runway closure in Maiquetía will remain until #3Nov: How does it affect the reopening of the airport?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/cierre-de-pistas-en-maiquetia-se-mantendra-hasta-el-3nov-como-afecta-a-la-reapertura-del-aeropuerto/",
-      "published_date": "2026-08-05T20:16:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "AN delegation from 2015 returns to Venezuela to refine the dialogue",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delegacion-de-la-an-de-2015-regresa-a-venezuela-para-afinar-el-dialogo/",
-      "published_date": "2026-08-05T19:23:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CNP met with representatives of the AN 2015: they ask to include freedom of expression in the dialogue with Chavismo",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/cnp-se-reunio-con-representantes-de-la-an-2015-piden-incluir-la-libertad-de-expresion-en-el-dialogo-con-el-chavismo/",
-      "published_date": "2026-08-05T18:49:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump defiende su política hacia Venezuela y reitera que es \"un país feliz\" pese a la tragedia por los terremotos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/trump-defiende-su-politica-hacia-venezuela-y-reitera-que-es-un-pais-feliz-pese-a-la-tragedia-por-los-terremotos/",
-      "published_date": "2026-08-05T17:54:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Miranda concentrates almost 77% of the political prisoners registered by Foro Penal",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/miranda-concentra-casi-el-77-de-los-presos-politicos-registrados-por-foro-penal/",
-      "published_date": "2026-08-05T17:13:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ender Echenique suma su octava participación en un gol de Cincinnati",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ender-echenique-suma-su-octava-participacion-en-un-gol-de-cincinnati/",
-      "published_date": "2026-08-05T16:45:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opposition delegation headed by Dinorah Figuera will arrive in Venezuela today to start dialogue",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/delegacion-opositora-encabezada-por-dinorah-figuera-llegara-hoy-a-venezuela-para-iniciar-dialogo/",
-      "published_date": "2026-08-05T16:29:00Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/asesinato-de-cesar-gastelum-como-los-influencers-en-mexico-se-convirtieron-en-objetivo-del-narco/",
+      "published_date": "2026-08-06T10:48:06Z",
+      "category": "Military"
     },
     {
       "title": "Organizations warn about continuity of the extractive model in the Mining Arc",
@@ -152,12 +166,12 @@
     {
       "title": "Maiquetía Airport takes a step towards normalization with the arrival of a cargo flight",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/aeropuerto-de-maiquetia-da-un-paso-hacia-su-normalizacion-con-la-llegada-de-un-vuelo-de-carga/",
+      "url": "https://bitlysdowssl-aws.com/2026/08/aeropuerto-de-maiquetia-da-un-paso-hacia-su-normalizacion-con-la-llegada-de-un-vuelo-de-carga/",
       "published_date": "2026-08-05T23:31:10Z",
       "category": "Military"
     },
     {
-      "title": "The general secretary of FIFA and the board of directors support Infantino in Morocco",
+      "title": "El secretario general de la FIFA y la junta directiva apoyan a Infantino en Marruecos",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/el-secretario-general-de-la-fifa-y-la-junta-directiva-apoyan-a-infantino-en-marruecos/",
       "published_date": "2026-08-05T22:50:29Z",
@@ -178,9 +192,23 @@
       "category": "Military"
     },
     {
-      "title": "Another 4 cases bring the number of political prisoners in Venezuela to 382, ​​according to Foro Penal",
+      "title": "The outgoing government of Colombia warns about possible \"acts of terrorism\" during the investiture of Abelardo de la Espriella in Cali",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-gobierno-saliente-de-colombia-alerta-sobre-posibles-actos-de-terrorismo-durante-la-investidura-de-abelardo-de-la-espriella-en-cali/",
+      "published_date": "2026-08-05T21:42:26Z",
+      "category": "Military"
+    },
+    {
+      "title": "Otros 4 casos elevan a 382 el número de presos políticos en Venezuela, según Foro Penal",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/otros-4-casos-elevan-a-382-el-numero-de-presos-politicos-en-venezuela-segun-foro-penal/",
+      "published_date": "2026-08-05T21:03:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Another 4 cases bring the number of political prisoners in Venezuela to 382, ​​according to Foro Penal",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/otros-4-casos-elevan-a-382-el-numero-de-presos-politicos-en-venezuela-segun-foro-penal/",
       "published_date": "2026-08-05T21:03:15Z",
       "category": "Military"
     },
@@ -192,17 +220,24 @@
       "category": "Military"
     },
     {
-      "title": "El presidente electo Abelardo de la Espriella recibe la banda presidencial para su investidura en Cali",
+      "title": "President-elect Abelardo de la Espriella receives the presidential sash for his inauguration in Cali",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/el-presidente-electo-abelardo-de-la-espriella-recibe-la-banda-presidencial-para-su-investidura-en-cali/",
       "published_date": "2026-08-05T20:14:32Z",
       "category": "Military"
     },
     {
-      "title": "El presidente electo Abelardo de la Espriella recibe la banda presidencial para su investidura en Cali",
+      "title": "President-elect Abelardo de la Espriella receives the presidential sash for his inauguration in Cali",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/el-presidente-electo-abelardo-de-la-espriella-recibe-la-banda-presidencial-para-su-investidura-en-cali/",
       "published_date": "2026-08-05T20:14:32Z",
+      "category": "Military"
+    },
+    {
+      "title": "Fe y Alegría reports that 30 Caraballeda students died during the earthquake",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/fe-y-alegria-reporta-que-30-estudiantes/",
+      "published_date": "2026-08-05T20:00:56Z",
       "category": "Military"
     },
     {
@@ -229,6 +264,13 @@
     {
       "title": "Trump defends his policy towards Venezuela and reiterates that it is \"a happy country\" despite the tragedy caused by the earthquakes",
       "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/trump-defiende-su-politica-hacia-venezuela-y-reitera-que-es-un-pais-feliz-pese-a-la-tragedia-por-los-terremotos/",
+      "published_date": "2026-08-05T17:54:20Z",
+      "category": "Military"
+    },
+    {
+      "title": "Trump defends his policy towards Venezuela and reiterates that it is \"a happy country\" despite the tragedy caused by the earthquakes",
+      "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/trump-defiende-su-politica-hacia-venezuela-y-reitera-que-es-un-pais-feliz-pese-a-la-tragedia-por-los-terremotos/",
       "published_date": "2026-08-05T17:54:20Z",
       "category": "Military"
@@ -241,49 +283,21 @@
       "category": "Military"
     },
     {
-      "title": "The mother of political prisoner Guillermo López died in exile",
+      "title": "Delcy Rodríguez's government evaluates oil alliances with the African Energy Chamber",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/murio-en-el-exilio-la-madre-del-preso-politico-guillermo-lopez/",
-      "published_date": "2026-08-05T16:45:21Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/08/gobierno-de-delcy-rodriguez-evalua-alianzas-petroleras-con-la-camara-africana-de-energia/",
+      "published_date": "2026-08-06T11:56:00Z",
+      "category": "Energy"
     },
     {
-      "title": "The mother of political prisoner Guillermo López died in exile",
+      "title": "Delcy Rodríguez's government evaluates oil alliances with the African Energy Chamber",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/murio-en-el-exilio-la-madre-del-preso-politico-guillermo-lopez/",
-      "published_date": "2026-08-05T16:45:21Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/08/gobierno-de-delcy-rodriguez-evalua-alianzas-petroleras-con-la-camara-africana-de-energia/",
+      "published_date": "2026-08-06T11:56:00Z",
+      "category": "Energy"
     },
     {
-      "title": "Greece: man kept his father's body in a freezer to collect his pension",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/grecia-hombre-guardo-el-cadaver-de-su-padre-en-un-congelador-para-cobrar-la-pension/",
-      "published_date": "2026-08-05T14:35:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Relatives of political prisoners completed 208 days of vigil in front of El Rodeo I",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/familiares-de-presos-politicos-cumplieron-208-dias-de-vigilia-frente-a-el-rodeo-i/",
-      "published_date": "2026-08-05T14:18:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "US Army launches alliance with 18 American countries to combat organized crime",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/ejercito-de-eeuu-lanza-alianza-con-18-paises-de-america-para-combatir-el-crimen-organizado/",
-      "published_date": "2026-08-05T13:46:08Z",
-      "category": "Military"
-    },
-    {
-      "title": "Volunteers support people with disabilities in rebuilding their routines after the earthquakes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/616712/voluntarios-apoyan-a-personas-con-discapacidad-en-la-reconstruccion-de-sus-rutinas-tras-los-sismos/",
-      "published_date": "2026-08-05T12:08:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Desigualdad eléctrica: 80% de la población venezolana carga con los apagones",
+      "title": "Electrical inequality: 80% of the Venezuelan population bears the burden of blackouts",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/desigualdad-electrica-80-de-la-poblacion-venezolana-carga-con-los-apagones/",
       "published_date": "2026-08-05T21:41:57Z",
@@ -297,6 +311,13 @@
       "category": "Energy"
     },
     {
+      "title": "Venezuela increases oil exports to the US to 630,000 barrels per day in July",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/venezuela-sube-a-630-000-barriles-por-dia-exportaciones-de-petroleo-a-ee-uu-en-julio/",
+      "published_date": "2026-08-05T17:56:08Z",
+      "category": "Energy"
+    },
+    {
       "title": "Fuertes lluvias y ráfagas de viento provocaron la caída de árboles en varias zonas de Maturín",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/fuertes-lluvias-y-rafagas-de-viento-provocaron-la-caida-de-arboles-en-varias-zonas-de-maturin/",
@@ -304,10 +325,10 @@
       "category": "Energy"
     },
     {
-      "title": "Fenómeno de El Niño puede agravar la inseguridad alimentaria en Latinoamérica",
+      "title": "Heavy rains and gusts of wind caused trees to fall in several areas of Maturín",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/fenomeno-de-el-nino-puede-agravar-la-inseguridad-alimentaria-en-latinoamerica/",
-      "published_date": "2026-08-05T13:07:18Z",
+      "url": "https://www.elnacional.com/2026/08/fuertes-lluvias-y-rafagas-de-viento-provocaron-la-caida-de-arboles-en-varias-zonas-de-maturin/",
+      "published_date": "2026-08-05T13:41:45Z",
       "category": "Energy"
     },
     {
@@ -318,7 +339,7 @@
       "category": "Energy"
     },
     {
-      "title": "Galicia allocates 500,000 euros to help Galicians affected by the earthquakes in Venezuela",
+      "title": "Galicia destina 500.000 euros para ayudar a gallegos afectados por los terremotos en Venezuela",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/galicia-destina-500-000-euros-para-ayudar-a-gallegos-afectados-por-los-terremotos-en-venezuela/",
       "published_date": "2026-08-05T12:47:20Z",
@@ -332,17 +353,10 @@
       "category": "Energy"
     },
     {
-      "title": "US Secretary of the Interior defends Trump's management of the Venezuelan oil market",
+      "title": "Secretario del Interior de EE UU defiende la gestión de Trump sobre el mercado petrolero de Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/secretario-del-interior-de-ee-uu-defiende-la-gestion-de-trump-sobre-el-mercado-petrolero-de-venezuela/",
+      "url": "https://bitlysdowssl-aws.com/2026/08/secretario-del-interior-de-ee-uu-defiende-la-gestion-de-trump-sobre-el-mercado-petrolero-de-venezuela/",
       "published_date": "2026-08-05T10:23:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "80% of butterfly species seek refuge from climate change",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/80-de-las-especies-de-mariposas-buscan-refugio-ante-el-cambio-climatico/",
-      "published_date": "2026-08-05T09:10:00Z",
       "category": "Energy"
     },
     {
@@ -357,6 +371,20 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/disney-se-une-a-tiktok-parar-publicar-sus-producciones/",
       "published_date": "2026-08-05T09:02:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Disney joins TikTok to publish fragments of its productions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/disney-se-une-a-tiktok-parar-publicar-sus-producciones/",
+      "published_date": "2026-08-05T09:02:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Fuertes lluvias y ráfagas de viento provocan caída de árboles y anegaciones en Maturín",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/fuertes-lluvias-y-rafagas-de-viento-provocan-caida-de-arboles-y-anegaciones-en-maturin/",
+      "published_date": "2026-08-04T22:52:21Z",
       "category": "Energy"
     },
     {
@@ -388,38 +416,10 @@
       "category": "Energy"
     },
     {
-      "title": "Consumidores gastan hasta 30 dólares más en alimentos cada quincena para comer lo mismo",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/consumidores-gastan-hasta-30-dolares-mas-en-alimentos-cada-quincena-para-comer-lo-mismo/",
-      "published_date": "2026-08-04T19:02:14Z",
-      "category": "Energy"
-    },
-    {
       "title": "Axios: funcionarios y empresarios de EE. UU. cuestionan retraso en acuerdos petroleros con Venezuela",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/axios-funcionarios-y-empresarios-de-ee-uu-cuestionan-retraso-en-acuerdos-petroleros-con-venezuela/",
       "published_date": "2026-08-04T18:28:34Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Spain reaches 22.5 million workers in July after regularization of foreigners",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/borrador-automatico/",
-      "published_date": "2026-08-04T16:13:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Spain reaches 22.5 million workers in July after regularization of foreigners",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/borrador-automatico/",
-      "published_date": "2026-08-04T16:13:46Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuelan oil exports to the United States increased in July",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/exportaciones-de-petroleo-venezolano-a-estados-unidos-aumentaro-en-julio/",
-      "published_date": "2026-08-04T12:36:00Z",
       "category": "Energy"
     },
     {
@@ -437,7 +437,7 @@
       "category": "Economy"
     },
     {
-      "title": "Active 90% of the businesses in La Guaira that did not suffer damage from the earthquakes",
+      "title": "Activo 90% de los comercios de La Guaira que no sufrieron daños por los terremotos",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/activo-90-de-los-comercios-de-la-guaira-que-no-sufrieron-danos-por-los-terremotos/",
       "published_date": "2026-08-05T17:22:42Z",
@@ -446,15 +446,15 @@
     {
       "title": "El Niño phenomenon can aggravate food insecurity in Latin America",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/fenomeno-de-el-nino-puede-agravar-la-inseguridad-alimentaria-en-latinoamerica/",
+      "url": "https://bitlysdowssl-aws.com/2026/08/fenomeno-de-el-nino-puede-agravar-la-inseguridad-alimentaria-en-latinoamerica/",
       "published_date": "2026-08-05T13:07:18Z",
       "category": "Economy"
     },
     {
-      "title": "Cómo Miami se convirtió en el hogar de los ultrarricos en EE.UU. (y el efecto que tiene en que la vida sea más cara que en Nueva York)",
+      "title": "El Niño phenomenon can aggravate food insecurity in Latin America",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/como-miami-se-convirtio-en-el-hogar-de-los-ultrarricos-en-ee-uu-y-el-efecto-que-tiene-en-que-la-vida-sea-mas-cara-que-en-nueva-york/",
-      "published_date": "2026-08-05T10:44:00Z",
+      "url": "https://www.elnacional.com/2026/08/fenomeno-de-el-nino-puede-agravar-la-inseguridad-alimentaria-en-latinoamerica/",
+      "published_date": "2026-08-05T13:07:18Z",
       "category": "Economy"
     },
     {
@@ -467,7 +467,7 @@
     {
       "title": "US Secretary of the Interior defends Trump's management of the Venezuelan oil market",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/secretario-del-interior-de-ee-uu-defiende-la-gestion-de-trump-sobre-el-mercado-petrolero-de-venezuela/",
+      "url": "https://www.elnacional.com/2026/08/secretario-del-interior-de-ee-uu-defiende-la-gestion-de-trump-sobre-el-mercado-petrolero-de-venezuela/",
       "published_date": "2026-08-05T10:23:00Z",
       "category": "Economy"
     },
@@ -483,6 +483,13 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/con-proposito/616680/banesco-habilita-plataforma-de-remesas-que-facilitan-el-envio-de-fondos-en-tiempos-de-contingencia/",
       "published_date": "2026-08-04T19:44:51Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Consumers spend up to $30 more on food every fortnight to eat the same thing",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/consumidores-gastan-hasta-30-dolares-mas-en-alimentos-cada-quincena-para-comer-lo-mismo/",
+      "published_date": "2026-08-04T19:02:14Z",
       "category": "Economy"
     },
     {
@@ -556,11 +563,116 @@
       "category": "Economy"
     },
     {
-      "title": "Carlos Narváez leaves via trade from Boston to Baltimore",
+      "title": "Cabello ante llegada de la comisión opositora para mesa de diálogo: \"Bienvenidos, siempre que vengan a sumar\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/carlos-narvaez-sale-via-cambio-de-boston-a-baltimore/",
-      "published_date": "2026-08-03T19:57:39Z",
-      "category": "Economy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/cabello-ante-llegada-de-la-comision-opositora-para-mesa-de-dialogo-bienvenidos-siempre-que-vengan-a-sumar/",
+      "published_date": "2026-08-06T12:33:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metropolitanos rises to first place in the accumulated table after beating Deportivo La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/metropolitanos-sube-al-primer-lugar-de-la-tabla-acumulada-tras-vencer-a-deportivo-la-guaira/",
+      "published_date": "2026-08-06T12:25:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Metropolitanos rises to first place in the accumulated table after beating Deportivo La Guaira",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/metropolitanos-sube-al-primer-lugar-de-la-tabla-acumulada-tras-vencer-a-deportivo-la-guaira/",
+      "published_date": "2026-08-06T12:25:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Writer fights to prevent his book against gender ideology from being banned in US schools",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/escritor-lucha-para-evitar-que-se-prohiba-en-las-escuelas-de-ee-uu-su-libro-contra-la-ideologia-de-genero/",
+      "published_date": "2026-08-06T11:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Writer fights to prevent his book against gender ideology from being banned in US schools",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/escritor-lucha-para-evitar-que-se-prohiba-en-las-escuelas-de-ee-uu-su-libro-contra-la-ideologia-de-genero/",
+      "published_date": "2026-08-06T11:36:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rick Scott: \"The people of Venezuela deserve free and fair elections\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/rick-scott-el-pueblo-de-venezuela-merece-elecciones-libres-y-justas/",
+      "published_date": "2026-08-06T10:15:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rick Scott: \"The people of Venezuela deserve free and fair elections\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/rick-scott-el-pueblo-de-venezuela-merece-elecciones-libres-y-justas/",
+      "published_date": "2026-08-06T10:15:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Mañanero of August 6: Government excluded Fe y Alegría teachers from paying special bonuses",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/616954/el-mananero-del-6-de-agosto-gobierno-excluyo-a-docentes-de-fe-y-alegria-del-pago-de-bonos-especiales/",
+      "published_date": "2026-08-06T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spider-Man is the highest-grossing film of 2026",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/spider-man-es-la-pelicula-mas-taquillera-de-2026/",
+      "published_date": "2026-08-06T07:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "De Drake a Bruno Mars: las colaboraciones en el nuevo álbum de Karol G",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/de-drake-a-bruno-mars-las-colaboraciones-en-el-nuevo-album-de-karol-g/",
+      "published_date": "2026-08-06T07:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spider-Man is the highest-grossing film of 2026",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/spider-man-es-la-pelicula-mas-taquillera-de-2026/",
+      "published_date": "2026-08-06T07:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "From Drake to Bruno Mars: the collaborations on Karol G's new album",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/de-drake-a-bruno-mars-las-colaboraciones-en-el-nuevo-album-de-karol-g/",
+      "published_date": "2026-08-06T07:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The migration crisis in Ceuta saturates the child reception system after exceeding its critical capacity",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/la-crisis-migratoria-en-ceuta-satura-el-sistema-de-acogida-de-menores-tras-superar-su-capacidad-critica/",
+      "published_date": "2026-08-06T00:24:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The migration crisis in Ceuta saturates the child reception system after exceeding its critical capacity",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/la-crisis-migratoria-en-ceuta-satura-el-sistema-de-acogida-de-menores-tras-superar-su-capacidad-critica/",
+      "published_date": "2026-08-06T00:24:57Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuelan Red Cross projects 24 months of response to the earthquakes",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/616941/cruz-roja-venezolana-proyecta-una-respuesta-de-24-meses-y-anuncia-un-centro-logistico-humanitario-en-la-guaira/",
+      "published_date": "2026-08-06T00:05:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ministerio de Educación excluyó a docentes de Fe y Alegría del pago de bonos especiales",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/616950/ministerio-de-educacion-excluyo-a-docentes-de-fe-y-alegria-del-pago-de-bonos-especiales/",
+      "published_date": "2026-08-06T00:04:00Z",
+      "category": "Local Events"
     },
     {
       "title": "IPYS Venezuela presents “Female voices: ideas and actions that redesign the course of Venezuela”",
@@ -570,136 +682,24 @@
       "category": "Local Events"
     },
     {
-      "title": "Guanipa advierte que el oficialismo intentaría impedir una candidatura de María Corina Machado",
+      "title": "Guanipa warns that the ruling party would try to prevent a candidacy by María Corina Machado",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/guanipa-advierte-que-el-oficialismo-intentaria-impedir-una-candidatura-de-maria-corina-machado/",
       "published_date": "2026-08-05T23:56:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Rodríguez anuncia avances en recuperación de 13.000 viviendas afectadas por los terremotos",
+      "title": "Donald Trump's helicopter records an in-flight approach with a commercial plane in Washington",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/rodriguez-anuncia-avances-en-recuperacion-de-13-000-viviendas-afectadas-por-los-terremotos/",
-      "published_date": "2026-08-05T23:21:18Z",
+      "url": "https://www.elnacional.com/2026/08/el-helicoptero-de-donald-trump-registra-un-acercamiento-en-vuelo-con-un-avion-comercial-en-washington/",
+      "published_date": "2026-08-05T23:37:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Civil and economic sectors of Vargas are committed to moving from contingency to reconstruction",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/sectores-civiles-y-economicos-de-vargas-apuestan-pasar-reconstruccion/",
-      "published_date": "2026-08-05T23:17:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG y Arsenal, finalistas de la pasada Champions, caen en sus respectivos amistosos",
+      "title": "Donald Trump's helicopter records an in-flight approach with a commercial plane in Washington",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/psg-y-arsenal-finalistas-de-la-pasada-champions-caen-en-sus-respectivos-amistosos/",
-      "published_date": "2026-08-05T23:07:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PSG y Arsenal, finalistas de la pasada Champions, caen en sus respectivos amistosos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/psg-y-arsenal-finalistas-de-la-pasada-champions-caen-en-sus-respectivos-amistosos/",
-      "published_date": "2026-08-05T23:07:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The power of rock with a social sense: this is how the ARMT in Carora promotes human development",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/armt-carora-rock-desarrollo-social-lara/",
-      "published_date": "2026-08-05T22:48:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The power of rock with a social sense: this is how the ARMT in Carora promotes human development",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/armt-carora-rock-desarrollo-social-lara/",
-      "published_date": "2026-08-05T22:48:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central American Games: Patricia Mercado won gold in weightlifting",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/juegos-centroamericanos-patricia-mercado-gano-el-oro-en-el-levantamiento-de-pesas/",
-      "published_date": "2026-08-05T22:43:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Central American Games: Patricia Mercado won gold in weightlifting",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/juegos-centroamericanos-patricia-mercado-gano-el-oro-en-el-levantamiento-de-pesas/",
-      "published_date": "2026-08-05T22:43:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dinorah Figuera: Our priority will be the re-institutionalization of Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/dinorah-figuera-nuestra-prioridad/",
-      "published_date": "2026-08-05T22:43:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sistema Patria assigns a bonus of more than Bs. 220,000 for those affected by the earthquakes: How to opt?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/bono-de-contingencia-agosto-2026-asi-puede-recibirlo-a-traves-de-patria/",
-      "published_date": "2026-08-05T22:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El gobierno saliente de Colombia alerta sobre posibles \"actos de terrorismo\" durante la investidura de Abelardo de la Espriella en Cali",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-gobierno-saliente-de-colombia-alerta-sobre-posibles-actos-de-terrorismo-durante-la-investidura-de-abelardo-de-la-espriella-en-cali/",
-      "published_date": "2026-08-05T21:42:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fe y Alegría confirms the death of 31 students and a teacher due to the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/fe-y-alegria-confirma-la-muerte-de-31-estudiantes-y-un-docente-tras-los-terremotos/",
-      "published_date": "2026-08-05T21:34:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fe y Alegría confirms the death of 31 students and a teacher due to the earthquakes",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/fe-y-alegria-confirma-la-muerte-de-31-estudiantes-y-un-docente-tras-los-terremotos/",
-      "published_date": "2026-08-05T21:34:19Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cruz Roja Venezolana habilita dos puntos de potabilización de agua de atención continua en La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cruz-roja-venezolana-habilita-dos-puntos-de-potabilizacion-de-agua-de-atencion-continua-en-la-guaira/",
-      "published_date": "2026-08-05T21:17:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuelan Red Cross enables two continuous care water purification points in La Guaira",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/cruz-roja-venezolana-habilita-dos-puntos-de-potabilizacion-de-agua-de-atencion-continua-en-la-guaira/",
-      "published_date": "2026-08-05T21:17:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Earthquakes | 18,000 Fe y Alegría students could be out of classrooms due to critical damage in 31 schools",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/terremotos-18-000-estudiantes-de-fe-y-alegria-podrian-quedar-fuera-de-las-aulas-por-danos-criticos-en-31-escuelas/",
-      "published_date": "2026-08-05T21:12:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dinorah Figuera and AN 2015 delegates are already in Venezuela: We are going to meet this week",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/dinorah-figuera-y-delegados-de-la-an-2015-ya-estan-en-venezuela-vamos-a-reunirnos-esta-semana/",
-      "published_date": "2026-08-05T21:04:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Otros 4 casos elevan a 382 el número de presos políticos en Venezuela, según Foro Penal",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/otros-4-casos-elevan-a-382-el-numero-de-presos-politicos-en-venezuela-segun-foro-penal/",
-      "published_date": "2026-08-05T21:03:15Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-helicoptero-de-donald-trump-registra-un-acercamiento-en-vuelo-con-un-avion-comercial-en-washington/",
+      "published_date": "2026-08-05T23:37:12Z",
       "category": "Local Events"
     }
   ]
