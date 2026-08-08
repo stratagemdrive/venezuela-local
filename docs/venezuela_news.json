@@ -1,7 +1,56 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-07T23:40:46Z",
+  "last_updated": "2026-08-08T11:33:27Z",
   "stories": [
+    {
+      "title": "The US will allocate 1 billion dollars to Colombia for a security package",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ee-uu-destinara-1-000-millones-de-dolares-a-colombia-para-un-paquete-de-seguridad/",
+      "published_date": "2026-08-08T10:56:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US will allocate 1 billion dollars to Colombia for a security package",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-destinara-1-000-millones-de-dolares-a-colombia-para-un-paquete-de-seguridad/",
+      "published_date": "2026-08-08T10:56:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Linda Loaiza case returns to court after a decade of waiting",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/caso-linda-loaiza-regresa-a-tribunales-tras-una-decada-de-espera/",
+      "published_date": "2026-08-08T00:47:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Linda Loaiza case returns to court after a decade of waiting",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/caso-linda-loaiza-regresa-a-tribunales-tras-una-decada-de-espera/",
+      "published_date": "2026-08-08T00:47:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Second day of dialogue: they restrict access to journalists again and only allow photographers",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/jorge-rodriguez-y-dinorah-figuera-encabezan-segunda-reunion-del-dialogo-politico-en-caracas/",
+      "published_date": "2026-08-08T00:30:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "De la Espriella closes the door to dialogue with armed groups in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/de-la-espriella-cierra-la-puerta-al-dialogo-con-grupos-armados-en-colombia/",
+      "published_date": "2026-08-08T00:23:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "De la Espriella closes the door to dialogue with armed groups in Colombia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/de-la-espriella-cierra-la-puerta-al-dialogo-con-grupos-armados-en-colombia/",
+      "published_date": "2026-08-08T00:23:34Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Relatives of political prisoners demanded before the Foreign Ministry the entry into Venezuela of the IACHR and the UN Fact-Finding Mission",
       "source": "El Nacional",
@@ -94,53 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Marco Rubio warns Cuba that there will be no \"escape valve\" in the face of US pressure",
+      "title": "Spain reestablishes border controls with Italy and requires passports from travelers",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/marco-rubio-advierte-a-cuba-que-no-habra-valvula-de-escape-frente-a-la-presion-de-ee-uu/",
-      "published_date": "2026-08-07T19:13:26Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/controles-fronterizos-espana-italia/",
+      "published_date": "2026-08-08T11:09:54Z",
+      "category": "Military"
     },
     {
-      "title": "Marco Rubio warns Cuba that there will be no \"escape valve\" in the face of US pressure",
+      "title": "Spain reestablishes border controls with Italy and requires passports from travelers",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/marco-rubio-advierte-a-cuba-que-no-habra-valvula-de-escape-frente-a-la-presion-de-ee-uu/",
-      "published_date": "2026-08-07T19:13:26Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/controles-fronterizos-espana-italia/",
+      "published_date": "2026-08-08T11:09:54Z",
+      "category": "Military"
     },
     {
-      "title": "Relatives of political prisoners demand entry from the IACHR and international organizations",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-exigen-ingreso-de-la-cidh-y-organismos-internacionales/",
-      "published_date": "2026-08-07T17:51:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Luis Arráez has immediate impact on the Phillies offense",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/luis-arraez-tiene-impacto-inmediato-en-la-ofensiva-de-filis/",
-      "published_date": "2026-08-07T17:03:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Luis Arráez has immediate impact on the Phillies offense",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/luis-arraez-tiene-impacto-inmediato-en-la-ofensiva-de-filis/",
-      "published_date": "2026-08-07T17:03:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela formalized its withdrawal from the Rome Statute: the complaint will be effective in one year",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/617078/venezuela-formalizo-su-retiro-del-estatuto-de-roma-la-denuncia-sera-efectiva-en-un-ano/",
-      "published_date": "2026-08-07T17:03:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "President of the Caracas Stock Exchange explains why he is optimistic about the Venezuelan economy",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/presidente-de-bolsa-de-caracas-explica-por-que-es-optimista-sobre-la-economia-de-venezuela/",
-      "published_date": "2026-08-07T16:18:52Z",
-      "category": "Diplomacy"
+      "title": "Relatives of political prisoners protest at the Foreign Ministry: they ask for protection organizations to enter the country",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/familiares-de-presos-politicos-protestan-en-la-cancilleria-piden-el-ingreso-al-pais-de-organismos-de-proteccion/",
+      "published_date": "2026-08-07T23:54:06Z",
+      "category": "Military"
     },
     {
       "title": "Petro says goodbye to the Casa de Nariño in his last act as president of Colombia",
@@ -259,27 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/tasteatlas-premia-la-destileria-y-la-tradicion-liquida-de-venezuela/",
       "published_date": "2026-08-07T15:37:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Gastronomic portal TasteAtlas rewards the distillery and liquid tradition of Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/tasteatlas-premia-la-destileria-y-la-tradicion-liquida-de-venezuela/",
-      "published_date": "2026-08-07T15:37:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Afiuni's family and defense ask for full freedom so that he can be treated for tumors",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/familia-y-defensa-de-afiuni-piden-libertad-plena/",
-      "published_date": "2026-08-07T15:20:20Z",
-      "category": "Military"
-    },
-    {
-      "title": "OVP: The number of deceased prisoners rises to 51 after two new deaths in El Marite",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ovp-asciende-a-51-la-cifra-de-presos-fallecidos-tras-dos-nuevas-muertes-en-el-marite/",
-      "published_date": "2026-08-07T14:53:50Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,41 @@
       "category": "Energy"
     },
     {
+      "title": "More than 30 years without piped water: residents of La Guzmana in Carora spend up to 14 dollars a week on cisterns",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/mas-de-30-anos-sin-agua-por-tuberia-vecinos-de-la-guzmana-en-carora-gastan-hasta-14-dolares-semanales-en-cisternas/",
+      "published_date": "2026-08-08T11:19:54Z",
+      "category": "Economy"
+    },
+    {
+      "title": "De La Espriella's economic bets: fiscal austerity, more oil exploration and support for the countryside",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/las-apuestas-economicas-de-de-la-espriella-austeridad-fiscal-mas-exploracion-petrolera-y-apoyo-al-campo/",
+      "published_date": "2026-08-08T10:28:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "De La Espriella's economic bets: fiscal austerity, more oil exploration and support for the countryside",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/las-apuestas-economicas-de-de-la-espriella-austeridad-fiscal-mas-exploracion-petrolera-y-apoyo-al-campo/",
+      "published_date": "2026-08-08T10:28:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Delcy Rodríguez promulgates the new Leasing Law to stimulate the rental market after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-promulga-la-nueva-ley-de-arrendamiento-para-estimular-el-mercado-de-alquileres-tras-los-sismos/",
+      "published_date": "2026-08-07T23:49:32Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Delcy Rodríguez promulgates the new Leasing Law to stimulate the rental market after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/delcy-rodriguez-promulga-la-nueva-ley-de-arrendamiento-para-estimular-el-mercado-de-alquileres-tras-los-sismos/",
+      "published_date": "2026-08-07T23:49:32Z",
+      "category": "Economy"
+    },
+    {
       "title": "Oil closes higher again due to market nerves about the Middle East",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/el-petroleo-cierra-de-nuevo-alza-por-los-nervios-del-mercado-sobre-medio-oriente/",
@@ -528,44 +563,79 @@
       "category": "Economy"
     },
     {
-      "title": "How Miami became the home of the ultra-rich in the US (and the effect it has on living being more expensive than in New York)",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/como-miami-se-convirtio-en-el-hogar-de-los-ultrarricos-en-ee-uu-y-el-efecto-que-tiene-en-que-la-vida-sea-mas-cara-que-en-nueva-york/",
-      "published_date": "2026-08-05T10:44:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "US Secretary of the Interior defends Trump's management of the Venezuelan oil market",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/secretario-del-interior-de-ee-uu-defiende-la-gestion-de-trump-sobre-el-mercado-petrolero-de-venezuela/",
-      "published_date": "2026-08-05T10:23:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sistema Patria pays a bonus of 11,175 bolivars this #4Aug: who receives it?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/sistema-patria-paga-bono-de-11-175-bolivares-este-4ago-quienes-lo-reciben/",
-      "published_date": "2026-08-04T22:30:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Banesco enables a remittance platform that facilitates the sending of funds in times of contingency",
+      "title": "Alejandra Leal Guzmán: “when you are in crisis, you don't build better”",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/616680/banesco-habilita-plataforma-de-remesas-que-facilitan-el-envio-de-fondos-en-tiempos-de-contingencia/",
-      "published_date": "2026-08-04T19:44:51Z",
-      "category": "Economy"
+      "url": "https://runrun.es/rr-es-plus/617126/alejandra-leal-guzman-cuando-estas-en-crisis-no-construyes-mejor/",
+      "published_date": "2026-08-08T11:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Consumers spend up to $30 more on food every fortnight to eat the same thing",
+      "title": "We are not a diagnosis, we are a path",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/617138/vivir-con-proposito/",
+      "published_date": "2026-08-08T02:00:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keydomar Vallenilla wins two gold medals at the Central American and Caribbean Games",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/keydomar-vallenilla-gana-dos-medallas-de-oro-en-los-juegos-centroamericanos-y-del-caribe/",
+      "published_date": "2026-08-08T00:32:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Keydomar Vallenilla wins two gold medals at the Central American and Caribbean Games",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/keydomar-vallenilla-gana-dos-medallas-de-oro-en-los-juegos-centroamericanos-y-del-caribe/",
+      "published_date": "2026-08-08T00:32:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain imposes temporary border controls on Italy after the suspension of Schengen approved by Rome",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/espana-impone-controles-fronterizos-temporales-a-italia-tras-la-suspension-de-schengen-aprobada-por-roma/",
+      "published_date": "2026-08-08T00:30:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Spain imposes temporary border controls on Italy after the suspension of Schengen approved by Rome",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/espana-impone-controles-fronterizos-temporales-a-italia-tras-la-suspension-de-schengen-aprobada-por-roma/",
+      "published_date": "2026-08-08T00:30:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The key dates of the opposition agenda in front of the Chavista Parliament",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/las-fechas-clave-de-la-agenda-opositora-frente-al-parlamento-chavista/",
+      "published_date": "2026-08-08T00:09:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The key dates of the opposition agenda in front of the Chavista Parliament",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/las-fechas-clave-de-la-agenda-opositora-frente-al-parlamento-chavista/",
+      "published_date": "2026-08-08T00:09:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela achieves its first victory in the U-17 Women's Volleyball World Cup",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/consumidores-gastan-hasta-30-dolares-mas-en-alimentos-cada-quincena-para-comer-lo-mismo/",
-      "published_date": "2026-08-04T19:02:14Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/deportes/venezuela-consigue-su-primera-victoria-en-el-mundial-femenino-sub-17-de-voleibol/",
+      "published_date": "2026-08-08T00:00:35Z",
+      "category": "Local Events"
     },
     {
       "title": "SNTP denounces before the National Assembly in 2015 the attack against journalist Deisy Martínez",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/sntp-denuncia-ante-la-asamblea-nacional-de-2015-la-agresion-contra-la-periodista-deisy-martinez/",
+      "published_date": "2026-08-07T23:38:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SNTP denounces before the National Assembly in 2015 the attack against journalist Deisy Martínez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/sntp-denuncia-ante-la-asamblea-nacional-de-2015-la-agresion-contra-la-periodista-deisy-martinez/",
       "published_date": "2026-08-07T23:38:43Z",
       "category": "Local Events"
     },
@@ -630,76 +700,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/delcy-rodriguez-afirma-que-el-plan-habitacional-tras-los-sismos-ha-beneficiado-a-mas-de-2-000-personas-esta-semana/",
       "published_date": "2026-08-07T22:27:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abelardo de la Espriella is sworn in as president of Colombia for the period 2026-2030",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/abelardo-de-la-espriella-jura-como-presidente/",
-      "published_date": "2026-08-07T22:23:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge Afiuni obtains full freedom and closure of her case after 16 years",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/la-jueza-afiuni-obtiene-libertad-plena-y-cierre-de-su-caso/",
-      "published_date": "2026-08-07T22:04:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Judge María Lourdes Afiuni receives full freedom after 16 years of judicial process",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/jueza-maria-lourdes-afiuni-recibiria-libertad-plena-tras-16-anos-de-proceso-judicial/",
-      "published_date": "2026-08-07T21:58:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidency of the Rome Statute expresses concern about Venezuela's withdrawal from the ICC",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/presidencia-del-estatuto-de-roma-expresa-preocupacion-por-la-retirada-de-venezuela-de-la-cpi/",
-      "published_date": "2026-08-07T21:52:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Presidency of the Rome Statute expresses concern about Venezuela's withdrawal from the ICC",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/presidencia-del-estatuto-de-roma-expresa-preocupacion-por-la-retirada-de-venezuela-de-la-cpi/",
-      "published_date": "2026-08-07T21:52:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SNTP demands guarantees for freedom of expression from the 2015 AN delegation",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/sntp-exige-garantias-para-la-libertad-de-expresion-a-la-delegacion-de-la-an-de-2015/",
-      "published_date": "2026-08-07T21:34:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De la Espriella meets separately with Milei, Kast and the king of Spain hours before his investiture",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/de-la-espriella-se-reune-por-separado-con-milei-kast-y-el-rey-de-espana-horas-antes-de-su-investidura/",
-      "published_date": "2026-08-07T20:50:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City rejects Barcelona's first offer for Rodri",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/manchester-city-rechaza-la-primera-oferta-del-barcelona-por-rodri/",
-      "published_date": "2026-08-07T20:46:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Manchester City rejects Barcelona's first offer for Rodri",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/manchester-city-rechaza-la-primera-oferta-del-barcelona-por-rodri/",
-      "published_date": "2026-08-07T20:46:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rehabilitation work begins on yellow-labeled homes and technical re-evaluation of red-labeled properties after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/inician-labores-de-rehabilitacion-en-viviendas-con-etiqueta-amarilla-y-reevaluacion-tecnica-de-inmuebles-en-etiqueta-roja-tras-los-terremotos/",
-      "published_date": "2026-08-07T20:25:31Z",
       "category": "Local Events"
     }
   ]
