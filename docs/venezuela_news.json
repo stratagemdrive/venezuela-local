@@ -1,7 +1,14 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-08T23:36:55Z",
+  "last_updated": "2026-08-09T11:33:52Z",
   "stories": [
+    {
+      "title": "After Maduro's capture, the Fanb remains cohesive but diminished: experts say",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/siete-meses-captura-maduro-fanb-cohesionada-disminuida/",
+      "published_date": "2026-08-09T06:45:00Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "NGO Access to Justice proposed a route before the IACHR for the independent election of the judges of the TSJ",
       "source": "El Nacional",
@@ -136,11 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Lionel Messi's father died at 68 years of age",
+      "title": "Environment analysis: Financial opacity and strategic warning to Washington",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/murio-el-papa-de-lionel-messi-a-los-68-anos-de-edad/",
-      "published_date": "2026-08-08T14:31:16Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/analisis-de-entorno-opacidad-financiera-y-advertencia-estrategica-a-washington/",
+      "published_date": "2026-08-09T11:20:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "Environment analysis: Financial opacity and strategic warning to Washington",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/analisis-de-entorno-opacidad-financiera-y-advertencia-estrategica-a-washington/",
+      "published_date": "2026-08-09T11:20:14Z",
+      "category": "Military"
+    },
+    {
+      "title": "History does not end with a release: NGO Justicia, Encuentro y Perdón denounced the consequences of political prison in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/la-historia-no-culmina-con-una-excarcelacion-ong-justicia-encuentro-y-perdon-denuncio-las-consecuencias-de-la-prision-politica-en-venezuela/",
+      "published_date": "2026-08-09T00:17:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "History does not end with a release: NGO Justicia, Encuentro y Perdón denounced the consequences of political prison in Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/la-historia-no-culmina-con-una-excarcelacion-ong-justicia-encuentro-y-perdon-denuncio-las-consecuencias-de-la-prision-politica-en-venezuela/",
+      "published_date": "2026-08-09T00:17:59Z",
+      "category": "Military"
     },
     {
       "title": "Guanipa met with deputies of the House of Representatives of Uruguay",
@@ -255,38 +283,10 @@
       "category": "Military"
     },
     {
-      "title": "Abelardo de la Espriella is sworn in as president of Colombia for the period 2026-2030",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/abelardo-de-la-espriella-jura-como-presidente-de-colombia-para-el-periodo-2026-2030/",
-      "published_date": "2026-08-07T21:41:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "Bolivar | Rubén González denounces judicial intimidation for participating in union assemblies",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-ruben-gonzalez-denuncia-amedrentamiento-judicial-por-participar-en-asambleas-sindicales/",
-      "published_date": "2026-08-07T21:04:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "General Motors evaluates the conditions for its possible return to Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/general-motors-evalua-las-condiciones-para-su-posible-regreso-a-venezuela/",
-      "published_date": "2026-08-07T20:26:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "General Motors evalúa las condiciones para su posible regreso a Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/general-motors-evalua-las-condiciones-para-su-posible-regreso-a-venezuela/",
-      "published_date": "2026-08-07T20:26:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Doble terremoto pone en jaque 30.000 plazas de trabajo en Vargas",
+      "title": "How to lose the future",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/doble-terremoto-pone-en-jaque-30-000-plazas-de-trabajo-en-vargas/",
-      "published_date": "2026-08-08T21:00:00Z",
+      "url": "https://efectococuyo.com/opinion/como-perder-el-futuro/",
+      "published_date": "2026-08-09T11:00:00Z",
       "category": "Energy"
     },
     {
@@ -423,6 +423,34 @@
       "category": "Energy"
     },
     {
+      "title": "Cryptocurrencies make their way in Latin America amidst regulatory gaps and controversies",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/criptomonedas-en-latinoamerica-regulacion/",
+      "published_date": "2026-08-09T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cryptocurrencies make their way in Latin America amidst regulatory gaps and controversies",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/criptomonedas-en-latinoamerica-regulacion/",
+      "published_date": "2026-08-09T10:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The challenges that Abelardo De la Espriella will face in the devastated Colombia left by Gustavo Petro",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/los-retos-que-enfrentara-abelardo-de-la-espriella-en-la-colombia-devastada-que-deja-gustavo-petro/",
+      "published_date": "2026-08-09T07:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "The challenges that Abelardo De la Espriella will face in the devastated Colombia left by Gustavo Petro",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/los-retos-que-enfrentara-abelardo-de-la-espriella-en-la-colombia-devastada-que-deja-gustavo-petro/",
+      "published_date": "2026-08-09T07:00:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Ferran Torres accepted PSG's proposal to leave FC Barcelona in the current transfer market",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/ferran-torres-acepto-la-propuesta-del-psg-para-salir-del-fc-barcelona-en-el-actual-mercado-de-fichajes/",
@@ -472,6 +500,13 @@
       "category": "Economy"
     },
     {
+      "title": "Delcy Rodríguez promulgates the new Leasing Law to stimulate the rental market after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-promulga-la-nueva-ley-de-arrendamiento-para-estimular-el-mercado-de-alquileres-tras-los-sismos/",
+      "published_date": "2026-08-07T23:49:32Z",
+      "category": "Economy"
+    },
+    {
       "title": "Oil closes higher again due to market jitters about the Middle East",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/el-petroleo-cierra-de-nuevo-alza-por-los-nervios-del-mercado-sobre-medio-oriente/",
@@ -514,6 +549,13 @@
       "category": "Economy"
     },
     {
+      "title": "Urban fare at 190 bolivars in Carora: the increase that collides with the minimum wage",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/pasaje-urbano-carora/",
+      "published_date": "2026-08-07T16:32:16Z",
+      "category": "Economy"
+    },
+    {
       "title": "Exchange gap is at its lowest level of the year: economist suggests businesses review pricing schemes",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/economia/brecha-cambiaria-se-ubica-en-minimos-del-ano-economista-sugieren-a-comercios-a-revisar-precios/",
@@ -521,46 +563,95 @@
       "category": "Economy"
     },
     {
-      "title": "Apple accuses OpenAI of stealing secrets and confidential information",
+      "title": "The efforts of the diaspora also support the victims of the seismic doublet",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/apple-acusa-a-openai-de-robar-secretos-e-informacion-confidencial/",
-      "published_date": "2026-08-06T09:10:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/08/el-esfuerzo-de-la-diaspora-sostuvo-y-sostiene-a-las-victimas-del-doblete-sismico/",
+      "published_date": "2026-08-09T08:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Apple accuses OpenAI of stealing secrets and confidential information",
+      "title": "The efforts of the diaspora also support the victims of the seismic doublet",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/apple-acusa-a-openai-de-robar-secretos-e-informacion-confidencial/",
-      "published_date": "2026-08-06T09:10:00Z",
-      "category": "Economy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-esfuerzo-de-la-diaspora-sostuvo-y-sostiene-a-las-victimas-del-doblete-sismico/",
+      "published_date": "2026-08-09T08:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Trump's pearls: Despite the earthquake, Venezuela is a happy country",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/616872/las-perlas-de-trump-a-pesar-del-terremoto-venezuela-es-un-pais-feliz/",
-      "published_date": "2026-08-05T17:58:54Z",
-      "category": "Economy"
+      "title": "The triumvirate vs. Original Chavismo: Imminent fracture?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/el-triunvirato-vs-el-chavismo-originario-fractura-inminente/",
+      "published_date": "2026-08-09T06:55:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Active 90% of the businesses in La Guaira that did not suffer damage from the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/activo-90-de-los-comercios-de-la-guaira-que-no-sufrieron-danos-por-los-terremotos/",
-      "published_date": "2026-08-05T17:22:42Z",
-      "category": "Economy"
+      "title": "Will anyone go to jail for the June 24 earthquakes?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/destacado-3/alguien-ira-a-la-carcel-por-los-terremotos-del-24j/",
+      "published_date": "2026-08-09T06:15:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Activo 90% de los comercios de La Guaira que no sufrieron daños por los terremotos",
+      "title": "Composer and arranger Luis Vicente \"Charlie\" Frómeta passed away",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/activo-90-de-los-comercios-de-la-guaira-que-no-sufrieron-danos-por-los-terremotos/",
-      "published_date": "2026-08-05T17:22:42Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/08/fallecio-el-compositor-y-arreglista-luis-vicente-charlie-frometa/",
+      "published_date": "2026-08-09T00:51:49Z",
+      "category": "Local Events"
     },
     {
-      "title": "El Niño phenomenon can aggravate food insecurity in Latin America",
+      "title": "Composer and arranger Luis Vicente \"Charlie\" Frómeta passed away",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/fenomeno-de-el-nino-puede-agravar-la-inseguridad-alimentaria-en-latinoamerica/",
-      "published_date": "2026-08-05T13:07:18Z",
-      "category": "Economy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/fallecio-el-compositor-y-arreglista-luis-vicente-charlie-frometa/",
+      "published_date": "2026-08-09T00:51:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "18-year-old man died after losing control of his motorcycle while performing pirouettes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/joven-de-18-anos-murio-al-perder-el-control-de-su-moto-mientras-realizaba-piruetas/",
+      "published_date": "2026-08-09T00:28:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "18-year-old man died after losing control of his motorcycle while performing pirouettes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/joven-de-18-anos-murio-al-perder-el-control-de-su-moto-mientras-realizaba-piruetas/",
+      "published_date": "2026-08-09T00:28:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The United Kingdom will donate a million dollars in medicine after ending its humanitarian mission due to the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/reino-unido-donara-un-millon-de-dolares-en-medicinas-tras-finalizar-su-mision-humanitaria-por-los-terremotos/",
+      "published_date": "2026-08-08T23:55:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The United Kingdom will donate a million dollars in medicine after ending its humanitarian mission due to the earthquakes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/reino-unido-donara-un-millon-de-dolares-en-medicinas-tras-finalizar-su-mision-humanitaria-por-los-terremotos/",
+      "published_date": "2026-08-08T23:55:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Man murdered his mother to take her property: his wife was an accomplice",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/hombre-asesino-a-su-madre-para-apoderarse-de-sus-propiedades-su-esposa-fue-complice/",
+      "published_date": "2026-08-08T23:51:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plan \"We work to get you home\" was carried out with repairs to buildings in Bello Campo and Los Palos Grandes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/plan-trabajamos-para-que-vuelvas-a-casa-se-ejecuto-con-reparaciones-de-edificios-en-bello-campo-y-los-palos-grandes/",
+      "published_date": "2026-08-08T23:35:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plan \"We work to get you home\" was carried out with repairs to buildings in Bello Campo and Los Palos Grandes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/plan-trabajamos-para-que-vuelvas-a-casa-se-ejecuto-con-reparaciones-de-edificios-en-bello-campo-y-los-palos-grandes/",
+      "published_date": "2026-08-08T23:35:34Z",
+      "category": "Local Events"
     },
     {
       "title": "They ask to reinforce health prevention measures against the risk of diseases due to the \"Super Child\"",
@@ -609,97 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/vinicius-celebro-su-renovacion-con-el-brazalete-de-capitan-del-real-madrid-ante-el-ferencvaros/",
       "published_date": "2026-08-08T21:07:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vinícius celebrated his renewal with the captain's armband and Real Madrid's victory against Ferencvaros",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/vinicius-celebro-su-renovacion-con-el-brazalete-de-capitan-del-real-madrid-ante-el-ferencvaros/",
-      "published_date": "2026-08-08T21:07:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Opinion | The dark hour of Venezuelan engineering",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/opinion/la-oscura-hora-de-la-ing-venezolana/",
-      "published_date": "2026-08-08T20:30:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inameh predicted rain for the next few days due to the passage of three tropical waves",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/inameh-pronostico-lluvias-para-los-proximos-dias-por-paso-de-tres-ondas-tropicales/",
-      "published_date": "2026-08-08T20:25:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inameh predicted rain for the next few days due to the passage of three tropical waves",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/inameh-pronostico-lluvias-para-los-proximos-dias-por-paso-de-tres-ondas-tropicales/",
-      "published_date": "2026-08-08T20:25:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessmen from Aragua seek to reactivate local commerce through technical tables after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/empresarios-de-aragua-buscan-reactivar-el-comercio-local-mediante-mesas-tecnicas-tras-los-terremotos/",
-      "published_date": "2026-08-08T20:07:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Businessmen from Aragua seek to reactivate local commerce through technical tables after the earthquakes",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/empresarios-de-aragua-buscan-reactivar-el-comercio-local-mediante-mesas-tecnicas-tras-los-terremotos/",
-      "published_date": "2026-08-08T20:07:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keys to the Linda Loaiza case, 25 years later: the Venezuelan justice system summons her to court again",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cronologia-del-caso-linda-loaiza-25-anos-despues-la-justicia-venezolana-la-vuelve-a-citar-a-los-tribunales/",
-      "published_date": "2026-08-08T19:51:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keys to the Linda Loaiza case, 25 years later: the Venezuelan justice system summons her to court again",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/cronologia-del-caso-linda-loaiza-25-anos-despues-la-justicia-venezolana-la-vuelve-a-citar-a-los-tribunales/",
-      "published_date": "2026-08-08T19:51:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Félix and Guaira, the cats who are making progress in their recovery after surviving weeks under rubble in La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/felix-y-guaira-los-gatos-que-avanzan-en-su-recuperacion-tras-sobrevivir-semanas-bajo-escombros-en-la-guaira/",
-      "published_date": "2026-08-08T19:44:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Félix and Guaira, the cats who are making progress in their recovery after surviving weeks under rubble in La Guaira",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/felix-y-guaira-los-gatos-que-avanzan-en-su-recuperacion-tras-sobrevivir-semanas-bajo-escombros-en-la-guaira/",
-      "published_date": "2026-08-08T19:44:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ozzie Guillén's 13 is now eternal: the White Sox will retire the Venezuelan's number this Saturday",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-13-de-ozzie-guillen-ya-es-eterno-los-medias-blancas-retiraran-el-numero-del-venezolano-este-sabado/",
-      "published_date": "2026-08-08T18:50:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ozzie Guillén's 13 is now eternal: the White Sox will retire the Venezuelan's number this Saturday",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-13-de-ozzie-guillen-ya-es-eterno-los-medias-blancas-retiraran-el-numero-del-venezolano-este-sabado/",
-      "published_date": "2026-08-08T18:50:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela wins gold in U-20 soccer at the 2026 Central American and Caribbean Games",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/venezuela-conquista-el-oro-en-futbol-sub-20-de-los-juegos-centroamericanos-y-del-caribe-2026/",
-      "published_date": "2026-08-08T18:47:50Z",
       "category": "Local Events"
     }
   ]
