@@ -1,40 +1,54 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-14T23:29:47Z",
+  "last_updated": "2026-08-15T11:24:13Z",
   "stories": [
     {
-      "title": "Así reaccionaron los líderes opositores a las recientes excarcelaciones de presos políticos en Venezuela",
+      "title": "Dozens of political prisoners were released without full freedom in El Rodeo I",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/presos-politicos-excarcelados-el-rodeo-i-miranda-2026/",
+      "published_date": "2026-08-15T01:32:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dozens of political prisoners were released without full freedom in El Rodeo I",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/presos-politicos-excarcelados-el-rodeo-i-miranda-2026/",
+      "published_date": "2026-08-15T01:32:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio links releases of political prisoners with progress in the United States' three-phase plan for Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/rubio-vincula-excarcelaciones-de-presos-politicos-con-avance-del-plan-de-tres-fases-de-estados-unidos-para-venezuela/",
+      "published_date": "2026-08-14T23:58:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio links releases of political prisoners with progress in the United States' three-phase plan for Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/rubio-vincula-excarcelaciones-de-presos-politicos-con-avance-del-plan-de-tres-fases-de-estados-unidos-para-venezuela/",
+      "published_date": "2026-08-14T23:58:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "This is how opposition leaders reacted to the recent release of political prisoners in Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/asi-reaccionaron-los-lideres-opositores-a-las-recientes-excarcelaciones-de-presos-politicos-en-venezuela/",
       "published_date": "2026-08-14T23:05:03Z",
       "category": "Diplomacy"
     },
     {
-      "title": "This is how opposition leaders reacted to the recent releases of political prisoners in Venezuela",
+      "title": "This is how opposition leaders reacted to the recent release of political prisoners in Venezuela",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/asi-reaccionaron-los-lideres-opositores-a-las-recientes-excarcelaciones-de-presos-politicos-en-venezuela/",
       "published_date": "2026-08-14T23:05:03Z",
       "category": "Diplomacy"
     },
     {
-      "title": "NGOs confirm the release of 42 political prisoners",
+      "title": "Released 64 of the 131 political prisoners announced by Delcy Rodríguez",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/617603/liberan-a-17-mujeres-detenidas-por-motivos-politicos/",
       "published_date": "2026-08-14T22:34:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jesús Ramírez le marca al Galatasaray en su estreno con el Çorum",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jesus-ramirez-le-marca-al-galatasaray-en-su-estreno-con-el-corum/",
-      "published_date": "2026-08-14T22:24:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jesús Ramírez scores against Galatasaray in his debut with Çorum",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/jesus-ramirez-le-marca-al-galatasaray-en-su-estreno-con-el-corum/",
-      "published_date": "2026-08-14T22:24:47Z",
       "category": "Diplomacy"
     },
     {
@@ -52,14 +66,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Emirlendris Benítez is released from prison: NGOs denounced torture that left her in a wheelchair",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/excarcelan-a-emirlendris-benitez-ong-denunciaron-torturas-que-la-dejaron-en-silla-de-ruedas/",
-      "published_date": "2026-08-14T21:58:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGOs report new releases in Venezuela this #14Aug: this is the list of confirmed",
+      "title": "ONG reportan nuevas excarcelaciones en Venezuela este #14Ago: esta es la lista de confirmados",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/ong-reportan-nuevas-excarcelaciones-en-venezuela-este-14ago-esta-es-la-lista-de-confirmados/",
       "published_date": "2026-08-14T21:23:52Z",
@@ -70,13 +77,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/organizaciones-reportan-al-menos-35-excarcelaciones-de-presos-politicos/",
       "published_date": "2026-08-14T21:10:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Emirlendris Benítez y otras 5 presas políticas reciben excarcelación este 14 de agosto",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/emirlendris-benitez-y-otras-5-presas-politicas-reciben-excarcelacion-este-14-de-agosto/",
-      "published_date": "2026-08-14T20:30:28Z",
       "category": "Diplomacy"
     },
     {
@@ -101,7 +101,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "El debate sobre la refundación de Venezuela empieza por su marco legal",
+      "title": "The debate on the refoundation of Venezuela begins with its legal framework",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/el-debate-sobre-la-refundacion-de-venezuela-empieza-por-su-marco-legal/",
       "published_date": "2026-08-14T18:49:15Z",
@@ -115,7 +115,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Marco Rubio tras el homenaje de Delcy Rodríguez a Fidel Castro: \"Quien intente seguir su ejemplo estaría condenándose al fracaso\"",
+      "title": "Marco Rubio after Delcy Rodríguez's tribute to Fidel Castro: \"Whoever tries to follow his example would be condemning themselves to failure\"",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/marco-rubio-tras-el-homenaje-de-delcy-rodriguez-a-fidel-castro-quien-intente-seguir-su-ejemplo-estaria-condenandose-al-fracaso/",
       "published_date": "2026-08-14T17:59:06Z",
@@ -143,7 +143,42 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Dinorah Figuera pide continuar presión hasta lograr libertad de todos los presos políticos",
+      "title": "Promises from IMPSA and Delcy Rodríguez will not end the blackouts in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/crisis-electrica-venezuela-impsa-macagua-tocoma-2026/",
+      "published_date": "2026-08-15T08:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Promises from IMPSA and Delcy Rodríguez will not end the blackouts in Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/crisis-electrica-venezuela-impsa-macagua-tocoma-2026/",
+      "published_date": "2026-08-15T08:00:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Dinorah Figuera demands the freedom of all political prisoners in Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/dinorah-figuera-exige-libertad-todos-presos-politicos/",
+      "published_date": "2026-08-15T00:42:38Z",
+      "category": "Military"
+    },
+    {
+      "title": "Rubio describes the release of political prisoners in Venezuela as a “crucial step”",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/rubio-califica-de-paso-crucial-la-excarcelacion-de-presos-politicos-en-venezuela/",
+      "published_date": "2026-08-14T23:31:42Z",
+      "category": "Military"
+    },
+    {
+      "title": "Meet the people released from prison on August 14",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/conoce-a-las-y-los-excarcelados-de-este-14-de-agosto/",
+      "published_date": "2026-08-14T23:12:35Z",
+      "category": "Military"
+    },
+    {
+      "title": "Dinorah Figuera asks to continue pressure until all political prisoners are freed",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/dinorah-figuera-pide-continuar-presion-hasta-lograr-libertad-de-todos-los-presos-politicos/",
       "published_date": "2026-08-14T22:52:15Z",
@@ -157,10 +192,31 @@
       "category": "Military"
     },
     {
+      "title": "Jesús Ramírez scores against Galatasaray in his debut with Çorum",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/jesus-ramirez-le-marca-al-galatasaray-en-su-estreno-con-el-corum/",
+      "published_date": "2026-08-14T22:24:47Z",
+      "category": "Military"
+    },
+    {
+      "title": "Jesús Ramírez scores against Galatasaray in his debut with Çorum",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/jesus-ramirez-le-marca-al-galatasaray-en-su-estreno-con-el-corum/",
+      "published_date": "2026-08-14T22:24:47Z",
+      "category": "Military"
+    },
+    {
       "title": "Rice producers demand a price of $0.49 per kilo and a stop to imports during the upcoming harvest",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/productores-de-arroz-exigen-precio-de-049-por-kilo-y-freno-a-las-importaciones-durante-la-venidera-cosecha/",
       "published_date": "2026-08-14T22:14:17Z",
+      "category": "Military"
+    },
+    {
+      "title": "Emirlendris Benítez is released from prison: NGOs denounced torture that left her in a wheelchair",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/excarcelan-a-emirlendris-benitez-ong-denunciaron-torturas-que-la-dejaron-en-silla-de-ruedas/",
+      "published_date": "2026-08-14T21:58:49Z",
       "category": "Military"
     },
     {
@@ -178,10 +234,31 @@
       "category": "Military"
     },
     {
+      "title": "Organizations report dozens of releases of political prisoners",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/excarcelaciones-de-presos-politicos/",
+      "published_date": "2026-08-14T21:10:24Z",
+      "category": "Military"
+    },
+    {
+      "title": "Organizations report dozens of releases of political prisoners",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/excarcelaciones-de-presos-politicos/",
+      "published_date": "2026-08-14T21:10:24Z",
+      "category": "Military"
+    },
+    {
       "title": "Three fishermen were convicted of terrorism",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/617600/tres-pescadores-fueron-condenados-por-terrorismo/",
       "published_date": "2026-08-14T20:46:58Z",
+      "category": "Military"
+    },
+    {
+      "title": "NGOs demand guarantees of independence in reform of the TSJ",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/ong-exigen-garantias-de-independencia-en-reforma-del-tsj/",
+      "published_date": "2026-08-14T20:43:16Z",
       "category": "Military"
     },
     {
@@ -199,87 +276,10 @@
       "category": "Military"
     },
     {
-      "title": "Daniel Zambrano and Yolimar Alemán are released from prison; relatives ask for total freedom",
+      "title": "Emirlendris Benítez and 5 other political prisoners are released from prison this August 14",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/daniel-zambrano-excarcelado-este-viernes/",
-      "published_date": "2026-08-14T20:07:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "President Abelardo de la Espriella authorizes the first five extraditions of his mandate in Colombia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-presidente-abelardo-de-la-espriella-autoriza-las-primeras-cinco-extradiciones-de-su-mandato-en-colombia/",
-      "published_date": "2026-08-14T19:27:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "Liverpool announces that Jeff Bezos is one of its new investors",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/liverpool-anuncia-que-jeff-bezos-es-uno-de-sus-nuevos-inversores/",
-      "published_date": "2026-08-14T19:03:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Nacional presents the special The refoundation of Venezuela: the map of change",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-nacional-presenta-el-especial-la-refundacion-de-venezuela-el-mapa-del-cambio/",
-      "published_date": "2026-08-14T18:32:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Nacional presents the special The refoundation of Venezuela: the map of change",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-nacional-presenta-el-especial-la-refundacion-de-venezuela-el-mapa-del-cambio/",
-      "published_date": "2026-08-14T18:32:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "Three Falcón fishermen arrested during the 2024 protests are sentenced to six years in prison",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/condenan-a-seis-anos-de-prision-a-tres-pescadores-de-falcon-detenidos-durante-las-protestas-de-2024/",
-      "published_date": "2026-08-14T14:51:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Three Falcón fishermen arrested during the 2024 protests are sentenced to six years in prison",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/condenan-a-seis-anos-de-prision-a-tres-pescadores-de-falcon-detenidos-durante-las-protestas-de-2024/",
-      "published_date": "2026-08-14T14:51:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "Port of La Guaira reactivates its operations at 100% after the double earthquake",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/puerto-de-la-guaira-reactiva-sus-operaciones-al-100-tras-el-doble-terremoto/",
-      "published_date": "2026-08-14T14:45:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Port of La Guaira reactivates its operations at 100% after the double earthquake",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/puerto-de-la-guaira-reactiva-sus-operaciones-al-100-tras-el-doble-terremoto/",
-      "published_date": "2026-08-14T14:45:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "Falcon | Court sentences three fishermen detained during post-electoral context to six years in prison",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/condenan-trabajadores-detenidos-falcon-represion-poselectoral/",
-      "published_date": "2026-08-14T14:13:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Freed foreigners ask for the release of all political prisoners in Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/extranjeros-liberados-piden-excarcelacion-de-todos-los-presos-politicos-en-venezuela/",
-      "published_date": "2026-08-14T12:19:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Mañanero of August 14: Figuera says she is committed to the release of political prisoners",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/617553/el-mananero-del-14-de-agosto-figuera-dice-estar-comprometida-con-excarcelaciones-de-presos-politicos/",
-      "published_date": "2026-08-14T09:00:00Z",
+      "url": "https://efectococuyo.com/la-humanidad/emirlendris-benitez-y-otras-5-presas-politicas-reciben-excarcelacion-este-14-de-agosto/",
+      "published_date": "2026-08-14T20:30:28Z",
       "category": "Military"
     },
     {
@@ -325,17 +325,10 @@
       "category": "Energy"
     },
     {
-      "title": "Productores de Portuguesa denuncian cobro de vacunas y atropellos por parte de autoridades",
+      "title": "Portuguesa producers denounce charging for vaccines and abuses by authorities",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/productores-de-portuguesa-denuncian-cobro-de-vacunas-y-atropellos-por-parte-de-autoridades/",
       "published_date": "2026-08-14T16:25:26Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The US links the reactivation of Tocoma and Macagua with its three-phase plan for Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-vincula-reactivacion-de-tocoma-y-macagua-con-su-plan-de-tres-fases-para-venezuela/",
-      "published_date": "2026-08-14T16:19:44Z",
       "category": "Energy"
     },
     {
@@ -360,16 +353,16 @@
       "category": "Energy"
     },
     {
-      "title": "The United States sets tariffs of up to 100% on imported drones to encourage domestic production",
+      "title": "Oil companies YPF, ENI and XRG will invest 51,000 million dollars in natural gas in Argentina",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/estados-unidos-fija-aranceles-de-hasta-100-a-los-drones-importados-para-incentivar-la-produccion-nacional/",
-      "published_date": "2026-08-14T00:28:31Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/petroleras-ypf-eni-y-xrg-invetiran-51-000-millones-en-gas-natural-en-argentina/",
+      "published_date": "2026-08-13T23:08:16Z",
       "category": "Energy"
     },
     {
       "title": "Oil companies YPF, ENI and XRG will invest 51,000 million dollars in natural gas in Argentina",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/petroleras-ypf-eni-y-xrg-invetiran-51-000-millones-en-gas-natural-en-argentina/",
+      "url": "https://www.elnacional.com/2026/08/petroleras-ypf-eni-y-xrg-invetiran-51-000-millones-en-gas-natural-en-argentina/",
       "published_date": "2026-08-13T23:08:16Z",
       "category": "Energy"
     },
@@ -381,17 +374,10 @@
       "category": "Energy"
     },
     {
-      "title": "Venezuela suscribe acuerdos con empresas de Reino Unido, Emiratos Árabes Unidos y Qatar para la explotación del Campo Loran",
+      "title": "Venezuela signs agreements with companies from the United Kingdom, United Arab Emirates and Qatar for the exploitation of the Loran Field",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/venezuela-suscribe-acuerdos-con-empresas-de-reino-unido-emiratos-arabes-unidos-y-qatar-para-la-explotacion-del-campo-loran/",
       "published_date": "2026-08-13T22:21:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Raúl Azparren: The root of the electricity crisis lies in the management of personnel without technical knowledge and the lack of investment",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/raul-azparren-raiz-crisis-electrica-falta-inversion-tecnica/",
-      "published_date": "2026-08-13T22:07:58Z",
       "category": "Energy"
     },
     {
@@ -421,6 +407,27 @@
       "url": "https://bitlysdowssl-aws.com/2026/08/citgo-gana-936-millones-en-segundo-trimestre-de-2026-en-medio-de-amenazas-de-embargo/",
       "published_date": "2026-08-13T19:48:39Z",
       "category": "Energy"
+    },
+    {
+      "title": "MinTurismo and the Government of Vargas seek to coordinate the reactivation of the beaches",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/minturismo-y-gobernacion-de-vargas-buscan-coordinar-la-reactivacion-de-las-playas/",
+      "published_date": "2026-08-13T14:59:28Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Consecomercio demands a calendar for electricity rationing due to the crisis",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/consecomercio-exige-un-calendario-del-racionamiento-electrico-por-la-crisis/",
+      "published_date": "2026-08-12T17:49:12Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Merchants question increase in bank commissions: “Where are we going to end up?”",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/comerciantes-cuestionan-aumento-de-comisiones-bancarias-a-donde-vamos-a-parar/",
+      "published_date": "2026-08-14T23:29:24Z",
+      "category": "Economy"
     },
     {
       "title": "Seniat eliminates the RIF expiration date and simplifies tax procedures",
@@ -472,7 +479,7 @@
       "category": "Economy"
     },
     {
-      "title": "Academias ponen a disposición su potencial técnico y científico para contribuir al Plan de Reconstrucción Nacional",
+      "title": "Academies make their technical and scientific potential available to contribute to the National Reconstruction Plan",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/academias-ponen-a-disposicion-su-potencial-tecnico-y-cientifico-para-contribuir-al-plan-de-reconstruccion-nacional/",
       "published_date": "2026-08-14T13:47:00Z",
@@ -486,7 +493,7 @@
       "category": "Economy"
     },
     {
-      "title": "Banco Central busca alianza con Numisma Bank, especializado en negociar billetes al mayor",
+      "title": "Central Bank seeks alliance with Numisma Bank, specialized in trading wholesale banknotes",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/banco-central-se-reune-con-numisma-bank-especializado-en-negociar-billetes-al-mayor/",
       "published_date": "2026-08-14T12:13:02Z",
@@ -507,10 +514,31 @@
       "category": "Economy"
     },
     {
+      "title": "The health benefits of doing intense sports for a few minutes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/los-beneficios-de-hacer-deporte-intenso-por-unos-minutos/",
+      "published_date": "2026-08-14T09:01:00Z",
+      "category": "Economy"
+    },
+    {
       "title": "Tocoma will add 160 megawatts in 90 days to reinforce the Venezuelan electrical system",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/tocoma-sumara-160-megavatios-en-90-dias-para-reforzar-sistema-electrico-venezolano/",
       "published_date": "2026-08-14T00:25:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Tocoma will add 160 megawatts in 90 days to reinforce the Venezuelan electrical system",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/tocoma-sumara-160-megavatios-en-90-dias-para-reforzar-sistema-electrico-venezolano/",
+      "published_date": "2026-08-14T00:25:29Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Raúl Azparren: The root of the electricity crisis lies in the management of personnel without technical knowledge and the lack of investment",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/raul-azparren-raiz-crisis-electrica-falta-inversion-tecnica/",
+      "published_date": "2026-08-13T22:07:58Z",
       "category": "Economy"
     },
     {
@@ -535,32 +563,123 @@
       "category": "Economy"
     },
     {
-      "title": "The MPV proposes to Dinorah Figuera measures to stop inflation and devaluation",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/mpv-propone-medidas-frenar-inflacion-devaluacion-venezuela/",
-      "published_date": "2026-08-13T18:14:40Z",
-      "category": "Economy"
-    },
-    {
-      "title": "José Guerra warns that Venezuela does not have a clear economic policy or program",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jose-guerra-advierte-que-venezuela-no-tiene-una-politica-ni-un-programa-economico-claro/",
-      "published_date": "2026-08-13T18:01:17Z",
-      "category": "Economy"
-    },
-    {
-      "title": "José Guerra warns that Venezuela does not have a clear economic policy or program",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/jose-guerra-advierte-que-venezuela-no-tiene-una-politica-ni-un-programa-economico-claro/",
-      "published_date": "2026-08-13T18:01:17Z",
-      "category": "Economy"
-    },
-    {
-      "title": "FAO: Artisanal fishing falls 40% in La Guaira after the earthquake",
+      "title": "Loyalty is not blindness",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/fao-pesca-artesanal-cae-40-en-la-guaira-tras-el-sismo/",
-      "published_date": "2026-08-13T17:55:01Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/opinion/lealtad-no-es-ceguera/",
+      "published_date": "2026-08-15T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The honest cinema of Fast and Furious",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/el-cine-honesto-de-rapido-y-furioso/",
+      "published_date": "2026-08-15T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The honest cinema of Fast and Furious",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-cine-honesto-de-rapido-y-furioso/",
+      "published_date": "2026-08-15T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The structure has fallen, but not the Church”: the impact of the earthquakes on the Catholic temples of Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/se-nos-ha-caido-la-estructura-pero-no-la-iglesia/",
+      "published_date": "2026-08-15T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The structure has fallen, but not the Church”: the impact of the earthquakes on the Catholic temples of Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/se-nos-ha-caido-la-estructura-pero-no-la-iglesia/",
+      "published_date": "2026-08-15T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The memory of a hug",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/617616/centro-de-acopio/",
+      "published_date": "2026-08-15T02:36:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toll of the earthquake in Colombia amounts to 288 dead and 202 missing",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/balance-del-terremoto-en-colombia-asciende-a-288-muertos-y-202-desaparecidos/",
+      "published_date": "2026-08-15T01:09:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Toll of the earthquake in Colombia amounts to 288 dead and 202 missing",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/balance-del-terremoto-en-colombia-asciende-a-288-muertos-y-202-desaparecidos/",
+      "published_date": "2026-08-15T01:09:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“To the girls who remain in the Inof, do not lose faith”: message from Emirlendris Benítez",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/primeras-palabras-de-emirlendris-benitez-y-su-familia/",
+      "published_date": "2026-08-15T00:54:45Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chile will send experts to Venezuela to evaluate structural damage after earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/chile-enviara-expertos-a-venezuela-para-evaluar-danos-estructurales-tras-terremotos/",
+      "published_date": "2026-08-15T00:48:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chile will send experts to Venezuela to evaluate structural damage after earthquakes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/chile-enviara-expertos-a-venezuela-para-evaluar-danos-estructurales-tras-terremotos/",
+      "published_date": "2026-08-15T00:48:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 4.8 magnitude earthquake shakes Granada and is felt in several towns in the province",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/un-sismo-de-magnitud-48-sacude-granada-y-se-hace-sentir-en-varias-localidades-de-la-provincia/",
+      "published_date": "2026-08-15T00:41:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "A 4.8 magnitude earthquake shakes Granada and is felt in several towns in the province",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/un-sismo-de-magnitud-48-sacude-granada-y-se-hace-sentir-en-varias-localidades-de-la-provincia/",
+      "published_date": "2026-08-15T00:41:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump compares the border situation of Biden's mandate with the recent immigration events in Ceuta",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/donald-trump-compara-la-situacion-fronteriza-del-mandato-de-biden-con-los-recientes-sucesos-migratorios-en-ceuta/",
+      "published_date": "2026-08-15T00:10:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Donald Trump compares the border situation of Biden's mandate with the recent immigration events in Ceuta",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/donald-trump-compara-la-situacion-fronteriza-del-mandato-de-biden-con-los-recientes-sucesos-migratorios-en-ceuta/",
+      "published_date": "2026-08-15T00:10:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "7.7 magnitude earthquake in Indonesia, with aftershocks of 5.6 and 5.9",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/terremoto-de-magnitud-77-en-indonesia-con-replicas-de-56-y-59/",
+      "published_date": "2026-08-14T23:33:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "7.7 magnitude earthquake in Indonesia, with aftershocks of 5.6 and 5.9",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/terremoto-de-magnitud-77-en-indonesia-con-replicas-de-56-y-59/",
+      "published_date": "2026-08-14T23:33:20Z",
+      "category": "Local Events"
     },
     {
       "title": "Alessandro Milani leaves the match between Inter and Vado injured",
@@ -581,125 +700,6 @@
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/cocuyo-chequea/hay-mas-terremotos-en-2026-datos-demuestran-que-los-sismos-se-mantienen-en-rangos-habituales/",
       "published_date": "2026-08-14T23:12:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conoce a las y los excarcelados de este 14 de agosto",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/conoce-a-las-y-los-excarcelados-de-este-14-de-agosto/",
-      "published_date": "2026-08-14T23:12:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lactalis accompanies family recovery with “A glass of hope”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/salud/lactalis-acompana-la-recuperacion-familiar-con-un-vaso-de-esperanza/",
-      "published_date": "2026-08-14T22:53:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Venezuela increased almost 180% during the first half of 2026, according to the OVCS",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/las-protestas-en-venezuela-se-incrementaron-casi-180-durante-el-primer-semestre-de-2026-segun-el-ovcs/",
-      "published_date": "2026-08-14T22:41:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Protests in Venezuela increased almost 180% during the first half of 2026, according to the OVCS",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/las-protestas-en-venezuela-se-incrementaron-casi-180-durante-el-primer-semestre-de-2026-segun-el-ovcs/",
-      "published_date": "2026-08-14T22:41:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Humanity is also measured in times of crisis",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/617605/tiempos-de-crisis/",
-      "published_date": "2026-08-14T22:38:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela adds 11 players among the 100 best MLB prospects",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/venezuela-suma-11-peloteros-entre-los-100-mejores-prospectos-de-mlb/",
-      "published_date": "2026-08-14T22:23:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela suma 11 peloteros entre los 100 mejores prospectos de MLB",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/venezuela-suma-11-peloteros-entre-los-100-mejores-prospectos-de-mlb/",
-      "published_date": "2026-08-14T22:23:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UnitedHealth and family of slain executive Brian Thompson welcome Luigi Mangione's guilty plea",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/unitedhealth-y-la-familia-del-ejecutivo-asesinado-brian-thompson-valoran-la-admision-de-culpabilidad-de-luigi-mangione/",
-      "published_date": "2026-08-14T22:02:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "UnitedHealth y la familia del ejecutivo asesinado Brian Thompson valoran la admisión de culpabilidad de Luigi Mangione",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/unitedhealth-y-la-familia-del-ejecutivo-asesinado-brian-thompson-valoran-la-admision-de-culpabilidad-de-luigi-mangione/",
-      "published_date": "2026-08-14T22:02:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela already knows its Conmebol U-20 futsal rivals",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/venezuela-ya-conoce-a-sus-rivales-del-conmebol-sub-20-de-futsal/",
-      "published_date": "2026-08-14T21:19:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela already knows its Conmebol U-20 futsal rivals",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/venezuela-ya-conoce-a-sus-rivales-del-conmebol-sub-20-de-futsal/",
-      "published_date": "2026-08-14T21:19:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Interim government announces 131 releases; NGOs have only been able to confirm at least 40",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/gobierno-interino-anuncia-131-excarcelaciones-ong/",
-      "published_date": "2026-08-14T21:08:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ONG exigen garantías de independencia en reforma del TSJ",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-exigen-garantias-de-independencia-en-reforma-del-tsj/",
-      "published_date": "2026-08-14T20:43:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kevin Kelsy reached ten goals with Portland in the 2026 season",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/kevin-kelsy-alcanzo-los-diez-goles-con-portland-en-la-temporada-2026/",
-      "published_date": "2026-08-14T20:09:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Kevin Kelsy reached ten goals with Portland in the 2026 season",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/kevin-kelsy-alcanzo-los-diez-goles-con-portland-en-la-temporada-2026/",
-      "published_date": "2026-08-14T20:09:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Unknown persons set fire to a Venezuelan on a public road in Chile",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/desconocidos-incendiaron-a-un-venezolano-en-via-publica-de-chile/",
-      "published_date": "2026-08-14T20:09:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venus Williams falls in debut in Cincinnati",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/venus-williams-cae-en-su-debut-en-cincinnati/",
-      "published_date": "2026-08-14T20:08:05Z",
       "category": "Local Events"
     }
   ]
