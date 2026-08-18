@@ -1,18 +1,67 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-17T23:30:04Z",
+  "last_updated": "2026-08-18T11:30:29Z",
   "stories": [
     {
-      "title": "Aumenta a 6.438 la cifra de fallecidos por los terremotos en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/balance-oficial-aumenta-el-saldo-de-fallecidos-por-los-terremotos-en-venezuela-6-438-fallecidos/",
-      "published_date": "2026-08-17T23:16:24Z",
+      "title": "The promises of the “new political moment” are not advancing at the pace that the country needs",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/las-promesas-del-nuevo-momento-politico-no-avanzan-al-ritmo-que-el-pais-lo-necesita/",
+      "published_date": "2026-08-18T06:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The promises of the “new political moment” are not advancing at the pace that the country needs",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/las-promesas-del-nuevo-momento-politico-no-avanzan-al-ritmo-que-el-pais-lo-necesita/",
+      "published_date": "2026-08-18T06:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Penal Forum raises verified releases to 81 since August 14",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/foro-penal-eleva-a-81-las-excarcelaciones-verificadas-desde-el-14-agosto/",
+      "published_date": "2026-08-18T00:53:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Penal Forum raises verified releases to 81 since August 14",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/foro-penal-eleva-a-81-las-excarcelaciones-verificadas-desde-el-14-agosto/",
+      "published_date": "2026-08-18T00:53:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alejandro Betancourt emerges as the oil bridge between Delcy Rodríguez and the United States",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/617727/alejandro-betancourt-emerge-como-el-puente-petrolero-entre-delcy-rodriguez-y-estados-unidos/",
+      "published_date": "2026-08-18T00:51:12Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump scolded a CNN journalist and defended his relationship with Kim Jong-un",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/donald-trump-increpa-periodista-cnn-defiende-kim-jong-un-2026/",
+      "published_date": "2026-08-17T23:51:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump scolded a CNN journalist and defended his relationship with Kim Jong-un",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/donald-trump-increpa-periodista-cnn-defiende-kim-jong-un-2026/",
+      "published_date": "2026-08-17T23:51:00Z",
       "category": "Diplomacy"
     },
     {
       "title": "Michael Kozak concludes his tenure at the Office of Western Hemisphere Affairs",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/michael-kozak-concluye-su-gestion-en-la-oficina-de-asuntos-del-hemisferio-occidental/",
+      "published_date": "2026-08-17T23:15:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Michael Kozak concludes his tenure at the Office of Western Hemisphere Affairs",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/michael-kozak-concluye-su-gestion-en-la-oficina-de-asuntos-del-hemisferio-occidental/",
       "published_date": "2026-08-17T23:15:15Z",
       "category": "Diplomacy"
     },
@@ -24,7 +73,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez entregó 48 viviendas en Ciudad Tiuna a familias afectadas por los terremotos",
+      "title": "Delcy Rodríguez delivered 48 homes in Ciudad Tiuna to families affected by the earthquakes",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/delcy-rodriguez-entrego-48-viviendas-en-ciudad-tiuna-a-familias-afectadas-por-los-terremotos/",
       "published_date": "2026-08-17T23:01:05Z",
@@ -52,7 +101,7 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Agroo, cómo funciona la innovadora “Cashea del campo” para financiar a los agricultores",
+      "title": "Agroo, how the innovative “Cashea del campo” works to finance farmers",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/agroo-como-funciona-la-innovadora-cashea-del-campo-para-financiar-a-los-agricultores/",
       "published_date": "2026-08-17T22:13:15Z",
@@ -87,13 +136,6 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Pope Leo XIV and Andrea Bocelli join in the Canticle of Peace meeting",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/papa-leon-xiv-andrea-bocelli-cantico-de-paz-castel-gandolfo-2026/",
-      "published_date": "2026-08-17T20:15:42Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "KEYS | What is the UPR and why Venezuela should undergo the UN examination again",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/617710/claves-que-es-el-epu-y-por-que-venezuela-debe-someterse-de-nuevo-al-examen-de-la-onu/",
@@ -101,51 +143,44 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Three members of a family die in a traffic accident on the José Antonio Páez highway in Barinas",
+      "title": "Japan affirms that cooperation between the US and South Korea is “fundamental” for regional security",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/accidente-autopista-jose-antonio-paez-barinas-fallecidos-2026/",
-      "published_date": "2026-08-17T20:03:39Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/japon-afirma-que-cooperacion-entre-ee-uu-y-corea-del-sur-es-fundamental-para-la-seguridad-regional/",
+      "published_date": "2026-08-18T10:08:00Z",
+      "category": "Military"
     },
     {
-      "title": "Bloomberg: Sargeant's departure points to a new stage in US policy towards Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/bloomberg-salida-de-sargeant-apunta-a-una-nueva-etapa-de-la-politica-de-ee-uu-hacia-venezuela/",
-      "published_date": "2026-08-17T20:02:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Plataforma Unitaria Democrática confirma otras 25 excarcelaciones de presos políticos en las últimas 48 horas",
+      "title": "Japan affirms that cooperation between the US and South Korea is “fundamental” for regional security",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/plataforma-unitaria-democratica-confirma-25-nuevas-excarcelaciones-de-presos-politicos-en-las-ultimas-48-horas/",
-      "published_date": "2026-08-17T19:45:04Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/japon-afirma-que-cooperacion-entre-ee-uu-y-corea-del-sur-es-fundamental-para-la-seguridad-regional/",
+      "published_date": "2026-08-18T10:08:00Z",
+      "category": "Military"
     },
     {
-      "title": "“I feel like my hands are tied”: woman asks for help to recover her family under the rubble in La Guaira",
+      "title": "Delcy's management and political prisoners",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/617749/presos-politicos-venezuela/",
+      "published_date": "2026-08-18T05:43:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Why there are no official lists of released political prisoners: this is the reason",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/me-siento-de-manos-atadas-mujer-pide-ayuda-para-recuperar-a-su-familia-bajo-los-escombros-en-la-guaira/",
-      "published_date": "2026-08-17T18:36:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGOs demand that the appointment of the new TSJ have a nomination committee with international organizations",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ong-exigen-que-designacion-del-nuevo-tsj-cuente-con-un-comite-de-postulaciones-con-organismos-internacionales/",
-      "published_date": "2026-08-17T18:15:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Impunity under rubble: corruption and the right to life in seismic catastrophes",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/impunidad-bajo-escombros-corrupcion-y-derecho-a-la-vida-en-catastrofes-sismicas/",
-      "published_date": "2026-08-17T17:52:04Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/por-que-no-hay-listas-oficiales-de-presos-politicos-excarcelados-esta-es-la-razon/",
+      "published_date": "2026-08-17T23:36:47Z",
+      "category": "Military"
     },
     {
       "title": "The state trial against Luigi Mangione in New York is postponed to December",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/aplazan-para-diciembre-el-juicio-estatal-contra-luigi-mangione-en-nueva-york/",
+      "published_date": "2026-08-17T23:20:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "The state trial against Luigi Mangione in New York is postponed to December",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/aplazan-para-diciembre-el-juicio-estatal-contra-luigi-mangione-en-nueva-york/",
       "published_date": "2026-08-17T23:20:50Z",
       "category": "Military"
     },
@@ -164,7 +199,14 @@
       "category": "Military"
     },
     {
-      "title": "Released political prisoners confirm presentation regimes",
+      "title": "Omar Mora Tosta denounces judicial obstacles against opposition leaders Dignora Hernández and Henry Alviarez",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/omar-mora-tosta-denuncia-trabas-judiciales-contra-los-dirigentes-opositores-dignora-hernandez-y-henry-alviarez/",
+      "published_date": "2026-08-17T22:53:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Released political prisoners confirm presentation regime",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/presos-politicos-recien-excarcelados-van-a-tribunales/",
       "published_date": "2026-08-17T22:06:59Z",
@@ -208,6 +250,13 @@
     {
       "title": "Democratic Unitary Platform confirms another 25 releases of political prisoners in the last 48 hours",
       "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/plataforma-unitaria-democratica-confirma-25-nuevas-excarcelaciones-de-presos-politicos-en-las-ultimas-48-horas/",
+      "published_date": "2026-08-17T19:45:04Z",
+      "category": "Military"
+    },
+    {
+      "title": "Democratic Unitary Platform confirms another 25 releases of political prisoners in the last 48 hours",
+      "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/plataforma-unitaria-democratica-confirma-25-nuevas-excarcelaciones-de-presos-politicos-en-las-ultimas-48-horas/",
       "published_date": "2026-08-17T19:45:04Z",
       "category": "Military"
@@ -234,59 +283,17 @@
       "category": "Military"
     },
     {
-      "title": "InSight Crime: Por qué no desaparece el crimen organizado tras la captura de Maduro",
+      "title": "Consecomercio demands that Corpoelec publish an official electricity rationing schedule",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/insight-crime-por-que-no-desaparece-el-crimen-organizado-tras-la-captura-de-maduro/",
-      "published_date": "2026-08-17T18:32:32Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/08/consecomercio-exige-a-corpoelec-la-publicacion-de-un-cronograma-oficial-de-racionamiento-electrico/",
+      "published_date": "2026-08-18T00:57:50Z",
+      "category": "Energy"
     },
     {
-      "title": "Jonas Vingegaard ends his season after crash in the Tour de France",
+      "title": "Consecomercio demands that Corpoelec publish an official electricity rationing schedule",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jonas-vingegaard-finaliza-su-temporada-tras-caida-en-el-tour-de-francia/",
-      "published_date": "2026-08-17T18:31:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Jonas Vingegaard finaliza su temporada tras caída en el Tour de Francia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/jonas-vingegaard-finaliza-su-temporada-tras-caida-en-el-tour-de-francia/",
-      "published_date": "2026-08-17T18:31:03Z",
-      "category": "Military"
-    },
-    {
-      "title": "Foro Penal divulga lista con 78 de los 131 excarcelados que anunció el Gobierno",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/617703/foro-penal-divulga-lista-con-78-de-los-131-excarcelados-que-anuncio-el-gobierno/",
-      "published_date": "2026-08-17T17:35:01Z",
-      "category": "Military"
-    },
-    {
-      "title": "AP: US Army expands ground campaign in Latin America",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ap-ejercito-de-ee-uu-amplia-campana-terrestre-en-latinoamerica/",
-      "published_date": "2026-08-17T17:04:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "AP: US Army expands ground campaign in Latin America",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ap-ejercito-de-ee-uu-amplia-campana-terrestre-en-latinoamerica/",
-      "published_date": "2026-08-17T17:04:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Penal Forum has only been able to confirm 78 releases since Friday",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/foro-penal-solo-ha-podido-confirmar-78-excarcelaciones-desde-el-viernes/",
-      "published_date": "2026-08-17T16:51:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Michael Kozak concludes his tenure at the Office of Western Hemisphere Affairs",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/michael-kozak-concluye-su-gestion-en-la-oficina-de-asuntos-del-hemisferio-occidental/",
-      "published_date": "2026-08-17T23:15:15Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/consecomercio-exige-a-corpoelec-la-publicacion-de-un-cronograma-oficial-de-racionamiento-electrico/",
+      "published_date": "2026-08-18T00:57:50Z",
       "category": "Energy"
     },
     {
@@ -325,7 +332,7 @@
       "category": "Energy"
     },
     {
-      "title": "Docente denuncia destitución tras participar en protestas y cuestionar al gobierno venezolano",
+      "title": "Teacher denounces dismissal after participating in protests and questioning the Venezuelan government",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/docente-denuncia-destitucion-tras-participar-en-protestas-y-cuestionar-al-gobierno-venezolano/",
       "published_date": "2026-08-17T19:30:44Z",
@@ -343,13 +350,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/petrolera-india-ongc-logra-licencia-de-ee-uu-para-acelerar-produccion-en-venezuela/",
       "published_date": "2026-08-17T19:26:54Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Preso por caso Pdvsa-Cripto sufrió infarto y quieren llevarlo al Rodeo I",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/617707/preso-por-caso-pdvsa-cripto-sufrio-infarto-y-quieren-llevarlo-al-rodeo-i/",
-      "published_date": "2026-08-17T18:04:13Z",
       "category": "Energy"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "Older adults report that they survive with a pension of $0.17 and demand to be included in the dialogue table",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/adultos-mayores-denuncian-que-sobreviven-con-una-pension-de-017-y-exigen-ser-incluidos-en-la-mesa-de-dialogo/",
+      "published_date": "2026-08-17T23:45:38Z",
+      "category": "Economy"
+    },
+    {
       "title": "Bank fees on the rise: businesses and customers will pay more for transactions",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/economia/tarifas-bancarias-al-alza-comercios-y-clientes-pagaran-mas-por-transacciones/",
@@ -479,9 +486,16 @@
       "category": "Economy"
     },
     {
-      "title": "Cristian Castro terminó el bachillerato a los 51 años de edad",
+      "title": "Cristian Castro finished high school at 51 years of age",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/cristian-castro-termino-el-bachillerato-a-los-51-anos-de-edad/",
+      "published_date": "2026-08-17T08:30:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cristian Castro finished high school at 51 years of age",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/cristian-castro-termino-el-bachillerato-a-los-51-anos-de-edad/",
       "published_date": "2026-08-17T08:30:00Z",
       "category": "Economy"
     },
@@ -549,157 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Merchants question increase in bank commissions: “Where are we going to end up?”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/comerciantes-cuestionan-aumento-de-comisiones-bancarias-a-donde-vamos-a-parar/",
-      "published_date": "2026-08-14T23:29:24Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Seniat eliminates the RIF expiration date and simplifies tax procedures",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/seniat-elimina-la-fecha-de-vencimiento-del-rif-y-simplifica-tramites-tributarios/",
-      "published_date": "2026-08-14T23:09:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Strong electrical outage affected Caracas and several states of the country this #17Ago",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/fuerte-bajon-electrico-afecto-a-caracas-y-varios-estados-del-pais-este-17ago/",
-      "published_date": "2026-08-17T23:26:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The state trial against Luigi Mangione in New York is postponed to December",
+      "title": "Earthquake of intensity 4.7 reported in Granada",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/aplazan-para-diciembre-el-juicio-estatal-contra-luigi-mangione-en-nueva-york/",
-      "published_date": "2026-08-17T23:20:50Z",
+      "url": "https://www.elnacional.com/2026/08/sismo-de-magnitud-47-en-granada/",
+      "published_date": "2026-08-18T10:40:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Omar Mora Tosta denounces judicial obstacles against opposition leaders Dignora Hernández and Henry Alviarez",
+      "title": "Earthquake of intensity 4.7 reported in Granada",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/omar-mora-tosta-denuncia-trabas-judiciales-contra-los-dirigentes-opositores-dignora-hernandez-y-henry-alviarez/",
-      "published_date": "2026-08-17T22:53:04Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/sismo-de-magnitud-47-en-granada/",
+      "published_date": "2026-08-18T10:40:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Deportivo La Coruña draws with Elche on its return to LaLiga",
+      "title": "The official rush builds temporary housing in Ciudad Caribia for those affected by the earthquakes",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/617716/la-prisa-oficial-levanta-viviendas-temporales-en-ciudad-caribia-para-afectados-por-los-terremotos/",
+      "published_date": "2026-08-18T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Training plan announced for construction workers after earthquakes: where and when to sign up?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/deportivo-la-coruna-empata-con-el-elche-en-su-vuelta-a-laliga/",
-      "published_date": "2026-08-17T22:46:28Z",
+      "url": "https://www.elnacional.com/2026/08/anuncian-plan-de-formacion-para-trabajadores-de-la-construccion-tras-sismos-donde-y-cuando-inscribirse/",
+      "published_date": "2026-08-18T09:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Deportivo La Coruña draws with Elche on its return to LaLiga",
+      "title": "Training plan announced for construction workers after earthquakes: where and when to sign up?",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/deportivo-la-coruna-empata-con-el-elche-en-su-vuelta-a-laliga/",
-      "published_date": "2026-08-17T22:46:28Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/anuncian-plan-de-formacion-para-trabajadores-de-la-construccion-tras-sismos-donde-y-cuando-inscribirse/",
+      "published_date": "2026-08-18T09:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Del terremoto a la lluvia: familias en Caracas vuelven a quedar a la intemperie",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/del-terremoto-a-la-lluvia-familias-en-caracas-vuelven-a-quedar-a-la-intemperie/",
-      "published_date": "2026-08-17T22:29:04Z",
+      "title": "El Mañanero of August 18: It came back, it came back, it came back, it came back... the official bulletin on earthquakes",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/617746/el-mananero-del-18-de-agosto-volvio-volvio-volvio-volvioel-boletin-oficial-sobre-los-terremotos/",
+      "published_date": "2026-08-18T09:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Photos and videos | Latin stars united in Venezuela and Colombia in concert “United for Ours”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/estrellas-latinas-se-unieron-por-venezuela-y-colombia-en-concierto-unidos-por-los-nuestros/",
-      "published_date": "2026-08-17T22:22:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "USA | Venezuelans in Miami ask for DED protection: what is it and what is it about?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/ee-uu-venezolanos-en-miami-piden-proteccion-ded-que-es-y-de-que-trata/",
-      "published_date": "2026-08-17T22:16:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emirlendris Benítez confirms that he received a humanitarian measure and has a regime of presentation every three months in Barquisimeto",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/emirlendris-benitez-medida-humanitaria-barquisimeto/",
-      "published_date": "2026-08-17T21:58:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolivar | Dismissed from a school for political reasons: the case of teacher Nayibet Morales",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-destituida-de-una-escuela-por-razones-politicas-el-caso-de-la-maestra-nayibet-morales/",
-      "published_date": "2026-08-17T21:55:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Michael Kozak deja la Oficina para el Hemisferio Occidental de la Casa Blanca",
+      "title": "They report an earthquake of magnitude 4 in Vargas and Caracas early this Tuesday",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/michael-kozak-deja-la-oficina-para-el-hemisferio-occidental-de-la-casa-blanca/",
-      "published_date": "2026-08-17T21:55:15Z",
+      "url": "https://efectococuyo.com/la-humanidad/sismo-46-se-sintio-vargas-caracas/",
+      "published_date": "2026-08-18T08:40:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Barinas | Health unions protest after arrest of personnel for injuries to a newborn: “It was not meant to cause harm”",
+      "title": "Miyamoto: “What went wrong is that there is no adequate inspection and compliance with regulations in Venezuela”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/miyamoto-lo-que-salio-mal-es-que-no-existe-en-venezuela-una-inspeccion-adecuada-y-el-cumplimiento-de-las-normativas/",
+      "published_date": "2026-08-18T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquakes deepened the water service crisis",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/terremotos-profundizan-crisis-en-el-servicio-de-agua-en-venezuela/",
+      "published_date": "2026-08-18T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Miyamoto: “What went wrong is that there is no adequate inspection and compliance with regulations in Venezuela”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/miyamoto-lo-que-salio-mal-es-que-no-existe-en-venezuela-una-inspeccion-adecuada-y-el-cumplimiento-de-las-normativas/",
+      "published_date": "2026-08-18T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Earthquakes deepened the water service crisis",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/terremotos-profundizan-crisis-en-el-servicio-de-agua-en-venezuela/",
+      "published_date": "2026-08-18T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnitude 4 earthquake shook La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/sismo-de-magnitud-4-sacudio-la-guaira/",
+      "published_date": "2026-08-18T05:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magnitude 4 earthquake shook La Guaira",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/sismo-de-magnitud-4-sacudio-la-guaira/",
+      "published_date": "2026-08-18T05:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“I plunged into my own hell”: the difficult life of the late actress Hayden Panettiere while she was triumphing on television",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/me-sumergi-en-mi-propio-infierno-la-dificil-vida-de-la-fallecida-actriz-hayden-panettiere-mientras-triunfaba-en-television/",
+      "published_date": "2026-08-18T00:44:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“I plunged into my own hell”: the difficult life of the late actress Hayden Panettiere while she was triumphing on television",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/me-sumergi-en-mi-propio-infierno-la-dificil-vida-de-la-fallecida-actriz-hayden-panettiere-mientras-triunfaba-en-television/",
+      "published_date": "2026-08-18T00:44:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Teenagers who died swept away by the flood left by the rain were friends since childhood",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/barinas-gremios-de-la-salud-protestan-tras-detencion-de-personal-por-lesiones-a-un-recien-nacido-no-fue-para-hacer-dano/",
-      "published_date": "2026-08-17T21:54:48Z",
+      "url": "https://elpitazo.net/sucesos/adolescentes-que-murieron-arrastradas-por-la-inundacion-que-dejo-la-lluvia-eran-amigas-desde-la-infancia/",
+      "published_date": "2026-08-18T00:34:40Z",
       "category": "Local Events"
     },
     {
-      "title": "The death toll from the earthquakes in Venezuela increases to 6,438",
+      "title": "Figuera recognizes Michael Kozak's support for Venezuela after his departure from office",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/aumenta-a-6-438-el-numero-de-muertos-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-08-17T21:44:51Z",
+      "url": "https://www.elnacional.com/2026/08/figuera-reconoce-respaldo-de-michael-kozak-a-venezuela-tras-su-salida-del-cargo/",
+      "published_date": "2026-08-18T00:29:52Z",
       "category": "Local Events"
     },
     {
-      "title": "The death toll from the earthquakes in Venezuela increases to 6,438",
+      "title": "Figuera recognizes Michael Kozak's support for Venezuela after his departure from office",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/aumenta-a-6-438-el-numero-de-muertos-por-los-terremotos-en-venezuela/",
-      "published_date": "2026-08-17T21:44:51Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/figuera-reconoce-respaldo-de-michael-kozak-a-venezuela-tras-su-salida-del-cargo/",
+      "published_date": "2026-08-18T00:29:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Deaths from the double seismic event in Venezuela increase to 6,438",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/aumentan-a-6-438-los-fallecidos-por-el-doblete-sismico/",
-      "published_date": "2026-08-17T21:30:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A week after the earthquake, Cali still hasn't finished counting its deaths",
+      "title": "The two largest reservoirs in the United States fall to historic lows due to drought",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/una-semana-despues-del-terremoto-cali-aun-no-termina-de-contar-sus-muertos/",
-      "published_date": "2026-08-17T21:24:56Z",
+      "url": "https://www.elnacional.com/2026/08/embalses-estados-unidos-minimos-historicos-sequia-rio-colorado-afp-2026/",
+      "published_date": "2026-08-18T00:26:41Z",
       "category": "Local Events"
     },
     {
-      "title": "A week after the earthquake, Cali still hasn't finished counting its deaths",
+      "title": "The two largest reservoirs in the United States fall to historic lows due to drought",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/una-semana-despues-del-terremoto-cali-aun-no-termina-de-contar-sus-muertos/",
-      "published_date": "2026-08-17T21:24:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The Virgin of Chiquinquirá de Aregue began her pilgrimage in the parish of Nuestra Señora del Carmen de Carora",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/virgen-chiquinquira-aregue-peregrinacion-carora-lara-2026/",
-      "published_date": "2026-08-17T21:13:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La Virgen de Chiquinquirá de Aregue inició su peregrinación en la parroquia Nuestra Señora del Carmen de Carora",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/virgen-chiquinquira-aregue-peregrinacion-carora-lara-2026/",
-      "published_date": "2026-08-17T21:13:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Former mayor of Maracaibo asks the ombudsman to intervene due to blackouts of up to 8 hours in Zulia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/exalcalde-de-maracaibo-pide-a-la-defensora-del-pueblo-intervenir-por-apagones-de-hasta-8-horas-en-zulia/",
-      "published_date": "2026-08-17T21:11:26Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/embalses-estados-unidos-minimos-historicos-sequia-rio-colorado-afp-2026/",
+      "published_date": "2026-08-18T00:26:41Z",
       "category": "Local Events"
     }
   ]
