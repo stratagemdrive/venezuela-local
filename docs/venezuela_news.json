@@ -1,146 +1,265 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-20T11:31:19Z",
+  "last_updated": "2026-08-20T23:33:07Z",
   "stories": [
     {
-      "title": "Prince Harry and Meghan Markle plan to return to the UK later this month",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-principe-harry-y-meghan-markle-planean-volver-al-reino-unido-a-finales-de-este-mes/",
-      "published_date": "2026-08-20T00:27:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Prince Harry and Meghan Markle plan to return to the UK later this month",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-principe-harry-y-meghan-markle-planean-volver-al-reino-unido-a-finales-de-este-mes/",
-      "published_date": "2026-08-20T00:27:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGOs demand that the dialogue table accelerate the renewal of the CNE: “If there is political will, October is a possible date”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ong-exigen-a-la-mesa-de-dialogo-acelerar-la-renovacion-del-cne-si-existe-voluntad-politica-octubre-es-una-fecha-posible/",
-      "published_date": "2026-08-19T23:41:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGOs demand that the dialogue table accelerate the renewal of the CNE: “If there is political will, October is a possible date”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ong-exigen-a-la-mesa-de-dialogo-acelerar-la-renovacion-del-cne-si-existe-voluntad-politica-octubre-es-una-fecha-posible/",
-      "published_date": "2026-08-19T23:41:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deco assures that Barcelona is looking to add a new forward",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/deco-asegura-que-el-barcelona-busca-sumar-un-nuevo-delantero/",
-      "published_date": "2026-08-19T23:32:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Deco assures that Barcelona is looking to add a new forward",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/deco-asegura-que-el-barcelona-busca-sumar-un-nuevo-delantero/",
-      "published_date": "2026-08-19T23:32:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Julio Castro warns about increase in influenza and covid-19 in Caracas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/julio-castro-alerta-sobre-aumento-de-influenza-y-covid-19-en-caracas/",
-      "published_date": "2026-08-19T22:59:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Julio Castro warns about increase in influenza and covid-19 in Caracas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/julio-castro-alerta-sobre-aumento-de-influenza-y-covid-19-en-caracas/",
-      "published_date": "2026-08-19T22:59:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Peru and the United States draw up a roadmap for preventive cooperation in the face of the El Niño phenomenon",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/peru-y-ee-uu-trazan-hoja-de-ruta-de-cooperacion-preventiva-ante-el-fenomeno-de-el-nino/",
-      "published_date": "2026-08-19T22:41:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Peru and the United States draw up a roadmap for preventive cooperation in the face of the El Niño phenomenon",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/peru-y-ee-uu-trazan-hoja-de-ruta-de-cooperacion-preventiva-ante-el-fenomeno-de-el-nino/",
-      "published_date": "2026-08-19T22:41:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NGOs demand that new TSJ and CNE be chosen before December",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-exigen-que-nuevos-tsj-y-cne/",
-      "published_date": "2026-08-19T21:41:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lara | El Pitazo wins 'Ramón Orellana Plus' 2026 Regional Award for investigative series on Rialto Cinema",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/periodistas-el-pitazo-premio-ramon-orellana-2026/",
-      "published_date": "2026-08-19T20:54:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iberia extended suspension of flights to Cuba until June 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/iberia-extiende-suspension-de-vuelos-a-cuba-hasta-junio-de-2027/",
-      "published_date": "2026-08-19T20:53:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Iberia extended suspension of flights to Cuba until June 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/iberia-extiende-suspension-de-vuelos-a-cuba-hasta-junio-de-2027/",
-      "published_date": "2026-08-19T20:53:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Drills begin at the Maiquetía airport: everything you need to know about the restart of flights",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/todo-lo-que-se-sabe-de-la-reapertura-del-aeropuerto-internacional-de-maiquetia-fechas-vuelos-y-terminales/",
-      "published_date": "2026-08-19T19:18:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OAS will bring together its foreign ministers to act against the suspension of elections in Nicaragua",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/oea-reunira-a-sus-cancilleres-para-actuar-ante-la-suspension-de-elecciones-en-nicaragua/",
-      "published_date": "2026-08-19T19:09:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Polar Companies extends its support after the earthquakes",
+      "title": "They denounce a pattern of torture and deterioration of health of political prisoners in Venezuela",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/617833/empresas-polar-extiende-su-apoyo-tras-los-sismos/",
-      "published_date": "2026-08-19T17:20:21Z",
+      "url": "https://runrun.es/noticias/617957/denuncian-patron-de-tortura-y-deterioro-de-salud-de-presos-politicos-en-venezuela/",
+      "published_date": "2026-08-20T23:31:30Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq requests “special status” from Iran to export crude oil in the Strait of Hormuz",
+      "title": "National Assembly 2015 debate on the judiciary: \"We want to listen to lawyers and unions\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/asamblea-nacional-2015-debate-sobre-el-poder-judicial-queremos-escuchar-a-los-abogados-y-gremios/",
+      "published_date": "2026-08-20T23:12:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United States imposes new sanctions on Cuban officials and state companies",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/irak-pide-estatus-especial-a-iran-para-exportar-crudo-en-el-estrecho-de-ormuz/",
-      "published_date": "2026-08-19T16:47:46Z",
+      "url": "https://www.elnacional.com/2026/08/estados-unidos-impone-nuevas-sanciones-a-funcionarios-y-empresas-estatales-de-cuba/",
+      "published_date": "2026-08-20T22:55:17Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Iraq requests “special status” from Iran to export crude oil in the Strait of Hormuz",
+      "title": "The United States imposes new sanctions on Cuban officials and state companies",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/irak-pide-estatus-especial-a-iran-para-exportar-crudo-en-el-estrecho-de-ormuz/",
-      "published_date": "2026-08-19T16:47:46Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/estados-unidos-impone-nuevas-sanciones-a-funcionarios-y-empresas-estatales-de-cuba/",
+      "published_date": "2026-08-20T22:55:17Z",
       "category": "Diplomacy"
     },
     {
-      "title": "The US confirms the arrest of Oswaldo Pirela and says that he will be deported",
+      "title": "The Brazilian Embassy in Caracas resumes consular services",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/la-embajada-de-brasil-en-caracas-reanuda-sus-servicios-consulares/",
+      "published_date": "2026-08-20T21:34:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Brazilian Embassy in Caracas resumes consular services",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/la-embajada-de-brasil-en-caracas-reanuda-sus-servicios-consulares/",
+      "published_date": "2026-08-20T21:34:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US imposes new economic sanctions against Cuba",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/venezuela-migrante/eeuu-confirma-detencion-de-oswaldo-pirela-y-dice-que-sera-deportado/",
-      "published_date": "2026-08-19T16:12:15Z",
+      "url": "https://efectococuyo.com/internacionales/eeuu-impone-nuevas-sanciones-economicas-contra-cuba/",
+      "published_date": "2026-08-20T21:14:34Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Liberia receives the first migrants deported from the US, among them Venezuelans",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/liberia-recibe-a-los-primeros-migrantes-deportados-de-ee-uu-entre-ellos-venezolanos/",
+      "published_date": "2026-08-20T20:58:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Liberia receives the first migrants deported from the US, among them Venezuelans",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/liberia-recibe-a-los-primeros-migrantes-deportados-de-ee-uu-entre-ellos-venezolanos/",
+      "published_date": "2026-08-20T20:58:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Recreational clubs in La Guaira estimate to gradually resume activities in September",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/clubes-recreativos-de-la-guaira-estiman-retomar-actividades-gradualmente-en-septiembre/",
+      "published_date": "2026-08-20T20:20:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Recreational clubs in La Guaira estimate to gradually resume activities in September",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/clubes-recreativos-de-la-guaira-estiman-retomar-actividades-gradualmente-en-septiembre/",
+      "published_date": "2026-08-20T20:20:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The GAESA model in Venezuela: this is how business and the power of the military grew",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/el-modelo-gaesa-en-venezuela-asi-crecieron-los-negocios-y-el-poder-de-los-militares/",
+      "published_date": "2026-08-20T19:46:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The GAESA model in Venezuela: this is how business and the power of the military grew",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-modelo-gaesa-en-venezuela-asi-crecieron-los-negocios-y-el-poder-de-los-militares/",
+      "published_date": "2026-08-20T19:46:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US threatens more economic pressure against Iran and cites sanctions and blockade of Venezuela and Cuba as an example",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ee-uu-amenaza-con-mas-presion-economica-a-iran-y-cita-como-ejemplo-sanciones-y-bloqueo-a-venezuela-y-cuba/",
+      "published_date": "2026-08-20T19:45:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US threatens more economic pressure against Iran and cites sanctions and blockade of Venezuela and Cuba as an example",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-amenaza-con-mas-presion-economica-a-iran-y-cita-como-ejemplo-sanciones-y-bloqueo-a-venezuela-y-cuba/",
+      "published_date": "2026-08-20T19:45:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European leagues: Action returns to the fields of England, France and Italy",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ligas-europeas-regresa-la-accion-a-las-canchas-de-inglaterra-francia-e-italia/",
+      "published_date": "2026-08-20T18:36:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "European leagues: Action returns to the fields of England, France and Italy",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ligas-europeas-regresa-la-accion-a-las-canchas-de-inglaterra-francia-e-italia/",
+      "published_date": "2026-08-20T18:36:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bloomberg: Cisneros family denounces the Venezuelan government for confiscating oil assets",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/bloomberg-familia-cisneros-denuncia-al-gobierno-venezolano-por-confiscar-activos-petroleros/",
+      "published_date": "2026-08-20T17:40:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bloomberg: Cisneros family denounces the Venezuelan government for confiscating oil assets",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/bloomberg-familia-cisneros-denuncia-al-gobierno-venezolano-por-confiscar-activos-petroleros/",
+      "published_date": "2026-08-20T17:40:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Peyton Watson arrives in Cleveland in four-team trade",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/peyton-watson-llega-a-cleveland-en-un-traspaso-de-cuatro-equipos/",
+      "published_date": "2026-08-20T16:11:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "De la Espriella presents the new military leadership to combat crime in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/de-la-espriella-presenta-la-nueva-cupula-militar-para-combatir-el-crimen-en-colombia/",
+      "published_date": "2026-08-20T23:12:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "De la Espriella presents the new military leadership to combat crime in Colombia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/de-la-espriella-presenta-la-nueva-cupula-militar-para-combatir-el-crimen-en-colombia/",
+      "published_date": "2026-08-20T23:12:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "They confirm reopening of operations in Maiquetía on August 24",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/confirman-reapertura-de-operaciones-en-maiquetia-el-24-de-agosto/",
+      "published_date": "2026-08-20T22:30:08Z",
+      "category": "Military"
+    },
+    {
+      "title": "They denounce that the remains of political prisoner José Breijo are still in the custody of Senamecf",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/denuncian-que-los-restos-del-preso-politico-jose-breijo-siguen-bajo-custodia-del-senamecf/",
+      "published_date": "2026-08-20T21:55:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "They denounce that the remains of political prisoner José Breijo are still in the custody of Senamecf",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/denuncian-que-los-restos-del-preso-politico-jose-breijo-siguen-bajo-custodia-del-senamecf/",
+      "published_date": "2026-08-20T21:55:44Z",
+      "category": "Military"
+    },
+    {
+      "title": "The US granted permission to National Airlines to operate in Venezuela until 2028",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ee-uu-otorgo-permiso-a-national-airlines-para-operar-en-venezuela-hasta-2028/",
+      "published_date": "2026-08-20T18:31:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "The US granted permission to National Airlines to operate in Venezuela until 2028",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-otorgo-permiso-a-national-airlines-para-operar-en-venezuela-hasta-2028/",
+      "published_date": "2026-08-20T18:31:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "30 political prisoners are in serious condition: relatives presented their cases to the Ombudsman",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/30-presos-politicos-estan-graves-familiares-presentaron-sus-casos-a-la-defensora-del-pueblo/",
+      "published_date": "2026-08-20T16:58:53Z",
+      "category": "Military"
+    },
+    {
+      "title": "Maiquetía Airport will resume operations on August 24 after completing the pilot tests in the provisional terminals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/aeropuerto-de-maiquetia-reanudara-sus-operaciones-el-24-de-agosto-tras-culminar-las-pruebas-piloto-en-las-terminales-provisionales/",
+      "published_date": "2026-08-20T16:13:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "Maiquetía Airport will resume operations on August 24 after completing the pilot tests in the provisional terminals",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/aeropuerto-de-maiquetia-reanudara-sus-operaciones-el-24-de-agosto-tras-culminar-las-pruebas-piloto-en-las-terminales-provisionales/",
+      "published_date": "2026-08-20T16:13:09Z",
+      "category": "Military"
+    },
+    {
+      "title": "Transparency Venezuela denounces closure of investigations to launder assets through dismissals",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/transparencia-venezuela-denuncia-cierre-de-investigaciones-para-blanquear-patrimonios-mediante-sobreseimientos/",
+      "published_date": "2026-08-20T15:32:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Transparency Venezuela denounces closure of investigations to launder assets through dismissals",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/transparencia-venezuela-denuncia-cierre-de-investigaciones-para-blanquear-patrimonios-mediante-sobreseimientos/",
+      "published_date": "2026-08-20T15:32:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Three soldiers accused of treason were released from prison",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/tres-militares-acusados-de-traicion-a-la-patria-fueron-excarcelados/",
+      "published_date": "2026-08-20T15:26:49Z",
+      "category": "Military"
+    },
+    {
+      "title": "The INTT establishes new rules for delivery companies and shipping applications",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/el-intt-establece-nuevas-normas-para-las-empresas-de-delivery-y-aplicaciones-de-envio/",
+      "published_date": "2026-08-20T15:12:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "The INTT establishes new rules for delivery companies and shipping applications",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-intt-establece-nuevas-normas-para-las-empresas-de-delivery-y-aplicaciones-de-envio/",
+      "published_date": "2026-08-20T15:12:19Z",
+      "category": "Military"
+    },
+    {
+      "title": "Elliott Abrams criticizes Trump's policy towards Venezuela and doubts Delcy Rodríguez's intentions",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/elliott-abrams-critica-la-politica-de-trump-hacia-venezuela-y-duda-de-las-intenciones-de-delcy-rodriguez/",
+      "published_date": "2026-08-20T13:51:59Z",
+      "category": "Military"
+    },
+    {
+      "title": "Elliott Abrams criticizes Trump's policy towards Venezuela and doubts Delcy Rodríguez's intentions",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/elliott-abrams-critica-la-politica-de-trump-hacia-venezuela-y-duda-de-las-intenciones-de-delcy-rodriguez/",
+      "published_date": "2026-08-20T13:51:59Z",
+      "category": "Military"
     },
     {
       "title": "Founder of Chinese real estate giant Evergrande sentenced to life in prison",
@@ -157,130 +276,46 @@
       "category": "Military"
     },
     {
-      "title": "Three soldiers accused of “treason to the country” were released from prison",
+      "title": "Three soldiers accused of “treason” were released from prison",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/excarcelaron-a-tres-militares-acusados-de-traicion-a-la-patria/",
       "published_date": "2026-08-20T09:49:00Z",
       "category": "Military"
     },
     {
-      "title": "Three soldiers accused of “treason to the country” were released from prison",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/excarcelaron-a-tres-militares-acusados-de-traicion-a-la-patria/",
-      "published_date": "2026-08-20T09:49:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Mañanero of August 20: Political prisoner was detained four days after being released",
+      "title": "Case of Roland González: State ignores his medical emergency",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/617871/el-mananero-del-20-de-agosto-preso-politico-fue-detenido-cuatro-dias-despues-de-ser-excarcelado/",
-      "published_date": "2026-08-20T09:00:00Z",
-      "category": "Military"
+      "url": "https://runrun.es/noticias/617958/caso-de-roland-gonzalez-estado-ignora-su-urgencia-medica/",
+      "published_date": "2026-08-20T20:59:15Z",
+      "category": "Energy"
     },
     {
-      "title": "Táchira | Blackouts affect hospital operations",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/tachira-apagones-afectan-operatividad-de-los-hospitales/",
-      "published_date": "2026-08-19T21:39:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "PUD adds 105 releases since August 14 while NGOs advance in the verification of cases",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/617852/pud-suma-105-excarcelaciones-desde-el-14-de-agosto-mientras-ong-avanzan-en-la-verificacion-de-casos/",
-      "published_date": "2026-08-19T20:35:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Ombudsman's Office installed a technical table with NGOs to review cases of political prisoners",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/defensoria-del-pueblo-instalo-mesa-tecnica-con-ong-para-revisar-casos-de-los-presos-politicos/",
-      "published_date": "2026-08-19T20:30:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Ombudsman's Office installed a technical table with NGOs to review cases of political prisoners",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/defensoria-del-pueblo-instalo-mesa-tecnica-con-ong-para-revisar-casos-de-los-presos-politicos/",
-      "published_date": "2026-08-19T20:30:49Z",
-      "category": "Military"
-    },
-    {
-      "title": "Harry Kane receives his second Golden Boot with Bayern Munich",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/harry-kane-recibe-su-segunda-bota-de-oro-con-el-bayern-munich/",
-      "published_date": "2026-08-19T20:17:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "Harry Kane receives his second Golden Boot with Bayern Munich",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/harry-kane-recibe-su-segunda-bota-de-oro-con-el-bayern-munich/",
-      "published_date": "2026-08-19T20:17:47Z",
-      "category": "Military"
-    },
-    {
-      "title": "198 uniformed officers remain imprisoned for political reasons",
+      "title": "It takes between five and nine months for a closed restaurant to disappear from the internet",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/198-uniformados-siguen-presos-por-razones-politicas-tras-primeras-excarcelaciones/",
-      "published_date": "2026-08-19T19:50:42Z",
-      "category": "Military"
+      "url": "https://efectococuyo.com/solaz/un-restaurante-cerrado-tarda-entre-cinco-y-nueve-meses-en-desaparecer-de-internet/",
+      "published_date": "2026-08-20T19:50:49Z",
+      "category": "Energy"
     },
     {
-      "title": "PUD counts 105 releases of political prisoners since August 14",
+      "title": "Pdvsa-Cripto Case: Roland González decompensated during a hearing",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/caso-pdvsa-cripto-roland-gonzalez-se-descompenso-durante-una-audiencia/",
+      "published_date": "2026-08-20T17:21:36Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Reuters: Venezuela returns to the agenda of oil supplier SBO",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/reuters-venezuela-vuelve-a-la-agenda-del-proveedor-petrolero-sbo/",
+      "published_date": "2026-08-20T16:04:07Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Venezuela advances in its oil opening with two agreements in the US, but doubts persist",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/pud-cuenta-105-excarcelaciones-de-presos-politicos-desde-el-14-de-agosto/",
-      "published_date": "2026-08-19T18:54:29Z",
-      "category": "Military"
-    },
-    {
-      "title": "Transfer market: Aston Villa reinforces its defense with Zion Suzuki and Matteo Ruggeri",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/mercado-de-fichajes-aston-villa-refuerza-su-defensa-con-zion-suzuki-y-matteo-ruggeri/",
-      "published_date": "2026-08-19T18:37:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Transfer market: Aston Villa reinforces its defense with Zion Suzuki and Matteo Ruggeri",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/mercado-de-fichajes-aston-villa-refuerza-su-defensa-con-zion-suzuki-y-matteo-ruggeri/",
-      "published_date": "2026-08-19T18:37:28Z",
-      "category": "Military"
-    },
-    {
-      "title": "Transparency Venezuela warns about irregularities in dismissals of the Convit clan and detention of judges",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/transparencia-venezuela-alerta-sobre-irregularidades-en-sobreseimientos-del-clan-convit-y-detencion-de-jueces/",
-      "published_date": "2026-08-19T17:50:06Z",
-      "category": "Military"
-    },
-    {
-      "title": "NGOs denounce the arrest of political prisoner Sixto Salamanca four days after being released",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ong-denuncian-la-detencion-del-preso-politico-sixto-salamanca-cuatro-dias-despues-de-ser-excarcelado/",
-      "published_date": "2026-08-19T15:33:43Z",
-      "category": "Military"
-    },
-    {
-      "title": "They warn that Roland González returned to El Rodeo after suffering a heart attack and without receiving specialized care: “He is at risk of death”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/alertan-que-roland-gonzalez-regreso-a-el-rodeo-tras-sufrir-infarto-y-sin-recibir-atencion-especializada-esta-en-riesgo-de-muerte/",
-      "published_date": "2026-08-19T15:31:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "They warn that Roland González returned to El Rodeo after suffering a heart attack and without receiving specialized care: “He is at risk of death”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/alertan-que-roland-gonzalez-regreso-a-el-rodeo-tras-sufrir-infarto-y-sin-recibir-atencion-especializada-esta-en-riesgo-de-muerte/",
-      "published_date": "2026-08-19T15:31:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Denuncian nueva detención del preso político Sixto Salamanca cuatro día después de ser excarcelado",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/617826/denuncian-nueva-detencion-del-preso-politico-sixto-salamanca-cuatro-dia-despues-de-ser-excarcelado/",
-      "published_date": "2026-08-19T15:15:01Z",
-      "category": "Military"
+      "url": "https://efectococuyo.com/politica/venezuela-avanza-en-su-apertura-petrolera-con-dos-acuerdos-en-eeuu-pero-persisten-dudas/",
+      "published_date": "2026-08-20T14:16:00Z",
+      "category": "Energy"
     },
     {
       "title": "The second date of the Venezuela Cup ends with the victory of Caracas, Monagas and Rayo Zuliano",
@@ -290,7 +325,7 @@
       "category": "Energy"
     },
     {
-      "title": "The second date of the Venezuela Cup ends with the victory of Caracas, Monagas and Rayo Zuliano",
+      "title": "Finaliza la segunda fecha de la Copa Venezuela con triunfo de Caracas, Monagas y Rayo Zuliano",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/finaliza-la-segunda-fecha-de-la-copa-venezuela-con-triunfo-de-caracas-monagas-y-rayo-zuliano/",
       "published_date": "2026-08-20T11:20:33Z",
@@ -308,6 +343,13 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/termoelectricas-venezuela-apagones-capacidad-instalada-corpoelec-2026/",
       "published_date": "2026-08-20T07:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "US Embassy supports oil agreement between Hunt Oil and PDVSA",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/embajada-de-ee-uu-respalda-acuerdo-petrolero-entre-hunt-oil-y-pdvsa/",
+      "published_date": "2026-08-20T01:08:02Z",
       "category": "Energy"
     },
     {
@@ -381,46 +423,39 @@
       "category": "Energy"
     },
     {
-      "title": "Minister of Hydrocarbons signs two agreements with oil companies in the US",
+      "title": "The US evaluates reciprocal trade agreement with Colombia after the earthquake",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ministra-de-hidrocarburos-firma-en-ee-uu-dos-acuerdos-con-petroleras/",
-      "published_date": "2026-08-19T12:32:51Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/08/ee-uu-evalua-acuerdo-comercial-reciproco-con-colombia-tras-el-terremoto/",
+      "published_date": "2026-08-20T22:26:10Z",
+      "category": "Economy"
     },
     {
-      "title": "Minister of Hydrocarbons signs two agreements with oil companies in the US",
+      "title": "The US evaluates reciprocal trade agreement with Colombia after the earthquake",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ministra-de-hidrocarburos-firma-en-ee-uu-dos-acuerdos-con-petroleras/",
-      "published_date": "2026-08-19T12:32:51Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-evalua-acuerdo-comercial-reciproco-con-colombia-tras-el-terremoto/",
+      "published_date": "2026-08-20T22:26:10Z",
+      "category": "Economy"
     },
     {
-      "title": "Is social media fueling cannabis addiction?",
+      "title": "The Seniat renews its institutional image as part of the modernization process",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/las-redes-sociales-estan-fomentando-la-adiccion-al-cannabis/",
-      "published_date": "2026-08-19T09:00:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/08/el-seniat-renueva-su-imagen-institucional-como-parte-del-proceso-de-modernizacion/",
+      "published_date": "2026-08-20T21:14:03Z",
+      "category": "Economy"
     },
     {
-      "title": "Is social media fueling cannabis addiction?",
+      "title": "The Seniat renews its institutional image as part of the modernization process",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/las-redes-sociales-estan-fomentando-la-adiccion-al-cannabis/",
-      "published_date": "2026-08-19T09:00:00Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-seniat-renueva-su-imagen-institucional-como-parte-del-proceso-de-modernizacion/",
+      "published_date": "2026-08-20T21:14:03Z",
+      "category": "Economy"
     },
     {
-      "title": "Venezuelan hydrocarbons minister will visit Houston, where she could sign new agreements",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ministra-de-hidrocarburos-venezolana-visitara-houston-donde-podria-firmar-nuevos-acuerdos/",
-      "published_date": "2026-08-19T00:51:29Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuelan hydrocarbons minister will visit Houston, where she could sign new agreements",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ministra-de-hidrocarburos-venezolana-visitara-houston-donde-podria-firmar-nuevos-acuerdos/",
-      "published_date": "2026-08-19T00:51:29Z",
-      "category": "Energy"
+      "title": "Cisneros' heirs demand restitution of assets in Petrodelta after a procedure they describe as arbitrary",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/herederos-de-cisneros-exigen-restitucion-de-activos-en-petrodelta/",
+      "published_date": "2026-08-20T16:45:04Z",
+      "category": "Economy"
     },
     {
       "title": "How to live after being a volunteer in the 24J earthquakes",
@@ -430,10 +465,17 @@
       "category": "Economy"
     },
     {
-      "title": "US Embassy supports oil agreement between Hunt Oil and PDVSA",
+      "title": "Paramount-Warner merger could cost 4,500 Hollywood jobs",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/embajada-de-ee-uu-respalda-acuerdo-petrolero-entre-hunt-oil-y-pdvsa/",
-      "published_date": "2026-08-20T01:08:02Z",
+      "url": "https://www.elnacional.com/2026/08/fusion-de-paramount-y-warner-podria-costar-4-500-empleos-en-hollywood/",
+      "published_date": "2026-08-20T09:00:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Paramount-Warner merger could cost 4,500 Hollywood jobs",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/fusion-de-paramount-y-warner-podria-costar-4-500-empleos-en-hollywood/",
+      "published_date": "2026-08-20T09:00:00Z",
       "category": "Economy"
     },
     {
@@ -521,185 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "National industry lost 44% of its working hours due to electrical failures in the second quarter",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/industria-nacional-perdio-44-de-sus-horas-laborables-por-fallas-electricas-en-el-segundo-trimestre/",
-      "published_date": "2026-08-18T22:43:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Abelardo de la Espriella asegura que EE UU está dispuesto a suspender temporalmente los aranceles a Colombia por el terremoto",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/abelardo-de-la-espriella-asegura-que-ee-uu-esta-dispuesto-a-suspender-temporalmente-los-aranceles-a-colombia-por-el-terremoto/",
-      "published_date": "2026-08-18T21:31:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Abelardo de la Espriella assures that the US is willing to temporarily suspend tariffs on Colombia due to the earthquake",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/abelardo-de-la-espriella-asegura-que-ee-uu-esta-dispuesto-a-suspender-temporalmente-los-aranceles-a-colombia-por-el-terremoto/",
-      "published_date": "2026-08-18T21:31:15Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Cuban Observatory of Human Rights affirms that extreme poverty already affects 94% of Cuba",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-observatorio-cubano-de-derechos-humanos-afirma-que-la-extrema-pobreza-ya-afecta-94-de-cuba/",
-      "published_date": "2026-08-18T21:30:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Comprehensive Income payment begins for public sector retirees",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/se-inicia-pago-del-ingreso-integral-para-jubilados-del-sector-publico/",
-      "published_date": "2026-08-18T21:14:31Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Private manufacturing production grew 8.1% in the first half, according to Conindustria",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/conindustria-produccion-manufacturera-crecimiento-primer-semestre-2026/",
-      "published_date": "2026-08-18T20:48:50Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The Conversation | Linda Loaiza: “The absence of justice is not possible after 25 years”",
+      "title": "Márquez: “The best partner we can have is the United States”",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/617895/la-conversa-linda-loaiza-no-es-posible-la-ausencia-de-justicia-luego-de-25-anos/",
-      "published_date": "2026-08-20T11:11:29Z",
+      "url": "https://runrun.es/noticias/617974/marquez-el-mejor-socio-que-podemos-tener-es-estados-unidos/",
+      "published_date": "2026-08-20T23:26:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Colombian opposition presents plan to address the earthquake emergency",
+      "title": "Dinorah Figuera details the turn that the political negotiation will take in September",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/617971/dinorah-figuera-detalla-el-giro-que-dara-la-negociacion-politica-en-septiembre/",
+      "published_date": "2026-08-20T23:08:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "College of Engineers recommends not modifying structures without prior studies",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/617967/colegio-de-ingenieros-recomienda-no-modificar-estructuras-sin-estudios-previos/",
+      "published_date": "2026-08-20T22:54:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolivar | A mayor resigns and the Psuv imposes another: the case of the Roscio municipality",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/bolivar-un-alcalde-renuncia-y-el-psuv-impone-otro-el-caso-del-municipio-roscio/",
+      "published_date": "2026-08-20T22:42:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The Caracas Metro evaluates joining the national energy savings plan",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/oposicion-colombiana-presenta-plan-para-atender-la-emergencia-por-el-terremoto/",
-      "published_date": "2026-08-20T10:41:00Z",
+      "url": "https://www.elnacional.com/2026/08/el-metro-de-caracas-evalua-sumarse-al-plan-de-ahorro-energetico-nacional/",
+      "published_date": "2026-08-20T22:36:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Colombian opposition presents plan to address the earthquake emergency",
+      "title": "The Caracas Metro evaluates joining the national energy savings plan",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/oposicion-colombiana-presenta-plan-para-atender-la-emergencia-por-el-terremoto/",
-      "published_date": "2026-08-20T10:41:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-metro-de-caracas-evalua-sumarse-al-plan-de-ahorro-energetico-nacional/",
+      "published_date": "2026-08-20T22:36:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Two strong aftershocks hit the Indonesian island of Flores five days after the 7.7 magnitude earthquake",
+      "title": "Enrique Márquez presented the Pact for Venezuela proposal and supported the national dialogue",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/dos-fuertes-replicas-en-la-isla-indonesia-de-flores-cinco-dias-despues-del-terremoto-de-77/",
-      "published_date": "2026-08-20T10:23:00Z",
+      "url": "https://www.elnacional.com/2026/08/enrique-marquez-pacto-por-venezuela-transicion-dialogo-2026/",
+      "published_date": "2026-08-20T22:35:53Z",
       "category": "Local Events"
     },
     {
-      "title": "Two strong aftershocks hit the Indonesian island of Flores five days after the 7.7 magnitude earthquake",
+      "title": "Enrique Márquez presented the Pact for Venezuela proposal and supported the national dialogue",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/dos-fuertes-replicas-en-la-isla-indonesia-de-flores-cinco-dias-despues-del-terremoto-de-77/",
-      "published_date": "2026-08-20T10:23:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/enrique-marquez-pacto-por-venezuela-transicion-dialogo-2026/",
+      "published_date": "2026-08-20T22:35:53Z",
       "category": "Local Events"
     },
     {
-      "title": "De la Espriella decrees a state of economic, social and ecological emergency due to the earthquake",
+      "title": "Fake News Hunters: network of fake accounts defends Alejandro Betancourt and attacks Venezuelan media",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/cazadores-de-fake-news-red-de-cuentas-en-redes-sociales-defiende-a-alejandro-betancourt-y-ataca-a-medios-venezolanos/",
+      "published_date": "2026-08-20T22:14:48Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ronaldinho joins Ravenna of Italian football: \"Will they see me play? I don't know\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/de-la-espriella-decreta-estado-de-emergencia-economica-social-y-ecologica-por-el-terremoto/",
-      "published_date": "2026-08-20T10:08:00Z",
+      "url": "https://www.elnacional.com/2026/08/ronaldinho-se-suma-al-ravenna-del-futbol-italiano-me-veran-jugar-no-lo-se/",
+      "published_date": "2026-08-20T22:11:49Z",
       "category": "Local Events"
     },
     {
-      "title": "De la Espriella decrees a state of economic, social and ecological emergency due to the earthquake",
+      "title": "Ronaldinho joins Ravenna of Italian football: \"Will they see me play? I don't know\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/de-la-espriella-decreta-estado-de-emergencia-economica-social-y-ecologica-por-el-terremoto/",
-      "published_date": "2026-08-20T10:08:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ronaldinho-se-suma-al-ravenna-del-futbol-italiano-me-veran-jugar-no-lo-se/",
+      "published_date": "2026-08-20T22:11:49Z",
       "category": "Local Events"
     },
     {
-      "title": "“We want to return to our homes”: rains hit camps for victims in Caracas",
+      "title": "The US will allocate $57 million to El Sistema to build a teacher training center",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/ee-uu-destinara-57-millones-de-dolares-a-el-sistema-para-hacer-un-centro-de-formacion-docente/",
+      "published_date": "2026-08-20T21:56:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "How much will pensioners receive for Comprehensive Income this #Aug21?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/este-es-el-monto-en-bolivares-del-ingreso-integral-que-cobraran-los-pensionados-este-21ago/",
+      "published_date": "2026-08-20T21:38:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rawayana promotes global campaign to support recovery after the earthquakes in Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/rawayana-impulsa-campana-global-para-apoyar-la-recuperacion-tras-los-terremotos-en-venezuela/",
+      "published_date": "2026-08-20T21:24:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Eugenio Suárez reaches 1000 RBIs in MLB",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/lluvias-campamentos-improvisados-damnificados-sismo-caracas/",
-      "published_date": "2026-08-20T06:00:00Z",
+      "url": "https://www.elnacional.com/2026/08/eugenio-suarez-alcanza-las-1000-impulsadas-en-mlb/",
+      "published_date": "2026-08-20T21:09:40Z",
       "category": "Local Events"
     },
     {
-      "title": "“We want to return to our homes”: rains hit camps for victims in Caracas",
+      "title": "Eugenio Suárez reaches 1000 RBIs in MLB",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/lluvias-campamentos-improvisados-damnificados-sismo-caracas/",
-      "published_date": "2026-08-20T06:00:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/eugenio-suarez-alcanza-las-1000-impulsadas-en-mlb/",
+      "published_date": "2026-08-20T21:09:40Z",
       "category": "Local Events"
     },
     {
-      "title": "The La Guaira hospital network trapped between ruins and improvisation (Series 1/2)",
+      "title": "The US will provide resources to complete the El Sistema teacher training center",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ee-uu-dara-recursos-para-completar-centro-de-formacion-docente-de-el-sistema/",
+      "published_date": "2026-08-20T21:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The US will provide resources to complete the El Sistema teacher training center",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-dara-recursos-para-completar-centro-de-formacion-docente-de-el-sistema/",
+      "published_date": "2026-08-20T21:02:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The US authorizes National Airlines to operate flights to Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/ee-uu-autoriza-a-national-airlines-a-operar-vuelos-hacia-venezuela/",
+      "published_date": "2026-08-20T20:56:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "College of Engineers calls not to improvise reconstructions or alter structures",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/la-red-hospitalaria-de-la-guaira-atrapada-entre-las-ruinas-y-la-improvisacion-serie-1-2/",
-      "published_date": "2026-08-20T01:17:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "When stabilizing is destabilizing",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/617879/tutelaje-venezuela-5/",
-      "published_date": "2026-08-20T01:17:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De la Espriella announces agreement with insurers for payments to victims of the earthquake",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/de-la-espriella-anuncia-acuerdo-con-aseguradoras-para-pagos-a-damnificados-por-el-terremoto/",
-      "published_date": "2026-08-20T00:46:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De la Espriella announces agreement with insurers for payments to victims of the earthquake",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/de-la-espriella-anuncia-acuerdo-con-aseguradoras-para-pagos-a-damnificados-por-el-terremoto/",
-      "published_date": "2026-08-20T00:46:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moderna and Merck soar on Wall Street after promising advances in their melanoma vaccine",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/moderna-y-merck-se-disparan-en-wall-street-tras-prometedores-avances-en-su-vacuna-contra-el-melanoma/",
-      "published_date": "2026-08-20T00:36:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Moderna and Merck soar on Wall Street after promising advances in their melanoma vaccine",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/moderna-y-merck-se-disparan-en-wall-street-tras-prometedores-avances-en-su-vacuna-contra-el-melanoma/",
-      "published_date": "2026-08-20T00:36:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asciende a 314 el número de muertos por el terremoto en Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/asciende-a-314-el-numero-de-muertos-por-el-terremoto-en-colombia/",
-      "published_date": "2026-08-20T00:08:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The death toll from the earthquake in Colombia rises to 314",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/asciende-a-314-el-numero-de-muertos-por-el-terremoto-en-colombia/",
-      "published_date": "2026-08-20T00:08:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela lost more than half of its gold: why did 31 tons survive in London?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/venezuela-perdio-mas-de-la-mitad-de-su-oro-por-que-31-toneladas-sobrevivieron-en-londres/",
-      "published_date": "2026-08-20T00:02:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "At least 603 children and adolescents died in the earthquakes of 24J",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/alianzas/al-menos-603-ninos-ninas-y-adolescentes-murieron-en-los-terremotos-del-24j/",
-      "published_date": "2026-08-19T23:30:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "The RFEF works on the renewal of Luis de la Fuente",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/la-rfef-trabaja-en-la-renovacion-de-luis-de-la-fuente/",
-      "published_date": "2026-08-19T23:25:55Z",
+      "url": "https://efectococuyo.com/la-humanidad/colegio-de-ingenieros-llama-a-no-improvisar-reconstrucciones-ni-alterar-estructuras-sin-evaluacion-tecnica/",
+      "published_date": "2026-08-20T20:50:37Z",
       "category": "Local Events"
     }
   ]
