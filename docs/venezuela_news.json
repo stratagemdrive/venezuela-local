@@ -1,9 +1,65 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-22T23:28:33Z",
+  "last_updated": "2026-08-23T11:25:31Z",
   "stories": [
     {
-      "title": "Ramos Allup sobre la mesa de diálogo: esa comisión empezó mal y está prolongando al régimen de facto",
+      "title": "Russia recalled its ambassador to the United Kingdom to pressure London",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/rusia-retiro-a-su-embajador-en-el-reino-unido-para-presionar-a-londres/",
+      "published_date": "2026-08-23T11:03:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russia recalled its ambassador to the United Kingdom to pressure London",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/rusia-retiro-a-su-embajador-en-el-reino-unido-para-presionar-a-londres/",
+      "published_date": "2026-08-23T11:03:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Environment analysis: The international lock that protects Venezuelan gold",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/analisis-de-entorno-el-candado-internacional-que-protege-el-oro-venezolano/",
+      "published_date": "2026-08-23T10:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Environment analysis: The international lock that protects Venezuelan gold",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/analisis-de-entorno-el-candado-internacional-que-protege-el-oro-venezolano/",
+      "published_date": "2026-08-23T10:18:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They warn that Venezuelan aviation will face sanctions if it does not stop its carbon emissions by 2027",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/advierten-que-aviacion-venezolana-enfrentara-sanciones-si-no-frena-sus-emisiones-de-carbono-para-2027/",
+      "published_date": "2026-08-23T00:38:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "They warn that Venezuelan aviation will face sanctions if it does not stop its carbon emissions by 2027",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/advierten-que-aviacion-venezolana-enfrentara-sanciones-si-no-frena-sus-emisiones-de-carbono-para-2027/",
+      "published_date": "2026-08-23T00:38:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China held the Olympic Games with humanoid robots: they beat Usain Bolt's records in the 100 meters",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/china-realizo-los-juegos-olimpicos-de-robots-humanoides-baten-records-de-usain-bolt-en-los-100-metros/",
+      "published_date": "2026-08-22T23:39:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China held the Olympic Games with humanoid robots: they beat Usain Bolt's records in the 100 meters",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/china-realizo-los-juegos-olimpicos-de-robots-humanoides-baten-records-de-usain-bolt-en-los-100-metros/",
+      "published_date": "2026-08-22T23:39:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ramos Allup on the dialogue table: that commission started badly and is prolonging the de facto regime",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/ramos-allup-sobre-la-mesa-de-dialogo-esa-comision-empezo-mal-y-esta-prolongando-al-regimen-de-facto/",
       "published_date": "2026-08-22T22:16:40Z",
@@ -21,13 +77,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/618140/clippve-exige-que-cruz-roja-visite-carceles-de-el-rodeo-yare-y-guaicaipuro/",
       "published_date": "2026-08-22T20:26:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Problemas en el sistema de bombeo mantienen sin agua desde hace 20 días a cuatro municipios de Trujillo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/problemas-en-el-sistema-de-bombeo-mantienen-sin-agua-desde-hace-20-dias-a-cuatro-municipios-de-trujillo/",
-      "published_date": "2026-08-22T19:59:26Z",
       "category": "Diplomacy"
     },
     {
@@ -59,6 +108,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "This is how the Simón Bolívar International Airport of Maiquetía would look like after the arrangements to reactivate its flights",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/asi-quedo-el-aeropuerto-internacional-simon-bolivar-de-maiquetia-tras-los-arreglos-para-reactivar-sus-vuelos/",
+      "published_date": "2026-08-22T17:40:00Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Dialogue tries to advance by jumping over the cracks of the opposition",
       "source": "Runrun.es",
       "url": "https://runrun.es/rr-es-plus/618104/el-dialogo-trata-de-avanzar-saltando-las-grietas-de-la-oposicion/",
@@ -73,6 +129,13 @@
       "category": "Diplomacy"
     },
     {
+      "title": "Deported migrants seek regularization in Mexico and live near the United States",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/migrantes-deportados-buscan-regularizarse-en-mexico-y-vivir-cerca-de-ee-uu/",
+      "published_date": "2026-08-22T14:20:00Z",
+      "category": "Diplomacy"
+    },
+    {
       "title": "Iran will allow some Iraqi oil tankers to pass through the Strait of Hormuz",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/iran-permitira-el-paso-de-algunos-petroleros-iraquies-por-ormuz/",
@@ -80,73 +143,45 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Iran will allow some Iraqi oil tankers to pass through the Strait of Hormuz",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/iran-permitira-el-paso-de-algunos-petroleros-iraquies-por-ormuz/",
-      "published_date": "2026-08-22T13:54:30Z",
-      "category": "Diplomacy"
+      "title": "Political scientists on Enrique Márquez: A moderate who fits into the transition, but without a popular base",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/politologos-sobre-enrique-marquez-un-moderado-que-encaja-en-la-transicion-pero-sin-base-popular/",
+      "published_date": "2026-08-23T06:40:00Z",
+      "category": "Military"
     },
     {
-      "title": "US judge annuls Trump's visa suspension for 75 countries",
+      "title": "The Avencrit Awards highlighted the talent of a union that supports and embraces",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jueza-de-ee-uu-anula-la-suspension-de-visas-impuesta-por-trump-a-75-paises/",
-      "published_date": "2026-08-22T13:40:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/los-premios-avencrit-destacaron-el-talento-del-gremio/",
+      "published_date": "2026-08-23T06:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "US judge annuls Trump's visa suspension for 75 countries",
+      "title": "The Avencrit Awards highlighted the talent of a union that supports and embraces",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/jueza-de-ee-uu-anula-la-suspension-de-visas-impuesta-por-trump-a-75-paises/",
-      "published_date": "2026-08-22T13:40:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US bombs military facility in Iran during strategic meeting",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-ejecuto-ataque-aereo-contra-instalacion-segura-en-desierto-irani-donde-funcionarios-discutia-futuras-estrategia-belicas/",
-      "published_date": "2026-08-22T13:31:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "US bombs military facility in Iran during strategic meeting",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-ejecuto-ataque-aereo-contra-instalacion-segura-en-desierto-irani-donde-funcionarios-discutia-futuras-estrategia-belicas/",
-      "published_date": "2026-08-22T13:31:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ecarri was eliminated from the presidency of the friendship group with the United States",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618135/borraron-a-ecarri-de-presidencia-del-grupo-de-amistad-con-estados-unidos/",
-      "published_date": "2026-08-22T13:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Asdrúbal Oliveros celebró capacitación de EE UU a la banca: “Es mucho más importante de lo que parece”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/asdrubal-oliveros-celebro-capacitacion-a-la-banca-con-ee-uu-y-el-bcv-es-mucho-mas-importante-de-lo-que-parece/",
-      "published_date": "2026-08-22T12:18:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US and Canada fail in their negotiations and new 50% tariffs come into force",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-y-canada-fracasan-en-su-negociacion-y-entran-en-vigor-nuevos-aranceles-del-50/",
-      "published_date": "2026-08-22T11:43:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US and Canada fail in their negotiations and new 50% tariffs come into force",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-y-canada-fracasan-en-su-negociacion-y-entran-en-vigor-nuevos-aranceles-del-50/",
-      "published_date": "2026-08-22T11:43:07Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/los-premios-avencrit-destacaron-el-talento-del-gremio/",
+      "published_date": "2026-08-23T06:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Combination of heat and constant blackouts increases health risks for people with pre-existing diseases, warned specialist",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/combinacion-de-calor-y-constantes-apagones-eleva-los-riesgos-para-la-salud-de-adultos-mayores-y-personas-con-enfermedades-preexistentes-advirtio-especialista/",
       "published_date": "2026-08-22T23:08:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Combination of heat and constant blackouts increases health risks for people with pre-existing diseases, warned specialist",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/combinacion-de-calor-y-constantes-apagones-eleva-los-riesgos-para-la-salud-de-adultos-mayores-y-personas-con-enfermedades-preexistentes-advirtio-especialista/",
+      "published_date": "2026-08-22T23:08:39Z",
+      "category": "Military"
+    },
+    {
+      "title": "Clippve asks the interim government to expand ICRC cooperation in Venezuelan prisons",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/ong-pide-al-gobierno-interino-ampliar-cooperacion-del-cicr-en-carceles-venezolanas/",
+      "published_date": "2026-08-22T21:32:55Z",
       "category": "Military"
     },
     {
@@ -185,7 +220,7 @@
       "category": "Military"
     },
     {
-      "title": "Guillermo López: “El Poder Ciudadano debe estar en el centro del debate institucional”",
+      "title": "Guillermo López: “Citizen Power must be at the center of the institutional debate”",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/guillermo-lopez-el-poder-ciudadano-debe-estar-en-el-centro-del-debate-institucional/",
       "published_date": "2026-08-22T19:05:00Z",
@@ -199,7 +234,7 @@
       "category": "Military"
     },
     {
-      "title": "Papa León XIV: “Antes que las fronteras y las instituciones, siempre están las personas”",
+      "title": "Pope Leo XIV: “Before borders and institutions, there are always people”",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/papa-leon-xiv-antes-que-las-fronteras-y-las-instituciones-siempre-estan-las-personas/",
       "published_date": "2026-08-22T17:35:08Z",
@@ -220,13 +255,6 @@
       "category": "Military"
     },
     {
-      "title": "Estados Unidos flexibilizó sanciones a Conatel y Cantv",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/618142/estados-unidos-flexibilizo-sanciones-a-conatel-y-cantv/",
-      "published_date": "2026-08-22T12:49:00Z",
-      "category": "Military"
-    },
-    {
       "title": "Gianni Infantino visits the Dominican Republic amid tensions with Concacaf",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/gianni-infantino-visita-republica-dominicana-en-medio-de-tensiones-con-la-concacaf/",
@@ -234,7 +262,7 @@
       "category": "Military"
     },
     {
-      "title": "Gianni Infantino visita República Dominicana en medio de tensiones con la Concacaf",
+      "title": "Gianni Infantino visits the Dominican Republic amid tensions with Concacaf",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/gianni-infantino-visita-republica-dominicana-en-medio-de-tensiones-con-la-concacaf/",
       "published_date": "2026-08-22T10:35:38Z",
@@ -248,42 +276,14 @@
       "category": "Military"
     },
     {
-      "title": "Inmate dies after contracting hepatitis in Fénix prison, OVP denounces",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/muere-recluso-tras-contagiarse-de-hepatitis/",
-      "published_date": "2026-08-21T21:12:02Z",
-      "category": "Military"
-    },
-    {
-      "title": "Lula y Trump acuerdan mantener negociación sobre los aranceles de 37,5% a Brasil",
+      "title": "What is known about the military restructuring promoted by Delcy Rodríguez after the capture of Nicolás Maduro?",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/lula-y-trump-acuerdan-mantener-negociacion-sobre-los-aranceles-de-375-a-brasil/",
-      "published_date": "2026-08-21T20:29:33Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/que-se-sabe-de-la-reestructuracion-militar-impulsada-por-delcy-rodriguez-tras-la-captura-de-nicolas-maduro/",
+      "published_date": "2026-08-21T22:59:19Z",
       "category": "Military"
     },
     {
-      "title": "Lula and Trump agree to maintain negotiations on 37.5% tariffs on Brazil",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/lula-y-trump-acuerdan-mantener-negociacion-sobre-los-aranceles-de-375-a-brasil/",
-      "published_date": "2026-08-21T20:29:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Exigen investigar muerte de recluso que contrajo hepatitis en el penal Fénix Lara",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/exigen-investigar-muerte-de-recluso-que-contrajo-hepatitis-en-el-penal-fenix-lara/",
-      "published_date": "2026-08-21T19:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "They demand to investigate the death of an inmate who contracted hepatitis in the Fénix Lara prison",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/exigen-investigar-muerte-de-recluso-que-contrajo-hepatitis-en-el-penal-fenix-lara/",
-      "published_date": "2026-08-21T19:50:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Denuncian que cortes eléctricos en Maturín generan pérdidas económicas en heladerías y otros comercios",
+      "title": "They denounce that electrical outages in Maturín generate economic losses in ice cream parlors and other businesses",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/denuncian-que-cortes-electricos-en-maturin-generan-perdidas-economicas-en-heladerias-locales-y-otros-comercios/",
       "published_date": "2026-08-22T20:16:23Z",
@@ -297,7 +297,7 @@
       "category": "Energy"
     },
     {
-      "title": "Primer periodo de sesiones de AN bajo tutelaje: foco en leyes económicas y recule con TSJ",
+      "title": "First period of sessions of AN under tutelage: focus on economic laws and backtracking with TSJ",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/primer-periodo-de-sesiones-de-an-bajo-tutelaje-foco-en-leyes-economicas-y-recule-con-tsj/",
       "published_date": "2026-08-22T18:00:00Z",
@@ -308,13 +308,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/opinion/618122/mesa-de-dialogo-venezuela-2/",
       "published_date": "2026-08-22T04:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "What is the hunger situation in Latin America (and how the Dominican Republic has managed to be the last country to achieve zero hunger)",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/cual-es-la-situacion-del-hambre-en-america-latina-y-como-republica-dominicana-ha-logrado-ser-el-ultimo-pais-en-alcanzar-el-hambre-cero/",
-      "published_date": "2026-08-22T01:04:11Z",
       "category": "Energy"
     },
     {
@@ -343,6 +336,20 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/clubes-de-la-liga-futve-estan-entre-los-que-mas-porcentaje-de-minutos-conceden-a-sus-canteranos/",
       "published_date": "2026-08-21T21:01:48Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Specialists debate whether it is viable to organize presidential elections in less than a year",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/es-viable-organizar-elecciones-presidenciales-venezuela-cne-2026/",
+      "published_date": "2026-08-21T19:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Specialists debate whether it is viable to organize presidential elections in less than a year",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/es-viable-organizar-elecciones-presidenciales-venezuela-cne-2026/",
+      "published_date": "2026-08-21T19:00:00Z",
       "category": "Energy"
     },
     {
@@ -416,13 +423,6 @@
       "category": "Energy"
     },
     {
-      "title": "Which app consumes the most battery?",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/que-aplicacion-consume-mas-bateria/",
-      "published_date": "2026-08-21T11:10:00Z",
-      "category": "Energy"
-    },
-    {
       "title": "Manuel Rosales demanded the end of electrical rationing in Zulia and denounced the lack of maintenance",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/manuel-rosales-exigio-el-fin-de-los-racionamientos-electricos-en-zulia-y-denuncio-la-falta-de-mantenimiento/",
@@ -437,7 +437,7 @@
       "category": "Economy"
     },
     {
-      "title": "Empresarios colombianos aportan 651 millones de dólares para atender daños del terremoto",
+      "title": "Colombian businessmen contribute 651 million dollars to address earthquake damage",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/empresarios-colombianos-aportan-651-millones-de-dolares-para-atender-danos-del-terremoto/",
       "published_date": "2026-08-22T17:45:19Z",
@@ -451,7 +451,7 @@
       "category": "Economy"
     },
     {
-      "title": "Las expectativas de Américo De Grazia con la negociación en Venezuela",
+      "title": "Américo De Grazia's expectations with the negotiation in Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/las-expectativas-de-americo-de-grazia-con-la-negociacion-en-venezuela/",
       "published_date": "2026-08-22T16:13:20Z",
@@ -486,17 +486,10 @@
       "category": "Economy"
     },
     {
-      "title": "La Asamblea Nacional aprobó ley para impulsar la construcción de viviendas tras los terremotos",
+      "title": "Why the state of the US economy is setting off alarm bells around the world",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/la-asamblea-nacional-aprobo-ley-para-impulsar-la-construccion-de-viviendas-tras-los-terremotos/",
-      "published_date": "2026-08-22T00:11:13Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La Asamblea Nacional aprobó ley para impulsar la construcción de viviendas tras los terremotos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/la-asamblea-nacional-aprobo-ley-para-impulsar-la-construccion-de-viviendas-tras-los-terremotos/",
-      "published_date": "2026-08-22T00:11:13Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/por-que-el-estado-de-la-economia-de-ee-uu-esta-disparando-las-alarmas-en-todo-el-mundo/",
+      "published_date": "2026-08-22T00:39:06Z",
       "category": "Economy"
     },
     {
@@ -528,10 +521,10 @@
       "category": "Economy"
     },
     {
-      "title": "Embajada de EE UU en Caracas capacita al BCV y a la banca privada venezolana en prevención de delitos financieros",
+      "title": "Jorge Rodríguez denies that the National Assembly hired Steve Hanke to dollarize the country",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/embajada-de-ee-uu-en-caracas-capacita-al-bcv-y-a-la-banca-privada-venezolana-en-prevencion-de-delitos-financieros/",
-      "published_date": "2026-08-21T20:17:18Z",
+      "url": "https://www.elnacional.com/2026/08/jorge-rodriguez-niega-que-la-asamblea-nacional-contratara-a-steve-hanke-para-dolarizar-el-pais/",
+      "published_date": "2026-08-21T21:18:14Z",
       "category": "Economy"
     },
     {
@@ -563,143 +556,150 @@
       "category": "Economy"
     },
     {
-      "title": "Combinación de calor y constantes apagones eleva los riesgos para la salud de personas con enfermedades preexistentes, advirtió especialista",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/combinacion-de-calor-y-constantes-apagones-eleva-los-riesgos-para-la-salud-de-adultos-mayores-y-personas-con-enfermedades-preexistentes-advirtio-especialista/",
-      "published_date": "2026-08-22T23:08:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neighbors of three urbanizations in Los Teques demanded a solution to failures in the electrical service and water supply",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/vecinos-de-tres-urbanizaciones-en-los-teques-exigieron-solucion-ante-fallas-del-servicio-electrico-y-suministro-de-agua/",
-      "published_date": "2026-08-22T22:27:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Neighbors of three urbanizations in Los Teques demanded a solution to failures in the electrical service and water supply",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/vecinos-de-tres-urbanizaciones-en-los-teques-exigieron-solucion-ante-fallas-del-servicio-electrico-y-suministro-de-agua/",
-      "published_date": "2026-08-22T22:27:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid vence 2-1 al Espanyol con gol agónico y Mourinho celebra primer triunfo en su regreso al banquillo blanco",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-real-madrid-supero-al-espanyol-con-sufrido-estreno-para-mourinho/",
-      "published_date": "2026-08-22T22:06:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Real Madrid beats Espanyol 2-1 with an agonizing goal and Mourinho celebrates his first victory on his return to the white bench",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-real-madrid-supero-al-espanyol-con-sufrido-estreno-para-mourinho/",
-      "published_date": "2026-08-22T22:06:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crack in the upper part of a building in Sabana Grande causes alarm due to its possible collapse",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/alertan-sobre-riesgo-de-colapso-de-pared-en-edificio-de-la-avenida-solano-en-sabana-grande/",
-      "published_date": "2026-08-22T21:44:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crack in the upper part of a building in Sabana Grande causes alarm due to its possible collapse",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/alertan-sobre-riesgo-de-colapso-de-pared-en-edificio-de-la-avenida-solano-en-sabana-grande/",
-      "published_date": "2026-08-22T21:44:03Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Clippve pide al gobierno interino ampliar cooperación del CICR en cárceles venezolanas",
+      "title": "Fortune: AN hires “money doctor” Steve Hanke to dollarize and end hyperinflation",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-pide-al-gobierno-interino-ampliar-cooperacion-del-cicr-en-carceles-venezolanas/",
-      "published_date": "2026-08-22T21:32:55Z",
-      "category": "Local Events"
+      "url": "https://efectococuyo.com/economia/fortune-an-contrata-al-medico-del-dinero-steve-hanke-para-dolarizar-y-acabar-la-hiperinflacion/",
+      "published_date": "2026-08-21T14:23:55Z",
+      "category": "Economy"
     },
     {
-      "title": "Archdiocese of Caracas reported damage to six parish schools after the earthquakes",
+      "title": "Gauff and Pegula for the US title in Cincinnati",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/arquidiocesis-de-caracas-reporto-afectaciones-en-seis-colegios-parroquiales-tras-los-terremotos/",
-      "published_date": "2026-08-22T21:30:12Z",
+      "url": "https://www.elnacional.com/2026/08/gauff-y-pegula-por-el-titulo-estadounidense-en-cincinnati/",
+      "published_date": "2026-08-23T11:22:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Archdiocese of Caracas reported damage to six parish schools after the earthquakes",
+      "title": "Gauff and Pegula for the US title in Cincinnati",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/arquidiocesis-de-caracas-reporto-afectaciones-en-seis-colegios-parroquiales-tras-los-terremotos/",
-      "published_date": "2026-08-22T21:30:12Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/gauff-y-pegula-por-el-titulo-estadounidense-en-cincinnati/",
+      "published_date": "2026-08-23T11:22:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Alí Daniels: we hope that the nomination committee is made up of truly independent people",
+      "title": "5.9 magnitude earthquake in Japan leaves at least 37 injured",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/sismo-de-magnitud-59-en-japon-deja-al-menos-37-heridos/",
+      "published_date": "2026-08-23T11:14:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5.9 magnitude earthquake in Japan leaves at least 37 injured",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/sismo-de-magnitud-59-en-japon-deja-al-menos-37-heridos/",
+      "published_date": "2026-08-23T11:14:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Militant patience: auditing the wait",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/la-paciencia-militante-auditar-la-espera/",
+      "published_date": "2026-08-23T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They activate the Civil Protection system against damage caused by rains in Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/activan-sistema-de-proteccion-civil-ante-estragos-por-lluvias-en-caracas/",
+      "published_date": "2026-08-23T10:53:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They activate the Civil Protection system against damage caused by rains in Caracas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/activan-sistema-de-proteccion-civil-ante-estragos-por-lluvias-en-caracas/",
+      "published_date": "2026-08-23T10:53:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "We are all migrants",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/todas-somos-migrantes/",
+      "published_date": "2026-08-23T10:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“The productive apparatus cannot withstand one more electrical interruption,” warns the union",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/el-aparato-productivo-no-soporta-una-interrupcion-electrica-mas-advierte-gremio/",
+      "published_date": "2026-08-23T06:45:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Would renewal of the TSJ open the door to a democratic transition?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/renovacion-del-tsj-abriria-puerta-transicion-democratica/",
+      "published_date": "2026-08-23T06:26:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "“We had to leave and we don't know if we will return”: teachers displaced by the two earthquakes",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/tuvimos-que-irnos-y-no-sabemos-si-volveremos-maestras-desplazadas-por-el-doble-terremoto/",
+      "published_date": "2026-08-23T06:10:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela maintains the siege against the press despite the slight political opening",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/libertad-de-prensa-venezuela-censura-cnp-sntp-informe-2026/",
+      "published_date": "2026-08-23T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela maintains the siege against the press despite the slight political opening",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/libertad-de-prensa-venezuela-censura-cnp-sntp-informe-2026/",
+      "published_date": "2026-08-23T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delcy Rodríguez on the rains: \"All of Greater Caracas is affected\"",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ali-daniels-esperamos-que-el-comite-de-postulaciones-lo-integren-personas-realmente-independientes/",
-      "published_date": "2026-08-22T21:04:44Z",
+      "url": "https://elpitazo.net/regiones/gran-caracas/delcy-rodriguez-sobre-las-lluvias-toda-la-gran-caracas-esta-afectada/",
+      "published_date": "2026-08-23T01:52:37Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezuelan gold in England: Is unlocking viable?",
+      "title": "Flooded car and the Guaire River overflowing after heavy rains in Caracas",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/el-oro-venezolano-en-inglaterra-es-viable-el-desbloqueo/",
-      "published_date": "2026-08-22T21:00:00Z",
+      "url": "https://efectococuyo.com/cambio-climatico/coche-anegado-y-el-rio-guaire-desbordado-tras-intensas-lluvias-en-caracas/",
+      "published_date": "2026-08-23T01:13:34Z",
       "category": "Local Events"
     },
     {
-      "title": "The number of deaths in Colombia due to the earthquake rose to 329",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ascendio-a-329-la-cifra-de-fallecidos-en-colombia-por-el-terremoto/",
-      "published_date": "2026-08-22T20:54:37Z",
+      "title": "Funvisis reports earthquake of magnitude 3.4 in La Guaira this #22Aug",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/centro/funvisis-reporta-temblor-de-magnitud-3-4-en-la-guaira-este-22ago/",
+      "published_date": "2026-08-23T00:56:56Z",
       "category": "Local Events"
     },
     {
-      "title": "The number of deaths in Colombia due to the earthquake rose to 329",
+      "title": "New 3.4 earthquake with epicenter in La Guaira",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ascendio-a-329-la-cifra-de-fallecidos-en-colombia-por-el-terremoto/",
-      "published_date": "2026-08-22T20:54:37Z",
+      "url": "https://www.elnacional.com/2026/08/nuevo-temblor-de-34-en-la-guaira/",
+      "published_date": "2026-08-23T00:40:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Norris overtook the Mercedes and took pole for the F1 Netherlands GP",
+      "title": "New 3.4 earthquake with epicenter in La Guaira",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/norris-supera-a-los-mercedes-y-se-lleva-la-pole-para-el-gp-de-paises-bajos/",
-      "published_date": "2026-08-22T20:28:25Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/nuevo-temblor-de-34-en-la-guaira/",
+      "published_date": "2026-08-23T00:40:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Norris overtook the Mercedes and took pole for the F1 Netherlands GP",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/norris-supera-a-los-mercedes-y-se-lleva-la-pole-para-el-gp-de-paises-bajos/",
-      "published_date": "2026-08-22T20:28:25Z",
+      "title": "Rains in Caracas and the Altos Mirandinos: floods, stuck vehicles and dragged motorcycles",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/gran-caracas/lluvias-en-caracas-y-los-altos-mirandinos-inundaciones-vehiculos-atascados-y-motos-arrastradas/",
+      "published_date": "2026-08-23T00:38:23Z",
       "category": "Local Events"
     },
     {
-      "title": "El Nacional asks Meta to review the suspension of its Instagram account and appreciates the support of its readers",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-nacional-pide-a-meta-revisar-la-suspension-de-su-cuenta-de-instagram-y-agradece-el-apoyo-de-sus-lectores/",
-      "published_date": "2026-08-22T20:23:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Nacional asks Meta to review the suspension of its Instagram account and appreciates the support of its readers",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-nacional-pide-a-meta-revisar-la-suspension-de-su-cuenta-de-instagram-y-agradece-el-apoyo-de-sus-lectores/",
-      "published_date": "2026-08-22T20:23:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suiche 7B denied increases in charging percentages for mobile payment",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/corporacion-suiche-7b-desmintio-incrementos-en-los-porcentajes-de-cobro-por-pago-movil/",
-      "published_date": "2026-08-22T20:08:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suiche 7B denied increases in charging percentages for mobile payment",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/corporacion-suiche-7b-desmintio-incrementos-en-los-porcentajes-de-cobro-por-pago-movil/",
-      "published_date": "2026-08-22T20:08:39Z",
+      "title": "Zulia | Bricklayer died electrocuted while manipulating cables at a construction site",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/zulia-albanil-murio-electrocutado-al-manipular-cables-en-una-construccion/",
+      "published_date": "2026-08-23T00:31:32Z",
       "category": "Local Events"
     }
   ]
