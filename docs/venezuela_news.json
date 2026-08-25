@@ -1,146 +1,188 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-25T11:32:18Z",
+  "last_updated": "2026-08-25T23:31:17Z",
   "stories": [
     {
-      "title": "EE UU planea retirar miles de visados de trabajo o negocios a solicitantes de asilo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-planea-retirar-miles-de-visados-de-trabajo-o-negocios-a-solicitantes-de-asilo/",
-      "published_date": "2026-08-25T10:04:00Z",
+      "title": "Fina recibe inversión internacional para fortalecer pymes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/fina-recibe-inversion-internacional-para-fortalecer-pymes/",
+      "published_date": "2026-08-25T23:29:15Z",
       "category": "Diplomacy"
     },
     {
-      "title": "EE UU planea retirar miles de visados de trabajo o negocios a solicitantes de asilo",
+      "title": "Aeropuerto de Maiquetía retomará vuelos comerciales el 1 de septiembre desde terminales temporales",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-planea-retirar-miles-de-visados-de-trabajo-o-negocios-a-solicitantes-de-asilo/",
-      "published_date": "2026-08-25T10:04:00Z",
+      "url": "https://www.elnacional.com/2026/08/aeropuerto-de-maiquetia-retomara-vuelos-comerciales-el-1-de-septiembre-desde-terminales-temporales/",
+      "published_date": "2026-08-25T23:12:14Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Al menos 41 heridos y 300 casas afectadas por el paso de un tornado en el sur de Francia",
+      "title": "Aeropuerto de Maiquetía retomará vuelos comerciales el 1 de septiembre desde terminales temporales",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/al-menos-41-heridos-y-300-casas-afectadas-por-el-paso-de-un-tornado-en-el-sur-de-francia/",
-      "published_date": "2026-08-25T09:47:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/aeropuerto-de-maiquetia-retomara-vuelos-comerciales-el-1-de-septiembre-desde-terminales-temporales/",
+      "published_date": "2026-08-25T23:12:14Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Al menos 41 heridos y 300 casas afectadas por el paso de un tornado en el sur de Francia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/al-menos-41-heridos-y-300-casas-afectadas-por-el-paso-de-un-tornado-en-el-sur-de-francia/",
-      "published_date": "2026-08-25T09:47:00Z",
+      "title": "Monagas | Vientos huracanados y fuertes lluvias dejan daños en iglesias, vehículos y árboles caídos en Maturín",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/monagas-vientos-huracanados-y-fuertes-lluvias-dejan-danos-en-iglesias-vehiculos-y-arboles-caidos-en-maturin/",
+      "published_date": "2026-08-25T23:05:48Z",
       "category": "Diplomacy"
     },
     {
-      "title": "El Mañanero del 25 de agosto: Colombia ordena priorizar la deportación de extranjeros",
+      "title": "Javier Tarazona propone la creación de nueva ley de amnistía",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/javier-tarazona-propone-la-creacion-de-nueva-ley-de-amnistia/",
+      "published_date": "2026-08-25T23:04:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gustavo Duque reporta más de 5.500 apartamentos afectados por los terremotos en Chacao",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/gustavo-duque-reporta-mas-de-5-500-apartamentos-afectados-por-los-terremotos-en-chacao/",
+      "published_date": "2026-08-25T22:50:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gustavo Duque reporta más de 5.500 apartamentos afectados por los terremotos en Chacao",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/gustavo-duque-reporta-mas-de-5-500-apartamentos-afectados-por-los-terremotos-en-chacao/",
+      "published_date": "2026-08-25T22:50:01Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Expresos políticos piden a Delcy Rodríguez que permita a la ONU verificar cifras de excarcelados",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/expresos-politicos-piden-a-delcy-rodriguez-que-permita-a-la-onu-verificar-cifras-de-excarcelados/",
+      "published_date": "2026-08-25T22:45:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Andrés Velásquez: «Sin elecciones presidenciales no hay transición»",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/andres-velasquez-sin-elecciones-presidenciales-no-hay-transicion/",
+      "published_date": "2026-08-25T22:08:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Joven que cayó al río Guaire fue encontrado sin vida en playa de Barlovento: lo identificaron por unos tatuajes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/joven-que-cayo-al-rio-guaire-fue-encontrado-sin-vida-en-playa-de-barlovento-lo-identificaron-por-unos-tatuajes/",
+      "published_date": "2026-08-25T21:54:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE. UU. evalúa retirar visas de trabajo y negocios a solicitantes de asilo: venezolanos entre los más vulnerables",
       "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/618212/el-mananero-del-25-de-agosto-colombia-ordena-priorizar-la-deportacion-de-extranjeros/",
-      "published_date": "2026-08-25T09:05:00Z",
+      "url": "https://runrun.es/noticias/618325/ee-uu-evalua-retirar-visas-de-trabajo-y-negocios-a-solicitantes-de-asilo-venezolanos-entre-los-mas-vulnerables/",
+      "published_date": "2026-08-25T21:11:31Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Zafir Pérez Cipriani: La proteína no es lo que la etiqueta promete",
+      "title": "Cinco futbolistas que podrían cambiar de equipo en los próximos días",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/zafir-perez-cipriani-la-proteina-no-es-lo-que-la-etiqueta-promete/",
-      "published_date": "2026-08-25T06:10:00Z",
+      "url": "https://www.elnacional.com/2026/08/cinco-futbolistas-que-podrian-cambiar-de-equipo-en-los-proximos-dias/",
+      "published_date": "2026-08-25T20:37:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Zafir Pérez Cipriani: La proteína no es lo que la etiqueta promete",
+      "title": "Cinco futbolistas que podrían cambiar de equipo en los próximos días",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/zafir-perez-cipriani-la-proteina-no-es-lo-que-la-etiqueta-promete/",
-      "published_date": "2026-08-25T06:10:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/cinco-futbolistas-que-podrian-cambiar-de-equipo-en-los-proximos-dias/",
+      "published_date": "2026-08-25T20:37:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Las grietas invisibles de la infancia y la importancia de la salud mental luego del doble terremoto en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/las-grietas-invisibles-de-la-infancia-y-la-importancia-de-la-salud-mental-luego-del-doble-terremoto-en-venezuela/",
-      "published_date": "2026-08-25T06:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las grietas invisibles de la infancia y la importancia de la salud mental luego del doble terremoto en Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/las-grietas-invisibles-de-la-infancia-y-la-importancia-de-la-salud-mental-luego-del-doble-terremoto-en-venezuela/",
-      "published_date": "2026-08-25T06:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las opciones de los Rodríguez y de María Corina",
+      "title": "Cecodap: No hay lineamientos claros para el regreso a clases tras los terremotos",
       "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/618253/delcy-rodriguez-4/",
-      "published_date": "2026-08-25T04:01:00Z",
+      "url": "https://runrun.es/inicio/618322/cecodap-no-hay-lineamientos-claros-para-el-regreso-a-clases-tras-los-terremotos/",
+      "published_date": "2026-08-25T20:02:14Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez dice que van 1.046 liberaciones desde el mes de enero",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-dice-que-van-1-046-liberaciones-desde-el-mes-de-enero/",
-      "published_date": "2026-08-25T02:01:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Celina Jiménez de Despujols, la profesora que todo el país debería conocer",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/618248/celina-jimenez-de-despujols/",
-      "published_date": "2026-08-25T01:10:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez anuncia la eliminación de alcabalas policiales",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-anuncia-la-eliminacion-de-alcabalas-policiales/",
-      "published_date": "2026-08-25T00:56:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cabello niega que excarcelaciones formen parte de los acuerdos en la mesa de diálogo",
+      "title": "The OVP denounces two more deaths in custody in the Rodeo II and Rodeo IV prisons",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cabello-niega-que-excarcelaciones-formen-parte-de-los-acuerdos-en-la-mesa-de-dialogo/",
-      "published_date": "2026-08-25T00:55:20Z",
+      "url": "https://www.elnacional.com/2026/08/el-ovp-denuncia-otras-dos-muertes-bajo-custodia-en-las-carceles-rodeo-ii-y-rodeo-iv/",
+      "published_date": "2026-08-25T19:54:10Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Cabello niega que excarcelaciones formen parte de los acuerdos en la mesa de diálogo",
+      "title": "El OVP denuncia otras dos muertes bajo custodia en las cárceles Rodeo II y Rodeo IV",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/cabello-niega-que-excarcelaciones-formen-parte-de-los-acuerdos-en-la-mesa-de-dialogo/",
-      "published_date": "2026-08-25T00:55:20Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-ovp-denuncia-otras-dos-muertes-bajo-custodia-en-las-carceles-rodeo-ii-y-rodeo-iv/",
+      "published_date": "2026-08-25T19:54:10Z",
       "category": "Diplomacy"
     },
     {
-      "title": "ONG venezolanas presentan informe al Congreso de EE. UU. por crisis migratoria",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/ong-venezolanas-presentan-informe-al-congreso-de-ee-uu-por-crisis-migratoria/",
-      "published_date": "2026-08-25T00:08:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Policías agredieron a manifestante de la tercera edad en marcha por la libertad de los presos políticos",
+      "title": "Díaz-Canel califica de “estancado” el diálogo con EE UU y niega que Cuba esté al borde del colapso",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/policias-agredieron-a-manifestante-de-la-tercera-edad-en-marcha-por-la-libertad-de-los-presos-politicos/",
-      "published_date": "2026-08-25T00:07:25Z",
+      "url": "https://www.elnacional.com/2026/08/diaz-canel-califica-de-estancado-el-dialogo-con-ee-uu-y-niega-que-cuba-este-al-borde-del-colapso/",
+      "published_date": "2026-08-25T19:37:22Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Policías agredieron a manifestante de la tercera edad en marcha por la libertad de los presos políticos",
+      "title": "Díaz-Canel califica de “estancado” el diálogo con EE UU y niega que Cuba esté al borde del colapso",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/policias-agredieron-a-manifestante-de-la-tercera-edad-en-marcha-por-la-libertad-de-los-presos-politicos/",
-      "published_date": "2026-08-25T00:07:25Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/diaz-canel-califica-de-estancado-el-dialogo-con-ee-uu-y-niega-que-cuba-este-al-borde-del-colapso/",
+      "published_date": "2026-08-25T19:37:22Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Sucre | Habitantes de Cumaná cumplen seis meses sin agua ni solución gubernamental a la vista",
+      "title": "Ganaderos de Táchira piden respuesta al TSJ sobre elecciones intervenidas de Asogata",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/sucre-habitantes-de-cumana-cumplen-seis-meses-sin-agua-ni-solucion-gubernamental-a-la-vista/",
-      "published_date": "2026-08-24T23:56:52Z",
+      "url": "https://elpitazo.net/regiones/los-andes/ganaderos-de-tachira-piden-respuesta-al-tsj-sobre-elecciones-intervenidas-de-asogata/",
+      "published_date": "2026-08-25T19:17:34Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Tres muertos, cinco desaparecidos y más de 150 viviendas afectadas por las lluvias en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/tres-muertos-cinco-desaparecidos-y-mas-de-150-viviendas-afectadas-por-las-lluvias-en-venezuela/",
-      "published_date": "2026-08-24T23:28:55Z",
+      "title": "Qué son los péptidos, para qué sirven y qué dice la ciencia sobre los efectos de inyectárselos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/que-son-los-peptidos-para-que-sirven-y-que-dice-la-ciencia-sobre-los-efectos-de-inyectarselos/",
+      "published_date": "2026-08-25T19:15:36Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Iniciativas de Trump duplicarán las emisiones de carbono del sector eléctrico para 2035, afirma análisis",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/iniciativas-de-trump-duplicaran-las-emisiones-de-carbono-del-sector-electrico-para-2035-afirma-analisis/",
+      "published_date": "2026-08-25T16:13:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Iniciativas de Trump duplicarán las emisiones de carbono del sector eléctrico para 2035, afirma análisis",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/iniciativas-de-trump-duplicaran-las-emisiones-de-carbono-del-sector-electrico-para-2035-afirma-analisis/",
+      "published_date": "2026-08-25T16:13:30Z",
+      "category": "Military"
+    },
+    {
+      "title": "Seis meses de guerra en Irán: incertidumbre, empobrecimiento y amenazas de mayor represión",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/seis-meses-de-guerra-en-iran-incertidumbre-empobrecimiento-y-amenazas-de-mayor-represion/",
+      "published_date": "2026-08-25T14:55:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Seis meses de guerra en Irán: incertidumbre, empobrecimiento y amenazas de mayor represión",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/seis-meses-de-guerra-en-iran-incertidumbre-empobrecimiento-y-amenazas-de-mayor-represion/",
+      "published_date": "2026-08-25T14:55:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Venezolanos en Barranquilla piden garantías ante nuevos controles migratorios en Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/venezolanos-en-barranquilla-piden-garantias/",
+      "published_date": "2026-08-25T05:30:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Venezolanos en Barranquilla piden garantías ante nuevos controles migratorios en Colombia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/venezolanos-en-barranquilla-piden-garantias/",
+      "published_date": "2026-08-25T05:30:00Z",
+      "category": "Military"
     },
     {
       "title": "Una tormenta de granizo obliga a suspender la tercera etapa de la Vuelta a España",
@@ -241,39 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "The Avencrit Awards highlighted the talent of a union that supports and embraces",
+      "title": "Cecodap alerta que 27% de las escuelas evaluadas presentan daños graves por los terremotos",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/los-premios-avencrit-destacaron-el-talento-del-gremio/",
-      "published_date": "2026-08-23T06:00:00Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/08/cecodap-alerta-que-27-de-las-escuelas-evaluadas-presentan-danos-graves-por-los-terremotos/",
+      "published_date": "2026-08-25T20:37:04Z",
+      "category": "Energy"
     },
     {
-      "title": "The Avencrit Awards highlighted the talent of a union that supports and embraces",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/los-premios-avencrit-destacaron-el-talento-del-gremio/",
-      "published_date": "2026-08-23T06:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Combination of heat and constant blackouts increases health risks for people with pre-existing diseases, warned specialist",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/combinacion-de-calor-y-constantes-apagones-eleva-los-riesgos-para-la-salud-de-adultos-mayores-y-personas-con-enfermedades-preexistentes-advirtio-especialista/",
-      "published_date": "2026-08-22T23:08:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Clippve asks the interim government to expand ICRC cooperation in Venezuelan prisons",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ong-pide-al-gobierno-interino-ampliar-cooperacion-del-cicr-en-carceles-venezolanas/",
-      "published_date": "2026-08-22T21:32:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "Táchira | GN arrests two women with drugs in their abdomen: X-ray examination confirmed the finding",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/tachira-gn-detiene-a-dos-mujeres-con-droga-en-el-abdomen-examen-de-rayos-x-confirmo-el-hallazgo/",
-      "published_date": "2026-08-22T21:31:24Z",
-      "category": "Military"
+      "title": "Promesas de Delcy Rodríguez y anuncios de mejoría son una realidad a medias",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618277/promesas-de-delcy-rodriguez-y-anuncios-de-mejoria-son-una-realidad-a-medias/",
+      "published_date": "2026-08-25T18:40:11Z",
+      "category": "Energy"
     },
     {
       "title": "115 familias siguen viviendo en carpas en la OPP 10 de Santa Rosalía dos meses después de los terremotos",
@@ -402,18 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "They denounce that electrical outages in Maturín generate economic losses in ice cream parlors and other businesses",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/denuncian-que-cortes-electricos-en-maturin-generan-perdidas-economicas-en-heladerias-locales-y-otros-comercios/",
-      "published_date": "2026-08-22T20:16:23Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Power is not enough",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/618122/mesa-de-dialogo-venezuela-2/",
-      "published_date": "2026-08-22T04:00:00Z",
-      "category": "Energy"
+      "title": "Sistema Patria aprueba bonos para trabajadores del sector educativo: cuáles son y quiénes los reciben",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/sistema-patria-aprueba-bonos-para-trabajadores-del-sector-educativo-cuales-son-y-quienes-los-reciben/",
+      "published_date": "2026-08-25T21:05:00Z",
+      "category": "Economy"
     },
     {
       "title": "Delcy Rodríguez: Venezuela alcanzó su mayor producción petrolera desde febrero de 2019",
@@ -549,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Jorge Rodríguez denies that the National Assembly hired Steve Hanke to dollarize the country",
+      "title": "Delcy Rodríguez firma ley para impulsar la construcción de viviendas tras los terremotos",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jorge-rodriguez-niega-que-la-asamblea-nacional-contratara-a-steve-hanke-para-dolarizar-el-pais/",
-      "published_date": "2026-08-21T21:18:14Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Aumento de 600% en la comisión mínima del pago móvil golpea el bolsillo de los sectores más vulnerables",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/aumento-de-600-en-la-comision-minima-del-pago-movil-golpea-el-bolsillo-de-los-sectores-mas-vulnerables/",
-      "published_date": "2026-08-25T06:10:00Z",
+      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-firma-ley-para-impulsar-la-construccion-de-viviendas-tras-los-terremotos/",
+      "published_date": "2026-08-25T22:56:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Aumento de 600% en la comisión mínima del pago móvil golpea el bolsillo de los sectores más vulnerables",
+      "title": "Delcy Rodríguez firma ley para impulsar la construcción de viviendas tras los terremotos",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/aumento-de-600-en-la-comision-minima-del-pago-movil-golpea-el-bolsillo-de-los-sectores-mas-vulnerables/",
-      "published_date": "2026-08-25T06:10:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/delcy-rodriguez-firma-ley-para-impulsar-la-construccion-de-viviendas-tras-los-terremotos/",
+      "published_date": "2026-08-25T22:56:02Z",
       "category": "Local Events"
     },
     {
-      "title": "Hospitales de Caracas reactivan consultas tras los terremotos, pero persisten las trabas para atender a pacientes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/hospitales-de-caracas-reactivan-consultas-tras-los-terremotos/",
-      "published_date": "2026-08-25T06:00:00Z",
+      "title": "Al menos 600 mil venezolanos están en riesgo por anuncios del presidente Abelardo de la Espriella",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-andes/al-menos-600-mil-venezolanos-estan-en-riesgo-por-anuncios-del-presidente-abelardo-de-la-espriella/",
+      "published_date": "2026-08-25T22:54:15Z",
       "category": "Local Events"
     },
     {
-      "title": "Hospitales de Caracas reactivan consultas tras los terremotos, pero persisten las trabas para atender a pacientes",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/hospitales-de-caracas-reactivan-consultas-tras-los-terremotos/",
-      "published_date": "2026-08-25T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/mark-carney-el-primer-ministro-de-canada-que-desafia-a-trump-y-acepta-pelear-en-la-guerra-comercial-con-ee-uu/",
-      "published_date": "2026-08-25T01:02:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mark Carney, el primer ministro de Canadá que desafía a Trump y acepta pelear en la guerra comercial con EE.UU.",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/mark-carney-el-primer-ministro-de-canada-que-desafia-a-trump-y-acepta-pelear-en-la-guerra-comercial-con-ee-uu/",
-      "published_date": "2026-08-25T01:02:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A 6.509 aumenta número de muertos del doblete sísmico",
+      "title": "Gaceta Oficial sobre cese de inhabilitación de María Corina Machado es falsa y fue creada con IA",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/a-6-509-aumenta-numero-de-muertos-del-doblete-sismico/",
-      "published_date": "2026-08-25T00:42:49Z",
+      "url": "https://efectococuyo.com/cocuyo-chequea/gaceta-oficial-sobre-cese-de-inhabilitacion-de-maria-corina-machado-fue-creada-con-ia/",
+      "published_date": "2026-08-25T22:36:37Z",
       "category": "Local Events"
     },
     {
-      "title": "SpaceX prevé lanzar en 2027 sus primeros satélites con inteligencia artificial de Nvidia",
+      "title": "Carlos Alcaraz reaparece con victoria junto a Serena Williams en el dobles mixto del US Open",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/spacex-preve-lanzar-en-2027-sus-primeros-satelites-con-inteligencia-artificial-de-nvidia/",
-      "published_date": "2026-08-25T00:41:40Z",
+      "url": "https://www.elnacional.com/2026/08/carlos-alcaraz-reaparece-con-victoria-junto-a-serena-williams-en-el-dobles-mixto-del-us-open/",
+      "published_date": "2026-08-25T22:26:41Z",
       "category": "Local Events"
     },
     {
-      "title": "SpaceX prevé lanzar en 2027 sus primeros satélites con inteligencia artificial de Nvidia",
+      "title": "Carlos Alcaraz reaparece con victoria junto a Serena Williams en el dobles mixto del US Open",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/spacex-preve-lanzar-en-2027-sus-primeros-satelites-con-inteligencia-artificial-de-nvidia/",
-      "published_date": "2026-08-25T00:41:40Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/carlos-alcaraz-reaparece-con-victoria-junto-a-serena-williams-en-el-dobles-mixto-del-us-open/",
+      "published_date": "2026-08-25T22:26:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Cifra de fallecidos por los terremotos asciende a 6509 y sobrepasa el total de rescatados",
+      "title": "Aeropuerto de Maiquetía confirma que iniciará sus operaciones el #1Sep",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/aeropuerto-de-maiquetia-confirma-que-iniciara-sus-operaciones-el-01sep/",
+      "published_date": "2026-08-25T22:25:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Reapertura de Aeropuerto de Maiquetía será el 1 de septiembre",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/reapertura-de-aeropuerto-de-maiquetia-sera-el-1-de-septiembre/",
+      "published_date": "2026-08-25T22:00:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asdrúbal Oliveros sobre la dolarización en Venezuela: hoy no es la mejor solución, pero tampoco la satanizo",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/asdrubal-oliveros-sobre-la-dolarizacion-en-venezuela-hoy-no-es-la-mejor-solucion-pero-tampoco-la-satanizo/",
+      "published_date": "2026-08-25T21:50:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Emiten alerta sanitaria en Venezuela por lote falsificado de medicamento oncológico",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/salud/emiten-alerta-sanitaria-en-venezuela-por-lote-falsificado-de-medicamento-oncologico/",
+      "published_date": "2026-08-25T21:36:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gobierno de Colombia presentará reforma para declarar terroristas a grupos armados",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/gobierno-de-colombia-presentara-reforma-para-declarar-terroristas-a-grupos-armados/",
+      "published_date": "2026-08-25T21:23:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gobierno de Colombia presentará reforma para declarar terroristas a grupos armados",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/gobierno-de-colombia-presentara-reforma-para-declarar-terroristas-a-grupos-armados/",
+      "published_date": "2026-08-25T21:23:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cidh denuncia ante la Corte IDH la muerte de Fernando Albán",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/cidh-denuncia-ante-la-corte-idh-la-muerte-de-fernando-alban/",
+      "published_date": "2026-08-25T21:16:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mujer fue estrangulada por su pareja en Portuguesa: el estado suma tres femicidios en dos meses",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/mujer-fue-estrangulada-por-su-pareja-en-portuguesa-el-estado-suma-tres-femicidios-en-dos-meses/",
+      "published_date": "2026-08-25T21:07:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump lamenta la muerte de Dolly Parton y decreta una semana de duelo con banderas a media asta",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/trump-lamenta-la-muerte-de-dolly-parton-y-decreta-una-semana-de-duelo-con-banderas-a-media-asta/",
+      "published_date": "2026-08-25T21:05:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump lamenta la muerte de Dolly Parton y decreta una semana de duelo con banderas a media asta",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/trump-lamenta-la-muerte-de-dolly-parton-y-decreta-una-semana-de-duelo-con-banderas-a-media-asta/",
+      "published_date": "2026-08-25T21:05:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aseguran que una dolarización sería irreversible y Venezuela dependería de la Reserva Federal de EE. UU.",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618239/cifra-de-fallecidos-por-los-terremotos-asciende-a-6509-y-sobrepasa-el-total-de-rescatados/",
-      "published_date": "2026-08-25T00:40:03Z",
+      "url": "https://runrun.es/noticias/618326/aseguran-que-una-dolarizacion-seria-irreversible-y-venezuela-dependeria-de-la-reserva-federal-de-ee-uu/",
+      "published_date": "2026-08-25T21:03:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Familiares de los migrantes venezolanos deportados en el vuelo 164 exigen respuesta tras dos meses de silencio: “Lo más lógico es que el gobierno se haga responsable”",
+      "title": "La Sociedad Interamericana de Prensa premió las mejores coberturas del periodismo continental en 2026",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/familiares-de-los-migrantes-venezolanos-deportados-en-el-vuelo-164-exigen-respuesta-tras-dos-meses-de-silencio-lo-mas-logico-es-que-el-gobierno-se-haga-responsable/",
-      "published_date": "2026-08-25T00:30:09Z",
+      "url": "https://www.elnacional.com/2026/08/premios-excelencia-periodistica-sip-2026-ganadores-lista-completa/",
+      "published_date": "2026-08-25T20:53:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Familiares de los migrantes venezolanos deportados en el vuelo 164 exigen respuesta tras dos meses de silencio: “Lo más lógico es que el gobierno se haga responsable”",
+      "title": "La Sociedad Interamericana de Prensa premió las mejores coberturas del periodismo continental en 2026",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/familiares-de-los-migrantes-venezolanos-deportados-en-el-vuelo-164-exigen-respuesta-tras-dos-meses-de-silencio-lo-mas-logico-es-que-el-gobierno-se-haga-responsable/",
-      "published_date": "2026-08-25T00:30:09Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/premios-excelencia-periodistica-sip-2026-ganadores-lista-completa/",
+      "published_date": "2026-08-25T20:53:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Dos meses después de los terremotos: familias acampan en plazas y calles de Caracas",
+      "title": "Tarazona propone nueva ley de amnistía y fondo de reparación para presos políticos",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/dos-meses-despues-de-los-terremotos-familias-acampan-en-plazas-y-calles-de-caracas/",
-      "published_date": "2026-08-25T00:12:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "A dos meses de los terremotos en Venezuela: más de 6.500 muertos y silencio sobre la cifra de desaparecidos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/a-dos-meses-de-los-terremotos-en-venezuela-mas-de-6-500-muertos-y-silencio-sobre-la-cifra-de-desaparecidos/",
-      "published_date": "2026-08-25T00:01:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fallece segundo recluso del penal Fénix en cinco días, reporta el OVP",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/fallece-segundo-recluso-penal-fenix/",
-      "published_date": "2026-08-24T23:51:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Explosión en subestación deja sin electricidad a más de 20 sectores del sur de Acarigua este #24Ago",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/explosion-en-subestacion-deja-sin-electricidad-a-mas-de-20-sectores-del-sur-de-acarigua-este-24ago/",
-      "published_date": "2026-08-24T23:50:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sube a 6.509 el número de muertos por los terremotos de hace dos meses en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/sube-a-6-509-el-numero-de-muertos-por-los-terremotos-de-hace-dos-meses-en-venezuela/",
-      "published_date": "2026-08-24T23:49:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sube a 6.509 el número de muertos por los terremotos de hace dos meses en Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/sube-a-6-509-el-numero-de-muertos-por-los-terremotos-de-hace-dos-meses-en-venezuela/",
-      "published_date": "2026-08-24T23:49:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lara | OVP: Muere segundo preso de la Comunidad Penitenciaria Fénix que recibía diálisis",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/lara-ovp-muere-segundo-preso-de-la-comunidad-penitenciaria-fenix-que-recibia-dialisis/",
-      "published_date": "2026-08-24T23:36:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Entre expectativas, hermetismo y simulacros, así avanza la instalación del terminal provisional de Maiquetía",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/terminal-provisional-maiquetia-aeropuerto-simulacros-vuelos-2026/",
-      "published_date": "2026-08-24T23:29:26Z",
+      "url": "https://efectococuyo.com/la-humanidad/tarazona-propone-nueva-ley-de-amnistia/",
+      "published_date": "2026-08-25T20:50:37Z",
       "category": "Local Events"
     }
   ]
