@@ -1,7 +1,91 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-27T20:58:51Z",
+  "last_updated": "2026-08-28T06:51:56Z",
   "stories": [
+    {
+      "title": "Ramón López, member of the negotiation table for the opposition: “We are certain that this initiative will be successful”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ramon-lopez-mesa-negociacion-reforma-tsj-elecciones-venezuela-2026/",
+      "published_date": "2026-08-28T06:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ramón López, miembro de la mesa de negociación por parte de la oposición: “Tenemos certeza de que esta iniciativa va a tener éxito”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ramon-lopez-mesa-negociacion-reforma-tsj-elecciones-venezuela-2026/",
+      "published_date": "2026-08-28T06:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Luis Carrera Almoina is deprived of liberty in the Linda Loaiza case: he will be confined in El Rodeo II",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/dictan-privativa-de-libertad-contra-luis-carrera-almoina-por-el-caso-linda-loaiza-sera-recluido-en-el-rodeo-ii/",
+      "published_date": "2026-08-28T01:21:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Court dictates deprivation of liberty against Luis Carrera Almoina for the case of Linda Loaiza",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/gran-caracas/tribunal-dicta-privativa-de-libertad-contra-luis-carrera-almoina-por-el-caso-de-linda-loaiza/",
+      "published_date": "2026-08-28T01:00:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The fear that accompanies the AI ​​revolution: are we prepared for what is coming?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/el-miedo-que-acompana-a-la-revolucion-de-la-ia-estamos-preparados-para-lo-que-viene/",
+      "published_date": "2026-08-28T00:15:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qué causó la avalancha y otras 3 preguntas sobre la catástrofe que dejó cientos de muertos y desaparecidos en Nepal y Tíbet",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/que-causo-la-avalancha-y-otras-3-preguntas-sobre-la-catastrofe-que-dejo-cientos-de-muertos-y-desaparecidos-en-nepal-y-tibet/",
+      "published_date": "2026-08-27T23:56:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juan Miguel Matheus asegura que reforma del TSJ abre paso a mayor participación de la sociedad civil",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/juan-miguel-matheus-asegura-que-reforma-del-tsj-abre-paso-a-mayor-participacion-de-la-sociedad-civil/",
+      "published_date": "2026-08-27T23:46:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alejandro Betancourt: the businessman who went from being investigated to being protected in the US.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/alejandro-betancourt-el-empresario-que-paso-de-investigado-a-protegido-en-ee-uu/",
+      "published_date": "2026-08-27T23:27:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Opposition at the dialogue table: Reform of the TSJ law is a real change in the negotiation",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/oposicion-en-mesa-de-dialogo-reforma-de-ley-del-tsj-es-un-cambio-real-de-la-negociacion/",
+      "published_date": "2026-08-27T22:57:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Loaiza asks that Carrera Almoina not be given procedural benefits",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618534/loaiza-pide-prision-sin-beneficio-procesal-para-carrera-almoina/",
+      "published_date": "2026-08-27T22:31:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US would be negotiating to acquire participation in more than 12 oil fields in Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618526/ee-uu-estaria-negociando-adquirir-participacion-en-mas-de-12-yacimientos-petroleros-en-venezuela/",
+      "published_date": "2026-08-27T22:15:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ofac makes other general licenses on oil, gas and mining in Venezuela more flexible",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/ofac-flexibiliza-otras-licencias-generales-sobre-petroleo-gas-y-mineria-en-venezuela/",
+      "published_date": "2026-08-27T22:07:52Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "FIFA authorizes Argentines sanctioned after the World Cup to serve their sanctions in friendlies",
       "source": "El Nacional",
@@ -10,24 +94,10 @@
       "category": "Diplomacy"
     },
     {
-      "title": "FIFA authorizes Argentines sanctioned after the World Cup to serve their sanctions in friendlies",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/fifa-autoriza-que-los-argentinos-sancionados-tras-el-mundial-cumplan-sus-sanciones-en-amistosos/",
-      "published_date": "2026-08-27T20:06:48Z",
-      "category": "Diplomacy"
-    },
-    {
       "title": "Alejandro Betancourt: Washington's favorite operator in Venezuela",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/618509/alejandro-betancourt-el-operador-favorito-de-washington-en-venezuela/",
       "published_date": "2026-08-27T20:02:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opposition at the dialogue table: Reform of the TSJ law is a real change in the negotiation",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/oposicion-en-mesa-de-dialogo-reforma-de-ley-del-tsj-es-un-cambio-real-de-la-negociacion/",
-      "published_date": "2026-08-27T19:57:07Z",
       "category": "Diplomacy"
     },
     {
@@ -73,74 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Fourteen migrants sexually assaulted in Ceuta since the mass entry",
+      "title": "Luis Carrera Almoina is deprived of liberty in the Linda Loaiza case: he will be confined in El Rodeo II",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/catorce-migrantes-agredidas-sexualmente-en-ceuta-desde-la-entrada-masiva/",
-      "published_date": "2026-08-27T16:06:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/dictan-privativa-de-libertad-contra-luis-carrera-almoina-por-el-caso-linda-loaiza-sera-recluido-en-el-rodeo-ii/",
+      "published_date": "2026-08-28T01:21:49Z",
+      "category": "Military"
     },
     {
-      "title": "Fourteen migrants sexually assaulted in Ceuta since the mass entry",
+      "title": "The US expanded authorizations for oil, mining and telecommunications operations in Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/catorce-migrantes-agredidas-sexualmente-en-ceuta-desde-la-entrada-masiva/",
-      "published_date": "2026-08-27T16:06:09Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/08/la-ofac-amplio-autorizaciones-para-operaciones-petroleras-mineras-y-de-telecomunicaciones-en-venezuela/",
+      "published_date": "2026-08-28T00:08:02Z",
+      "category": "Military"
     },
     {
-      "title": "Chavista Parliament will modify a single article of the TSJ Law and attends to the first agreement of the dialogue table",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/parlamento-chavista-modificara-un-solo-articulo-de-la-ley-del-tsj-y-atiende-el-primer-acuerdo-de-la-mesa-de-dialogo/",
-      "published_date": "2026-08-27T15:51:19Z",
-      "category": "Diplomacy"
+      "title": "The US expanded authorizations for oil, mining and telecommunications operations in Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/la-ofac-amplio-autorizaciones-para-operaciones-petroleras-mineras-y-de-telecomunicaciones-en-venezuela/",
+      "published_date": "2026-08-28T00:08:02Z",
+      "category": "Military"
     },
     {
-      "title": "Franco Colapinto extends his relationship with Alpine until 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/franco-colapinto-extiende-su-vinculo-con-alpine-hasta-2027/",
-      "published_date": "2026-08-27T15:49:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Franco Colapinto extends his relationship with Alpine until 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/franco-colapinto-extiende-su-vinculo-con-alpine-hasta-2027/",
-      "published_date": "2026-08-27T15:49:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela qualified for the second phase of the women's baseball World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/venezuela-clasifico-a-la-segunda-fase-del-mundial-de-beisbol-femenino/",
-      "published_date": "2026-08-27T15:14:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela qualified for the second phase of the women's baseball World Cup",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/venezuela-clasifico-a-la-segunda-fase-del-mundial-de-beisbol-femenino/",
-      "published_date": "2026-08-27T15:14:35Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Court will review annulment appeal in Paramacay Case in 10 days",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/tribunal-revisara-recurso-de-nulidad-en-caso-paramacay/",
-      "published_date": "2026-08-27T13:29:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Court will review annulment appeal in Paramacay Case in 10 days",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/tribunal-revisara-recurso-de-nulidad-en-caso-paramacay/",
-      "published_date": "2026-08-27T13:29:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "National Assembly begins discussion of reform of the TSJ agreed at the dialogue table",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/asamblea-nacional-inicia-discusion-de-reforma-del-tsj/",
-      "published_date": "2026-08-27T13:14:52Z",
-      "category": "Diplomacy"
+      "title": "Three airlines, for now, confirm operations in the provisional terminal of Maiquetía",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/tres-aerolineas-por-ahora-confirman-reanudacion/",
+      "published_date": "2026-08-27T20:58:32Z",
+      "category": "Military"
     },
     {
       "title": "Jorge Rodríguez and Diosdado Cabello attack NGOs and families of political prisoners",
@@ -157,7 +185,7 @@
       "category": "Military"
     },
     {
-      "title": "The Venezuelan painter Manuel Espinoza died",
+      "title": "Falleció el pintor venezolano Manuel Espinoza",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/fallecio-el-pintor-venezolano-manuel-espinoza/",
       "published_date": "2026-08-27T19:49:00Z",
@@ -241,7 +269,7 @@
       "category": "Military"
     },
     {
-      "title": "Relatives of political prisoners celebrate 230 days in vigil in El Rodeo I",
+      "title": "Familiares de presos políticos cumplen 230 días en vigilia en El Rodeo I",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/familiares-de-presos-politicos-cumplen-230-dias-en-vigilia-en-el-rodeo-i/",
       "published_date": "2026-08-27T16:30:44Z",
@@ -252,34 +280,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/murio-ratko-mladic-el-carnicero-de-bosnia-que-fue-condenado-por-la-mayor-masacre-en-europa-desde-la-segunda-guerra-mundial/",
       "published_date": "2026-08-27T16:26:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Ratko Mladic, the \"butcher of Bosnia\" who was convicted of the largest massacre in Europe since World War II, has died",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/murio-ratko-mladic-el-carnicero-de-bosnia-que-fue-condenado-por-la-mayor-masacre-en-europa-desde-la-segunda-guerra-mundial/",
-      "published_date": "2026-08-27T16:26:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "The US reaffirms its commitment to NATO and says that Europe is \"of fundamental interest\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-reafirma-su-compromiso-con-la-otan/",
-      "published_date": "2026-08-27T15:19:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "The US reaffirms its commitment to NATO and says that Europe is \"of fundamental interest\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-reafirma-su-compromiso-con-la-otan/",
-      "published_date": "2026-08-27T15:19:48Z",
-      "category": "Military"
-    },
-    {
-      "title": "OVP denounced the death of a prisoner in the 26 de Julio prison in Guárico",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ovp-denuncio-muerte-en-penal-26-de-julio-de-guarico/",
-      "published_date": "2026-08-27T14:35:33Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "World Food Program sent 17 tons of humanitarian aid to Venezuela for those affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/programa-mundial-de-alimentos-envio-17-toneladas-de-ayuda-humanitaria-a-venezuela-para-afectados-por-los-terremotos/",
+      "published_date": "2026-08-27T22:08:56Z",
+      "category": "Economy"
+    },
+    {
       "title": "Bill Gates proposes jobs reserved for humans",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/bill-gates-propone-los-empleos-reservados-a-humanos/",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "What do economists say about the proposal to dollarize the Venezuelan economy?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/que-dicen-los-economistas-sobre-la-propuesta-de-dolarizacion-de-la-economia-venezolana/",
-      "published_date": "2026-08-23T14:31:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Jorge Rodríguez attacks NGOs and questions Norway's participation in previous negotiation processes",
+      "title": "Netflix: what were the most watched series and movies this week in Venezuela?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/jorge-rodriguez-arremete-contra-las-ong-y-cuestiona-la-participacion-de-noruega-en-anteriores-procesos-de-negociacion/",
-      "published_date": "2026-08-27T20:49:20Z",
+      "url": "https://www.elnacional.com/2026/08/netflix-cuales-fueron-las-series-y-peliculas-mas-vistas-esta-semana-en-venezuela-169/",
+      "published_date": "2026-08-28T06:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Jorge Rodríguez attacks NGOs and questions Norway's participation in previous negotiation processes",
+      "title": "Netflix: ¿cuáles fueron las series y películas más vistas esta semana en Venezuela?",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/jorge-rodriguez-arremete-contra-las-ong-y-cuestiona-la-participacion-de-noruega-en-anteriores-procesos-de-negociacion/",
-      "published_date": "2026-08-27T20:49:20Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/netflix-cuales-fueron-las-series-y-peliculas-mas-vistas-esta-semana-en-venezuela-169/",
+      "published_date": "2026-08-28T06:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "More than 700 pets are waiting to be adopted in La Guaira",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/mas-de-700-mascotas-esperan-para-ser-adoptadas-en-la-guaira/",
-      "published_date": "2026-08-27T20:47:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They capture alias Páez, leader of the Aragua Train in Peru, in Bogotá",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/capturan-en-bogota-a-alias-paez-cabecilla-del-tren-de-aragua-en-peru/",
-      "published_date": "2026-08-27T20:36:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They capture alias Páez, leader of the Aragua Train in Peru, in Bogotá",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/capturan-en-bogota-a-alias-paez-cabecilla-del-tren-de-aragua-en-peru/",
-      "published_date": "2026-08-27T20:36:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OVP estimates the number of inmates who died between April and August 2026 at 60",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/ovp-cifra-en-60-el-numero-de-reclusos-fallecidos-entre-abril-y-agosto-de-2026/",
-      "published_date": "2026-08-27T20:32:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Draw of draws at the US Open leaves a complicated path for Alcaraz",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/sorteo-de-los-cuadros-en-el-us-open-deja-un-camino-complicado-para-alcaraz/",
-      "published_date": "2026-08-27T20:11:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Draw of draws at the US Open leaves a complicated path for Alcaraz",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/sorteo-de-los-cuadros-en-el-us-open-deja-un-camino-complicado-para-alcaraz/",
-      "published_date": "2026-08-27T20:11:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Court of Appeals will decide in 10 days on Caguaripano's conviction for assault on Fort Paramacay",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/corte-de-apelaciones-decidira-en-10-dias-sobre-condena-de-caguaripano-por-asalto-al-fuerte-paramacay/",
-      "published_date": "2026-08-27T20:11:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They will prohibit the entry of pets and sound equipment into the Mochima National Park starting in December",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/prohibiran-entrada-de-mascotas-y-equipos-de-sonido-en-el-parque-nacional-mochima-a-partir-de-diciembre/",
-      "published_date": "2026-08-27T19:56:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "They will prohibit the entry of pets and sound equipment into the Mochima National Park starting in December",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/prohibiran-entrada-de-mascotas-y-equipos-de-sonido-en-el-parque-nacional-mochima-a-partir-de-diciembre/",
-      "published_date": "2026-08-27T19:56:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump signs order to change Lake Ontario's name to “Lake America”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-firma-orden-para-cambiar-nombre-del-lago-ontario-a-lago-america/",
-      "published_date": "2026-08-27T19:21:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "There is no passage between Apure and Táchira due to the rains: the bridge suffered structural damage",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-andes/no-hay-paso-entre-apure-y-tachira-por-las-lluvias-el-puente-sufrio-danos-estructurales/",
-      "published_date": "2026-08-27T19:13:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil beat Venezuela in the quarterfinals of the U-17 Men's Volleyball World Cup",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/brasil-supero-a-venezuela-en-cuartos-de-final-del-mundial-sub-17-de-voleibol-masculino/",
-      "published_date": "2026-08-27T18:52:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brazil beat Venezuela in the quarterfinals of the U-17 Men's Volleyball World Cup",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/brasil-supero-a-venezuela-en-cuartos-de-final-del-mundial-sub-17-de-voleibol-masculino/",
-      "published_date": "2026-08-27T18:52:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mochima National Park will ban pets and sound equipment starting in December",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/parque-nacional-mochima-prohibira-mascotas-y-equipos-de-sonido-desde-diciembre/",
-      "published_date": "2026-08-27T18:50:15Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Partial reform of the Organic Law of the TSJ advances after agreements between Assemblies",
+      "title": "Difference should not be an act of heroism",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618496/reforma-parcial-de-la-ley-organica-del-tsj-avanza-tras-acuerdos-entre-asambleas/",
-      "published_date": "2026-08-27T18:48:19Z",
+      "url": "https://runrun.es/opinion/618561/cualidades-distintas/",
+      "published_date": "2026-08-28T03:52:26Z",
       "category": "Local Events"
     },
     {
-      "title": "3.6 magnitude earthquake in Mérida caused evacuation of buildings, shopping centers and public institutions",
+      "title": "Four earthquakes of different magnitudes were recorded this Thursday",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/cuatro-sismos-reporto-funvisis/",
+      "published_date": "2026-08-28T01:52:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "At least five people died after recent rains in Caracas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/sismo-de-36-en-merida-provoco-evacuacion-de-edificios/",
-      "published_date": "2026-08-27T18:03:36Z",
+      "url": "https://www.elnacional.com/2026/08/al-menos-cinco-personas-murieron-tras-las-recientes-lluvias-en-caracas/",
+      "published_date": "2026-08-28T01:35:03Z",
       "category": "Local Events"
     },
     {
-      "title": "3.6 magnitude earthquake in Mérida caused evacuation of buildings, shopping centers and public institutions",
+      "title": "At least five people died after recent rains in Caracas",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/sismo-de-36-en-merida-provoco-evacuacion-de-edificios/",
-      "published_date": "2026-08-27T18:03:36Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/al-menos-cinco-personas-murieron-tras-las-recientes-lluvias-en-caracas/",
+      "published_date": "2026-08-28T01:35:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Opsu: 136,170 high school students were left without university places in the first phase",
+      "title": "It trembled in Caracas, Miranda and Aragua: a new aftershock alerted citizens this #27Aug",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/opsu-136-170-bachilleres-se-quedaron-sin-cupos-universitarios-en-la-primera-fase/",
-      "published_date": "2026-08-27T17:59:26Z",
+      "url": "https://elpitazo.net/regiones/temblo-en-caracas-miranda-y-aragua-nueva-replica-alerto-a-los-ciudadanos-este-27ago/",
+      "published_date": "2026-08-28T01:17:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "They dictate deprivation of liberty for Linda Loaiza's attacker",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/618557/dictan-privativa-de-libertad-para-el-agresor-de-linda-loaiza/",
+      "published_date": "2026-08-28T01:04:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funvisis reported a 3.9 magnitude earthquake north of La Victoria",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/funvisis-reporta-sismo-de-magnitud-39-al-norte-de-la-victoria/",
+      "published_date": "2026-08-28T00:57:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Funvisis reported a 3.9 magnitude earthquake north of La Victoria",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/funvisis-reporta-sismo-de-magnitud-39-al-norte-de-la-victoria/",
+      "published_date": "2026-08-28T00:57:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "De la Espriella orders the formation of an elite group to pursue those responsible for the fires in Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/de-la-espriella-ordena-conformar-grupo-elite-para-perseguir-a-responsables-de-los-incendios-en-colombia/",
+      "published_date": "2026-08-28T00:40:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "De la Espriella orders the formation of an elite group to pursue those responsible for the fires in Colombia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/de-la-espriella-ordena-conformar-grupo-elite-para-perseguir-a-responsables-de-los-incendios-en-colombia/",
+      "published_date": "2026-08-28T00:40:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "The fear that accompanies the AI ​​revolution: are we prepared for what is coming?",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-miedo-que-acompana-a-la-revolucion-de-la-ia-estamos-preparados-para-lo-que-viene/",
+      "published_date": "2026-08-28T00:15:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Gran Aldea turns seven years old and presents a special on the earthquakes in La Guaira",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/la-gran-aldea-cumple-siete-anos-y-presenta-especial-sobre-los-terremotos-en-la-guaira/",
+      "published_date": "2026-08-28T00:04:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "What caused the avalanche and 3 other questions about the catastrophe that left hundreds dead or missing in Nepal and Tibet",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/que-causo-la-avalancha-y-otras-3-preguntas-sobre-la-catastrofe-que-dejo-cientos-de-muertos-y-desaparecidos-en-nepal-y-tibet/",
+      "published_date": "2026-08-27T23:56:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juan Miguel Matheus assures that reform of the TSJ opens the way to greater participation of civil society",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/juan-miguel-matheus-asegura-que-reforma-del-tsj-abre-paso-a-mayor-participacion-de-la-sociedad-civil/",
+      "published_date": "2026-08-27T23:46:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PAHO distributes 2.9 million vaccines in Venezuela after the earthquakes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/la-ops-distribuye-29-millones-de-vacunas-en-venezuela-tras-los-terremotos/",
+      "published_date": "2026-08-27T23:27:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La OPS distribuye 2,9 millones de vacunas en Venezuela tras los terremotos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/la-ops-distribuye-29-millones-de-vacunas-en-venezuela-tras-los-terremotos/",
+      "published_date": "2026-08-27T23:27:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New earthquake is recorded in Aragua this #27Aug",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/nuevo-sismo-se-registra-en-aragua-este-27ago/",
+      "published_date": "2026-08-27T23:16:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jorge Rodríguez says that the 2026 National Assembly will elect the 32 judges of the TSJ",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/jorge-rodriguez-dice-que-la-asamblea-nacional-de-2026-elegira-los-32-magistrados-del-tsj/",
+      "published_date": "2026-08-27T22:58:06Z",
       "category": "Local Events"
     }
   ]
