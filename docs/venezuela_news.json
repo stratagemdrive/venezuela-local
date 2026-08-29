@@ -1,152 +1,194 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-08-29T04:06:56Z",
+  "last_updated": "2026-08-29T15:33:54Z",
   "stories": [
     {
-      "title": "Comando Sur de EE UU y Colombia forjarán frente unido contra el narcotráfico",
+      "title": "Empresario colombiano Jaime Gilinski avanza en las negociaciones para asumir operaciones petroleras en Venezuela, según Bloomberg",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/comando-sur-de-ee-uu-y-colombia-forjaran-frente-unido-contra-el-narcotrafico/",
-      "published_date": "2026-08-29T01:36:18Z",
+      "url": "https://www.elnacional.com/2026/08/empresario-colombiano-jaime-gilinski-avanza-en-las-negociaciones-para-asumir-operaciones-petroleras-en-venezuela-segun-bloomberg/",
+      "published_date": "2026-08-29T15:15:58Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Williams Dávila exigió transparencia absoluta tras anuncio de acuerdos petroleros con EE UU",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/williams-davila-exigio-transparencia-absoluta-tras-anuncio-de-acuerdos-petroleros-con-ee-uu/",
+      "published_date": "2026-08-29T15:06:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Williams Dávila exigió transparencia absoluta tras anuncio de acuerdos petroleros con EE UU",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/williams-davila-exigio-transparencia-absoluta-tras-anuncio-de-acuerdos-petroleros-con-ee-uu/",
+      "published_date": "2026-08-29T15:06:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dolarizar no se traduce en mayor poder adquisitivo de la población, advierten economistas",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/dolarizar-no-se-traduce-en-mayor-poder-adquisitivo-de-la-poblacion-advierten-economistas/",
+      "published_date": "2026-08-29T15:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juan Pablo Guanipa considered that oil agreements with the United States require a calm reading",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/juan-pablo-guanipa-considero-que-acuerdos-petroleros-con-ee-uu-requieren-una-lectura-calmada/",
+      "published_date": "2026-08-29T14:28:58Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ataque ruso con drones contra depósito situado cerca de Kiev dejó al menos 27 muertos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ataque-ruso-con-drones-contra-deposito-situado-cerca-de-kiev-dejo-al-menos-27-muertos/",
+      "published_date": "2026-08-29T14:15:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Russian drone attack on warehouse near kyiv left at least 27 dead",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ataque-ruso-con-drones-contra-deposito-situado-cerca-de-kiev-dejo-al-menos-27-muertos/",
+      "published_date": "2026-08-29T14:15:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezolanos en el sur de Florida rechazaron detenciones de ICE y reclamaron acciones del Congreso de EE UU",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/venezolanos-en-el-sur-de-florida-rechazaron-detenciones-de-ice-y-reclamaron-acciones-del-congreso-de-ee-uu/",
+      "published_date": "2026-08-29T14:07:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ONG alertó sobre escasez de inmunosupresores en Los Ruices para pacientes trasplantados",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ong-alerto-sobre-escasez-de-inmunosupresores-en-los-ruices-para-pacientes-trasplantados/",
+      "published_date": "2026-08-29T13:39:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ONG alertó sobre escasez de inmunosupresores en Los Ruices para pacientes trasplantados",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ong-alerto-sobre-escasez-de-inmunosupresores-en-los-ruices-para-pacientes-trasplantados/",
+      "published_date": "2026-08-29T13:39:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Onda Tropical 44 provocará lluvias y actividad tormentosa en varios estados, según reporte del  Inameh",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/onda-tropical-44-provocara-lluvias-y-actividad-tormentosa-en-varios-estados-segun-reporto-inameh/",
+      "published_date": "2026-08-29T13:34:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PSUV respalda el acuerdo petrolero con EE. UU. y pide cohesión a sus filas",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618651/psuv-respalda-acuerdo-petrolero-eeuu-pide-cohesion-a-sus-filas/",
+      "published_date": "2026-08-29T13:29:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Funvisis reportó sismo de magnitud 3,8 cerca de la Isla La Tortuga",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/funvisis-reporto-sismo-de-magnitud-38-cerca-de-la-isla-la-tortuga/",
+      "published_date": "2026-08-29T13:21:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Funvisis reportó sismo de magnitud 3,8 cerca de la Isla La Tortuga",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/funvisis-reporto-sismo-de-magnitud-38-cerca-de-la-isla-la-tortuga/",
+      "published_date": "2026-08-29T13:21:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colegio de Ingenieros instó a los afectados por los terremotos a evitar reparaciones de viviendas sin orientación profesional",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/colegio-de-ingenieros-insto-a-los-afectados-por-los-terremotos-a-evitar-reparaciones-de-viviendas-sin-orientacion-profesional/",
+      "published_date": "2026-08-29T12:31:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "College of Engineers urged those affected by the earthquakes to avoid home repairs without professional guidance",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/colegio-de-ingenieros-insto-a-los-afectados-por-los-terremotos-a-evitar-reparaciones-de-viviendas-sin-orientacion-profesional/",
+      "published_date": "2026-08-29T12:31:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Superior Council of Christian Democracy demands immediate elections and warns about the lack of transparency in the Venezuelan transition",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/el-consejo-superior-de-la-democracia-cristiana-exige-elecciones-inmediatas-y-advierte-sobre-la-falta-de-transparencia-en-la-transicion-venezolana/",
+      "published_date": "2026-08-29T12:25:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Entre la integración y el anhelo de volver a Venezuela: el drama de las familias venezolanas en Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/entre-la-integracion-y-el-anhelo-de-volver-a-venezuela-el-drama-de-las-familias-venezolanas-en-colombia/",
+      "published_date": "2026-08-29T12:11:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Between integration and the desire to return to Venezuela: the drama of Venezuelan families in Colombia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/entre-la-integracion-y-el-anhelo-de-volver-a-venezuela-el-drama-de-las-familias-venezolanas-en-colombia/",
+      "published_date": "2026-08-29T12:11:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juan Pablo Guanipa recibió a Omar González y aseguró que lucharán para que ningún venezolano tenga que irse del país",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/juan-pablo-guanipa-recibio-a-omar-gonzalez-en-anzoategui-y-aseguro-que-lucharan-para-que-ningun-venezolano-tenga-que-irse-del-pais/",
+      "published_date": "2026-08-29T11:53:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuelans in South Florida rejected ICE detentions and demanded action from the US Congress",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/venezolanos-en-el-sur-de-florida-rechazaron-detenciones-de-ice-y-reclamaron-acciones-del-congreso-de-ee-uu/",
+      "published_date": "2026-08-29T14:07:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cicpc arrestó a una pareja en Zulia por difundir videos íntimos de una mujer en redes sociales",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/cicpc-arresto-a-una-pareja-en-zulia-por-difundir-videos-intimos-de-una-mujer-en-redes-sociales/",
+      "published_date": "2026-08-29T13:09:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "Cicpc arrested a couple in Zulia for spreading intimate videos of a woman on social networks",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/cicpc-arresto-a-una-pareja-en-zulia-por-difundir-videos-intimos-de-una-mujer-en-redes-sociales/",
+      "published_date": "2026-08-29T13:09:03Z",
+      "category": "Military"
+    },
+    {
+      "title": "GTA VI challenges hackers and prepares the biggest launch in history",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/gta-vi-desafia-a-los-hackers-y-prepara-el-lanzamiento-mas-grande-de-la-historia/",
+      "published_date": "2026-08-29T05:00:00Z",
+      "category": "Military"
     },
     {
       "title": "Comando Sur de EE UU y Colombia forjarán frente unido contra el narcotráfico",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/comando-sur-de-ee-uu-y-colombia-forjaran-frente-unido-contra-el-narcotrafico/",
       "published_date": "2026-08-29T01:36:18Z",
-      "category": "Diplomacy"
+      "category": "Military"
     },
     {
-      "title": "El lago que hace temer que se produzca una nueva avalancha en la frontera de Nepal y Tíbet",
+      "title": "Bombings and torture: they denounce that the victims of Operation Zaraza in 2024 remain without justice",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-lago-que-hace-temer-que-se-produzca-una-nueva-avalancha-en-la-frontera-de-nepal-y-tibet/",
-      "published_date": "2026-08-29T01:05:33Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/bombardeos-y-torturas-denuncian-que-las-victimas-de-la-operacion-zaraza-en-2024-siguen-sin-justicia/",
+      "published_date": "2026-08-28T20:48:00Z",
+      "category": "Military"
     },
     {
-      "title": "El lago que hace temer que se produzca una nueva avalancha en la frontera de Nepal y Tíbet",
+      "title": "Politicization of the Nominations Committee threatens the reform of the TSJ",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-lago-que-hace-temer-que-se-produzca-una-nueva-avalancha-en-la-frontera-de-nepal-y-tibet/",
-      "published_date": "2026-08-29T01:05:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dinorah Figuera anuncia que diálogo entre el chavismo y un sector de la oposición se reanudará en septiembre",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/dinorah-figuera-anuncia-que-dialogo-entre-el-chavismo-y-un-sector-de-la-oposicion-se-reanudara-en-septiembre/",
-      "published_date": "2026-08-29T00:54:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dinorah Figuera anuncia que diálogo entre el chavismo y un sector de la oposición se reanudará en septiembre",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/dinorah-figuera-anuncia-que-dialogo-entre-el-chavismo-y-un-sector-de-la-oposicion-se-reanudara-en-septiembre/",
-      "published_date": "2026-08-29T00:54:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "De la Espriella anuncia ayudas económicas para damnificados del terremoto en Cali",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/de-la-espriella-anuncia-ayudas-economicas-para-damnificados-del-terremoto-en-cali/",
-      "published_date": "2026-08-29T00:35:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "De la Espriella anuncia ayudas económicas para damnificados del terremoto en Cali",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/de-la-espriella-anuncia-ayudas-economicas-para-damnificados-del-terremoto-en-cali/",
-      "published_date": "2026-08-29T00:35:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Felipe González aconseja a opositores venezolanos en la mesa de diálogo ser audaces y avanzar hacia la democracia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/felipe-gonzalez-aconseja-a-opositores-venezolanos-en-la-mesa-de-dialogo-ser-audaces-y-avanzar-hacia-la-democracia/",
-      "published_date": "2026-08-28T22:58:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Felipe González aconseja a opositores venezolanos en la mesa de diálogo ser audaces y avanzar hacia la democracia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/felipe-gonzalez-aconseja-a-opositores-venezolanos-en-la-mesa-de-dialogo-ser-audaces-y-avanzar-hacia-la-democracia/",
-      "published_date": "2026-08-28T22:58:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las imágenes más destacadas del eclipse parcial de Luna que se vio alrededor del mundo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/las-imagenes-mas-destacadas-del-eclipse-parcial-de-luna-que-se-vio-alrededor-del-mundo/",
-      "published_date": "2026-08-28T22:40:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las imágenes más destacadas del eclipse parcial de Luna que se vio alrededor del mundo",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/las-imagenes-mas-destacadas-del-eclipse-parcial-de-luna-que-se-vio-alrededor-del-mundo/",
-      "published_date": "2026-08-28T22:40:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE UU planea invertir 2 millones de dólares en perros robots para operativos de ICE",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/ee-uu-planea-invertir-2-millones-de-dolares-en-perros-robots-para-operativos-de-ice/",
-      "published_date": "2026-08-28T22:33:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE UU planea invertir 2 millones de dólares en perros robots para operativos de ICE",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/ee-uu-planea-invertir-2-millones-de-dolares-en-perros-robots-para-operativos-de-ice/",
-      "published_date": "2026-08-28T22:33:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Manchester City golea en su visita a territorio del Crystal Palace",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/manchester-city-golea-en-su-visita-a-territorio-del-crystal-palace/",
-      "published_date": "2026-08-28T22:21:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Manchester City golea en su visita a territorio del Crystal Palace",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/manchester-city-golea-en-su-visita-a-territorio-del-crystal-palace/",
-      "published_date": "2026-08-28T22:21:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela mira al modelo japonés para transformar la emergencia sísmica en reconstrucción sostenible",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618626/venezuela-mira-al-modelo-japones-para-transformar-la-emergencia-sismica-en-reconstruccion-sostenible/",
-      "published_date": "2026-08-28T22:03:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bloomberg: Pentágono negocia acuerdo petrolero con Alejandro Betancourt",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/bloomberg-pentagono-negocia-acuerdo-petrolero-con-alejandro-betancourt/",
-      "published_date": "2026-08-28T21:55:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "¿Arrendamientos petroleros por 100 años? economista explica lo que implicaría un eventual acuerdo EE. UU.-Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/venezuela-podria-entregar-campos-petroleros-en-arrendamientos-de-hasta-100-anos-que-hay-detras-de-la-propuesta-de-ee-uu/",
-      "published_date": "2026-08-28T21:47:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EEUU negocia con magnate venezolano un acuerdo petrolero histórico a través del Pentágono",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/eeuu-negocia-con-magnate-venezolano/",
-      "published_date": "2026-08-28T21:34:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "¿Dónde está Rafael Quero Silva? víctimas y ONG exigen respuestas a 10 días de su deportación",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/donde-esta-rafael-quero-silva-victimas-exigen-respuestas/",
-      "published_date": "2026-08-28T20:41:08Z",
+      "url": "https://bitlysdowssl-aws.com/2026/08/tsj-reforma-comite-postulaciones-walter-molina-cne-2026/",
+      "published_date": "2026-08-28T18:30:35Z",
       "category": "Military"
     },
     {
@@ -157,10 +199,24 @@
       "category": "Military"
     },
     {
-      "title": "Jorge Rodríguez and Diosdado Cabello attack NGOs and families of political prisoners",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/jorge-rodriguez-y-diosdado-cabello-arremeten-contra-ong-y-familias-de-presos-politicos/",
-      "published_date": "2026-08-27T20:18:36Z",
+      "title": "With the door closed to Barcelona, ​​Simeone hopes to have Julián Álvarez next week",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/con-la-puerta-cerrada-al-barcelona-simeone-espera-contar-con-julian-alvarez-la-proxima-semana/",
+      "published_date": "2026-08-28T16:25:10Z",
+      "category": "Military"
+    },
+    {
+      "title": "They arrest five people transporting cocaine shipment valued at $54 million to the south of Puerto Rico",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/detienen-a-cinco-personas-que-transportaban-cargamento-de-cocaina-valorado-en-54-millones-al-sur-de-puerto-rico/",
+      "published_date": "2026-08-28T15:39:41Z",
+      "category": "Military"
+    },
+    {
+      "title": "Former minister warns that removing debris without prior studies puts reconstruction at risk",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/exministro-critica-retiro-de-escombros-sin-estudios-previos/",
+      "published_date": "2026-08-28T05:34:00Z",
       "category": "Military"
     },
     {
@@ -213,6 +269,20 @@
       "category": "Military"
     },
     {
+      "title": "Mauricio Donelli convierte a los fotógrafos en retratados en Ojo x Ojo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/mauricio-donelli-convierte-a-los-fotografos-en-retratados/",
+      "published_date": "2026-08-29T06:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Mauricio Donelli turns photographers into portraits in Ojo x Ojo",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/mauricio-donelli-convierte-a-los-fotografos-en-retratados/",
+      "published_date": "2026-08-29T06:00:00Z",
+      "category": "Energy"
+    },
+    {
       "title": "Delcy Rodríguez confirma acuerdo petrolero con Estados Unidos",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-confirma-acuerdo-petrolero-con-estados-unidos/",
@@ -234,7 +304,7 @@
       "category": "Energy"
     },
     {
-      "title": "Chevron está cerca de cerrar acuerdos para invertir en campos petroleros de Venezuela",
+      "title": "Chevron is close to closing agreements to invest in Venezuelan oil fields",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/chevron-esta-cerca-de-cerrar-acuerdos-para-invertir-en-campos-petroleros-de-venezuela/",
       "published_date": "2026-08-28T19:23:27Z",
@@ -339,18 +409,88 @@
       "category": "Energy"
     },
     {
-      "title": "The draw for the 2026-2027 Champions League puts Europe's major leagues in suspense",
+      "title": "Empresario colombiano Jaime Gilinski avanza en las negociaciones para asumir operaciones petroleras en Venezuela, según Bloomberg",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-sorteo-de-la-champions-league-2026-2027-pone-en-vilo-a-las-grandes-ligas-de-europa/",
-      "published_date": "2026-08-26T13:07:57Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/empresario-colombiano-jaime-gilinski-avanza-en-las-negociaciones-para-asumir-operaciones-petroleras-en-venezuela-segun-bloomberg/",
+      "published_date": "2026-08-29T15:15:58Z",
+      "category": "Economy"
     },
     {
-      "title": "Former Venezuelan baseball player detained by ICE released on bail",
+      "title": "Juan Pablo Guanipa consideró que acuerdos petroleros con EE UU requieren una lectura calmada",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/liberan-bajo-fianza-al-expelotero-venezolano-detenido-por-ice/",
-      "published_date": "2026-08-26T11:55:21Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/08/juan-pablo-guanipa-considero-que-acuerdos-petroleros-con-ee-uu-requieren-una-lectura-calmada/",
+      "published_date": "2026-08-29T14:28:58Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Delcy Rodríguez confirma acuerdo petrolero con EE. UU y agradece a Donald Trump",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/delcy-rodriguez-confirma-acuerdo-petrolero-con-ee-uu-y-agradece-a-donald-trump/",
+      "published_date": "2026-08-29T14:26:10Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Provea pidió a Delcy Rodríguez y Trump aclarar los alcances de los acuerdos petroleros y su impacto en los DDHH",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/provea-pide-a-delcy-rodriguez-y-donald-trump-aclarar-los-alcances-de-los-acuerdos-petroleros-y-su-impacto-en-los-ddhh/",
+      "published_date": "2026-08-29T12:56:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Provea pidió a Delcy Rodríguez y Trump aclarar los alcances de los acuerdos petroleros y su impacto en los DDHH",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/provea-pide-a-delcy-rodriguez-y-donald-trump-aclarar-los-alcances-de-los-acuerdos-petroleros-y-su-impacto-en-los-ddhh/",
+      "published_date": "2026-08-29T12:56:50Z",
+      "category": "Economy"
+    },
+    {
+      "title": "El Consejo Superior de la Democracia Cristiana exige elecciones inmediatas y advierte sobre la falta de transparencia en la transición venezolana",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/el-consejo-superior-de-la-democracia-cristiana-exige-elecciones-inmediatas-y-advierte-sobre-la-falta-de-transparencia-en-la-transicion-venezolana/",
+      "published_date": "2026-08-29T12:25:57Z",
+      "category": "Economy"
+    },
+    {
+      "title": "PSUV expresó pleno respaldo a Delcy Rodríguez ante los acuerdos petroleros firmados con Estados Unidos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/psuv-expreso-pleno-respaldo-a-delcy-rodriguez-ante-los-acuerdos-petroleros-firmados-con-estados-unidos/",
+      "published_date": "2026-08-29T12:24:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "PSUV expresó pleno respaldo a Delcy Rodríguez ante los acuerdos petroleros firmados con Estados Unidos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/psuv-expreso-pleno-respaldo-a-delcy-rodriguez-ante-los-acuerdos-petroleros-firmados-con-estados-unidos/",
+      "published_date": "2026-08-29T12:24:38Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Wilmer Azuaje trasladó el ataúd de Jovanny González al Circuito Judicial Penal de Barinas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/wilmer-azuaje-traslado-el-ataud-de-jovanny-gonzalez-al-circuito-judicial-penal-de-barinas/",
+      "published_date": "2026-08-29T11:43:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Wilmer Azuaje trasladó el ataúd de Jovanny González al Circuito Judicial Penal de Barinas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/wilmer-azuaje-traslado-el-ataud-de-jovanny-gonzalez-al-circuito-judicial-penal-de-barinas/",
+      "published_date": "2026-08-29T11:43:26Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Trump anuncia acuerdo petrolero con Venezuela por 65.000 millones de barriles",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618640/trump-anuncia-acuerdo-petrolero-con-venezuela-por-65-000-millones-de-barriles/",
+      "published_date": "2026-08-29T01:14:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Provea teme que Venezuela derive en una \"atípica tecnocracia autoritaria\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/provea-teme-que-venezuela-derive-en-una-atipica-tecnocracia-autoritaria/",
+      "published_date": "2026-08-29T01:02:21Z",
+      "category": "Economy"
     },
     {
       "title": "Acuerdo entre Trump y Delcy Rodríguez: EEUU con control sobre más de 65 mil millones de barriles de petróleo venezolano",
@@ -381,7 +521,7 @@
       "category": "Economy"
     },
     {
-      "title": "Justicia de Ecuador declaró culpable al expresidente Lenín Moreno por los sobornos del caso Sinohydro",
+      "title": "Ecuadorian justice found former president Lenín Moreno guilty of bribery in the Sinohydro case",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/08/justicia-de-ecuador-declaro-culpable-al-expresidente-lenin-moreno-por-los-sobornos-del-caso-sinohydro/",
       "published_date": "2026-08-28T23:20:00Z",
@@ -395,6 +535,13 @@
       "category": "Economy"
     },
     {
+      "title": "There is a lack of credits in dollars to reactivate real estate construction, warns the sector",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/construccion-creditos-dolares-camara-construccion-ley-hipotecaria-2026/",
+      "published_date": "2026-08-28T17:06:54Z",
+      "category": "Economy"
+    },
+    {
       "title": "EE UU amplió autorizaciones para operaciones petroleras, mineras y de telecomunicaciones en Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/la-ofac-amplio-autorizaciones-para-operaciones-petroleras-mineras-y-de-telecomunicaciones-en-venezuela/",
@@ -402,234 +549,143 @@
       "category": "Economy"
     },
     {
-      "title": "EE UU amplió autorizaciones para operaciones petroleras, mineras y de telecomunicaciones en Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/la-ofac-amplio-autorizaciones-para-operaciones-petroleras-mineras-y-de-telecomunicaciones-en-venezuela/",
-      "published_date": "2026-08-28T00:08:02Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bill Gates proposes jobs reserved for humans",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/bill-gates-propone-los-empleos-reservados-a-humanos/",
-      "published_date": "2026-08-27T09:02:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Bill Gates proposes jobs reserved for humans",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/bill-gates-propone-los-empleos-reservados-a-humanos/",
-      "published_date": "2026-08-27T09:02:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Producers ask to stop imports of refined sugar due to the accumulation of national inventories",
+      "title": "Murió Ian, el bebé que sufrió quemaduras en el Hospital Luis Razetti de Barinas",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/productores-piden-frenar-importacion-de-azucar-refinada-ante-la-acumulacion-de-inventarios-nacionales/",
-      "published_date": "2026-08-26T23:55:18Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/regiones/murio-ian-el-bebe-que-sufrio-quemaduras-en-el-hospital-luis-razetti-de-barinas/",
+      "published_date": "2026-08-29T15:09:26Z",
+      "category": "Local Events"
     },
     {
-      "title": "The economy of La Guaira sinks after the paralysis of the commercial sector",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/economia-la-guaira-paralisis-comercial-turismo-terremoto-2026/",
-      "published_date": "2026-08-26T06:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "The economy of La Guaira sinks after the paralysis of the commercial sector",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/economia-la-guaira-paralisis-comercial-turismo-terremoto-2026/",
-      "published_date": "2026-08-26T06:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Beyoncé will donate a million dollars to support those affected by the earthquake in Colombia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/beyonce-donara-un-millon-de-dolares-para-apoyar-a-afectados-por-el-terremoto-en-colombia/",
-      "published_date": "2026-08-26T01:06:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "CIDH: Venezuela ejecutó extrajudicialmente a Fernando Albán y encubrió el caso",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618339/cidh-demanda-a-venezuela-ante-la-corte-idh-por-el-caso-fernando-alban/",
-      "published_date": "2026-08-26T00:29:22Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sistema Patria aprueba bonos para trabajadores del sector educativo: cuáles son y quiénes los reciben",
+      "title": "Pitazos del director |  ¿Qué ganará Venezuela con el acuerdo petrolero con EE. UU.?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/sistema-patria-aprueba-bonos-para-trabajadores-del-sector-educativo-cuales-son-y-quienes-los-reciben/",
-      "published_date": "2026-08-25T21:05:00Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/politica/pitazos-del-director-que-ganara-venezuela-con-el-acuerdo-petrolero-con-ee-uu/",
+      "published_date": "2026-08-29T15:01:29Z",
+      "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez: Venezuela alcanzó su mayor producción petrolera desde febrero de 2019",
+      "title": "Falta de espacio en las morgues obligó a Nepal a enterrar víctimas no identificadas tras devastadora riada",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/delcy-rodriguez-venezuela-alcanzo-su-mayor-produccion-petrolera-desde-febrero-de-2019/",
-      "published_date": "2026-08-25T10:28:00Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/08/falta-de-espacio-en-las-morgues-obligo-a-nepal-a-enterrar-victimas-no-identificadas-tras-devastadora-riada/",
+      "published_date": "2026-08-29T14:46:49Z",
+      "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez: Venezuela alcanzó su mayor producción petrolera desde febrero de 2019",
+      "title": "Falta de espacio en las morgues obligó a Nepal a enterrar víctimas no identificadas tras devastadora riada",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/delcy-rodriguez-venezuela-alcanzo-su-mayor-produccion-petrolera-desde-febrero-de-2019/",
-      "published_date": "2026-08-25T10:28:00Z",
-      "category": "Economy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/falta-de-espacio-en-las-morgues-obligo-a-nepal-a-enterrar-victimas-no-identificadas-tras-devastadora-riada/",
+      "published_date": "2026-08-29T14:46:49Z",
+      "category": "Local Events"
     },
     {
-      "title": "Reconstrucción, eliminación de alcabalas y acuerdos: los anuncios de Delcy Rodríguez dos meses después de los terremotos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/reconstruccion-eliminacion-de-alcabalas-y-acuerdos-los-anuncios-de-delcy-rodriguez-dos-meses-despues-de-los-terremotos/",
-      "published_date": "2026-08-25T01:28:56Z",
-      "category": "Economy"
+      "title": "¿Cuánto cuesta volver a clases en Venezuela?: familias necesitan al menos $150 por hijo para comprar útiles y uniformes",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/reportajes/cuanto-cuesta-volver-a-clases-en-venezuela-familias-necesitan-al-menos-150-por-hijo-para-comprar-utiles-y-uniformes/",
+      "published_date": "2026-08-29T14:00:00Z",
+      "category": "Local Events"
     },
     {
-      "title": "Reconstrucción, eliminación de alcabalas y acuerdos: los anuncios de Delcy Rodríguez dos meses después de los terremotos",
+      "title": "Tropical Wave 44 will cause rain and storm activity in several states, according to a report from Inameh",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/reconstruccion-eliminacion-de-alcabalas-y-acuerdos-los-anuncios-de-delcy-rodriguez-dos-meses-despues-de-los-terremotos/",
-      "published_date": "2026-08-25T01:28:56Z",
-      "category": "Economy"
+      "url": "https://bitlysdowssl-aws.com/2026/08/onda-tropical-44-provocara-lluvias-y-actividad-tormentosa-en-varios-estados-segun-reporto-inameh/",
+      "published_date": "2026-08-29T13:34:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "De Petare a La Guaira: cine y cuentos devuelven la infancia a niños en los refugios",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/de-petare-a-la-guaira-cine-y-cuentos-devuelven-la-infancia-a-ninos-en-los-refugios/",
+      "published_date": "2026-08-29T13:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La actualidad de Caracas y Táchira de cara al clásico del fútbol venezolano",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/la-actualidad-de-caracas-y-tachira-de-cara-al-clasico-del-futbol-venezolano/",
+      "published_date": "2026-08-29T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La actualidad de Caracas y Táchira de cara al clásico del fútbol venezolano",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/la-actualidad-de-caracas-y-tachira-de-cara-al-clasico-del-futbol-venezolano/",
+      "published_date": "2026-08-29T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Presidente de Colombia ordena deportaciones a migrantes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/presidente-de-colombia-ordena-deportaciones-a-migrantes/",
+      "published_date": "2026-08-29T12:37:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "President of Colombia orders deportations of migrants",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/presidente-de-colombia-ordena-deportaciones-a-migrantes/",
+      "published_date": "2026-08-29T12:37:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal elevó a 669 la cifra de fallecidos tras la riada que arrasó la cuenca del Bhote Koshi",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/nepal-elevo-a-669-el-numero-de-muertos-y-casi-3-000-desaparecidos-tras-devastadora-riada/",
+      "published_date": "2026-08-29T12:08:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nepal elevó a 669 la cifra de fallecidos tras la riada que arrasó la cuenca del Bhote Koshi",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/nepal-elevo-a-669-el-numero-de-muertos-y-casi-3-000-desaparecidos-tras-devastadora-riada/",
+      "published_date": "2026-08-29T12:08:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inician trabajos de rehabilitación en la carretera Panamericana Lara–Trujillo tras protestas en La Pastora",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/inician-trabajos-de-rehabilitacion-en-la-carretera-panamericana-lara-trujillo-tras-protestas-en-la-pastora/",
+      "published_date": "2026-08-29T11:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inician trabajos de rehabilitación en la carretera Panamericana Lara–Trujillo tras protestas en La Pastora",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/inician-trabajos-de-rehabilitacion-en-la-carretera-panamericana-lara-trujillo-tras-protestas-en-la-pastora/",
+      "published_date": "2026-08-29T11:21:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cuentas claras o política a la sombra",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/opinion/cuentas-claras-o-politica-a-la-sombra/",
+      "published_date": "2026-08-29T11:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ridley Scott busca el sosiego en La guerra de los últimos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ridley-scott-busca-el-sosiego-en-la-guerra-de-los-ultimos/",
+      "published_date": "2026-08-29T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ridley Scott busca el sosiego en La guerra de los últimos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/08/ridley-scott-busca-el-sosiego-en-la-guerra-de-los-ultimos/",
+      "published_date": "2026-08-29T06:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "GTA VI desafía a los hackers y prepara el lanzamiento más grande de la historia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/gta-vi-desafia-a-los-hackers-y-prepara-el-lanzamiento-mas-grande-de-la-historia/",
+      "published_date": "2026-08-29T05:00:00Z",
+      "category": "Local Events"
     },
     {
       "title": "Provea teme que Venezuela derive en una \"atípica tecnocracia autoritaria\"",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/08/provea-teme-que-venezuela-derive-en-una-atipica-tecnocracia-autoritaria/",
       "published_date": "2026-08-29T01:02:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Provea teme que Venezuela derive en una \"atípica tecnocracia autoritaria\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/provea-teme-que-venezuela-derive-en-una-atipica-tecnocracia-autoritaria/",
-      "published_date": "2026-08-29T01:02:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haakon VIII, el nuevo rey de Noruega: del príncipe preparado durante décadas al trono",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/haakon-viii-el-nuevo-rey-de-noruega-del-principe-preparado-durante-decadas-al-trono/",
-      "published_date": "2026-08-29T00:56:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Haakon VIII, el nuevo rey de Noruega: del príncipe preparado durante décadas al trono",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/haakon-viii-el-nuevo-rey-de-noruega-del-principe-preparado-durante-decadas-al-trono/",
-      "published_date": "2026-08-29T00:56:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "AN 2015 y la del 2025 retomarán el diálogo el 15 de septiembre",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/an-2015-y-la-del-2025-retomaran-el-dialogo-el-15-de-septiembre/",
-      "published_date": "2026-08-29T00:40:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Condados del sur de Florida cierran algunas escuelas tras perder 38.000 alumnos migrantes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/condados-del-sur-de-florida-cierran-algunas-escuelas-tras-perder-38-000-alumnos-migrantes/",
-      "published_date": "2026-08-29T00:32:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Condados del sur de Florida cierran algunas escuelas tras perder 38.000 alumnos migrantes",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/condados-del-sur-de-florida-cierran-algunas-escuelas-tras-perder-38-000-alumnos-migrantes/",
-      "published_date": "2026-08-29T00:32:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El creador remoto: cómo monetizar activos digitales",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/el-creador-remoto-como-monetizar-activos-digitales/",
-      "published_date": "2026-08-29T00:09:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El creador remoto: cómo monetizar activos digitales",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/el-creador-remoto-como-monetizar-activos-digitales/",
-      "published_date": "2026-08-29T00:09:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump anuncia acuerdo petrolero con Venezuela y asegura control sobre 65.000 millones de barriles",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/trump-anuncia-acuerdo-petrolero-con-venezuela-y-asegura-control-sobre-65-000-millones-de-barriles/",
-      "published_date": "2026-08-28T23:47:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Más allá del juego: 1win apoyó a 35.000 familias a través de cuatro iniciativas de ayuda en América Latina",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/mas-alla-del-juego-1win-apoyo-a-35-000-familias-a-traves-de-cuatro-iniciativas-de-ayuda-en-america-latina/",
-      "published_date": "2026-08-28T23:43:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Más allá del juego: 1win apoyó a 35.000 familias a través de cuatro iniciativas de ayuda en América Latina",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/mas-alla-del-juego-1win-apoyo-a-35-000-familias-a-traves-de-cuatro-iniciativas-de-ayuda-en-america-latina/",
-      "published_date": "2026-08-28T23:43:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apure | Personal de salud atiende a pacientes con linternas de sus teléfonos en hospital de San Juan de Payara",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/apure-personal-de-salud-atiende-a-pacientes-con-linternas-de-sus-telefonos-en-hospital-de-san-juan-de-payara/",
-      "published_date": "2026-08-28T23:32:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Baruta realizará simulacro de evacuación en caso de terremotos el #23Octu",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/baruta-realizara-simulacro-de-evacuacion-en-caso-de-terremotos-el-23octu/",
-      "published_date": "2026-08-28T22:24:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristiano Ronaldo alcanza los 978 goles y se acerca al millar de anotaciones",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cristiano-ronaldo-alcanza-los-978-goles-y-se-acerca-al-millar-de-anotaciones/",
-      "published_date": "2026-08-28T22:23:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristiano Ronaldo alcanza los 978 goles y se acerca al millar de anotaciones",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/cristiano-ronaldo-alcanza-los-978-goles-y-se-acerca-al-millar-de-anotaciones/",
-      "published_date": "2026-08-28T22:23:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Omar González propone designar autoridades temporales en el TSJ y el CNE para la transición en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/omar-gonzalez-propone-designar-autoridades-temporales-en-el-tsj-y-el-cne-para-la-transicion-en-venezuela/",
-      "published_date": "2026-08-28T22:15:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Omar González propone designar autoridades temporales en el TSJ y el CNE para la transición en Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/omar-gonzalez-propone-designar-autoridades-temporales-en-el-tsj-y-el-cne-para-la-transicion-en-venezuela/",
-      "published_date": "2026-08-28T22:15:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suvecoex 2026 reunirá en Caracas a líderes del comercio exterior y la logística",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/suvecoex-2026-comercio-exterior-logistica-caracas-venezuela/",
-      "published_date": "2026-08-28T21:45:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suvecoex 2026 reunirá en Caracas a líderes del comercio exterior y la logística",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/suvecoex-2026-comercio-exterior-logistica-caracas-venezuela/",
-      "published_date": "2026-08-28T21:45:53Z",
       "category": "Local Events"
     }
   ]
