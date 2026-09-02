@@ -1,146 +1,251 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-01T15:27:18Z",
+  "last_updated": "2026-09-02T00:59:17Z",
   "stories": [
     {
-      "title": "Maduro's defense will seek to dismiss the case with arguments of immunity",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/defensa-de-maduro-buscara-desestimar-el-caso-con-argumentos-de-inmunidad/",
-      "published_date": "2026-09-01T15:17:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Maduro's defense will seek to dismiss the case with arguments of immunity",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/defensa-de-maduro-buscara-desestimar-el-caso-con-argumentos-de-inmunidad/",
-      "published_date": "2026-09-01T15:17:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Defensa de Maduro y Cilia Flores presentará moción de inmunidad ante corte de Nueva York",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/defensa-de-maduro-y-cilia-flores-presentara-mocion/",
-      "published_date": "2026-09-01T15:15:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Infantino dedicates an emotional message to Messi: “You have redefined our beautiful sport”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/infantino-dedica-un-emotivo-mensaje-a-messi-has-redefinido-nuestro-hermoso-deporte/",
-      "published_date": "2026-09-01T14:31:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Infantino dedicates an emotional message to Messi: “You have redefined our beautiful sport”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/infantino-dedica-un-emotivo-mensaje-a-messi-has-redefinido-nuestro-hermoso-deporte/",
-      "published_date": "2026-09-01T14:31:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Axios: Alejandro Betancourt sounded out Delcy Rodríguez to take charge of Venezuela before Maduro's capture",
+      "title": "Dernier Cosmetics: First laboratory in Venezuela with Coninverde Seal",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/alejandro-betancourt-sondeo-a-delcy-rodriguez-para-que-se-encargara-de-venezuela-antes-de-captura-de-maduro/",
-      "published_date": "2026-09-01T14:22:20Z",
+      "url": "https://elpitazo.net/salud/dernier-cosmetics-primer-laboratorio-en-venezuela-con-sello-coninverde/",
+      "published_date": "2026-09-02T00:47:14Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Laboratorio de Paz señala que la apertura política no garantiza una democratización",
+      "title": "Portuguesa | Productores de arroz protestan para exigir precio de hasta $0,64 por kilo y cuestionan nuevas importaciones",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/portuguesa-productores-de-arroz-protestan-para-exigir-precio-de-hasta-064-por-kilo-y-cuestionan-nuevas-importaciones/",
+      "published_date": "2026-09-01T23:56:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN of 2015 says that the reform of the TSJ Law begins \"a new stage for the appointment of all magistrates\"",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/an-de-2015-dice-que-reforma-de-la-ley-del-tsj-inicia-una-nueva-etapa-para-designacion-de-todos-los-magistrados/",
+      "published_date": "2026-09-01T23:54:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El gobierno de Estados Unidos ejecuta 2.100 detenciones de inmigrantes en el estado de Nueva York durante un operativo de un mes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-gobierno-de-estados-unidos-ejecuta-2-100-detenciones-de-inmigrantes-en-el-estado-de-nueva-york-durante-un-operativo-de-un-mes/",
+      "published_date": "2026-09-01T23:34:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN aligns itself without hesitation: it supports the new energy agreement between Venezuela and the US with a qualified majority.",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/618882/an-se-alinea-sin-titubeos-respalda-con-mayoria-calificada-el-nuevo-convenio-energetico-entre-venezuela-y-ee-uu/",
+      "published_date": "2026-09-01T22:50:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "ONG exige frenar explotación minera dentro de Ciudad Guayana",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/ong-exige-frenar-explotacion-minera-dentro-de-ciudad-guayana/",
+      "published_date": "2026-09-01T22:42:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United States Congress approves a budget extension to avoid a government shutdown before the elections",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/el-congreso-de-estados-unidos-aprueba-una-prorroga-presupuestaria-para-evitar-el-cierre-de-gobierno-previo-a-las-elecciones/",
+      "published_date": "2026-09-01T21:02:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United States Congress approves a budget extension to avoid a government shutdown before the elections",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-congreso-de-estados-unidos-aprueba-una-prorroga-presupuestaria-para-evitar-el-cierre-de-gobierno-previo-a-las-elecciones/",
+      "published_date": "2026-09-01T21:02:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Claves | La nueva ley de arrendamiento suma otro canon de vulnerabilidades al derecho a la vivienda",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618856/claves-la-nueva-ley-de-arrendamiento-suma-otro-canon-de-vulnerabilidades-al-derecho-a-la-vivienda/",
+      "published_date": "2026-09-01T20:53:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Advierten que defensa de Maduro y Flores presentarán moción para reclamar inmunidad",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618871/advierten-que-defensa-de-maduro-y-flores-presentaran-mocion-para-reclamar-inmunidad/",
+      "published_date": "2026-09-01T20:53:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Familiares de presos políticos exigen ejecución inmediata de las boletas de excarcelación",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/618860/familiares-de-presos-politicos-exigen-ejecucion-inmediata-de-las-boletas-de-excarcelacion/",
+      "published_date": "2026-09-01T20:22:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN approved partial reform of the Organic Law of the TSJ agreed upon at the dialogue table",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/an-aprobo-reforma-parcial-de-la-ley-organica-del-tsj-acordada-en-la-mesa-de-dialogo/",
+      "published_date": "2026-09-01T20:06:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN approved partial reform of the Organic Law of the TSJ agreed upon at the dialogue table",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/an-aprobo-reforma-parcial-de-la-ley-organica-del-tsj-acordada-en-la-mesa-de-dialogo/",
+      "published_date": "2026-09-01T20:06:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "National Assembly supports the energy agreement signed by Venezuela and the United States",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/asamblea-nacional-respalda-el-acuerdo-energetico-suscrito-entre-venezuela-y-estados-unidos/",
+      "published_date": "2026-09-01T19:34:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "National Assembly supports the energy agreement signed by Venezuela and the United States",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/asamblea-nacional-respalda-el-acuerdo-energetico-suscrito-entre-venezuela-y-estados-unidos/",
+      "published_date": "2026-09-01T19:34:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/ee-uu-defiende-acuerdo-petrolero-como-paso-necesario-para-elecciones-en-venezuela/",
+      "published_date": "2026-09-01T19:22:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/ee-uu-defiende-acuerdo-petrolero-como-paso-necesario-para-elecciones-en-venezuela/",
+      "published_date": "2026-09-01T19:22:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El sainete como forma de hacer política: la farsa del acuerdo petrolero",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/618859/acuerdo-petrolero/",
+      "published_date": "2026-09-01T19:12:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Maiquetía restarts operations with temporary terminals and 25% capacity",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/ultimas-noticias/maiquetia-reinicia-operaciones-con-terminales-temporales-y-25-de-capacidad/",
+      "published_date": "2026-09-01T18:49:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN unanimously sanctions reform of the Organic Law of the TSJ agreed upon at the dialogue table",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/laboratorio-de-paz-apertura-politica-una-democratizacion/",
-      "published_date": "2026-09-01T14:10:46Z",
+      "url": "https://efectococuyo.com/politica/an-sanciona-por-unanimidad-reforma-de-la-ley-organica-del-tsj-acordada-en-mesa-de-dialogo/",
+      "published_date": "2026-09-01T18:35:17Z",
       "category": "Diplomacy"
     },
     {
-      "title": "They affirm that a summit between the United States and North Korea is possible at any time",
+      "title": "The United States government carries out 2,100 immigration detentions in New York state during a month-long operation",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/afirman-que-una-cumbre-entre-ee-uu-y-corea-del-norte-es-posible-en-cualquier-momento/",
-      "published_date": "2026-09-01T13:51:51Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/el-gobierno-de-estados-unidos-ejecuta-2-100-detenciones-de-inmigrantes-en-el-estado-de-nueva-york-durante-un-operativo-de-un-mes/",
+      "published_date": "2026-09-01T23:34:05Z",
+      "category": "Military"
     },
     {
-      "title": "They affirm that a summit between the United States and North Korea is possible at any time",
+      "title": "Iran attacks US military base in Jordan with ballistic missiles in another escalation of retaliation",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/afirman-que-una-cumbre-entre-ee-uu-y-corea-del-norte-es-posible-en-cualquier-momento/",
-      "published_date": "2026-09-01T13:51:51Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/iran-ataca-con-misiles-balisticos-una-base-militar-de-ee-uu-en-jordania-en-una-nueva-escalada-de-represalias/",
+      "published_date": "2026-09-01T22:30:41Z",
+      "category": "Military"
     },
     {
-      "title": "HRW denounces information restrictions in China after the flood that hit Tibet and Nepal",
+      "title": "Iran attacks US military base in Jordan with ballistic missiles in another escalation of retaliation",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/hrw-denuncia-restricciones-informativas-en-china-tras-la-riada-que-golpeo-el-tibet-y-nepal/",
-      "published_date": "2026-09-01T13:06:00Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/iran-ataca-con-misiles-balisticos-una-base-militar-de-ee-uu-en-jordania-en-una-nueva-escalada-de-represalias/",
+      "published_date": "2026-09-01T22:30:41Z",
+      "category": "Military"
     },
     {
-      "title": "HRW denounces information restrictions in China after the flood that hit Tibet and Nepal",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/hrw-denuncia-restricciones-informativas-en-china-tras-la-riada-que-golpeo-el-tibet-y-nepal/",
-      "published_date": "2026-09-01T13:06:00Z",
-      "category": "Diplomacy"
+      "title": "ONG y víctimas exigen al fiscal Larry Devoe abrir investigación contra militar deportado Rafael Quero Silva",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/ong-y-victimas-exigen-al-fiscal-larry-devoe-abrir-investigacion-contra-militar-deportado-rafael-quero-silva/",
+      "published_date": "2026-09-01T22:01:55Z",
+      "category": "Military"
     },
     {
-      "title": "One of the victims of the double stabbing in Times Square and the attacker die",
+      "title": "Alliance for the Freedom of Political Prisoners demands answers on prison conditions",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/mueren-una-de-las-victimas-del-doble-apunalamiento-en-times-square-y-la-agresora/",
-      "published_date": "2026-09-01T11:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/alianza-por-la-libertad-de-los-presos-politicos-exige-respuestas-sobre-condiciones-carcelarias/",
+      "published_date": "2026-09-01T21:38:41Z",
+      "category": "Military"
     },
     {
-      "title": "One of the victims of the double stabbing in Times Square and the attacker die",
+      "title": "Alliance for the Freedom of Political Prisoners demands answers on prison conditions",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/mueren-una-de-las-victimas-del-doble-apunalamiento-en-times-square-y-la-agresora/",
-      "published_date": "2026-09-01T11:55:00Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/alianza-por-la-libertad-de-los-presos-politicos-exige-respuestas-sobre-condiciones-carcelarias/",
+      "published_date": "2026-09-01T21:38:41Z",
+      "category": "Military"
     },
     {
-      "title": "Nepal and China put the death toll at 1,000 while searching for more than 4,000 missing",
+      "title": "Penal Forum registers 328 political prisoners in Venezuela at the end of August",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/nepal-y-china-cifran-en-1-000-los-muertos-mientras-buscan-a-mas-de-4-000-desaparecidos/",
-      "published_date": "2026-09-01T10:09:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/foro-penal-registra-328-presos-politicos-en-venezuela-al-cierre-de-agosto/",
+      "published_date": "2026-09-01T20:33:22Z",
+      "category": "Military"
     },
     {
-      "title": "Nepal and China put the death toll at 1,000 while searching for more than 4,000 missing",
+      "title": "Penal Forum registers 328 political prisoners in Venezuela at the end of August",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/nepal-y-china-cifran-en-1-000-los-muertos-mientras-buscan-a-mas-de-4-000-desaparecidos/",
-      "published_date": "2026-09-01T10:09:00Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/foro-penal-registra-328-presos-politicos-en-venezuela-al-cierre-de-agosto/",
+      "published_date": "2026-09-01T20:33:22Z",
+      "category": "Military"
     },
     {
-      "title": "China demands that its interests in Venezuela be protected after the oil agreement with the United States",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/china-exige-que-se-protejan-sus-intereses-en-venezuela-tras-el-acuerdo-petrolero-con-ee-uu/",
-      "published_date": "2026-09-01T09:58:00Z",
-      "category": "Diplomacy"
+      "title": "Penal Forum remembers that there are still 328 political prisoners in Venezuelan prisons",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/foro-penal-recuerda-que-aun-quedan-328-presos-politicos-en-carceles-de-venezuela/",
+      "published_date": "2026-09-01T18:31:30Z",
+      "category": "Military"
     },
     {
-      "title": "China demands that its interests in Venezuela be protected after the oil agreement with the United States",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/china-exige-que-se-protejan-sus-intereses-en-venezuela-tras-el-acuerdo-petrolero-con-ee-uu/",
-      "published_date": "2026-09-01T09:58:00Z",
-      "category": "Diplomacy"
+      "title": "How the Aragua Train planned the murder of Ronald Ojeda",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/618853/como-el-tren-de-aragua-planifico-el-asesinato-de-ronald-ojeda/",
+      "published_date": "2026-09-01T17:55:37Z",
+      "category": "Military"
     },
     {
-      "title": "A car bomb detonated in front of a police station in Norte de Santander",
+      "title": "Maiquetía Airport recovers 25% of its operations in temporary terminals",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/detonan-un-carro-bomba-ante-una-estacion-policial-al-norte-de-colombia/",
-      "published_date": "2026-09-01T09:47:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/aeropuerto-de-maiquetia-recupera-25-de-sus-operaciones-en-terminales-temporales/",
+      "published_date": "2026-09-01T17:53:08Z",
+      "category": "Military"
     },
     {
-      "title": "A car bomb detonated in front of a police station in Norte de Santander",
+      "title": "Maiquetía Airport recovers 25% of its operations in temporary terminals",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/detonan-un-carro-bomba-ante-una-estacion-policial-al-norte-de-colombia/",
-      "published_date": "2026-09-01T09:47:00Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/aeropuerto-de-maiquetia-recupera-25-de-sus-operaciones-en-terminales-temporales/",
+      "published_date": "2026-09-01T17:53:08Z",
+      "category": "Military"
     },
     {
-      "title": "The first patient in the world to have a brain tumor removed with the help of AI",
+      "title": "Venezuelan Society of Internal Medicine warns about influencers who promote false information",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-primer-paciente-al-que-le-retiraron-un-tumor-con-ayuda-de-la-ia/",
-      "published_date": "2026-09-01T09:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/sociedad-venezolana-de-medicina-interna-advierte-sobre-influencers-que-promueven-informacion-falsa/",
+      "published_date": "2026-09-01T16:29:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Venezuelan Society of Internal Medicine warns about influencers who promote false information",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/sociedad-venezolana-de-medicina-interna-advierte-sobre-influencers-que-promueven-informacion-falsa/",
+      "published_date": "2026-09-01T16:29:15Z",
+      "category": "Military"
+    },
+    {
+      "title": "Two former Sebin officials served their sentence and remain detained: the judge awaits \"order from above\" to grant freedom",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/dos-exfuncionarios-del-sebin-cumplieron-la-pena-y-siguen-detenidos-el-juez-espera-orden-de-arriba-para-otorgar-la-libertad/",
+      "published_date": "2026-09-01T15:36:04Z",
+      "category": "Military"
     },
     {
       "title": "Dgcim officials confessed to having altered their names in the minutes, according to lawyer Joel García",
@@ -178,249 +283,214 @@
       "category": "Military"
     },
     {
-      "title": "La Guaira Government seeks to complete 80% of school rehabilitation before returning to classes",
+      "title": "Rubio assures that the oil agreement seeks to recover Venezuela and prepare conditions for democratic elections",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/gobernacion-de-la-guaira-busca-completar-80-de-rehabilitacion-de-escuelas-antes-del-regreso-a-clases/",
-      "published_date": "2026-09-01T00:49:08Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/09/rubio-asegura-que-acuerdo-petrolero-busca-recuperar-venezuela-y-preparar-condiciones-para-elecciones-democraticas/",
+      "published_date": "2026-09-02T00:28:01Z",
+      "category": "Energy"
     },
     {
-      "title": "La Guaira Government seeks to complete 80% of school rehabilitation before returning to classes",
+      "title": "Rubio asegura que acuerdo petrolero busca recuperar Venezuela y preparar condiciones para elecciones democráticas",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/gobernacion-de-la-guaira-busca-completar-80-de-rehabilitacion-de-escuelas-antes-del-regreso-a-clases/",
-      "published_date": "2026-09-01T00:49:08Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/09/rubio-asegura-que-acuerdo-petrolero-busca-recuperar-venezuela-y-preparar-condiciones-para-elecciones-democraticas/",
+      "published_date": "2026-09-02T00:28:01Z",
+      "category": "Energy"
     },
     {
-      "title": "Arsenal visited Aston Villa and won by the minimum with a goal from Saka",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/arsenal-visito-al-aston-villa-y-gano-por-la-minima-con-un-gol-de-saka/",
-      "published_date": "2026-08-31T22:46:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Arsenal visited Aston Villa and won by the minimum with a goal from Saka",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/arsenal-visito-al-aston-villa-y-gano-por-la-minima-con-un-gol-de-saka/",
-      "published_date": "2026-08-31T22:46:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Only 21% of thermoelectric plants are operational",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618784/solo-21-de-centrales-termoelectricas-se-encuentran-operativas/",
-      "published_date": "2026-08-31T20:39:11Z",
-      "category": "Military"
-    },
-    {
-      "title": "Carlos Ayala Corao assumes the presidency of the Inter-American Institute of Human Rights",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618778/carlos-ayala-corao-asume-la-presidencia-del-instituto-interamericano-de-derechos-humanos/",
-      "published_date": "2026-08-31T20:21:24Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nestlé factory in El Tocuyo celebrates 65 years of operations",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/nestle-en-el-tocuyo-cumple-65-anos-de-operaciones-en-lara/",
-      "published_date": "2026-08-31T20:05:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Nestlé factory in El Tocuyo celebrates 65 years of operations",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/nestle-en-el-tocuyo-cumple-65-anos-de-operaciones-en-lara/",
-      "published_date": "2026-08-31T20:05:27Z",
-      "category": "Military"
-    },
-    {
-      "title": "Police commanders from Bolivia and Chile meet in La Paz to coordinate the fight against transnational crime",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/mandos-policiales-de-bolivia-y-chile-se-reunen-en-la-paz-para-coordinar-la-lucha-contra-el-crimen-transnacional/",
-      "published_date": "2026-08-31T19:57:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Police commanders from Bolivia and Chile meet in La Paz to coordinate the fight against transnational crime",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/mandos-policiales-de-bolivia-y-chile-se-reunen-en-la-paz-para-coordinar-la-lucha-contra-el-crimen-transnacional/",
-      "published_date": "2026-08-31T19:57:09Z",
-      "category": "Military"
-    },
-    {
-      "title": "Portuguesa | Cuerpo de ama de casa desaparecida fue encontrado en el río Guanare",
+      "title": "Venezuelan Communist Party rejects the oil agreement",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/portuguesa-cuerpo-de-ama-de-casa-desaparecida-fue-encontrado-en-el-rio-guanare/",
-      "published_date": "2026-08-31T19:21:29Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/politica/partido-comunista-de-venezuela-rechaza-el-acuerdo-petrolero/",
+      "published_date": "2026-09-02T00:04:30Z",
+      "category": "Energy"
     },
     {
-      "title": "Instagram will limit profiles of people created with AI",
+      "title": "What is known about Nabep?, Alejandro Betancourt's company",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/que-se-sabe-de-nabep-la-empresa-de-alejandro-betancourt/",
+      "published_date": "2026-09-01T23:47:17Z",
+      "category": "Energy"
+    },
+    {
+      "title": "They denounce risks in the new mail-in voting system promoted by Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/denuncian-riesgos-en-nuevo-sistema-de-voto-por-correo-impulsado-por-trump/",
+      "published_date": "2026-09-01T23:17:40Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump met with oil executives after energy agreement with Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/trump-se-reunio-con-ejecutivos-petroleros-tras-acuerdo-energetico-con-venezuela/",
+      "published_date": "2026-09-01T22:35:53Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump met with oil executives after energy agreement with Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/trump-se-reunio-con-ejecutivos-petroleros-tras-acuerdo-energetico-con-venezuela/",
+      "published_date": "2026-09-01T22:35:53Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Relatives of political prisoners reject that oil is above the freedom of detainees",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/tecnologia/instagram-limitara-los-perfiles-de-personas-creadas-con-ia/",
-      "published_date": "2026-08-31T17:06:29Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/politica/familiares-de-presos-politicos-rechazan-que-el-petroleo-este-por-encima-de-la-libertad-de-los-detenidos/",
+      "published_date": "2026-09-01T21:10:53Z",
+      "category": "Energy"
     },
     {
-      "title": "Iran attacks US bases in Jordan in retaliation for Washington's bombing of Larak",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/iran-ataco-bases-estadounidenses-en-jordania/",
-      "published_date": "2026-08-31T14:59:23Z",
-      "category": "Military"
+      "title": "Parliament supports oil agreement with the US and Grupo Libertad abstains from voting",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/parlamento-respalda-acuerdo-petrolero-con-eeuu-y-grupo-libertad-se-abstiene-de-votar/",
+      "published_date": "2026-09-01T20:14:18Z",
+      "category": "Energy"
     },
     {
-      "title": "Irán atacó bases estadounidenses en Jordania como represalia por bombardeo de Washington en Larak",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/iran-ataco-bases-estadounidenses-en-jordania/",
-      "published_date": "2026-08-31T14:59:23Z",
-      "category": "Military"
-    },
-    {
-      "title": "Meta dismantled the propaganda network of a guerrilla group that operates between Colombia and Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/meta-desmantelo-red-de-propaganda-de-grupo-guerrillero-que-opera-entre-colombia-y-venezuela/",
-      "published_date": "2026-08-31T13:48:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "US politicians insist that Venezuela hold elections in 2027 after energy agreement announcement",
+      "title": "Secretario de Energía de EE. UU. viaja a Venezuela: prevé acordar nuevo contrato para Chevron",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/politicos-estadounidenses-insisten-en-que-venezuela-celebre-elecciones-en-2027-tras-anuncio-de-acuerdo-energetico/",
-      "published_date": "2026-09-01T14:53:28Z",
+      "url": "https://elpitazo.net/economia/secretario-de-energia-de-ee-uu-viaja-a-venezuela-preve-acordar-nuevo-contrato-para-chevron/",
+      "published_date": "2026-09-01T20:01:52Z",
       "category": "Energy"
     },
     {
-      "title": "Meeting between Trump and oil and gas representatives confirmed after agreement with Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/confirman-reunion-entre-trump-y-representantes-de-petroleo-y-gas-tras-acuerdo-con-venezuela/",
-      "published_date": "2026-09-01T14:26:51Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Meeting between Trump and oil and gas representatives confirmed after agreement with Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/confirman-reunion-entre-trump-y-representantes-de-petroleo-y-gas-tras-acuerdo-con-venezuela/",
-      "published_date": "2026-09-01T14:26:51Z",
-      "category": "Energy"
-    },
-    {
-      "title": "NYT: Trump's oil deal with Venezuela depends on controversial Alejandro Betancourt",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/nyt-acuerdo-petrolero-de-trump-con-venezuela-depende-del-controvertido-alejandro-betancourt/",
-      "published_date": "2026-09-01T13:38:29Z",
-      "category": "Energy"
-    },
-    {
-      "title": "NYT: Trump's oil deal with Venezuela depends on controversial Alejandro Betancourt",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/nyt-acuerdo-petrolero-de-trump-con-venezuela-depende-del-controvertido-alejandro-betancourt/",
-      "published_date": "2026-09-01T13:38:29Z",
-      "category": "Energy"
-    },
-    {
-      "title": "San Diego Padres will promote Ethan Salas to MLB",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/los-padres-de-san-diego-promoveran-a-mlb-a-ethan-salas/",
-      "published_date": "2026-09-01T12:50:18Z",
-      "category": "Energy"
-    },
-    {
-      "title": "San Diego Padres will promote Ethan Salas to MLB",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/los-padres-de-san-diego-promoveran-a-mlb-a-ethan-salas/",
-      "published_date": "2026-09-01T12:50:18Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Why the US strategic oil reserve is at its lowest level since 1983 and how it influences the controversial agreement with Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/por-que-la-reserva-estrategica-de-petroleo-de-ee-uu-esta-en-su-nivel-mas-bajo-desde-1983-y-como-influye-en-el-polemico-acuerdo-con-venezuela/",
-      "published_date": "2026-09-01T12:32:08Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Why the US strategic oil reserve is at its lowest level since 1983 and how it influences the controversial agreement with Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/por-que-la-reserva-estrategica-de-petroleo-de-ee-uu-esta-en-su-nivel-mas-bajo-desde-1983-y-como-influye-en-el-polemico-acuerdo-con-venezuela/",
-      "published_date": "2026-09-01T12:32:08Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The White House details the conditions of the historic oil agreement with Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/la-casa-blanca-detalla-las-condiciones-del-historico-acuerdo-petrolero-con-venezuela/",
-      "published_date": "2026-09-01T11:29:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The White House details the conditions of the historic oil agreement with Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/la-casa-blanca-detalla-las-condiciones-del-historico-acuerdo-petrolero-con-venezuela/",
-      "published_date": "2026-09-01T11:29:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El Mañanero of September 1: Oil agreement between silence and criticism",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/618812/el-mananero-del-1-de-septiembre-acuerdo-petrolero-entre-el-silencio-y-criticas/",
-      "published_date": "2026-09-01T09:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "María Alejandra Díaz, dissident of Chavismo: “Delcy Rodríguez is handing over Venezuela's resources to save her skin”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/maria-alejandra-diaz-disidente-del-chavismo-delcy-rodriguez-esta-entregando-los-recursos-de-venezuela-para-salvar-su-pellejo/",
-      "published_date": "2026-09-01T05:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "María Alejandra Díaz, dissident of Chavismo: “Delcy Rodríguez is handing over Venezuela's resources to save her skin”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/maria-alejandra-diaz-disidente-del-chavismo-delcy-rodriguez-esta-entregando-los-recursos-de-venezuela-para-salvar-su-pellejo/",
-      "published_date": "2026-09-01T05:00:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The White House publishes the points of the oil agreement with Venezuela: here the details",
+      "title": "Chavista Parliament supports energy agreement with abstention of a sector of the opposition",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/la-casa-blanca-publica-los-puntos-del-acuerdo-petrolero-con-venezuela-aqui-los-detalles/",
-      "published_date": "2026-09-01T01:18:39Z",
+      "url": "https://elpitazo.net/politica/parlamento-chavista-respalda-acuerdo-energetico-con-asbtencion-de-un-sector-de-la-oposicion/",
+      "published_date": "2026-09-01T19:34:25Z",
       "category": "Energy"
     },
     {
-      "title": "Venezuelan brands accompany without prominence during the emergency",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/otras-noticias/marcas-venezolanas-acompanan-sin-protagonismo-durante-la-emergencia/",
-      "published_date": "2026-09-01T00:53:55Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Vance: \"We are already seeing a significant increase in Venezuela's oil production\"",
+      "title": "National leadership of the PSUV meets with Delcy Rodríguez and avoids statements after the oil agreement with the United States",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/vance-ya-estamos-viendo-un-aumento-significativo-en-la-produccion-de-petroleo-de-venezuela/",
-      "published_date": "2026-08-31T23:04:13Z",
+      "url": "https://www.elnacional.com/2026/09/direccion-nacional-del-psuv-se-reune-con-delcy-rodriguez-y-evita-declaraciones-tras-el-acuerdo-petrolero-con-ee-uu/",
+      "published_date": "2026-09-01T19:07:31Z",
       "category": "Energy"
     },
     {
-      "title": "Vance: \"We are already seeing a significant increase in Venezuela's oil production\"",
+      "title": "National leadership of the PSUV meets with Delcy Rodríguez and avoids statements after the oil agreement with the United States",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/vance-ya-estamos-viendo-un-aumento-significativo-en-la-produccion-de-petroleo-de-venezuela/",
-      "published_date": "2026-08-31T23:04:13Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/direccion-nacional-del-psuv-se-reune-con-delcy-rodriguez-y-evita-declaraciones-tras-el-acuerdo-petrolero-con-ee-uu/",
+      "published_date": "2026-09-01T19:07:31Z",
       "category": "Energy"
     },
     {
-      "title": "First Justice on oil agreement: they must explain how they will guarantee that the benefits reach the people",
+      "title": "The US defends the oil agreement as a necessary step for elections in Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/eeuu-defiende-el-acuerdo-petrolero-como-un-paso-necesario-para-elecciones-en-venezuela/",
+      "published_date": "2026-09-01T19:05:49Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil company backed by Donald Trump and directed by Alejandro Betancourt plans to deploy 52 drills in Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/alejandro-betancourt-nabep-petroleo-venezuela-wsj-trump-2026/",
+      "published_date": "2026-09-01T17:02:06Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Oil company backed by Donald Trump and directed by Alejandro Betancourt plans to deploy 52 drills in Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/alejandro-betancourt-nabep-petroleo-venezuela-wsj-trump-2026/",
+      "published_date": "2026-09-01T17:02:06Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Silence of María Corina Machado on the oil agreement: A political error or a strategic decision?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/primero-justicia-sobre-acuerdo-petrolero-deben-explicar-como-garantizaran-que-los-beneficios-lleguen-a-la-gente/",
-      "published_date": "2026-08-31T22:58:29Z",
+      "url": "https://elpitazo.net/politica/silencio-de-maria-corina-machado-sobre-acuerdo-petrolero-un-error-politico-o-una-decision-estrategica/",
+      "published_date": "2026-09-01T16:28:17Z",
       "category": "Energy"
     },
     {
-      "title": "Oil agreement with the US is signed without democratic legitimacy and with infrastructure in ruins",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618787/acuerdo-petrolero-con-ee-uu-se-firma-sin-legitimidad-democratica-y-con-infraestructura-en-ruinas/",
-      "published_date": "2026-08-31T22:54:14Z",
+      "title": "Axios: Alejandro Betancourt, the Venezuelan “oil baron” who now has the backing of the Pentagon",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/axios-alejandro-betancourt-el-baron-petrolero-venezolano/",
+      "published_date": "2026-09-01T15:47:37Z",
       "category": "Energy"
+    },
+    {
+      "title": "United States Secretary of Energy will visit Caracas this Tuesday",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/secretario-de-energia-de-estados-unidos-visitara-caracas-este-martes/",
+      "published_date": "2026-09-01T15:33:33Z",
+      "category": "Energy"
+    },
+    {
+      "title": "The race against time to rescue more than 600 hydroelectric workers trapped in tunnels after the avalanche in Nepal and Tibet",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/la-carrera-contrarreloj-para-rescatar-a-mas-de-600-obreros-de-hidroelectricas-atrapados-en-tuneles-tras-la-avalancha-en-nepal-y-tibet/",
+      "published_date": "2026-09-01T15:28:16Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Marco Rubio explains Washington's commitment to Alejandro Betancourt",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/marco-rubio-explica-la-apuesta-de-washington-por-alejandro-betancourt/",
+      "published_date": "2026-09-01T21:25:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "World Cup players change teams on the last day of the transfer market",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/mundialistas-cambian-de-equipo-en-el-ultimo-dia-del-mercado-de-fichajes/",
+      "published_date": "2026-09-01T21:12:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "World Cup players change teams on the last day of the transfer market",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/mundialistas-cambian-de-equipo-en-el-ultimo-dia-del-mercado-de-fichajes/",
+      "published_date": "2026-09-01T21:12:52Z",
+      "category": "Economy"
+    },
+    {
+      "title": "¿Con cuál electricidad activarán 8.000 pozos petroleros en Zulia?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/con-cual-electricidad-activaran-8-000-pozos-petroleros-en-zulia/",
+      "published_date": "2026-09-01T20:33:49Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Toulouse confirms that Cristian Cásseres Jr. remains at the club",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/toulouse-ratifica-que-cristian-casseres-jr-se-queda-en-el-club/",
+      "published_date": "2026-09-01T19:51:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Toulouse confirms that Cristian Cásseres Jr. remains at the club",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/toulouse-ratifica-que-cristian-casseres-jr-se-queda-en-el-club/",
+      "published_date": "2026-09-01T19:51:08Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Secretario de Energía de EEUU viaja a Venezuela para sellar acuerdo petrolero",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/secretario-de-energia-de-eeuu-viaja-a-venezuela/",
+      "published_date": "2026-09-01T18:50:40Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Dólar oficial subió 6 % en agosto: es el segundo incremento mensual más bajo del año",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/dolar-oficial-subio-6-en-agosto-es-el-segundo-incremento-mensual-mas-bajo-del-ano/",
+      "published_date": "2026-09-01T18:40:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Empleo y sueldos en dólares piden los venezolanos luego del acuerdo petrolero con EE. UU.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/empleo-y-sueldos-en-dolares-piden-los-venezolanos-luego-del-acuerdo-petrolero-con-ee-uu/",
+      "published_date": "2026-09-01T18:09:13Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Acuerdo petrolero: ¿Qué significan los 65.000 millones de barriles y los 100.000 millones de dólares de inversión?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/acuerdo-petrolero-que-significan-los-65-000-millones-de-barriles-y-los-100-000-millones-de-dolares-de-inversion/",
+      "published_date": "2026-09-01T17:43:52Z",
+      "category": "Economy"
     },
     {
       "title": "Claves del pacto petrolero: EEUU obtiene derechos de compra y control sobre producción venezolana",
@@ -451,13 +521,6 @@
       "category": "Economy"
     },
     {
-      "title": "Psuv se reúne con Delcy Rodríguez y evita declaraciones públicas sobre acuerdo petrolero con EEUU",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/psuv-se-reune-con-delcy-rodriguez-y-evita-declaraciones-publicas-sobre-acuerdo-petrolero-con-eeuu/",
-      "published_date": "2026-08-31T22:11:55Z",
-      "category": "Economy"
-    },
-    {
       "title": "Trump: El nuevo acuerdo petrolero con Venezuela es “el mejor jamás hecho”",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/internacionales/trump-el-nuevo-acuerdo-petrolero-con-venezuela-es-el-mejor-jamas-hecho/",
@@ -479,6 +542,20 @@
       "category": "Economy"
     },
     {
+      "title": "The bolivar falls 5.8% against the dollar in the official market during August",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/el-bolivar-cae-un-58-frente-al-dolar/",
+      "published_date": "2026-08-31T20:35:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Ventajas de los programas VIP frente a los bonos comunes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/08/ventajas-de-los-programas-vip-frente-a-los-bonos-comunes/",
+      "published_date": "2026-08-31T18:54:36Z",
+      "category": "Economy"
+    },
+    {
       "title": "USA | Senator Ted Cruz insists that Venezuela hold elections in mid-2027",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/ee-uu-senador-ted-cruz-insiste-en-que-venezuela-celebre-elecciones-a-mediados-de-2027/",
@@ -486,220 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "¿Cuáles son los bonos de la Patria que pagarán desde el 31 de agosto al 4 de septiembre?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/cuales-son-los-bonos-de-la-patria-que-llegaran-del-31-de-agosto-al-4-de-septiembre/",
-      "published_date": "2026-08-31T17:25:21Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Transporters confirm minimum fare of 200 bolivars during September",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/transportistas-confirman-pasaje-minimo-de-200/",
-      "published_date": "2026-08-31T17:09:20Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Soy venezolano y canadiense. Trump quiere mis dos países",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/opinion/soy-venezolano-y-canadiense-trump-quiere-mis-dos-paises/",
-      "published_date": "2026-08-31T16:45:59Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Increase in fare starting this #1Sep: minimum fare will be 200 bolivars",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/aumento-del-pasaje-desde-este-1sep-tarifa-minima-sera-de-200-bolivares/",
-      "published_date": "2026-08-31T15:19:05Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tim Cook turned Apple into a $4 trillion giant",
+      "title": "More than 100 media and organizations demand guarantees for freedom of expression in Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/tim-cook-convirtio-apple-en-un-gigante-de-4-billones-de-dolares/",
-      "published_date": "2026-08-31T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Why some US restaurants are banning tipping",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/por-que-algunos-restaurantes-estan-prohibiendo-las-propinas/",
-      "published_date": "2026-08-31T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Tim Cook turned Apple into a $4 trillion giant",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/tim-cook-convirtio-apple-en-un-gigante-de-4-billones-de-dolares/",
-      "published_date": "2026-08-31T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Why some US restaurants are banning tipping",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/por-que-algunos-restaurantes-estan-prohibiendo-las-propinas/",
-      "published_date": "2026-08-31T09:00:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A niche supports VIP cinema in a Venezuela in crisis",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/cine-vip-caracas-nicho-economia-venezuela/",
-      "published_date": "2026-08-31T06:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "A niche supports VIP cinema in a Venezuela in crisis",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/08/cine-vip-caracas-nicho-economia-venezuela/",
-      "published_date": "2026-08-31T06:05:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Spider-Man is the fourth highest-grossing film in history",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/08/spider-man-es-la-cuarta-pelicula-mas-taquillera-de-la-historia/",
-      "published_date": "2026-08-31T05:58:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Together to continue, the suicide prevention campaign that starts this September 1",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/juntos-para-continuar-la-campana-de-prevencion-del-suicidio-que-arranca-este-1-de-septiembre/",
-      "published_date": "2026-09-01T14:56:16Z",
+      "url": "https://www.elnacional.com/2026/09/mas-de-100-medios-y-organizaciones-exigen-garantias-para-la-libertad-de-expresion-en-venezuela/",
+      "published_date": "2026-09-02T00:13:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Together to continue, the suicide prevention campaign that starts this September 1",
+      "title": "Más de 100 medios y organizaciones exigen garantías para la libertad de expresión en Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/juntos-para-continuar-la-campana-de-prevencion-del-suicidio-que-arranca-este-1-de-septiembre/",
-      "published_date": "2026-09-01T14:56:16Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/mas-de-100-medios-y-organizaciones-exigen-garantias-para-la-libertad-de-expresion-en-venezuela/",
+      "published_date": "2026-09-02T00:13:28Z",
       "category": "Local Events"
     },
     {
-      "title": "John Galliano resigns from his exhibition at the Met after repudiation for anti-Semitic past",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/john-galliano-renuncia-a-exposicion-en-el-met-por-antisemitismo/",
-      "published_date": "2026-09-01T14:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "John Galliano resigns from his exhibition at the Met after repudiation for anti-Semitic past",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/john-galliano-renuncia-a-exposicion-en-el-met-por-antisemitismo/",
-      "published_date": "2026-09-01T14:00:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ferrari's tribute to Michael Schumacher: everything you need to know",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-homenaje-de-ferrari-a-michael-schumacher-todo-lo-que-hay-que-saber/",
-      "published_date": "2026-09-01T13:53:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ferrari's tribute to Michael Schumacher: everything you need to know",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-homenaje-de-ferrari-a-michael-schumacher-todo-lo-que-hay-que-saber/",
-      "published_date": "2026-09-01T13:53:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Casa Blanca entrega a una empresa privada concesión de 100 años sobre crudo venezolano",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/casa-blanca-entrega-a-una-empresa-privada-concesion-de-100-anos-sobre-crudo-venezolano/",
-      "published_date": "2026-09-01T13:43:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OVP celebrates the appointment of Carlos Ayala Corao as president of the Inter-American Institute of Human Rights",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ovp-celebra-designacion-de-carlos-ayala-corao-como-presidente-del-instituto-interamericano-de-derechos-humanos/",
-      "published_date": "2026-09-01T13:27:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OVP celebrates the appointment of Carlos Ayala Corao as president of the Inter-American Institute of Human Rights",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ovp-celebra-designacion-de-carlos-ayala-corao-como-presidente-del-instituto-interamericano-de-derechos-humanos/",
-      "published_date": "2026-09-01T13:27:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "China demands that its interests in Venezuela be protected after the oil agreement",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/china-exige-que-se-protejan-sus-intereses-en-venezuela-luego-del-acuerdo-petrolero/",
-      "published_date": "2026-09-01T12:54:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acts of violence marked the sixth day of the Futve League Clausura Tournament",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/hechos-de-violencia-marcaron-la-sexta-jornada-del-torneo-clausura-de-la-liga-futve/",
-      "published_date": "2026-09-01T11:42:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acts of violence marked the sixth day of the Futve League Clausura Tournament",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/hechos-de-violencia-marcaron-la-sexta-jornada-del-torneo-clausura-de-la-liga-futve/",
-      "published_date": "2026-09-01T11:42:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Media, journalists and NGOs demand dismantling the censorship apparatus in Venezuela",
+      "title": "Laboratorio de Paz: Venezuela avanza hacia una “zona gris”, no necesariamente hacia la democracia",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/618823/medios-periodistas-y-ong-exigen-desmontar-el-aparato-de-censura-en-venezuela/",
-      "published_date": "2026-09-01T11:03:00Z",
+      "url": "https://runrun.es/inicio/618891/laboratorio-de-paz-venezuela-avanza-hacia-una-zona-gris-no-necesariamente-hacia-la-democracia/",
+      "published_date": "2026-09-01T23:18:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Chyno and Nacho announced the first date of their new tour",
+      "title": "They denounce risks in the new mail-in voting system promoted by Trump",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/chyno-y-nacho-anunciaron-la-primera-fecha-de-su-nueva-gira/",
-      "published_date": "2026-09-01T09:04:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/denuncian-riesgos-en-nuevo-sistema-de-voto-por-correo-impulsado-por-trump/",
+      "published_date": "2026-09-01T23:17:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Chyno and Nacho announced the first date of their new tour",
+      "title": "Enzo Fernández says goodbye to Chelsea: \"They have not been easy days for me\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/chyno-y-nacho-anunciaron-la-primera-fecha-de-su-nueva-gira/",
-      "published_date": "2026-09-01T09:04:00Z",
+      "url": "https://www.elnacional.com/2026/09/enzo-fernandez-se-despide-del-chelsea-no-han-sido-dias-faciles-para-mi/",
+      "published_date": "2026-09-01T22:30:01Z",
       "category": "Local Events"
     },
     {
-      "title": "A collection of Murakami's complete novels will be published in 2027",
+      "title": "Enzo Fernández se despide del Chelsea: \"No han sido días fáciles para mí\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/una-coleccion-con-las-novelas-completas-de-murakami-se-publicara-en-2027/",
-      "published_date": "2026-09-01T09:00:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/enzo-fernandez-se-despide-del-chelsea-no-han-sido-dias-faciles-para-mi/",
+      "published_date": "2026-09-01T22:30:01Z",
       "category": "Local Events"
     },
     {
-      "title": "A collection of Murakami's complete novels will be published in 2027",
+      "title": "Keiber Lamadrid makes his debut in the Championship with West Ham",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/una-coleccion-con-las-novelas-completas-de-murakami-se-publicara-en-2027/",
-      "published_date": "2026-09-01T09:00:00Z",
+      "url": "https://www.elnacional.com/2026/09/keiber-lamadrid-debuta-en-la-championship-con-el-west-ham/",
+      "published_date": "2026-09-01T22:19:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Instagram updates AI creator label",
+      "title": "Keiber Lamadrid makes his debut in the Championship with West Ham",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/instagram-actualiza-la-etiqueta-de-creador-de-ia/",
-      "published_date": "2026-09-01T08:59:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/keiber-lamadrid-debuta-en-la-championship-con-el-west-ham/",
+      "published_date": "2026-09-01T22:19:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Instagram updates AI creator label",
+      "title": "Haakon VIII is sworn in as King of Norway before Parliament in a ceremony marked by the absence of Queen Mette-Marit",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/instagram-actualiza-la-etiqueta-de-creador-de-ia/",
-      "published_date": "2026-09-01T08:59:00Z",
+      "url": "https://www.elnacional.com/2026/09/haakon-viii-jura-como-rey-de-noruega-ante-el-parlamento-en-una-ceremonia-marcada-por-la-ausencia-de-la-reina-mette-marit/",
+      "published_date": "2026-09-01T22:16:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Unnatural alliances",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/618817/trump-y-delcy/",
-      "published_date": "2026-09-01T04:00:00Z",
+      "title": "Haakon VIII is sworn in as King of Norway before Parliament in a ceremony marked by the absence of Queen Mette-Marit",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/haakon-viii-jura-como-rey-de-noruega-ante-el-parlamento-en-una-ceremonia-marcada-por-la-ausencia-de-la-reina-mette-marit/",
+      "published_date": "2026-09-01T22:16:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Usuarios y trabajadores retoman la rutina entre carpas y controles tras reapertura de Maiquetía",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/usuarios-y-trabajadores-retoman-la-rutina-entre-carpas-y-controles-tras-reapertura-de-maiquetia/",
+      "published_date": "2026-09-01T22:08:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caraqueños reportan falla del servicio eléctrico este #1Sep: estas son las zonas sin luz",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/caraquenos-reportan-falla-del-servicio-electrico-este-1sep-estas-son-las-zonas-sin-luz/",
+      "published_date": "2026-09-01T22:03:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Comité de adultos mayores: “El petróleo no puede salvar gobiernos mientras abandona a los pensionados”",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/comite-de-adultos-mayores-el-petroleo-no-puede-salvar-gobiernos-mientras-abandona-a-los-pensionados/",
+      "published_date": "2026-09-01T21:45:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Medical unions on alert due to “digital intrusion” of influencers who discredit health procedures",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/salud/gremios-medicos-en-alerta-por-intrusismo-digital-de-influencers-que-desacreditan-procedimientos-de-salud/",
+      "published_date": "2026-09-01T21:32:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maiquetía International Airport begins operations from temporary terminals until 2027",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/aeropuerto-maiquetia-terminales-temporales-operaciones-vuelos-2026/",
+      "published_date": "2026-09-01T21:28:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Maiquetía International Airport begins operations from temporary terminals until 2027",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/aeropuerto-maiquetia-terminales-temporales-operaciones-vuelos-2026/",
+      "published_date": "2026-09-01T21:28:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philadelphia 76ers add new pieces to their ranks for the 2026-2027 season",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/76ers-de-filadelfia-suman-nuevas-piezas-a-sus-filas-para-la-temporada-2026-2027/",
+      "published_date": "2026-09-01T21:10:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Philadelphia 76ers add new pieces to their ranks for the 2026-2027 season",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/76ers-de-filadelfia-suman-nuevas-piezas-a-sus-filas-para-la-temporada-2026-2027/",
+      "published_date": "2026-09-01T21:10:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chavista National Assembly approves reform of article 65 of the Organic Law of the TSJ",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/asamblea-nacional-chavista-aprueba-reforma-del-articulo-65-de-la-ley-organica-del-tsj/",
+      "published_date": "2026-09-01T20:37:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caracas | Incendio en fábrica en Palo Verde superó las 24 horas: trabajadores fueron desalojados a tiempo",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/caracas/caracas-incendio-en-fabrica-en-palo-verde-supero-las-24-horas-trabajadores-fueron-desalojados-a-tiempo/",
+      "published_date": "2026-09-01T20:32:50Z",
       "category": "Local Events"
     }
   ]
