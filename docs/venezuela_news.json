@@ -1,9 +1,128 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-04T00:56:00Z",
+  "last_updated": "2026-09-04T14:53:58Z",
   "stories": [
     {
-      "title": "Petro advocates for \"completely free elections\" in Venezuela after María Corina Machado's criticism of the oil agreement",
+      "title": "One of the workers rescued from the tunnel in Nepal is in critical condition",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/uno-de-los-trabajadores-rescatados-del-tunel-en-nepal-se-encuentra-en-estado-critico/",
+      "published_date": "2026-09-04T14:17:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Agreement with GE Vernova seeks to stabilize Venezuela's electrical system within a period of 6 to 12 months",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/acuerdo-con-ge-vernova-busca-estabilizar-el-sistema-electrico-de-venezuela-en-un-plazo-de-6-a-12-meses/",
+      "published_date": "2026-09-04T13:50:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Agreement with GE Vernova seeks to stabilize Venezuela's electrical system within a period of 6 to 12 months",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/acuerdo-con-ge-vernova-busca-estabilizar-el-sistema-electrico-de-venezuela-en-un-plazo-de-6-a-12-meses/",
+      "published_date": "2026-09-04T13:50:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Interim says that “the relaxation of sanctions is not enough” and calls for a total cessation",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/interinato-dice-que-no-es-suficiente-la-flexibilizacion-de-sanciones-y-pide-el-cese-total/",
+      "published_date": "2026-09-04T13:43:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marco Rubio visitará Colombia, Ecuador y Perú entre el 8 y el 10 de septiembre",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/marco-rubio-visitara-colombia-ecuador-y-peru-entre-el-8-y-el-10-de-septiembre/",
+      "published_date": "2026-09-04T13:12:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marco Rubio will visit Colombia, Ecuador and Peru between September 8 and 10",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/marco-rubio-visitara-colombia-ecuador-y-peru-entre-el-8-y-el-10-de-septiembre/",
+      "published_date": "2026-09-04T13:12:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Nepal: rescatados dos trabajadores que pasaron nueve días atrapados en un túnel",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/nepal-rescatados-dos-trabajadores-que-pasaron-nueve-dias-atrapados-en-un-tunel/",
+      "published_date": "2026-09-04T11:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reino Unido reafirma su soberanía sobre Las Malvinas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/reino-unido-reafirma-su-soberania-sobre-malvinas-luego-que-milei-reavivara-la-reivindicacion-de-argentina/",
+      "published_date": "2026-09-04T10:24:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The United Kingdom reaffirms its sovereignty over the Malvinas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/reino-unido-reafirma-su-soberania-sobre-malvinas-luego-que-milei-reavivara-la-reivindicacion-de-argentina/",
+      "published_date": "2026-09-04T10:24:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministro de Exteriores de Trinidad y Tobago visita Venezuela para cumplir agenda energética",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/ministro-de-exteriores-de-trinidad-y-tobago-visita-venezuela-para-cumplir-agenda-energetica/",
+      "published_date": "2026-09-04T10:06:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Marco Rubio plans to visit Colombia next week",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/marco-rubio-planea-visitar-colombia-la-proxima-semana/",
+      "published_date": "2026-09-04T09:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tesla apuesta por los robotaxis autónomos con el Cybercab",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/tesla-apuesta-por-los-robotaxis-autonomos-con-el-cybercab/",
+      "published_date": "2026-09-04T09:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un paciente aguantó 9 meses sin diálisis con un riñón de cerdo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/un-paciente-aguanto-9-meses-sin-dialisis-con-un-rinon-de-cerdo/",
+      "published_date": "2026-09-04T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A patient lasted 9 months without dialysis with a pig kidney",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/un-paciente-aguanto-9-meses-sin-dialisis-con-un-rinon-de-cerdo/",
+      "published_date": "2026-09-04T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "SpaceX cancels its participation in the Paris space summit",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/spacex-cancela-su-participacion-en-cumbre-espacial-de-paris/",
+      "published_date": "2026-09-04T08:59:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia captura a dos presuntos cabecillas del Tren de Aragua buscados por EE UU",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/colombia-captura-a-dos-presuntos-cabecillas-del-tren-de-aragua-buscados-por-ee-uu/",
+      "published_date": "2026-09-04T00:58:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia captures two alleged leaders of the Aragua Train wanted by the US",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/colombia-captura-a-dos-presuntos-cabecillas-del-tren-de-aragua-buscados-por-ee-uu/",
+      "published_date": "2026-09-04T00:58:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Petro aboga por \"elecciones completamente libres\" en Venezuela tras las críticas de María Corina Machado al acuerdo petrolero",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/petro-aboga-por-elecciones-completamente-libres-en-venezuela-tras-las-criticas-de-maria-corina-machado-al-acuerdo-petrolero/",
       "published_date": "2026-09-04T00:36:44Z",
@@ -19,134 +138,50 @@
     {
       "title": "Sergio Ramírez questions Brazil's vote in the OAS on the situation in Nicaragua",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/sergio-ramirez-cuestiona-voto-de-brasil-en-la-oea-sobre-situacion-de-nicaragua/",
-      "published_date": "2026-09-04T00:19:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sergio Ramírez questions Brazil's vote in the OAS on the situation in Nicaragua",
-      "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/sergio-ramirez-cuestiona-voto-de-brasil-en-la-oea-sobre-situacion-de-nicaragua/",
       "published_date": "2026-09-04T00:19:59Z",
       "category": "Diplomacy"
     },
     {
-      "title": "The United States charges federal charges against an ICE agent for shooting a Venezuelan migrant and lying about the facts",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/estados-unidos-imputa-cargos-federales-a-un-agente-de-ice-por-disparar-a-un-migrante-venezolano-y-mentir-sobre-los-hechos/",
-      "published_date": "2026-09-03T23:41:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The United States charges federal charges against an ICE agent for shooting a Venezuelan migrant and lying about the facts",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/estados-unidos-imputa-cargos-federales-a-un-agente-de-ice-por-disparar-a-un-migrante-venezolano-y-mentir-sobre-los-hechos/",
-      "published_date": "2026-09-03T23:41:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colombia captures two members of the Aragua Train: they are requested by the US.",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/colombia-captura-a-dos-integrantes-del-tren-de-aragua-son-solicitados-por-ee-uu/",
-      "published_date": "2026-09-03T23:23:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Media representatives asked the opposition delegation for five urgent guarantees of freedom of expression",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/representantes-medios-comunicacion-dinorah-figuera-libertad-expresion-2026/",
-      "published_date": "2026-09-03T23:02:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Media representatives asked the opposition delegation for five urgent guarantees of freedom of expression",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/representantes-medios-comunicacion-dinorah-figuera-libertad-expresion-2026/",
-      "published_date": "2026-09-03T23:02:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Polichacao blocks the march of the Trade Union Coalition that intended to protest before the US delegation",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/polichacao-bloquea-marcha-de-la-coalicion-sindical-que-pretendia-protestar-ante-la-delegacion-de-ee-uu/",
-      "published_date": "2026-09-03T22:43:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Polichacao blocks the march of the Trade Union Coalition that intended to protest before the US delegation",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/polichacao-bloquea-marcha-de-la-coalicion-sindical-que-pretendia-protestar-ante-la-delegacion-de-ee-uu/",
-      "published_date": "2026-09-03T22:43:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Everything we know about the photos of Nicolás Maduro released from a prison in New York",
+      "title": "Italian oil company Eni will be exclusive operator of the Junín 5 field for 25 years",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/cocuyo-chequea/todo-lo-que-sabemos-sobre-las-fotos-de-nicolas-maduro-difundidas-desde-una-carcel-en-nueva-york/",
-      "published_date": "2026-09-03T22:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/economia/petrolera-italiana-eni-sera-operador-exclusivo-del-yacimiento-junin-5-por-25-anos/",
+      "published_date": "2026-09-04T14:12:34Z",
+      "category": "Military"
     },
     {
-      "title": "José Altuve guides Houston's victory with a home run",
+      "title": "Clippve demands an end to arbitrary transfers and the release of political prisoners",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/jose-altuve-guia-el-triunfo-de-houston-con-jonron/",
-      "published_date": "2026-09-03T21:23:52Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/clippve-exige-frenar-los-traslados-arbitrarios-y-liberar-a-presos-politicos/",
+      "published_date": "2026-09-04T12:59:13Z",
+      "category": "Military"
     },
     {
-      "title": "José Altuve guides Houston's victory with a home run",
+      "title": "Clippve demands an end to arbitrary transfers and the release of political prisoners",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/jose-altuve-guia-el-triunfo-de-houston-con-jonron/",
-      "published_date": "2026-09-03T21:23:52Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/clippve-exige-frenar-los-traslados-arbitrarios-y-liberar-a-presos-politicos/",
+      "published_date": "2026-09-04T12:59:13Z",
+      "category": "Military"
     },
     {
-      "title": "Sovereign immunity: The legal letter with which Maduro seeks to stop his trial in the US",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/inmunidad-soberana-la-carta-legal-con-la-que-maduro-busca-frenar-su-juicio-en-eeuu/",
-      "published_date": "2026-09-03T21:14:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "200 Venezuelans arrive from the United States on a new repatriation flight",
+      "title": "Tesla bets on autonomous robotaxis with the Cybercab",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/200-venezolanos-llegan-desde-estados-unidos-en-un-nuevo-vuelo-de-repatriacion/",
-      "published_date": "2026-09-03T20:01:57Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/tesla-apuesta-por-los-robotaxis-autonomos-con-el-cybercab/",
+      "published_date": "2026-09-04T09:01:00Z",
+      "category": "Military"
     },
     {
-      "title": "200 Venezuelans arrive from the United States on a new repatriation flight",
+      "title": "Oscar D'León will be recognized at the Hispanic Heritage Awards",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/200-venezolanos-llegan-desde-estados-unidos-en-un-nuevo-vuelo-de-repatriacion/",
-      "published_date": "2026-09-03T20:01:57Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/oscar-dleon-sera-reconocido-en-los-premios-a-la-herencia-hispana/",
+      "published_date": "2026-09-04T09:01:00Z",
+      "category": "Military"
     },
     {
-      "title": "The US sanctions the grandson of Raúl Castro and the Foreign Bank of Cuba",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ee-uu-sanciona-a-nieto-de-raul-castro-y-al-banco-exterior-de-cuba/",
-      "published_date": "2026-09-03T19:56:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The US sanctions the grandson of Raúl Castro and the Foreign Bank of Cuba",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ee-uu-sanciona-a-nieto-de-raul-castro-y-al-banco-exterior-de-cuba/",
-      "published_date": "2026-09-03T19:56:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "María Corina Machado demands transparency after agreement between the US and Delcy Rodríguez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/maria-corina-machado-exige-transparencia-tras-acuerdo-entre-ee-uu-y-delcy-rodriguez/",
-      "published_date": "2026-09-03T19:31:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Penal Forum confirms transfer of 24 political prisoners from the El Rodeo I penitentiary center",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/foro-penal-confirma-traslado-de-24-presos-politicos-desde-el-centro-penitenciario-el-rodeo-i/",
-      "published_date": "2026-09-04T00:17:45Z",
+      "title": "El Mañanero of September 4: Between political prisoners without whereabouts and union protests",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/619151/el-mananero-del-4-de-septiembre-entre-presos-politicos-sin-paradero-y-protestas-sindicales/",
+      "published_date": "2026-09-04T07:33:00Z",
       "category": "Military"
     },
     {
@@ -159,22 +194,8 @@
     {
       "title": "Judge orders the Colombian government to suspend bombings in areas with the presence of recruited minors",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/juez-ordena-al-gobierno-colombiano-suspender-bombardeos-en-zonas-con-presencia-de-menores-reclutados/",
-      "published_date": "2026-09-03T21:43:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Judge orders the Colombian government to suspend bombings in areas with the presence of recruited minors",
-      "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/juez-ordena-al-gobierno-colombiano-suspender-bombardeos-en-zonas-con-presencia-de-menores-reclutados/",
       "published_date": "2026-09-03T21:43:33Z",
-      "category": "Military"
-    },
-    {
-      "title": "Wingo reactivates its operations in Venezuela with daily flights to Bogotá and three weekly frequencies to Medellín",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/wingo-reactiva-sus-operaciones-en-venezuela-con-vuelos-diarios-a-bogota-y-tres-frecuencias-semanales-a-medellin/",
-      "published_date": "2026-09-03T21:11:59Z",
       "category": "Military"
     },
     {
@@ -201,13 +222,6 @@
     {
       "title": "The IAPA and the CPJ warn that reform of the Radio and Television Law in Costa Rica would cause the media to go off the air",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/la-sip-y-el-cpj-alertan-que-reforma-de-la-ley-de-radio-y-television-en-costa-rica-provocaria-la-salida-del-aire-de-medios/",
-      "published_date": "2026-09-03T17:38:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "The IAPA and the CPJ warn that reform of the Radio and Television Law in Costa Rica would cause the media to go off the air",
-      "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/la-sip-y-el-cpj-alertan-que-reforma-de-la-ley-de-radio-y-television-en-costa-rica-provocaria-la-salida-del-aire-de-medios/",
       "published_date": "2026-09-03T17:38:13Z",
       "category": "Military"
@@ -215,22 +229,8 @@
     {
       "title": "Warriors would give Curry a “blank check” to extend his contract",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/warriors-darian-un-cheque-en-blanco-a-curry-para-extender-su-contrato/",
-      "published_date": "2026-09-03T16:29:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "Warriors would give Curry a “blank check” to extend his contract",
-      "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/warriors-darian-un-cheque-en-blanco-a-curry-para-extender-su-contrato/",
       "published_date": "2026-09-03T16:29:37Z",
-      "category": "Military"
-    },
-    {
-      "title": "The NBA used the stick against billionaire Steve Ballmer, owner of the Clippers",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/la-nba-aplico-el-garrote-contra-el-multimillonario-steve-ballmer-dueno-de-los-clippers/",
-      "published_date": "2026-09-03T16:21:04Z",
       "category": "Military"
     },
     {
@@ -248,7 +248,7 @@
       "category": "Military"
     },
     {
-      "title": "World Meteorological Organization: El Niño phenomenon will intensify until it is stronger",
+      "title": "Organización Meteorológica Mundial: Fenómeno de El Niño se intensificará hasta ser más fuerte",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/organizacion-meteorologica-mundial-fenomeno-de-el-nino-se-intensificara-hasta-ser-mas-fuerte/",
       "published_date": "2026-09-03T14:14:29Z",
@@ -283,7 +283,28 @@
       "category": "Military"
     },
     {
-      "title": "Trump assures that US investments reactivate the oil industry in Venezuela",
+      "title": "\"Venezuela tiene muchísimo más petróleo\": Toro Hardy apunta al fracking como clave del potencial real",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/jose-toro-hardy-las-reservas-petroleras-de-venezuela-podrian-estar-sobreestimadas/",
+      "published_date": "2026-09-04T13:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "\"Venezuela has much more oil\": Toro Hardy points to fracking as the key to real potential",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/jose-toro-hardy-las-reservas-petroleras-de-venezuela-podrian-estar-sobreestimadas/",
+      "published_date": "2026-09-04T13:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Foreign Minister of Trinidad and Tobago visits Venezuela to fulfill energy agenda",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/ministro-de-exteriores-de-trinidad-y-tobago-visita-venezuela-para-cumplir-agenda-energetica/",
+      "published_date": "2026-09-04T10:06:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump asegura que inversiones estadounidenses reactivan la industria petrolera en Venezuela",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/trump-asegura-que-inversiones-estadounidenses-reactivan-la-industria-petrolera-en-venezuela/",
       "published_date": "2026-09-03T23:11:09Z",
@@ -294,13 +315,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/trump-asegura-que-inversiones-estadounidenses-reactivan-la-industria-petrolera-en-venezuela/",
       "published_date": "2026-09-03T23:11:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Vance defends oil deal: It is good for Venezuelans and the American taxpayer",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/vance-defiende-acuerdo-petrolero-es-bueno-para-los-venezolanos-y-para-el-contribuyente-estadounidense/",
-      "published_date": "2026-09-03T22:35:01Z",
       "category": "Energy"
     },
     {
@@ -318,10 +332,10 @@
       "category": "Energy"
     },
     {
-      "title": "Peace Laboratory asks for institutional guarantees to sustain oil investments in Venezuela",
+      "title": "José Altuve guía el triunfo de Houston con jonrón",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/laboratorio-de-paz-pide-garantias-institucionales-para-sostener-inversiones-petroleras-en-venezuela/",
-      "published_date": "2026-09-03T20:58:54Z",
+      "url": "https://www.elnacional.com/2026/09/jose-altuve-guia-el-triunfo-de-houston-con-jonron/",
+      "published_date": "2026-09-03T21:23:52Z",
       "category": "Energy"
     },
     {
@@ -353,7 +367,7 @@
       "category": "Energy"
     },
     {
-      "title": "Women's soccer sets spending record in the summer market",
+      "title": "Fútbol femenino establece récord de gasto en el mercado de verano",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/futbol-femenino-establece-record-de-gasto-en-el-mercado-de-verano/",
       "published_date": "2026-09-03T20:08:42Z",
@@ -364,13 +378,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/futbol-femenino-establece-record-de-gasto-en-el-mercado-de-verano/",
       "published_date": "2026-09-03T20:08:42Z",
-      "category": "Energy"
-    },
-    {
-      "title": "They denounce illegal deforestation and damage to sugarcane production in the Montaña Verde Agrarian Center",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/denuncian-deforestacion-ilegal-y-danos-a-la-produccion-de-cana-en-el-centro-agrario-montana-verde/",
-      "published_date": "2026-09-03T20:07:00Z",
       "category": "Energy"
     },
     {
@@ -388,6 +395,13 @@
       "category": "Energy"
     },
     {
+      "title": "Los pequeños errores de seguridad que siguen afectando a las wallets cripto",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/los-pequenos-errores-de-seguridad-que-siguen-afectando-a-las-wallets-cripto/",
+      "published_date": "2026-09-03T18:14:53Z",
+      "category": "Energy"
+    },
+    {
       "title": "The US will manage and audit any amount that Nabep assigns to PDVSA, according to the White House",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/ee-uu-administrara-y-auditara-cualquier-monto-que-nabep-asigne-a-pdvsa-segun-la-casa-blanca/",
@@ -402,25 +416,18 @@
       "category": "Energy"
     },
     {
-      "title": "The time Jorge Rodríguez accused Alejandro Betancourt",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/la-vez-que-jorge-rodriguez-acuso-a-alejandro-betancourt/",
-      "published_date": "2026-09-03T15:06:08Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Colombian oil company GeoPark announces its “strategic entry into Venezuela”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/petrolera-colombiana-geopark-anuncia-su-entrada-estrategica-en-venezuela/",
-      "published_date": "2026-09-03T14:51:07Z",
-      "category": "Energy"
-    },
-    {
-      "title": "María Corina Machado demands transparency after an agreement between the US and Delcy Rodríguez: \"Venezuela is worth much more than its oil\"",
+      "title": "Jesús Luzardo es el Lanzador del Mes de agosto en la Liga Nacional",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/machado-exige-transparencia-tras-acuerdo-entre-ee-uu-y-delcy-rodriguez/",
-      "published_date": "2026-09-03T14:31:45Z",
+      "url": "https://www.elnacional.com/2026/09/jesus-luzardo-es-el-lanzador-del-mes-de-agosto-en-la-liga-nacional/",
+      "published_date": "2026-09-03T16:54:45Z",
       "category": "Energy"
+    },
+    {
+      "title": "Bloomberg: IMF plans to open an office in Caracas given the progress of the relationship with Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/bloomberg-fmi-planea-abrir-una-oficina-en-caracas-ante-el-avance-de-la-relacion-con-venezuela/",
+      "published_date": "2026-09-04T12:32:00Z",
+      "category": "Economy"
     },
     {
       "title": "Ronald Balza: “If it is dollarized, all services will also be dollarized and the distribution problem would increase”",
@@ -437,10 +444,10 @@
       "category": "Economy"
     },
     {
-      "title": "Cristian Cásseres Jr.'s Toulouse continues without winning in Ligue 1",
+      "title": "Vance defiende acuerdo petrolero: Es bueno para los venezolanos y para el contribuyente estadounidense",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-toulouse-de-cristian-casseres-jr-sigue-sin-ganar-en-la-ligue-1/",
-      "published_date": "2026-09-03T21:21:23Z",
+      "url": "https://www.elnacional.com/2026/09/vance-defiende-acuerdo-petrolero-es-bueno-para-los-venezolanos-y-para-el-contribuyente-estadounidense/",
+      "published_date": "2026-09-03T22:35:01Z",
       "category": "Economy"
     },
     {
@@ -458,6 +465,13 @@
       "category": "Economy"
     },
     {
+      "title": "Laboratorio de Paz pide garantías institucionales para sostener inversiones petroleras en Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/laboratorio-de-paz-pide-garantias-institucionales-para-sostener-inversiones-petroleras-en-venezuela/",
+      "published_date": "2026-09-03T20:58:54Z",
+      "category": "Economy"
+    },
+    {
       "title": "Peace Laboratory: “There will be no sustainable investment or lasting reconstruction without legitimate institutions”",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/la-humanidad/laboratorio-de-paz-no-habra-inversion-sostenible-ni-reconstruccion-duradera-sin-instituciones-legitimas/",
@@ -465,10 +479,10 @@
       "category": "Economy"
     },
     {
-      "title": "The small security errors that continue to affect crypto wallets",
+      "title": "Denuncian deforestación ilegal y daños a la producción de caña en el Centro Agrario Montaña Verde",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/los-pequenos-errores-de-seguridad-que-siguen-afectando-a-las-wallets-cripto/",
-      "published_date": "2026-09-03T18:14:53Z",
+      "url": "https://www.elnacional.com/2026/09/denuncian-deforestacion-ilegal-y-danos-a-la-produccion-de-cana-en-el-centro-agrario-montana-verde/",
+      "published_date": "2026-09-03T20:07:00Z",
       "category": "Economy"
     },
     {
@@ -476,6 +490,13 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/los-pequenos-errores-de-seguridad-que-siguen-afectando-a-las-wallets-cripto/",
       "published_date": "2026-09-03T18:14:53Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Delcy Rodríguez y Chris Wright defienden la alianza petrolera con Nabep, la empresa de Alejandro Betancourt",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-y-chris-wright-defienden-la-alianza-petrolera-con-nabep-la-empresa-de-alejandro-betancourt/",
+      "published_date": "2026-09-03T13:57:38Z",
       "category": "Economy"
     },
     {
@@ -542,164 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Trump y Rubio impulsan pacto petrolero para debilitar influencia comunista, dice Fox News",
+      "title": "What is the 2026-2027 school schedule like in Venezuela?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/gran-caracas/como-es-el-cronograma-escolar-2026-2027-en-venezuela/",
+      "published_date": "2026-09-04T14:51:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inameh predicts rain and electrical activity due to the passage of tropical wave 45 this Friday and weekend",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-y-rubio-impulsan-pacto-petrolero-para-debilitar-influencia-comunista-dice-fox-news/",
-      "published_date": "2026-09-02T16:44:00Z",
-      "category": "Economy"
+      "url": "https://efectococuyo.com/la-humanidad/inameh-preve-lluvias-y-actividad-electrica/",
+      "published_date": "2026-09-04T14:37:34Z",
+      "category": "Local Events"
     },
     {
-      "title": "BCV dollar breaks the Bs. 800 barrier this September 2",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/dolar-bcv-rompe-la-barrera-de-los-bs-800-este-2-de-septiembre/",
-      "published_date": "2026-09-02T13:40:11Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Vicente Brito on the agreement with the US: \"It is a business convenient to the interests of the country\"",
+      "title": "Uno de los trabajadores rescatados del túnel en Nepal se encuentra en estado crítico",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/vicente-brito-sobre-el-acuerdo-con-ee-uu-es-un-negocio-conveniente-a-los-intereses-del-pais/",
-      "published_date": "2026-09-02T13:11:04Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Merida | Citizens and NGOs protest in front of the Public Ministry to demand the freedom of political prisoners",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/merida-ciudadanos-y-ong-protestan-frente-al-ministerio-publico-para-exigir-la-libertad-de-presos-politicos/",
-      "published_date": "2026-09-04T00:01:23Z",
+      "url": "https://www.elnacional.com/2026/09/uno-de-los-trabajadores-rescatados-del-tunel-en-nepal-se-encuentra-en-estado-critico/",
+      "published_date": "2026-09-04T14:17:32Z",
       "category": "Local Events"
     },
     {
-      "title": "First Justice proposes strengthening the family as the axis of the reconstruction of Venezuela",
+      "title": "Flávio Bolsonaro reduces his distance from Lula da Silva in the polls",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/primero-justicia-plantea-fortalecer-la-familia-como-eje-de-la-reconstruccion-de-venezuela/",
-      "published_date": "2026-09-03T23:55:18Z",
+      "url": "https://www.elnacional.com/2026/09/flavio-bolsonaro-reduce-su-distancia-de-lula-da-silva-en-las-encuestas/",
+      "published_date": "2026-09-04T13:37:34Z",
       "category": "Local Events"
     },
     {
-      "title": "First Justice proposes strengthening the family as the axis of the reconstruction of Venezuela",
+      "title": "Flávio Bolsonaro reduces his distance from Lula da Silva in the polls",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/primero-justicia-plantea-fortalecer-la-familia-como-eje-de-la-reconstruccion-de-venezuela/",
-      "published_date": "2026-09-03T23:55:18Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/flavio-bolsonaro-reduce-su-distancia-de-lula-da-silva-en-las-encuestas/",
+      "published_date": "2026-09-04T13:37:34Z",
       "category": "Local Events"
     },
     {
-      "title": "UCV waterproofs more than 3,000 square meters in its core in Barquisimeto",
+      "title": "Bloomberg: FMI planea abrir una oficina en Caracas ante el avance de la relación con Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ucv-impermeabiliza-mas-de-3-000-metros-cuadrados-en-su-nucleo-de-barquisimeto/",
-      "published_date": "2026-09-03T23:35:54Z",
+      "url": "https://www.elnacional.com/2026/09/bloomberg-fmi-planea-abrir-una-oficina-en-caracas-ante-el-avance-de-la-relacion-con-venezuela/",
+      "published_date": "2026-09-04T12:32:00Z",
       "category": "Local Events"
     },
     {
-      "title": "UCV waterproofs more than 3,000 square meters in its core in Barquisimeto",
+      "title": "Zverev vuelve a sufrir pero está en tercera ronda: “Espero jugar mejor en algún punto”",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ucv-impermeabiliza-mas-de-3-000-metros-cuadrados-en-su-nucleo-de-barquisimeto/",
-      "published_date": "2026-09-03T23:35:54Z",
+      "url": "https://www.elnacional.com/2026/09/zverev-vuelve-a-sufrir-pero-esta-en-tercera-ronda-espero-jugar-mejor-en-algun-punto/",
+      "published_date": "2026-09-04T12:02:13Z",
       "category": "Local Events"
     },
     {
-      "title": "Chacao | 250 families remain evicted due to risk associated with the San Felipe building, which will be demolished",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/chacao-250-familias-siguen-desalojadas-por-riesgo-asociado-al-edificio-san-felipe-el-cual-sera-demolido/",
-      "published_date": "2026-09-03T22:45:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trade Union Coalition denounces repression of Polichacao during protest in El Rosal",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/coalicion-sindical-denuncia-represion-de-polichacao-durante-protesta-en-el-rosal/",
-      "published_date": "2026-09-03T22:39:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lara | Rains and hurricane winds cause trees to fall and flood in Barquisimeto this #3Sep",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/lluvias-y-vientos-huracanados-dejan-arboles-caidos-y-anegaciones-en-lara/",
-      "published_date": "2026-09-03T22:21:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Santa en las Calles and Casa Ronald McDonald join forces in El Arepazo to serve vulnerable communities",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/con-proposito/619126/santa-en-las-calles-y-casa-ronald-mcdonald-unen-esfuerzos-en-el-arepazo-para-atender-a-comunidades-vulnerables/",
-      "published_date": "2026-09-03T22:19:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Progress of protest against oil agreements was prevented by Polichacao: there were clashes",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/619118/avance-de-protesta-contra-acuerdos-petroleros-fue-impedida-por-polichacao-hubo-enfrentamientos/",
-      "published_date": "2026-09-03T22:16:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "FIFA points out that UEFA is running a “smear campaign” against it",
+      "title": "Zverev suffers again but is in the third round: “I hope to play better at some point”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/fifa-senala-que-la-uefa-ejecuta-una-campana-de-desprestigio-en-su-contra/",
-      "published_date": "2026-09-03T22:11:32Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/zverev-vuelve-a-sufrir-pero-esta-en-tercera-ronda-espero-jugar-mejor-en-algun-punto/",
+      "published_date": "2026-09-04T12:02:13Z",
       "category": "Local Events"
     },
     {
-      "title": "FIFA points out that UEFA is running a “smear campaign” against it",
+      "title": "Nepal: two workers who spent nine days trapped in a tunnel rescued",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/fifa-senala-que-la-uefa-ejecuta-una-campana-de-desprestigio-en-su-contra/",
-      "published_date": "2026-09-03T22:11:32Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/nepal-rescatados-dos-trabajadores-que-pasaron-nueve-dias-atrapados-en-un-tunel/",
+      "published_date": "2026-09-04T11:50:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Aramburu and Herrera's Real Sociedad draws goalless against Celta",
+      "title": "La séptima fecha cerró como la jornada con más goles en el Torneo Clausura",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/la-real-sociedad-de-aramburu-y-herrera-empata-sin-goles-contra-el-celta/",
-      "published_date": "2026-09-03T22:06:08Z",
+      "url": "https://www.elnacional.com/2026/09/la-septima-fecha-cerro-como-la-jornada-con-mas-goles-en-el-torneo-clausura/",
+      "published_date": "2026-09-04T11:11:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Aramburu and Herrera's Real Sociedad draws goalless against Celta",
+      "title": "The seventh date closed as the day with the most goals in the Clausura Tournament",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/la-real-sociedad-de-aramburu-y-herrera-empata-sin-goles-contra-el-celta/",
-      "published_date": "2026-09-03T22:06:08Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/la-septima-fecha-cerro-como-la-jornada-con-mas-goles-en-el-torneo-clausura/",
+      "published_date": "2026-09-04T11:11:23Z",
       "category": "Local Events"
     },
     {
-      "title": "Chacao Mayor's Office rehabilitated 20% of homes for older adults and six buildings at structural risk",
+      "title": "Colombia niega extradición de opositor venezolano acusado de homicidio en el Zulia",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/alcaldia-de-chacao-rehabilito-20-de-viviendas-de-adultos-mayores-y-seis-edificios-en-riesgo-estructural/",
-      "published_date": "2026-09-03T22:04:14Z",
+      "url": "https://www.elnacional.com/2026/09/colombia-niega-extradicion-de-opositor-venezolano-acusado-de-homicidio-en-el-zulia/",
+      "published_date": "2026-09-04T11:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Chacao Mayor's Office rehabilitated 20% of homes for older adults and six buildings at structural risk",
+      "title": "Colombia denies extradition of Venezuelan opponent accused of homicide in Zulia",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/alcaldia-de-chacao-rehabilito-20-de-viviendas-de-adultos-mayores-y-seis-edificios-en-riesgo-estructural/",
-      "published_date": "2026-09-03T22:04:14Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/colombia-niega-extradicion-de-opositor-venezolano-acusado-de-homicidio-en-el-zulia/",
+      "published_date": "2026-09-04T11:07:00Z",
       "category": "Local Events"
     },
     {
-      "title": "$30 bonus: the transporters' proposal for direct subsidy to vulnerable sectors",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/bono-de-30-para-transporte-la-propuesta-del-sector-para-beneficiar-a-sectores-vulnerables/",
-      "published_date": "2026-09-03T21:58:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cerúndulo qualifies for the third round of the US Open and Auger-Aliassime is eliminated",
+      "title": "Marco Rubio planea visitar Colombia la próxima semana",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/cerundulo-clasifica-a-la-tercera-ronda-del-us-open-y-auger-aliassime-es-eliminado/",
-      "published_date": "2026-09-03T20:47:01Z",
+      "url": "https://www.elnacional.com/2026/09/marco-rubio-planea-visitar-colombia-la-proxima-semana/",
+      "published_date": "2026-09-04T09:49:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Cerúndulo qualifies for the third round of the US Open and Auger-Aliassime is eliminated",
+      "title": "Danny Boyle: El encuentro entre Murdoch y Lamb impactó más que la llegada a la Luna",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/cerundulo-clasifica-a-la-tercera-ronda-del-us-open-y-auger-aliassime-es-eliminado/",
-      "published_date": "2026-09-03T20:47:01Z",
+      "url": "https://www.elnacional.com/2026/09/danny-boyle-el-encuentro-entre-murdoch-y-lamb-impacto-mas-que-la-llegada-a-la-luna/",
+      "published_date": "2026-09-04T09:15:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Umbral Watch says that there are only 7% of actions necessary for the democratic transition in Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/umbral-watch-dice-que-solo-hay-7-de-acciones-necesarias-para-la-transicion-democratica-en-venezuela/",
-      "published_date": "2026-09-03T20:31:58Z",
+      "title": "Danny Boyle: The meeting between Murdoch and Lamb had more impact than the moon landing",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/danny-boyle-el-encuentro-entre-murdoch-y-lamb-impacto-mas-que-la-llegada-a-la-luna/",
+      "published_date": "2026-09-04T09:15:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oscar D’León será reconocido en los Premios a la Herencia Hispana",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/oscar-dleon-sera-reconocido-en-los-premios-a-la-herencia-hispana/",
+      "published_date": "2026-09-04T09:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela compite con más de cien países en Vietnam por la corona de Miss Mundo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/venezuela-compite-con-mas-de-cien-paises-en-vietnam-por-la-corona-de-miss-mundo/",
+      "published_date": "2026-09-04T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela competes with more than a hundred countries in Vietnam for the Miss World crown",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/venezuela-compite-con-mas-de-cien-paises-en-vietnam-por-la-corona-de-miss-mundo/",
+      "published_date": "2026-09-04T09:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "SpaceX cancela su participación en cumbre espacial de París",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/spacex-cancela-su-participacion-en-cumbre-espacial-de-paris/",
+      "published_date": "2026-09-04T08:59:00Z",
       "category": "Local Events"
     }
   ]
