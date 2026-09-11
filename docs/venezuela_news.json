@@ -1,11 +1,130 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-11T00:56:17Z",
+  "last_updated": "2026-09-11T14:56:27Z",
   "stories": [
+    {
+      "title": "Chevening seeks new Venezuelan leaders to study in the United Kingdom",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/chevening-busca-nuevos-lideres-venezolanos-para-estudiar-en-el-reino-unido/",
+      "published_date": "2026-09-11T13:51:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The US offers oil to Cuba in exchange for Díaz-Canel's departure, according to Miami Herald",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/eeuu-ofrece-petroleo-a-cuba-a-cambio-de-la-salida-de-diaz-canel-segun-miami-herald/",
+      "published_date": "2026-09-11T13:28:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diesel exceeds $6 per gallon in the United States for the first time",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/el-diesel-supera-por-primera-vez-los-6-dolares-por-galon-en-estados-unidos/",
+      "published_date": "2026-09-11T12:08:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diesel exceeds $6 per gallon in the United States for the first time",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-diesel-supera-por-primera-vez-los-6-dolares-por-galon-en-estados-unidos/",
+      "published_date": "2026-09-11T12:08:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Mañanero del 11 de septiembre: No hay 3E que valga, venezolanos siguen con las mismas necesidades",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/619672/el-mananero-del-11-de-septiembre-no-hay-3e-que-valga-venezolanos-siguen-con-las-mismas-necesidades/",
+      "published_date": "2026-09-11T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Art evokes the memory of 9/11 with an exhibition in New York",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/el-arte-evoca-la-memoria-del-11s-con-una-exposicion-en-nueva-york/",
+      "published_date": "2026-09-11T05:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Art evokes the memory of 9/11 with an exhibition in New York",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-arte-evoca-la-memoria-del-11s-con-una-exposicion-en-nueva-york/",
+      "published_date": "2026-09-11T05:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "9/11 reconfigured the geopolitical map and international security that still define the world 25 years later",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/11-septiembre-25-anos-geopolitica-seguridad-mundial/",
+      "published_date": "2026-09-11T05:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "9/11 reconfigured the geopolitical map and international security that still define the world 25 years later",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/11-septiembre-25-anos-geopolitica-seguridad-mundial/",
+      "published_date": "2026-09-11T05:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Margariteño chili waits for water on the island",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/el-aji-margariteno-espera-por-agua-en-la-isla/",
+      "published_date": "2026-09-11T05:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The Margariteño chili waits for water on the island",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-aji-margariteno-espera-por-agua-en-la-isla/",
+      "published_date": "2026-09-11T05:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lady Di's revenge dress will be auctioned in New York",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/el-vestido-de-la-venganza-de-lady-di-se-subasta-en-nueva-york/",
+      "published_date": "2026-09-11T05:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lady Di's revenge dress will be auctioned in New York",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-vestido-de-la-venganza-de-lady-di-se-subasta-en-nueva-york/",
+      "published_date": "2026-09-11T05:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"I created a fashion empire from nothing that made me a multimillionaire, but it grew so much that I ended up bankrupt\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/sophia-amoruso-cree-de-la-nada-un-imperio-de-la-moda/",
+      "published_date": "2026-09-11T05:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"I created a fashion empire from nothing that made me a multimillionaire, but it grew so much that I ended up bankrupt\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/sophia-amoruso-cree-de-la-nada-un-imperio-de-la-moda/",
+      "published_date": "2026-09-11T05:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reparar una escuela para reconstruir la esperanza",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/619684/reparar-una-escuela-para-reconstruir-la-esperanza/",
+      "published_date": "2026-09-11T04:52:36Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dinorah Figuera plans to discuss political guarantees and freedom of expression in a new cycle of dialogue",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/dinorah-figuera-preve-discutir-garantias-politicas-y-libertad-de-expresion-en-nuevo-ciclo-de-dialogo/",
+      "published_date": "2026-09-11T00:50:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dinorah Figuera plans to discuss political guarantees and freedom of expression in a new cycle of dialogue",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/dinorah-figuera-preve-discutir-garantias-politicas-y-libertad-de-expresion-en-nuevo-ciclo-de-dialogo/",
       "published_date": "2026-09-11T00:50:56Z",
       "category": "Diplomacy"
     },
@@ -17,130 +136,81 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Estados Unidos propuso suministrar petróleo a Cuba a cambio de la dimisión de Díaz-Canel y la privatización de Cupet, según el Miami Herald",
+      "title": "The United States proposed supplying oil to Cuba in exchange for the resignation of Díaz-Canel and the privatization of Cupet, according to the Miami Herald",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/estados-unidos-propuso-suministrar-petroleo-a-cuba-a-cambio-de-la-dimision-de-diaz-canel-y-la-privatizacion-de-cupet-segun-el-miami-herald/",
       "published_date": "2026-09-11T00:00:04Z",
       "category": "Diplomacy"
     },
     {
-      "title": "La Conversa con la Luz | Monaldi: “Acuerdos no tienen impacto a corto plazo en precio del petróleo”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/619655/la-conversa-con-la-luz-monaldi-acuerdos-no-tienen-impacto-a-corto-plazo-en-precio-del-petroleo/",
-      "published_date": "2026-09-10T22:51:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "World Suicide Prevention Day: support networks can save lives",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/dia-mundial-de-la-prevencion-del-suicidio-las-redes-de-apoyo-pueden-salvar-vidas/",
-      "published_date": "2026-09-10T22:28:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "David Martínez after debuting with Midtjylland: \"I'm adapting little by little\"",
+      "title": "Rubio culminates in Peru a tour focused on the fight against drug trafficking",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/david-martinez-tras-debutar-con-el-midtjylland-me-estoy-adaptando-poco-a-poco/",
-      "published_date": "2026-09-10T22:06:05Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/rubio-culmina-en-peru-una-gira-centrada-en-el-narco/",
+      "published_date": "2026-09-11T10:43:59Z",
+      "category": "Military"
     },
     {
-      "title": "David Martínez tras debutar con el Midtjylland: \"Me estoy adaptando poco a poco\"",
+      "title": "Rubio culminates in Peru a tour focused on the fight against drug trafficking",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/david-martinez-tras-debutar-con-el-midtjylland-me-estoy-adaptando-poco-a-poco/",
-      "published_date": "2026-09-10T22:06:05Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/rubio-culmina-en-peru-una-gira-centrada-en-el-narco/",
+      "published_date": "2026-09-11T10:43:59Z",
+      "category": "Military"
     },
     {
-      "title": "Garcés: “Maiquetía operates at 48%, but we have more international flights than last year”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/garces-maiquetia-opera-al-48-pero-tenemos-mas-vuelos-internacionales-que-el-ano-pasado/",
-      "published_date": "2026-09-10T21:47:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Peru adheres to the Shield of the Americas after the meeting between Keiko Fujimori and Marco Rubio in Lima",
+      "title": "Delcy Rodríguez arrives in Suriname to discuss energy cooperation",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/peru-se-adhiere-al-escudo-de-las-americas-tras-la-reunion-entre-keiko-fujimori-y-marco-rubio-en-lima/",
-      "published_date": "2026-09-10T21:40:20Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-llega-a-surinam-para-discutir-cooperacion/",
+      "published_date": "2026-09-11T10:21:49Z",
+      "category": "Military"
     },
     {
-      "title": "Perú se adhiere al Escudo de las Américas tras la reunión entre Keiko Fujimori y Marco Rubio en Lima",
+      "title": "Delcy Rodríguez arrives in Suriname to discuss energy cooperation",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/peru-se-adhiere-al-escudo-de-las-americas-tras-la-reunion-entre-keiko-fujimori-y-marco-rubio-en-lima/",
-      "published_date": "2026-09-10T21:40:20Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/delcy-rodriguez-llega-a-surinam-para-discutir-cooperacion/",
+      "published_date": "2026-09-11T10:21:49Z",
+      "category": "Military"
     },
     {
-      "title": "Pulse Venezuela: the new monitor that gathers data on repression, justice, misinformation and university crisis",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/pulso-venezuela-el-nuevo-monitor-que-reune-datos-sobre-represion-justicia-desinformacion-y-crisis-universitaria/",
-      "published_date": "2026-09-10T20:54:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "A deployment of 2,977 drones recreates the silhouette of the Twin Towers in New York before the 25th anniversary of 9/11",
+      "title": "Rawayana and Danny Ocean nominated for the Billboard Latin Music Awards",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/un-despliegue-de-2-977-drones-recrea-la-silueta-de-las-torres-gemelas-en-nueva-york-antes-del-25-aniversario-del-11-s/",
-      "published_date": "2026-09-10T20:35:45Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/rawayana-y-danny-ocean-nominados-a-los-premios-billboard-de-la-musica-latina/",
+      "published_date": "2026-09-11T05:53:00Z",
+      "category": "Military"
     },
     {
-      "title": "A deployment of 2,977 drones recreates the silhouette of the Twin Towers in New York before the 25th anniversary of 9/11",
+      "title": "Rawayana and Danny Ocean nominated for the Billboard Latin Music Awards",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/un-despliegue-de-2-977-drones-recrea-la-silueta-de-las-torres-gemelas-en-nueva-york-antes-del-25-aniversario-del-11-s/",
-      "published_date": "2026-09-10T20:35:45Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/rawayana-y-danny-ocean-nominados-a-los-premios-billboard-de-la-musica-latina/",
+      "published_date": "2026-09-11T05:53:00Z",
+      "category": "Military"
     },
     {
-      "title": "OAS urges Venezuela to appoint a representative to resume its participation",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/oea-insta-a-venezuela-a-nombrar-un-representante-para-retomar-su-participacion/",
-      "published_date": "2026-09-10T19:46:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OEA pide a Venezuela que vuelva a tener representación ante el organismo",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/oea-pide-a-venezuela-que-vuelva-a-tener-representacion-ante-el-organismo/",
-      "published_date": "2026-09-10T19:30:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gobierno venezolano convoca a ingenieros y empresas para la reparación de edificaciones dañadas por los terremotos",
+      "title": "Oasis lights up the Manchester sky to warn of an important announcement",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/gobierno-venezolano-convoca-a-ingenieros-y-empresas-para-la-reparacion-de-edificaciones-danadas-por-los-terremotos/",
-      "published_date": "2026-09-10T19:16:41Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/oasis-ilumina-el-cielo-de-manchester-para-advertir-sobre-un-importante-anuncio/",
+      "published_date": "2026-09-11T05:50:00Z",
+      "category": "Military"
     },
     {
-      "title": "Gobierno venezolano convoca a ingenieros y empresas para la reparación de edificaciones dañadas por los terremotos",
+      "title": "Oasis lights up the Manchester sky to warn of an important announcement",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/gobierno-venezolano-convoca-a-ingenieros-y-empresas-para-la-reparacion-de-edificaciones-danadas-por-los-terremotos/",
-      "published_date": "2026-09-10T19:16:41Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/oasis-ilumina-el-cielo-de-manchester-para-advertir-sobre-un-importante-anuncio/",
+      "published_date": "2026-09-11T05:50:00Z",
+      "category": "Military"
     },
     {
-      "title": "At the UCAB they raised conditions for a safe return to the classroom after the seismic emergency",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/619626/en-la-ucab-plantearon-condiciones-para-un-retorno-al-aula-seguro-tras-la-emergencia-sismica/",
-      "published_date": "2026-09-10T18:55:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gleiker Mendoza se estrena en la Champions League con un gol para el Shakhtar",
+      "title": "Civil rights organizations sue the US government over a massive raid in New York",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/gleiker-mendoza-se-estrena-en-la-champions-league-con-un-gol-para-el-shakhtar/",
-      "published_date": "2026-09-10T18:50:36Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/organizaciones-de-derechos-civiles-demandan-al-gobierno-de-ee-uu-por-una-redada-masiva-en-nueva-york/",
+      "published_date": "2026-09-11T01:01:26Z",
+      "category": "Military"
     },
     {
-      "title": "Gleiker Mendoza makes his debut in the Champions League with a goal for Shakhtar",
+      "title": "Civil rights organizations sue the US government over a massive raid in New York",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/gleiker-mendoza-se-estrena-en-la-champions-league-con-un-gol-para-el-shakhtar/",
-      "published_date": "2026-09-10T18:50:36Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/organizaciones-de-derechos-civiles-demandan-al-gobierno-de-ee-uu-por-una-redada-masiva-en-nueva-york/",
+      "published_date": "2026-09-11T01:01:26Z",
+      "category": "Military"
     },
     {
       "title": "Costa Rican authorities arrest suspect linked to the Aragua Train",
@@ -150,17 +220,31 @@
       "category": "Military"
     },
     {
-      "title": "Autoridades de Costa Rica detienen a sospechoso vinculado al Tren de Aragua",
+      "title": "Costa Rican authorities arrest suspect linked to the Aragua Train",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/tren-de-aragua-costa-rica-detenido/",
       "published_date": "2026-09-11T00:42:56Z",
       "category": "Military"
     },
     {
-      "title": "Ronald Ojeda Case: Chilean Prosecutor's Office requests 20 years in prison for the accused of the kidnapping and murder of the Venezuelan lieutenant",
+      "title": "Ronald Ojeda Case: Chilean Prosecutor's Office requests 20 years in prison for accused of the kidnapping and murder of the Venezuelan lieutenant",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/caso-ronald-ojeda-fiscalia-chilena-solicita-20-anos-de-prision-para-el-acusado-del-secuestro-y-homicidio-del-exmilitar-venezolano/",
       "published_date": "2026-09-10T22:29:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Ronald Ojeda Case: Chilean Prosecutor's Office requests 20 years in prison for accused of the kidnapping and murder of the Venezuelan lieutenant",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/caso-ronald-ojeda-fiscalia-chilena-solicita-20-anos-de-prision-para-el-acusado-del-secuestro-y-homicidio-del-exmilitar-venezolano/",
+      "published_date": "2026-09-10T22:29:54Z",
+      "category": "Military"
+    },
+    {
+      "title": "Combatir opacidad y documentar la crisis es el objetivo de Pulso Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/619649/combatir-opacidad-y-documentar-la-crisis-es-el-objetivo-de-pulso-venezuela/",
+      "published_date": "2026-09-10T21:30:59Z",
       "category": "Military"
     },
     {
@@ -178,24 +262,17 @@
       "category": "Military"
     },
     {
-      "title": "Emergencia en Sabaneta: incendio forestal cumple cinco días activo y requiere combate aéreo urgente",
+      "title": "Emergency in Sabaneta: forest fire has been active for five days and requires urgent air combat",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/emergencia-en-sabaneta-incendio-forestal-cumple-cinco-dias-activo-y-requiere-combate-aereo-urgente/",
       "published_date": "2026-09-10T20:54:55Z",
       "category": "Military"
     },
     {
-      "title": "Emergencia en Sabaneta: incendio forestal cumple cinco días activo y requiere combate aéreo urgente",
+      "title": "Emergency in Sabaneta: forest fire has been active for five days and requires urgent air combat",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/emergencia-en-sabaneta-incendio-forestal-cumple-cinco-dias-activo-y-requiere-combate-aereo-urgente/",
       "published_date": "2026-09-10T20:54:55Z",
-      "category": "Military"
-    },
-    {
-      "title": "OVP denounces that 7,414 prisoners survive in Cicpc cells: officials charge up to $200 for “benefits”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/ovp-denuncia-que-7-414-presos-sobreviven-en-calabozos-del-cicpc-funcionarios-cobran-hasta-200-por-beneficios/",
-      "published_date": "2026-09-10T20:46:41Z",
       "category": "Military"
     },
     {
@@ -206,98 +283,56 @@
       "category": "Military"
     },
     {
-      "title": "La OEA insta a Venezuela a nombrar representante para retomar su participación en el organismo",
+      "title": "Magallanes y La Guaira jugarán en Miami por los afectados por los terremotos",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/oea-insta-a-venezuela-a-nombrar-un-representante-para-retomar-su-participacion-formal-en-el-organismo/",
-      "published_date": "2026-09-10T19:53:39Z",
-      "category": "Military"
-    },
-    {
-      "title": "Juez ordena a De la Espriella ocultar de las redes sociales videos junto a cadáveres",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/juez-ordena-a-de-la-espriella-ocultar-de-las-redes-sociales-videos-junto-a-cadaveres/",
-      "published_date": "2026-09-10T19:00:52Z",
-      "category": "Military"
-    },
-    {
-      "title": "The first oral trial for the crime of Ronald Ojeda begins in Chile: Prosecutor's Office asks for 20 years for Maickel Villegas",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/comienza-el-primer-juicio-oral-por-el-crimen-de-ronald-ojeda-en-chile-fiscalia-pide-20-anos-para-maickel-villegas/",
-      "published_date": "2026-09-10T18:16:22Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cicpc dungeons operate as a network of parallel prisons, indicates OVP report",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/calabozos-del-cicpc-operan-como-una-red-de-carceles-paralelas-senala-informe-del-ovp/",
-      "published_date": "2026-09-10T17:20:50Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Cicpc dungeons operate as parallel prisons, according to the OVP",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/los-calabozos-del-cicpc-operan-como-carceles-paralelas-segun-el-ovp/",
-      "published_date": "2026-09-10T17:20:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "The Cicpc dungeons operate as parallel prisons, according to the OVP",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/los-calabozos-del-cicpc-operan-como-carceles-paralelas-segun-el-ovp/",
-      "published_date": "2026-09-10T17:20:13Z",
-      "category": "Military"
-    },
-    {
-      "title": "August was the warmest month in history",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/agosto-fue-el-mes-mas-calido-de-la-historia/",
-      "published_date": "2026-09-10T13:08:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "August was the warmest month in history",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/agosto-fue-el-mes-mas-calido-de-la-historia/",
-      "published_date": "2026-09-10T13:08:10Z",
-      "category": "Military"
-    },
-    {
-      "title": "Marco Rubio: El ELN y disidentes de las FARC operan impunemente en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/marco-rubio-el-eln-y-disidentes-de-las-farc-operan-impunemente-en-venezuela/",
-      "published_date": "2026-09-10T13:06:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Marco Rubio: The ELN and FARC dissidents operate with impunity in Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/marco-rubio-el-eln-y-disidentes-de-las-farc-operan-impunemente-en-venezuela/",
-      "published_date": "2026-09-10T13:06:14Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cilia Flores requests house arrest in New York for heart problems",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/cilia-flores-solicita-prision-domiciliar-en-nueva-york-alegando-problemas-cardiacos/",
-      "published_date": "2026-09-10T09:46:36Z",
-      "category": "Military"
-    },
-    {
-      "title": "Caso Ronald Ojeda: Fiscalía chilena solicita 20 años de prisión para el acusado del secuestro y homicidio del teniente venezolano",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/caso-ronald-ojeda-fiscalia-chilena-solicita-20-anos-de-prision-para-el-acusado-del-secuestro-y-homicidio-del-exmilitar-venezolano/",
-      "published_date": "2026-09-10T22:29:54Z",
+      "url": "https://www.elnacional.com/2026/09/magallanes-y-la-guaira-jugaran-en-miami-por-los-afectados-por-los-terremotos/",
+      "published_date": "2026-09-11T13:12:28Z",
       "category": "Energy"
     },
     {
-      "title": "Producción de petróleo de Venezuela alcanzó 1,2 millones de barriles diarios en agosto, según la OPEP",
+      "title": "Magallanes and La Guaira will play in Miami for those affected by the earthquakes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/magallanes-y-la-guaira-jugaran-en-miami-por-los-afectados-por-los-terremotos/",
+      "published_date": "2026-09-11T13:12:28Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Elon Musk threatened legal action over a documentary about his life",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/elon-musk-amenazo-con-acciones-legales-por-un-documental-sobre-su-vida/",
+      "published_date": "2026-09-11T05:50:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Elon Musk threatened legal action over a documentary about his life",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/elon-musk-amenazo-con-acciones-legales-por-un-documental-sobre-su-vida/",
+      "published_date": "2026-09-11T05:50:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "La Conversa con la Luz | Monaldi: “Acuerdos no tienen impacto a corto plazo en precio del petróleo”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/619655/la-conversa-con-la-luz-monaldi-acuerdos-no-tienen-impacto-a-corto-plazo-en-precio-del-petroleo/",
+      "published_date": "2026-09-10T22:51:29Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Venezuelan oil production reached 1.2 million barrels per day in August, according to OPEC",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/produccion-de-petroleo-de-venezuela-alcanzo-12-millones-de-barriles-diarios-en-agosto-segun-la-opep/",
       "published_date": "2026-09-10T18:27:07Z",
       "category": "Energy"
     },
     {
-      "title": "Bloomberg: Alejandro Betancourt's oil company plans to increase its production in Venezuela by 150% by 2028",
+      "title": "Venezuelan oil production reached 1.2 million barrels per day in August, according to OPEC",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/produccion-de-petroleo-de-venezuela-alcanzo-12-millones-de-barriles-diarios-en-agosto-segun-la-opep/",
+      "published_date": "2026-09-10T18:27:07Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Bloomberg: Petrolera de Alejandro Betancourt prevé elevar 150 % su producción en Venezuela para 2028",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/economia/bloomberg-petrolera-de-alejandro-betancourt-preve-elevar-150-su-produccion-en-venezuela-para-2028/",
       "published_date": "2026-09-10T17:16:05Z",
@@ -311,7 +346,7 @@
       "category": "Energy"
     },
     {
-      "title": "José Altuve agranda su leyenda y se une a clubes elitescos en MLB",
+      "title": "José Altuve expands his legend and joins elite clubs in MLB",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/jose-altuve-agranda-su-leyenda-y-se-une-a-clubes-elitescos-en-mlb/",
       "published_date": "2026-09-10T17:02:29Z",
@@ -325,9 +360,23 @@
       "category": "Energy"
     },
     {
-      "title": "Trump: Acuerdo con Venezuela aportará a EE UU reservas petroleras para 500 años",
+      "title": "Apple doubles its technological bet, but is not saved from memes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/apple-dobla-su-apuesta-pero-no-se-salva-de-memes-y-burlas/",
+      "published_date": "2026-09-10T16:33:51Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump: Agreement with Venezuela will provide the US with oil reserves for 500 years",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/trump-acuerdo-con-venezuela-aportara-a-ee-uu-reservas-petroleras-para-500-anos/",
+      "published_date": "2026-09-10T16:08:52Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trump: Agreement with Venezuela will provide the US with oil reserves for 500 years",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/trump-acuerdo-con-venezuela-aportara-a-ee-uu-reservas-petroleras-para-500-anos/",
       "published_date": "2026-09-10T16:08:52Z",
       "category": "Energy"
     },
@@ -335,6 +384,13 @@
       "title": "The US seeks greater access to minerals from Venezuela after oil agreements",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/09/reuters-ee-uu-busca-mayor-acceso-a-minerales-de-venezuela-tras-acuerdos-petroleros/",
+      "published_date": "2026-09-10T15:37:57Z",
+      "category": "Energy"
+    },
+    {
+      "title": "The US seeks greater access to minerals from Venezuela after oil agreements",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/reuters-ee-uu-busca-mayor-acceso-a-minerales-de-venezuela-tras-acuerdos-petroleros/",
       "published_date": "2026-09-10T15:37:57Z",
       "category": "Energy"
     },
@@ -367,60 +423,25 @@
       "category": "Energy"
     },
     {
-      "title": "Festival of downturns ended in a blackout in the west of the country: users protest for solutions",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-andes/festival-de-bajones-termino-en-apagon-en-el-occidente-del-pais-usuarios-protestan-por-soluciones/",
-      "published_date": "2026-09-09T22:29:36Z",
-      "category": "Energy"
+      "title": "Trump mueve el tablero energético de América Latina",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/619668/trump-mueve-el-tablero-energetico-de-america-latina/",
+      "published_date": "2026-09-11T14:45:26Z",
+      "category": "Economy"
     },
     {
-      "title": "Trump says war with Iran will end \"immediately after\" November elections",
+      "title": "The Creole pavilion goes to the semifinals of the Food World Cup",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/donald-trump-afirma-que-la-guerra-con-iran-concluira-inmediatamente-despues-de-las-elecciones-legislativas-de-noviembre/",
-      "published_date": "2026-09-09T21:21:11Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/09/el-pabellon-criollo-pasa-a-semifinales-del-mundial-de-comidas/",
+      "published_date": "2026-09-11T05:07:00Z",
+      "category": "Economy"
     },
     {
-      "title": "Trump says war with Iran will end \"immediately after\" November elections",
+      "title": "The Creole pavilion goes to the semifinals of the Food World Cup",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/donald-trump-afirma-que-la-guerra-con-iran-concluira-inmediatamente-despues-de-las-elecciones-legislativas-de-noviembre/",
-      "published_date": "2026-09-09T21:21:11Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Portuguese | Mother recounts the drama of her triplets during the blackouts: \"It's ugly to see the three crying\"",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/portuguesa-madre-relata-el-drama-de-sus-trillizas-durante-los-apagones-es-feo-ver-a-las-tres-llorar/",
-      "published_date": "2026-09-09T18:35:30Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Lara | Citizens demand to know an action plan to solve the electrical crisis: this is torture",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/protesta-deficit-electrico-defensoria-pueblo-lara/",
-      "published_date": "2026-09-09T17:37:48Z",
-      "category": "Energy"
-    },
-    {
-      "title": "The Objective: El Aissami's family settles in Madrid while the PDVSA-Cripto case trial takes place",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/the-objetive-familia-de-el-aissami-se-instala-en-madrid-mientras-se-desarrolla-el-juicio-por-caso-pdvsa-cripto/",
-      "published_date": "2026-09-09T16:13:19Z",
-      "category": "Energy"
-    },
-    {
-      "title": "GeoPark plans to invest $6.8 billion in the Bare field in Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/geopark-contempla-invertir-6-800-millones-en-yacimiento-bare/",
-      "published_date": "2026-09-09T16:07:33Z",
-      "category": "Energy"
-    },
-    {
-      "title": "GeoPark plans to invest $6.8 billion in the Bare field in Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/geopark-contempla-invertir-6-800-millones-en-yacimiento-bare/",
-      "published_date": "2026-09-09T16:07:33Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-pabellon-criollo-pasa-a-semifinales-del-mundial-de-comidas/",
+      "published_date": "2026-09-11T05:07:00Z",
+      "category": "Economy"
     },
     {
       "title": "Academy of Economic Sciences warns about the risks of replacing the bolivar with the dollar in Venezuela",
@@ -451,20 +472,6 @@
       "category": "Economy"
     },
     {
-      "title": "Trump: Acuerdo con Venezuela aportará a EE UU reservas petroleras para 500 años",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/trump-acuerdo-con-venezuela-aportara-a-ee-uu-reservas-petroleras-para-500-anos/",
-      "published_date": "2026-09-10T16:08:52Z",
-      "category": "Economy"
-    },
-    {
-      "title": "EE UU busca mayor acceso a minerales de Venezuela tras acuerdos petroleros",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/reuters-ee-uu-busca-mayor-acceso-a-minerales-de-venezuela-tras-acuerdos-petroleros/",
-      "published_date": "2026-09-10T15:37:57Z",
-      "category": "Economy"
-    },
-    {
       "title": "They plan to recover “part” of the Maiquetía airport in the first half of 2027",
       "source": "Efecto Cocuyo",
       "url": "https://efectococuyo.com/politica/preven-recuperar-parte-del-aeropuerto-de-maiquetia-la-primera-mitad-de-2027/",
@@ -479,7 +486,7 @@
       "category": "Economy"
     },
     {
-      "title": "Oposición venezolana podría perder el control de Citgo",
+      "title": "Venezuelan opposition could lose control of Citgo",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/oposicion-venezolana-podria-perder-el-control-de-citgo/",
       "published_date": "2026-09-10T13:01:32Z",
@@ -504,13 +511,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/opinion/619580/politica-y-petroleo/",
       "published_date": "2026-09-10T00:02:41Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Consecomercio apuesta por una economía bimonetaria: «El modelo peruano ha construido una ruta de confianza»",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/consecomercio-apuesta-por-una-economia-bimonetaria-el-modelo-peruano-ha-construido-una-ruta-de-confianza/",
-      "published_date": "2026-09-09T23:57:53Z",
       "category": "Economy"
     },
     {
@@ -549,6 +549,13 @@
       "category": "Economy"
     },
     {
+      "title": "Economista José Guerra: el acuerdo petrolero no favorece a Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/economista-jose-guerra-el-acuerdo-petrolero-no-favorece-a-venezuela/",
+      "published_date": "2026-09-09T14:42:17Z",
+      "category": "Economy"
+    },
+    {
       "title": "Price of a barrel of Brent reached 100 dollars due to the escalation in the Middle East",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/precio-del-barril-de-brent-alcanzo-los-100-dolares-por-la-escalada-en-medio-oriente/",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Price of a barrel of Brent reached 100 dollars due to the escalation in the Middle East",
+      "title": "25 years since 9/11: who was the architect of the attacks who is still detained in Guantánamo and 5 other basic questions",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/precio-del-barril-de-brent-alcanzo-los-100-dolares-por-la-escalada-en-medio-oriente/",
-      "published_date": "2026-09-09T10:36:00Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ministry of Transportation announces partial closure of the Pan-American Highway for rehabilitation work this September 10",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ministerio-de-transporte-anuncia-cierre-parcial-de-la-carretera-panamericana-por-labores-de-rehabilitacion-este-10-de-septiembre/",
-      "published_date": "2026-09-11T00:48:15Z",
+      "url": "https://www.elnacional.com/2026/09/25-anos-del-11-s-quien-fue-el-arquitecto-de-los-ataques-que-sigue-detenido-en-guantanamo-y-otras-5-preguntas-basicas/",
+      "published_date": "2026-09-11T14:48:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Ministry of Transportation announces partial closure of the Pan-American Highway for rehabilitation work this September 10",
+      "title": "Murió la princesa Astrid de Noruega",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ministerio-de-transporte-anuncia-cierre-parcial-de-la-carretera-panamericana-por-labores-de-rehabilitacion-este-10-de-septiembre/",
-      "published_date": "2026-09-11T00:48:15Z",
+      "url": "https://www.elnacional.com/2026/09/murio-la-princesa-astrid-de-noruega/",
+      "published_date": "2026-09-11T14:36:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Two dead and 35 students affected after school bus accident in Sucre, Colombia",
+      "title": "Princess Astrid of Norway dies",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/dos-muertos-y-35-estudiantes-afectados-tras-accidente-de-autobus-escolar-en-sucre-colombia/",
-      "published_date": "2026-09-11T00:19:49Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/murio-la-princesa-astrid-de-noruega/",
+      "published_date": "2026-09-11T14:36:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Dos muertos y 35 estudiantes afectados tras accidente de autobús escolar en Sucre, Colombia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/dos-muertos-y-35-estudiantes-afectados-tras-accidente-de-autobus-escolar-en-sucre-colombia/",
-      "published_date": "2026-09-11T00:19:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is it legal for Trump to promise to give $5,000 to every American if the Republicans win the November elections?",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/es-legal-que-trump-prometa-entregar-us5-000-a-cada-estadounidense-si-los-republicanos-ganan-las-elecciones-de-noviembre/",
-      "published_date": "2026-09-11T00:04:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Is it legal for Trump to promise to give $5,000 to every American if the Republicans win the November elections?",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/es-legal-que-trump-prometa-entregar-us5-000-a-cada-estadounidense-si-los-republicanos-ganan-las-elecciones-de-noviembre/",
-      "published_date": "2026-09-11T00:04:37Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "US judge orders Cilia Flores' medical history to be kept under seal",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/juez-de-ee-uu-ordena-mantener-bajo-sello-el-historial-medico-de-cilia-flores/",
-      "published_date": "2026-09-10T23:46:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Juez de EE UU ordena mantener bajo sello el historial médico de Cilia Flores",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/juez-de-ee-uu-ordena-mantener-bajo-sello-el-historial-medico-de-cilia-flores/",
-      "published_date": "2026-09-10T23:46:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miembros de la delegación opositora de la mesa de diálogo llegarán a Venezuela el próximo 15 de septiembre",
+      "title": "Trece medios y organizaciones venezolanas lanzan REMI, la Red Venezolana de Medios Independientes",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/miembros-de-la-delegacion-opositora-de-la-mesa-de-dialogo-llegaran-a-venezuela-el-proximo-15-de-septiembre/",
-      "published_date": "2026-09-10T23:33:03Z",
+      "url": "https://elpitazo.net/zzdestacado_2/trece-medios-y-organizaciones-venezolanas-lanzan-remi-la-red-venezolana-de-medios-independientes/",
+      "published_date": "2026-09-11T14:32:14Z",
       "category": "Local Events"
     },
     {
-      "title": "Danny Socorro: the social fabric is fractured by mistrust",
+      "title": "Mayor of Doral: \"ICE raids generate fear in families\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/alcaldesa-de-doral-redadas-de-ice-generan-temor-en-las-familias/",
+      "published_date": "2026-09-11T14:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Mayor of Doral: \"ICE raids generate fear in families\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/alcaldesa-de-doral-redadas-de-ice-generan-temor-en-las-familias/",
+      "published_date": "2026-09-11T14:24:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Dinorah Figuera recognizes that “a sector” of the population demands elections now, but asks for time",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/dinorah-figuera-reconoce-que-un-sector-de-la-poblacion-exige-elecciones-ya-pero-pide-tiempo/",
+      "published_date": "2026-09-11T14:21:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York commemorates 9/11 without Donald Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/nueva-york-conmemora-el-11-de-septiembre-sin-donald-trump/",
+      "published_date": "2026-09-11T14:02:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "New York commemorates 9/11 without Donald Trump",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/nueva-york-conmemora-el-11-de-septiembre-sin-donald-trump/",
+      "published_date": "2026-09-11T14:02:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trece medios y organizaciones venezolanas lanzan REMI, la Red Venezolana de Medios Independientes",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/619657/danny-socorro-el-tejido-social-esta-fracturado-por-la-desconfianza/",
-      "published_date": "2026-09-10T23:08:11Z",
+      "url": "https://runrun.es/noticias/619664/doce-medios-y-organizaciones-venezolanas-lanzan-remi-la-red-venezolana-de-medios-independientes/",
+      "published_date": "2026-09-11T14:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Mayor Gustavo Duque supervised progress of repairs in buildings affected by the earthquakes in Los Palos Grandes",
+      "title": "AI is increasingly difficult to master: can humans maintain control?",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/alcalde-gustavo-duque-superviso-avances-de-reparaciones-en-edificios-afectados-por-los-terremotos-en-los-palos-grandes/",
-      "published_date": "2026-09-10T23:07:51Z",
+      "url": "https://www.elnacional.com/2026/09/la-ia-es-cada-vez-mas-dificil-de-dominar/",
+      "published_date": "2026-09-11T13:47:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Alcalde Gustavo Duque supervisó avances de reparaciones en edificios afectados por los terremotos en Los Palos Grandes",
+      "title": "AI is increasingly difficult to master: can humans maintain control?",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/alcalde-gustavo-duque-superviso-avances-de-reparaciones-en-edificios-afectados-por-los-terremotos-en-los-palos-grandes/",
-      "published_date": "2026-09-10T23:07:51Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/la-ia-es-cada-vez-mas-dificil-de-dominar/",
+      "published_date": "2026-09-11T13:47:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezuelan Gleiker Mendoza makes history by scoring his first goal in the Champions League",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/gleiker-mendoza-hace-historia-marcando-su-primer-gol-en-la-champions-league/",
-      "published_date": "2026-09-10T23:07:49Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Sanoja consolidates his impact in Miami thanks to his discipline at the plate",
+      "title": "Minister Sanjuán proposes to modernize the University Law",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/javier-sanoja-consolida-su-impacto-en-miami-gracias-a-su-disciplina-en-el-plato/",
-      "published_date": "2026-09-10T23:04:45Z",
+      "url": "https://www.elnacional.com/2026/09/ministra-sanjuan-propone-modernizar-la-ley-de-universidades/",
+      "published_date": "2026-09-11T13:34:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Javier Sanoja consolidates his impact in Miami thanks to his discipline at the plate",
+      "title": "Minister Sanjuán proposes to modernize the University Law",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/javier-sanoja-consolida-su-impacto-en-miami-gracias-a-su-disciplina-en-el-plato/",
-      "published_date": "2026-09-10T23:04:45Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/ministra-sanjuan-propone-modernizar-la-ley-de-universidades/",
+      "published_date": "2026-09-11T13:34:29Z",
       "category": "Local Events"
     },
     {
-      "title": "They enable the Single Housing Registry to serve those affected by the earthquakes",
+      "title": "OpenAI studies slowing down AI development",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/habilitan-registro-unico-de-vivienda-para-atender-a-los-afectados-por-los-terremotos/",
-      "published_date": "2026-09-10T22:51:55Z",
+      "url": "https://www.elnacional.com/2026/09/openai-estudia-ralentizar-el-desarrollo-de-la-ia/",
+      "published_date": "2026-09-11T13:31:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Habilitan Registro Único de Vivienda para atender a los afectados por los terremotos",
+      "title": "OpenAI studies slowing down AI development",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/habilitan-registro-unico-de-vivienda-para-atender-a-los-afectados-por-los-terremotos/",
-      "published_date": "2026-09-10T22:51:55Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/openai-estudia-ralentizar-el-desarrollo-de-la-ia/",
+      "published_date": "2026-09-11T13:31:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Bravos de Margarita reveals its import for 2026-2027",
+      "title": "Instagram claims that the chronological feed worsens the user experience",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/bravos-de-margarita-revela-su-importacion-para-la-2026-2027/",
-      "published_date": "2026-09-10T21:52:04Z",
+      "url": "https://www.elnacional.com/2026/09/instagram-asegura-que-el-feed-cronologico-empeora-la-experiencia/",
+      "published_date": "2026-09-11T13:21:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Bravos de Margarita revela su importación para la 2026-2027",
+      "title": "Instagram claims that the chronological feed worsens the user experience",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/bravos-de-margarita-revela-su-importacion-para-la-2026-2027/",
-      "published_date": "2026-09-10T21:52:04Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/instagram-asegura-que-el-feed-cronologico-empeora-la-experiencia/",
+      "published_date": "2026-09-11T13:21:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Bayern Munich and Manchester United close the first day of the Champions League by winning",
+      "title": "Para FVM no hay condiciones para iniciar el año escolar",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/619717/para-fvm-no-hay-condiciones-para-iniciar-el-ano-escolar/",
+      "published_date": "2026-09-11T13:00:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fundación Empresas Polar finances the recovery of three Fe y Alegría schools in Caracas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/bayern-munich-y-manchester-united-cierran-ganando-la-primera-jornada-de-la-champions-league/",
-      "published_date": "2026-09-10T21:51:01Z",
+      "url": "https://www.elnacional.com/2026/09/fundacion-empresas-polar-financia-la-recuperacion-de-tres-planteles-de-fe-y-alegria-en-caracas/",
+      "published_date": "2026-09-11T12:58:34Z",
       "category": "Local Events"
     }
   ]
