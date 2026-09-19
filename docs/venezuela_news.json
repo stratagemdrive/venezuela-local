@@ -1,7 +1,91 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-19T01:07:42Z",
+  "last_updated": "2026-09-19T14:16:42Z",
   "stories": [
+    {
+      "title": "Gobierno registró un pico de consumo eléctrico y pidió a los ciudadanos racionar la energía",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/gobierno-nacional-registro-pico-de-consumo-electrico-en-el-pais-y-pide-a-los-venezolanos-reducir-el-uso-de-la-electricidad/",
+      "published_date": "2026-09-19T14:12:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gobierno registró un pico de consumo eléctrico y pidió a los ciudadanos racionar la energía",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/gobierno-nacional-registro-pico-de-consumo-electrico-en-el-pais-y-pide-a-los-venezolanos-reducir-el-uso-de-la-electricidad/",
+      "published_date": "2026-09-19T14:12:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "España desea la presencia de Delcy Rodríguez en la Cumbre Iberoamericana pese a sanciones de la UE",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/espana-desea-la-participacion-de-delcy-rodriguez-en-la-cumbre-iberoamericana-pese-a-sanciones-de-la-ue/",
+      "published_date": "2026-09-19T13:06:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "España desea la presencia de Delcy Rodríguez en la Cumbre Iberoamericana pese a sanciones de la UE",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/espana-desea-la-participacion-de-delcy-rodriguez-en-la-cumbre-iberoamericana-pese-a-sanciones-de-la-ue/",
+      "published_date": "2026-09-19T13:06:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vaselina resiste y afianza el teatro musical en Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/vaselina-resiste-y-afianza-el-teatro-musical-en-venezuela/",
+      "published_date": "2026-09-19T12:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Vaselina resiste y afianza el teatro musical en Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/vaselina-resiste-y-afianza-el-teatro-musical-en-venezuela/",
+      "published_date": "2026-09-19T12:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fabricar en el espacio: la industria que busca convertir la ciencia en un nuevo negocio",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/fabricar-en-el-espacio-la-industria-que-busca-convertir-la-ciencia-en-un-nuevo-negocio/",
+      "published_date": "2026-09-19T11:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fabricar en el espacio: la industria que busca convertir la ciencia en un nuevo negocio",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/fabricar-en-el-espacio-la-industria-que-busca-convertir-la-ciencia-en-un-nuevo-negocio/",
+      "published_date": "2026-09-19T11:31:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La crisis de Ceuta pone a prueba a Sánchez de cara a las elecciones de 2027",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/la-crisis-de-ceuta-pone-a-prueba-a-sanchez-de-cara-a-las-elecciones-de-2027/",
+      "published_date": "2026-09-19T11:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La crisis de Ceuta pone a prueba a Sánchez de cara a las elecciones de 2027",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/la-crisis-de-ceuta-pone-a-prueba-a-sanchez-de-cara-a-las-elecciones-de-2027/",
+      "published_date": "2026-09-19T11:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE.UU. y Dinamarca anuncian un acuerdo por el que Washington asumirá el \"control permanente de la seguridad\" de Groenlandia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/ee-uu-y-dinamarca-anuncian-un-acuerdo-por-el-que-washington-asumira-el-control-permanente-de-la-seguridad-de-groenlandia/",
+      "published_date": "2026-09-19T11:09:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE.UU. y Dinamarca anuncian un acuerdo por el que Washington asumirá el \"control permanente de la seguridad\" de Groenlandia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/ee-uu-y-dinamarca-anuncian-un-acuerdo-por-el-que-washington-asumira-el-control-permanente-de-la-seguridad-de-groenlandia/",
+      "published_date": "2026-09-19T11:09:02Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Un tribunal de apelaciones rechaza la política de deportación a terceros países de Trump",
       "source": "El Nacional",
@@ -59,88 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Cuba sufre un nuevo apagón nacional en medio del deterioro del sistema eléctrico",
+      "title": "Delcy Rodríguez, Trump, Putin y Xi, sorpresas y ausencias de la Asamblea General de la ONU",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/cuba-sufre-un-nuevo-apagon-nacional-en-medio-del-deterioro-del-sistema-electrico/",
-      "published_date": "2026-09-18T23:24:17Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-trump-putin-y-xi-sorpresas-y-ausencias-de-la-asamblea-general-de-la-onu/",
+      "published_date": "2026-09-19T13:29:02Z",
+      "category": "Military"
     },
     {
-      "title": "Cuba sufre un nuevo apagón nacional en medio del deterioro del sistema eléctrico",
+      "title": "Delcy Rodríguez, Trump, Putin y Xi, sorpresas y ausencias de la Asamblea General de la ONU",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/cuba-sufre-un-nuevo-apagon-nacional-en-medio-del-deterioro-del-sistema-electrico/",
-      "published_date": "2026-09-18T23:24:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Países en la ONU reconocen avances en Venezuela, pero reclaman reformas para una transición democrática",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/paises-en-la-onu-reconocen-avances-en-venezuela-pero-reclaman-reformas-para-una-transicion-democratica/",
-      "published_date": "2026-09-18T23:04:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Países en la ONU reconocen avances en Venezuela, pero reclaman reformas para una transición democrática",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/paises-en-la-onu-reconocen-avances-en-venezuela-pero-reclaman-reformas-para-una-transicion-democratica/",
-      "published_date": "2026-09-18T23:04:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Casi 300 efectivos combaten un incendio forestal en el norte de Portugal ante la amenaza de una ola de calor tardía",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/casi-300-efectivos-combaten-un-incendio-forestal-en-el-norte-de-portugal-ante-la-amenaza-de-una-ola-de-calor-tardia/",
-      "published_date": "2026-09-18T22:43:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Casi 300 efectivos combaten un incendio forestal en el norte de Portugal ante la amenaza de una ola de calor tardía",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/casi-300-efectivos-combaten-un-incendio-forestal-en-el-norte-de-portugal-ante-la-amenaza-de-una-ola-de-calor-tardia/",
-      "published_date": "2026-09-18T22:43:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump se reunirá con Delcy Rodríguez el martes en Nueva York, confirma la Casa Blanca",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/trump-se-reunira-con-delcy-rodriguez-el-martes-en-nueva-york-confirma-la-casa-blanca/",
-      "published_date": "2026-09-18T22:32:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump se reunirá con Delcy Rodríguez el martes en Nueva York, confirma la Casa Blanca",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/trump-se-reunira-con-delcy-rodriguez-el-martes-en-nueva-york-confirma-la-casa-blanca/",
-      "published_date": "2026-09-18T22:32:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Billingslea pide fijar un calendario electoral para Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/billingslea-pide-fijar-un-calendario-electoral-para-venezuela/",
-      "published_date": "2026-09-18T21:12:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Billingslea pide fijar un calendario electoral para Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/billingslea-pide-fijar-un-calendario-electoral-para-venezuela/",
-      "published_date": "2026-09-18T21:12:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Todos contra el reloj de arena",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/620432/transicion-venezolana-4/",
-      "published_date": "2026-09-18T19:37:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tres clubes brasileños y un argentino conforman las semifinales de la Copa Libertadores",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/tres-clubes-brasilenos-y-un-argentino-conforman-las-semifinales-de-la-copa-libertadores/",
-      "published_date": "2026-09-18T19:36:03Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/delcy-rodriguez-trump-putin-y-xi-sorpresas-y-ausencias-de-la-asamblea-general-de-la-onu/",
+      "published_date": "2026-09-19T13:29:02Z",
+      "category": "Military"
     },
     {
       "title": "Casa Blanca confirma reunión entre Donald Trump y Delcy Rodríguez",
@@ -269,18 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "La Reserva Federal de EE.UU. desafía a Trump y aumenta las tasas de interés por primera vez en 3 años: ¿qué consecuencias tendrá la medida?",
+      "title": "Groenlandia destaca que acuerdo con EE UU preserva integridad territorial y soberanía",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/la-reserva-federal-de-ee-uu-desafia-a-trump-y-aumenta-las-tasas-de-interes-por-primera-vez-en-3-anos-que-consecuencias-tendra-la-medida/",
-      "published_date": "2026-09-17T13:29:28Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/09/groenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberaniagroenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberania/",
+      "published_date": "2026-09-19T12:51:04Z",
+      "category": "Energy"
     },
     {
-      "title": "Keiko Fujimori hará su primer viaje internacional como presidenta de Perú para participar en la Asamblea General de la ONU",
+      "title": "Groenlandia destaca que acuerdo con EE UU preserva integridad territorial y soberanía",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/keiko-fujimori-hara-su-primer-viaje-internacional-como-presidenta-de-peru-ante-la-asamblea-general-de-la-onu/",
-      "published_date": "2026-09-16T23:29:18Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/09/groenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberaniagroenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberania/",
+      "published_date": "2026-09-19T12:51:04Z",
+      "category": "Energy"
     },
     {
       "title": "Tigres y Caribes blindan sus piezas para la nueva temporada de la LVBP",
@@ -409,18 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "EE. UU. retira a Venezuela de lista de países que han fallado en compromisos antidrogas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ee-uu-retira-a-venezuela-de-lista-de-paises-que-han-fallado-en-compromisos-antidrogas/",
-      "published_date": "2026-09-16T17:02:06Z",
-      "category": "Energy"
+      "title": "Fiscalía abordó con HRW la situación de los derechos humanos en el país",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/__trashed-7/",
+      "published_date": "2026-09-19T11:34:54Z",
+      "category": "Economy"
     },
     {
-      "title": "Trump saca a Venezuela de lista de países que incumplen en la lucha contra el narcotráfico",
+      "title": "Fiscalía abordó con HRW la situación de los derechos humanos en el país",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/trump-saca-a-venezuela-de-lista-de-paises-que-incumplen-en-lucha-contra-el-narcotrafico/",
-      "published_date": "2026-09-16T17:01:06Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/__trashed-7/",
+      "published_date": "2026-09-19T11:34:54Z",
+      "category": "Economy"
     },
     {
       "title": "Detienen en Apure a hombre acusado de acosar a una menor de 11 años",
@@ -549,18 +563,116 @@
       "category": "Economy"
     },
     {
-      "title": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
+      "title": "Espacio Público: La censura se intensifica para algunos medios pese a anuncio de desbloqueo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/por-que-las-principales-petroleras-de-ee-uu-no-participan-en-el-mayor-acuerdo-de-la-historia-firmado-por-los-gobiernos-de-trump-y-delcy-rodriguez/",
-      "published_date": "2026-09-16T00:59:27Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/09/espacio-publico-alerta-sobre-intensificacion-de-censura-para-algunos-medios-tras-desbloqueo-anunciado-por-el-gobierno/",
+      "published_date": "2026-09-19T13:51:32Z",
+      "category": "Local Events"
     },
     {
-      "title": "Por qué las principales petroleras de EE.UU. no participan en el \"mayor acuerdo de la historia\" firmado por los gobiernos de Trump y Delcy Rodríguez",
+      "title": "Espacio Público: La censura se intensifica para algunos medios pese a anuncio de desbloqueo",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/por-que-las-principales-petroleras-de-ee-uu-no-participan-en-el-mayor-acuerdo-de-la-historia-firmado-por-los-gobiernos-de-trump-y-delcy-rodriguez/",
-      "published_date": "2026-09-16T00:59:27Z",
-      "category": "Economy"
+      "url": "https://bitlysdowssl-aws.com/2026/09/espacio-publico-alerta-sobre-intensificacion-de-censura-para-algunos-medios-tras-desbloqueo-anunciado-por-el-gobierno/",
+      "published_date": "2026-09-19T13:51:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vecinos celebraron llegada de agua por tubería tras seis meses sin suministro en la isla de Margarita",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/vecinos-celebraron-llegada-de-agua-por-tuberia-tras-mas-de-cinco-anos-sin-suministro-en-la-isla-de-margarita/",
+      "published_date": "2026-09-19T12:22:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Vecinos celebraron llegada de agua por tubería tras seis meses sin suministro en la isla de Margarita",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/vecinos-celebraron-llegada-de-agua-por-tuberia-tras-mas-de-cinco-anos-sin-suministro-en-la-isla-de-margarita/",
+      "published_date": "2026-09-19T12:22:31Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ed Sheeran regresa a los escenarios en medio de la polémica sobre los palestinos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/ed-sheeran-regresa-a-los-escenarios-en-medio-de-la-polemica-sobre-los-palestinos/",
+      "published_date": "2026-09-19T12:20:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Ed Sheeran regresa a los escenarios en medio de la polémica sobre los palestinos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/ed-sheeran-regresa-a-los-escenarios-en-medio-de-la-polemica-sobre-los-palestinos/",
+      "published_date": "2026-09-19T12:20:39Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Chavismo y oposición instalan mesa técnica sobre libertad de expresión como parte de segunda ronda de diálogo",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/chavismo-y-oposicion-instalan-mesa-tecnica-sobre-libertad-de-expresion-como-parte-de-segunda-ronda-de-dialogo/",
+      "published_date": "2026-09-19T12:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jorge Martín logra la pole position en el Gran Premio de Austria ante Marc Márquez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/jorge-martin-logra-la-pole-position-en-el-gran-premio-de-austria-ante-marc-marquez/",
+      "published_date": "2026-09-19T11:51:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jorge Martín logra la pole position en el Gran Premio de Austria ante Marc Márquez",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/jorge-martin-logra-la-pole-position-en-el-gran-premio-de-austria-ante-marc-marquez/",
+      "published_date": "2026-09-19T11:51:24Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Falleció Sandro Mazzola, antigua gloria del Inter de Milán",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/fallecio-sandro-mazzola-antigua-gloria-del-inter-de-milan/",
+      "published_date": "2026-09-19T11:42:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Falleció Sandro Mazzola, antigua gloria del Inter de Milán",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/fallecio-sandro-mazzola-antigua-gloria-del-inter-de-milan/",
+      "published_date": "2026-09-19T11:42:54Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela consolida el cuarto lugar en los Juegos Suramericanos de Santa Fe 2026",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/venezuela-consolida-el-cuarto-lugar-en-los-juegos-suramericanos-de-santa-fe-2026/",
+      "published_date": "2026-09-19T11:08:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela consolida el cuarto lugar en los Juegos Suramericanos de Santa Fe 2026",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/venezuela-consolida-el-cuarto-lugar-en-los-juegos-suramericanos-de-santa-fe-2026/",
+      "published_date": "2026-09-19T11:08:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos III desmiente a Charles Spencer por libro sobre Diana de Gales",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/carlos-iii-desmiente-a-charles-spencer-por-libro-sobre-diana-de-gales/",
+      "published_date": "2026-09-19T10:55:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos III desmiente a Charles Spencer por libro sobre Diana de Gales",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/carlos-iii-desmiente-a-charles-spencer-por-libro-sobre-diana-de-gales/",
+      "published_date": "2026-09-19T10:55:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Justicia y madurez",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/620448/justicia-venezuela/",
+      "published_date": "2026-09-19T01:16:12Z",
+      "category": "Local Events"
     },
     {
       "title": "Funvisis contabilizó 94 movimientos sísmicos en el territorio nacional durante la última semana",
@@ -588,118 +700,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/09/donald-trump-veta-de-la-casa-blanca-a-cnn-msnow-y-politico-tras-acusarlos-de-difundir-noticias-falsas/",
       "published_date": "2026-09-18T23:52:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez figura en lista provisional de oradores de la ONU para representar a Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-figura-en-lista-provisional-de-oradores-de-la-onu-para-representar-a-venezuela/",
-      "published_date": "2026-09-18T23:26:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez figura en lista provisional de oradores de la ONU para representar a Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/delcy-rodriguez-figura-en-lista-provisional-de-oradores-de-la-onu-para-representar-a-venezuela/",
-      "published_date": "2026-09-18T23:26:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump cuestiona a María Elvira Salazar tras críticas a su política migratoria",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/trump-cuestiona-a-maria-elvira-salazar-tras-criticas-a-su-politica-migratoria/",
-      "published_date": "2026-09-18T23:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump cuestiona a María Elvira Salazar tras críticas a su política migratoria",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/trump-cuestiona-a-maria-elvira-salazar-tras-criticas-a-su-politica-migratoria/",
-      "published_date": "2026-09-18T23:00:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las atletas criollas lideran una jornada brillante para Venezuela en los Suramericanos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/las-atletas-criollas-lideran-una-jornada-brillante-para-venezuela-en-los-suramericanos/",
-      "published_date": "2026-09-18T22:48:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las atletas criollas lideran una jornada brillante para Venezuela en los Suramericanos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/las-atletas-criollas-lideran-una-jornada-brillante-para-venezuela-en-los-suramericanos/",
-      "published_date": "2026-09-18T22:48:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Chelsea de Xabi Alonso suma su tercer partido sin ganar en la Premier League",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-chelsea-de-xabi-alonso-suma-su-tercer-partido-sin-ganar-en-la-premier-league/",
-      "published_date": "2026-09-18T22:42:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Chelsea de Xabi Alonso suma su tercer partido sin ganar en la Premier League",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-chelsea-de-xabi-alonso-suma-su-tercer-partido-sin-ganar-en-la-premier-league/",
-      "published_date": "2026-09-18T22:42:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las selecciones se preparan para la jornada internacional de más de dos semanas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/las-selecciones-se-preparan-para-la-jornada-internacional-de-mas-de-dos-semanas/",
-      "published_date": "2026-09-18T22:41:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las selecciones se preparan para la jornada internacional de más de dos semanas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/las-selecciones-se-preparan-para-la-jornada-internacional-de-mas-de-dos-semanas/",
-      "published_date": "2026-09-18T22:41:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plataforma Unitaria denuncia persecución ante HRW y entrega lista actualizada de presos políticos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/plataforma-unitaria-denuncia-persecucion-ante-hrw-y-entrega-lista-actualizada-de-presos-politicos/",
-      "published_date": "2026-09-18T22:08:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Plataforma Unitaria denuncia persecución ante HRW y entrega lista actualizada de presos políticos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/plataforma-unitaria-denuncia-persecucion-ante-hrw-y-entrega-lista-actualizada-de-presos-politicos/",
-      "published_date": "2026-09-18T22:08:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ONG Fundehullan alerta sobre la imputación de cinco ciudadanos que protestaron por apagones en Barinas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/imputadas-5-personas-tras-protestar-por-fallas-electricas-en-venezuela/",
-      "published_date": "2026-09-18T22:02:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fundehullan denuncia la imputación de cinco ciudadanos en Barinas tras manifestarse por prolongados cortes eléctricos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/fundehullan-denuncia-la-imputacion-de-cinco-ciudadanos-en-barinas-tras-manifestarse-por-prolongados-cortes-electricos/",
-      "published_date": "2026-09-18T21:45:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fundehullan denuncia la imputación de cinco ciudadanos en Barinas tras manifestarse por prolongados cortes eléctricos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/fundehullan-denuncia-la-imputacion-de-cinco-ciudadanos-en-barinas-tras-manifestarse-por-prolongados-cortes-electricos/",
-      "published_date": "2026-09-18T21:45:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Javier Vidal lleva “El Padre” a la Concha Acústica de Bello Monte",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/javier-vidal-lleva-el-padre-a-la-concha-acustica-de-bello-monte/",
-      "published_date": "2026-09-18T21:28:22Z",
       "category": "Local Events"
     }
   ]
