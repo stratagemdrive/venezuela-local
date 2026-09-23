@@ -1,146 +1,160 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-22T15:31:41Z",
+  "last_updated": "2026-09-23T01:26:03Z",
   "stories": [
     {
-      "title": "ONU advierte que ataques de EEUU en el Caribe podrían ser crímenes de lesa humanidad",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/onu-advierte-que-ataques-de-eeuu-en-el-caribe-podrian-ser-crimenes-de-lesa-humanidad/",
-      "published_date": "2026-09-22T14:54:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez llega a la Asamblea General de la ONU previo a su reunión con Donald Trump",
+      "title": "Abelardo de la Espriella decreta la militarización de Santa Marta tras una ola de ataques y la amenaza de un paro armado narco",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-llega-a-la-asamblea-general-de-la-onu-previo-a-su-reunion-con-donald-trump/",
-      "published_date": "2026-09-22T14:51:45Z",
+      "url": "https://www.elnacional.com/2026/09/abelardo-de-la-espriella-decreta-la-militarizacion-de-santa-marta-tras-una-ola-de-ataques-y-la-amenaza-de-un-paro-armado-narco/",
+      "published_date": "2026-09-23T00:45:27Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez llega a la Asamblea General de la ONU previo a su reunión con Donald Trump",
+      "title": "Abelardo de la Espriella decreta la militarización de Santa Marta tras una ola de ataques y la amenaza de un paro armado narco",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/delcy-rodriguez-llega-a-la-asamblea-general-de-la-onu-previo-a-su-reunion-con-donald-trump/",
-      "published_date": "2026-09-22T14:51:45Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/abelardo-de-la-espriella-decreta-la-militarizacion-de-santa-marta-tras-una-ola-de-ataques-y-la-amenaza-de-un-paro-armado-narco/",
+      "published_date": "2026-09-23T00:45:27Z",
       "category": "Diplomacy"
     },
     {
-      "title": "María Corina Machado recibió premio de Liderazgo del Concordia Summit",
+      "title": "Víctor Alfonso Navarro relató ante la CorteIDH los abusos y torturas sufridos en El Helicoide",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/victor-alfonso-navarro-relato-ante-la-corteidh-los-abusos-y-torturas-sufridos-en-el-helicoide/",
+      "published_date": "2026-09-23T00:24:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Víctor Alfonso Navarro relató ante la CorteIDH los abusos y torturas sufridos en El Helicoide",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/victor-alfonso-navarro-relato-ante-la-corteidh-los-abusos-y-torturas-sufridos-en-el-helicoide/",
+      "published_date": "2026-09-23T00:24:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "José Antonio Kast afirma ante la ONU que Venezuela tiene la oportunidad histórica de reencontrarse con sus tradiciones democráticas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/jose-antonio-kast-afirma-ante-la-onu-que-venezuela-tiene-la-oportunidad-historica-de-reencontrarse-con-sus-tradiciones-democraticas/",
+      "published_date": "2026-09-23T00:14:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "José Antonio Kast afirma ante la ONU que Venezuela tiene la oportunidad histórica de reencontrarse con sus tradiciones democráticas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/jose-antonio-kast-afirma-ante-la-onu-que-venezuela-tiene-la-oportunidad-historica-de-reencontrarse-con-sus-tradiciones-democraticas/",
+      "published_date": "2026-09-23T00:14:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Caso riferos: amigo de Yeimmy Rodríguez alerta sobre su estado de salud a siete meses detenida",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/caso-riferos-amigo-de-yeimmy-rodriguez-alerta-sobre-su-estado-de-salud-a-siete-meses-detenida/",
+      "published_date": "2026-09-22T23:59:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juez impone límites al manejo de pruebas en el proceso contra Nicolás Maduro",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/juez-impone-limites-al-manejo-de-pruebas-en-el-proceso-contra-nicolas-maduro/",
+      "published_date": "2026-09-22T23:29:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Juez impone límites al manejo de pruebas en el proceso contra Nicolás Maduro",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/juez-impone-limites-al-manejo-de-pruebas-en-el-proceso-contra-nicolas-maduro/",
+      "published_date": "2026-09-22T23:29:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump firma un acuerdo de seguridad tripartito con Dinamarca y Groenlandia para el despliegue de bases militares en el Ártico",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/donald-trump-firma-un-acuerdo-de-seguridad-tripartito-con-dinamarca-y-groenlandia-para-el-despliegue-de-bases-militares-en-el-artico/",
+      "published_date": "2026-09-22T23:22:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Donald Trump firma un acuerdo de seguridad tripartito con Dinamarca y Groenlandia para el despliegue de bases militares en el Ártico",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/donald-trump-firma-un-acuerdo-de-seguridad-tripartito-con-dinamarca-y-groenlandia-para-el-despliegue-de-bases-militares-en-el-artico/",
+      "published_date": "2026-09-22T23:22:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump confirma reunión con Irán en la ONU mientras persiste la guerra",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/trump-confirma-reunion-con-iran-en-la-onu-mientras-persiste-la-guerra/",
+      "published_date": "2026-09-22T23:12:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump confirma reunión con Irán en la ONU mientras persiste la guerra",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/trump-confirma-reunion-con-iran-en-la-onu-mientras-persiste-la-guerra/",
+      "published_date": "2026-09-22T23:12:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tribunal otorga plazo a la Fiscalía para consignar pruebas contra dueño de Grupo Lamar",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/tribunal-otorga-plazo-a-la-fiscalia-para-consignar-pruebas-contra-dueno-de-grupo-lamar/",
+      "published_date": "2026-09-22T22:59:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN de 2015 y la CEV se reunieron para abordar situación de los presos políticos y las garantías electorales",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/an-de-2015-y-la-cev-se-reunieron-para-abordar-situacion-de-los-presos-politicos-y-las-garantias-electorales/",
+      "published_date": "2026-09-22T22:53:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "AN de 2015 y la CEV se reunieron para abordar situación de los presos políticos y las garantías electorales",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/an-de-2015-y-la-cev-se-reunieron-para-abordar-situacion-de-los-presos-politicos-y-las-garantias-electorales/",
+      "published_date": "2026-09-22T22:53:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Las claves del discurso de Trump en la ONU: Venezuela, Cuba, Irán, inmigración y poder militar",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/las-claves-del-discurso-de-trump-en-la-onu-venezuela-cuba-iran-inmigracion-y-poder-militar/",
+      "published_date": "2026-09-22T22:10:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Las claves del discurso de Trump en la ONU: Venezuela, Cuba, Irán, inmigración y poder militar",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/las-claves-del-discurso-de-trump-en-la-onu-venezuela-cuba-iran-inmigracion-y-poder-militar/",
+      "published_date": "2026-09-22T22:10:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Amnistía Internacional descarta un cambio estructural en Venezuela pese a las excarcelaciones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/amnistia-internacional-descarta-un-cambio-estructural-en-venezuela-pese-a-las-excarcelaciones/",
+      "published_date": "2026-09-22T22:08:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Amnistía Internacional descarta un cambio estructural en Venezuela pese a las excarcelaciones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/amnistia-internacional-descarta-un-cambio-estructural-en-venezuela-pese-a-las-excarcelaciones/",
+      "published_date": "2026-09-22T22:08:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Policía alemana detiene a Simon Leendert Verhoeven: empresario vinculado al caso Plus Ultra",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/detienen-en-alemania-a-simon-leendert-verhoeven-empresario-vinculado-al-caso-plus-ultra/",
+      "published_date": "2026-09-22T23:24:36Z",
+      "category": "Military"
+    },
+    {
+      "title": "Más del 90 % de los venezolanos no aprueba reunión entre Delcy y Trump",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/620602/maria-corina-machado-recibio-premio-de-liderazgo-del-concordia-summit/",
-      "published_date": "2026-09-22T14:32:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inicia la Asamblea General de la ONU en Nueva York",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/inicia-la-asamblea-general-de-la-onu-en-nueva-york/",
-      "published_date": "2026-09-22T14:25:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inicia la Asamblea General de la ONU en Nueva York",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/inicia-la-asamblea-general-de-la-onu-en-nueva-york/",
-      "published_date": "2026-09-22T14:25:18Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez y Donald Trump se reunirán este martes en EE. UU.: estos son los detalles",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-y-donald-trump-se-reuniran-este-martes-en-ee-uu-estos-son-los-detalles/",
-      "published_date": "2026-09-22T14:09:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Portarrosa, la pizzería venezolana que figura en la lista de las 50 mejores de Latinoamérica",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/portarrosa-vuelve-a-brillar-en-el-mapa-mundial-de-la-pizza/",
-      "published_date": "2026-09-22T13:58:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Portarrosa, la pizzería venezolana que figura en la lista de las 50 mejores de Latinoamérica",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/portarrosa-vuelve-a-brillar-en-el-mapa-mundial-de-la-pizza/",
-      "published_date": "2026-09-22T13:58:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Exfuncionario de la embajada de Venezuela en Madrid es detenido con 50 kilos de cocaína en España",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/exfuncionario-de-la-embajada-de-venezuela-en-madrid-es-detenido-con-50-kilos-de-cocaina-en-espana/",
-      "published_date": "2026-09-22T13:49:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump se reúne este martes con Delcy Rodríguez en un inédito acercamiento",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/trump-se-reune-este-martes-con-delcy/",
-      "published_date": "2026-09-22T13:27:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Élite de la alta cocina global se reunirá en Lima para los 50 Best 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/elite-de-la-alta-cocina-se-reunira-en-lima-para-los-50-best-2026/",
-      "published_date": "2026-09-22T12:39:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Élite de la alta cocina global se reunirá en Lima para los 50 Best 2026",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/elite-de-la-alta-cocina-se-reunira-en-lima-para-los-50-best-2026/",
-      "published_date": "2026-09-22T12:39:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Converse retira un anuncio \"profundamente perturbador\" tras acusaciones de racismo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/converse-retira-un-anuncio-profundamente-perturbador/",
-      "published_date": "2026-09-22T11:57:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Converse retira un anuncio \"profundamente perturbador\" tras acusaciones de racismo",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/converse-retira-un-anuncio-profundamente-perturbador/",
-      "published_date": "2026-09-22T11:57:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump TV arranca con un discurso antiguo mientras cadenas suspenden cobertura conjunta",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/trump-tv-arranca-con-un-discurso-antiguo-mientras-cadenas-suspenden-cobertura-conjunta/",
-      "published_date": "2026-09-22T10:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump TV arranca con un discurso antiguo mientras cadenas suspenden cobertura conjunta",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/trump-tv-arranca-con-un-discurso-antiguo-mientras-cadenas-suspenden-cobertura-conjunta/",
-      "published_date": "2026-09-22T10:29:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Migrante venezolano herido por el ICE es trasladado a un hospital",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/migrante-venezolano-herido-por-el-ice-es-trasladado-a-un-hospital/",
-      "published_date": "2026-09-22T09:50:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Migrante venezolano herido por el ICE es trasladado a un hospital",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/migrante-venezolano-herido-por-el-ice-es-trasladado-a-un-hospital/",
-      "published_date": "2026-09-22T09:50:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China insiste en un desarrollo abierto e inclusivo de la IA",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/china-insiste-en-un-desarrollo-abierto-e-inclusivo-de-la-ia/",
-      "published_date": "2026-09-22T09:05:00Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/620610/mas-del-90-de-los-venezolanos-no-aprueba-reunion-entre-delcy-y-trump/",
+      "published_date": "2026-09-22T15:33:54Z",
+      "category": "Military"
     },
     {
       "title": "Custodiada por el Cicpc y Guardia Nacional está sede de la PNB usada presuntamente como centro de distribución de drogas",
@@ -269,18 +283,67 @@
       "category": "Military"
     },
     {
-      "title": "Cuando la IA empeora los conflictos laborales en lugar de resolverlos, según estudio",
+      "title": "Jefe de inteligencia del Pentágono visitó Caracas el fin de semana en gira regional de seguridad",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/cuando-la-ia-empeora-los-conflictos-laborales-en-lugar-de-resolverlos-segun-estudio/",
-      "published_date": "2026-09-20T18:54:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/09/jefe-de-inteligencia-del-pentagono-visito-caracas-el-fin-de-semana-en-gira-regional-de-seguridad/",
+      "published_date": "2026-09-22T19:48:41Z",
+      "category": "Energy"
     },
     {
-      "title": "Cuando la IA empeora los conflictos laborales en lugar de resolverlos, según estudio",
+      "title": "Jefe de inteligencia del Pentágono visitó Caracas el fin de semana en gira regional de seguridad",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/cuando-la-ia-empeora-los-conflictos-laborales-en-lugar-de-resolverlos-segun-estudio/",
-      "published_date": "2026-09-20T18:54:00Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/09/jefe-de-inteligencia-del-pentagono-visito-caracas-el-fin-de-semana-en-gira-regional-de-seguridad/",
+      "published_date": "2026-09-22T19:48:41Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Restablecen el servicio eléctrico en Calicanto tras sustitución de transformadores por protesta en Carora",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/restablecen-servicio-electrico-calicanto-carora-lara-2026/",
+      "published_date": "2026-09-22T19:26:21Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Restablecen el servicio eléctrico en Calicanto tras sustitución de transformadores por protesta en Carora",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/restablecen-servicio-electrico-calicanto-carora-lara-2026/",
+      "published_date": "2026-09-22T19:26:21Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Aramburu es el futbolista que más duelos gana en Europa y Cásseres Jr. es el séptimo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/aramburu-es-el-futbolista-que-mas-duelos-gana-en-europa-y-casseres-jr-es-el-septimo/",
+      "published_date": "2026-09-22T17:30:33Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Aramburu es el futbolista que más duelos gana en Europa y Cásseres Jr. es el séptimo",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/aramburu-es-el-futbolista-que-mas-duelos-gana-en-europa-y-casseres-jr-es-el-septimo/",
+      "published_date": "2026-09-22T17:30:33Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Seis venezolanos figuran como los más destacados en ligas menores este año",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/seis-venezolanos-figuran-como-los-mas-destacados-de-ligas-menores-este-ano/",
+      "published_date": "2026-09-22T16:25:44Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Seis venezolanos figuran como los más destacados en ligas menores este año",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/seis-venezolanos-figuran-como-los-mas-destacados-de-ligas-menores-este-ano/",
+      "published_date": "2026-09-22T16:25:44Z",
+      "category": "Energy"
+    },
+    {
+      "title": "¿Quién es Anuar Yzze? El hombre interceptado por sujetos armados en avenida de Barquisimeto",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/quien-es-anuar-yzze-el-hombre-interceptado-por-sujetos-armados-en-avenida-de-barquisimeto/",
+      "published_date": "2026-09-22T16:23:34Z",
+      "category": "Energy"
     },
     {
       "title": "Washington tiene una participación en el petróleo venezolano. La historia muestra dos caminos",
@@ -360,67 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Autoridades del municipio Torres inician despeje de aceras en Carora",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/autoridades-del-municipio-torres-inician-despeje-de-aceras-en-carora/",
-      "published_date": "2026-09-19T22:37:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Fedenaga pidió detener las invasiones a fincas y cambios en la Ley de Tierras para restituir seguridad jurídica",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/fedenaga-pidio-detener-las-invasiones-a-fincas-y-cambios-en-la-ley-de-tierras-para-restituir-seguridad-juridica/",
-      "published_date": "2026-09-19T22:02:28Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Fedenaga pidió detener las invasiones a fincas y cambios en la Ley de Tierras para restituir seguridad jurídica",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/fedenaga-pidio-detener-las-invasiones-a-fincas-y-cambios-en-la-ley-de-tierras-para-restituir-seguridad-juridica/",
-      "published_date": "2026-09-19T22:02:28Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Alertaron que cortes eléctricos de hasta siete horas afectan al 90% de las industrias de cereales en Guárico",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/cortes-electricos-de-hasta-siete-horas-afectan-al-90-de-las-industrias-de-cereales-en-guarico/",
-      "published_date": "2026-09-19T20:19:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Alertaron que cortes eléctricos de hasta siete horas afectan al 90% de las industrias de cereales en Guárico",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/cortes-electricos-de-hasta-siete-horas-afectan-al-90-de-las-industrias-de-cereales-en-guarico/",
-      "published_date": "2026-09-19T20:19:02Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ministerio de Transporte anunció cierre nocturno del túnel El Valle por trabajos de mantenimiento",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ministerio-de-transporte-anuncio-cierre-nocturno-del-tunel-el-valle-por-trabajos-de-mantenimiento/",
-      "published_date": "2026-09-19T18:53:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ministerio de Transporte anunció cierre nocturno del túnel El Valle por trabajos de mantenimiento",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ministerio-de-transporte-anuncio-cierre-nocturno-del-tunel-el-valle-por-trabajos-de-mantenimiento/",
-      "published_date": "2026-09-19T18:53:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Groenlandia destaca que acuerdo con EE UU preserva integridad territorial y soberanía",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/groenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberaniagroenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberania/",
-      "published_date": "2026-09-19T12:51:04Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Groenlandia destaca que acuerdo con EE UU preserva integridad territorial y soberanía",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/groenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberaniagroenlandia-destaca-que-acuerdo-con-ee-uu-preserva-integridad-territorial-y-soberania/",
-      "published_date": "2026-09-19T12:51:04Z",
-      "category": "Energy"
+      "title": "Zulia | Ambientalistas denuncian derrames petroleros en 6 municipios",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/occidente/zulia-ambientalistas-denuncian-derrames-petroleros-en-6-municipios/",
+      "published_date": "2026-09-22T20:59:43Z",
+      "category": "Economy"
     },
     {
       "title": "Patria paga bonos de 95.760 y 58.800 bolívares este #21Sep: conozca quiénes los reciben",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Detienen en Apure a hombre acusado de acosar a una menor de 11 años",
+      "title": "Defensoría del Pueblo y Provea abordan situación de derechos humanos en Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/detienen-en-apure-a-hombre-acusado-de-acosar-a-una-menor-de-11-anos/",
-      "published_date": "2026-09-18T18:47:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Ancelotti apuesta por una renovación en todas las filas de la selección de Brasil",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ancellotti-apuesta-por-una-renovacion-en-todas-las-filas-de-la-seleccion-de-brasil/",
-      "published_date": "2026-09-22T15:07:32Z",
+      "url": "https://www.elnacional.com/2026/09/defensoria-del-pueblo-y-provea-abordan-situacion-de-derechos-humanos-en-venezuela/",
+      "published_date": "2026-09-23T01:10:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Ancelotti apuesta por una renovación en todas las filas de la selección de Brasil",
+      "title": "Sin confirmación oficial ni acceso a prensa: transcurre entre dudas la agenda de Donald Trump con Delcy Rodríguez",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ancellotti-apuesta-por-una-renovacion-en-todas-las-filas-de-la-seleccion-de-brasil/",
-      "published_date": "2026-09-22T15:07:32Z",
+      "url": "https://www.elnacional.com/2026/09/sin-confirmacion-oficial-ni-acceso-a-prensa-transcurre-entre-dudas-la-agenda-de-donald-trump-con-delcy-rodriguez/",
+      "published_date": "2026-09-23T00:58:07Z",
       "category": "Local Events"
     },
     {
-      "title": "ONG Acceso a la Justicia alerta sobre “vacío de poder” tras viaje de Delcy Rodríguez a EEUU",
+      "title": "Sin confirmación oficial ni acceso a prensa: transcurre entre dudas la agenda de Donald Trump con Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/sin-confirmacion-oficial-ni-acceso-a-prensa-transcurre-entre-dudas-la-agenda-de-donald-trump-con-delcy-rodriguez/",
+      "published_date": "2026-09-23T00:58:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Segunda ronda de negociación entre el chavismo y la oposición se extenderá hasta el viernes",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/ong-acceso-a-la-justicia-alerta-sobre-vacio-de-poder/",
-      "published_date": "2026-09-22T14:47:23Z",
+      "url": "https://efectococuyo.com/politica/segunda-ronda-de-negociacion-entre-el-chavismo-y-la-oposicion-se-extendera-hasta-el-viernes/",
+      "published_date": "2026-09-23T00:29:06Z",
       "category": "Local Events"
     },
     {
-      "title": "María Corina Machado recibe el Premio de Liderazgo Concordia 2026",
+      "title": "Segunda ronda de diálogo se extiende hasta el 25 de septiembre",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/maria-corina-machado-recibe-el-premio-de-liderazgo-concordia-2026/",
-      "published_date": "2026-09-22T14:41:59Z",
+      "url": "https://www.elnacional.com/2026/09/segunda-ronda-de-dialogo-se-extiende-hasta-el-25-de-septiembre/",
+      "published_date": "2026-09-22T23:08:57Z",
       "category": "Local Events"
     },
     {
-      "title": "María Corina Machado recibe el Premio de Liderazgo Concordia 2026",
+      "title": "Segunda ronda de diálogo se extiende hasta el 25 de septiembre",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/maria-corina-machado-recibe-el-premio-de-liderazgo-concordia-2026/",
-      "published_date": "2026-09-22T14:41:59Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/segunda-ronda-de-dialogo-se-extiende-hasta-el-25-de-septiembre/",
+      "published_date": "2026-09-22T23:08:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Secel 2025: Sigue cayendo el rendimiento en matemáticas, aunque mejora el de habilidad verbal",
+      "title": "Venezuela supera el centenar de medallas en los Juegos Suramericanos Santa Fe 2026",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/venezuela-supera-el-centenar-de-medallas-en-los-juegos-suramericanos-santa-fe-2026/",
+      "published_date": "2026-09-22T23:06:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela supera el centenar de medallas en los Juegos Suramericanos Santa Fe 2026",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/venezuela-supera-el-centenar-de-medallas-en-los-juegos-suramericanos-santa-fe-2026/",
+      "published_date": "2026-09-22T23:06:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Zulia | Frontera con Colombia cumple 36 horas cerrada por familiares de comerciante detenido",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/occidente/zulia-frontera-con-colombia-cumple-36-horas-cerrada-por-familiares-de-comerciante-detenido/",
+      "published_date": "2026-09-22T23:01:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezolanos en Doral rechaza encuentro de Trump con Delcy Rodríguez en medio de ola de deportaciones",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/venezolanos-critican-que-trump-reciba-a-delcy-rodriguez/",
+      "published_date": "2026-09-22T22:50:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Discurso de Trump frente a Delcy Rodríguez reafirma tutelaje y control, según analistas",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/secel-2025-sigue-cayendo-el-rendimiento-en-matematicas-aunque-mejora-el-de-habilidad-verbal/",
-      "published_date": "2026-09-22T14:28:52Z",
+      "url": "https://efectococuyo.com/politica/discurso-de-trump-frente-a-delcy-rodriguez-reafirma-tutelaje-y-control-sobre-recursos-energeticos/",
+      "published_date": "2026-09-22T22:22:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Detienen en el aeropuerto de Madrid a exfuncionario venezolano con 50 kilos de cocaína",
+      "title": "Bolívar | Apagones aumentan en zonas mineras: ciudadanos denuncian amedrentamiento durante protestas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/bolivar-apagones-aumentan-en-zonas-mineras-ciudadanos-denuncian-amedrentamiento-durante-protestas/",
+      "published_date": "2026-09-22T22:21:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Alcaraz afirma que la Laver Cup \"será una gran prueba\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/detienen-en-el-aeropuerto-de-madrid-a-exfuncionario-venezolano-con-50-kilos-de-cocaina/",
-      "published_date": "2026-09-22T14:11:09Z",
+      "url": "https://www.elnacional.com/2026/09/carlos-alcaraz-afirma-que-la-laver-cup-sera-una-gran-prueba-para-el/",
+      "published_date": "2026-09-22T22:17:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Detienen en el aeropuerto de Madrid a exfuncionario venezolano con 50 kilos de cocaína",
+      "title": "Carlos Alcaraz afirma que la Laver Cup \"será una gran prueba\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/detienen-en-el-aeropuerto-de-madrid-a-exfuncionario-venezolano-con-50-kilos-de-cocaina/",
-      "published_date": "2026-09-22T14:11:09Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/carlos-alcaraz-afirma-que-la-laver-cup-sera-una-gran-prueba-para-el/",
+      "published_date": "2026-09-22T22:17:47Z",
       "category": "Local Events"
     },
     {
-      "title": "Macron se reunió con Zelenski en Nueva York y le prometió apoyo militar para el invierno",
+      "title": "Doc Rivers reafirma su deseo de no volver a dirigir en la NBA",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/macron-se-reunio-con-zelenski-en-nueva-york-y-le-prometio-apoyo-militar-para-el-invierno/",
-      "published_date": "2026-09-22T13:59:42Z",
+      "url": "https://www.elnacional.com/2026/09/doc-rivers-reafirma-su-deseo-de-no-volver-a-dirigir-en-la-nba/",
+      "published_date": "2026-09-22T22:01:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Macron se reunió con Zelenski en Nueva York y le prometió apoyo militar para el invierno",
+      "title": "Doc Rivers reafirma su deseo de no volver a dirigir en la NBA",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/macron-se-reunio-con-zelenski-en-nueva-york-y-le-prometio-apoyo-militar-para-el-invierno/",
-      "published_date": "2026-09-22T13:59:42Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/doc-rivers-reafirma-su-deseo-de-no-volver-a-dirigir-en-la-nba/",
+      "published_date": "2026-09-22T22:01:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Guterres alerta del riesgo de que el mundo se divida en dos bloques enfrentados",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/guterres-alerta-del-riesgo-de-que-el-mundo-se-divida-en-dos-bloques-enfrentados/",
-      "published_date": "2026-09-22T13:45:46Z",
+      "title": "Organizaciones denuncian hostigamiento contra Funpaz y el activista Andrés Colmenárez",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/organizaciones-denuncian-hostigamiento-contra-funpaz-y-el-activista-andres-colmenarez/",
+      "published_date": "2026-09-22T21:43:24Z",
       "category": "Local Events"
     },
     {
-      "title": "ONG alertan que miles de venezolanos se enfrentan a consecuencias a largo plazo tras los terremotos",
+      "title": "Tebas responde a las críticas del Madrid: \"Representar a todos no significa obedecer al más poderoso\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ong-alertan-que-miles-de-venezolanos-se-enfrentan-a-consecuencias-a-largo-plazo-tras-los-terremotos/",
-      "published_date": "2026-09-22T13:42:53Z",
+      "url": "https://www.elnacional.com/2026/09/tebas-responde-a-las-criticas-del-madrid-representar-a-todos-no-significa-obedecer-al-mas-poderoso/",
+      "published_date": "2026-09-22T21:29:24Z",
       "category": "Local Events"
     },
     {
-      "title": "ONG alertan que miles de venezolanos se enfrentan a consecuencias a largo plazo tras los terremotos",
+      "title": "Tebas responde a las críticas del Madrid: \"Representar a todos no significa obedecer al más poderoso\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ong-alertan-que-miles-de-venezolanos-se-enfrentan-a-consecuencias-a-largo-plazo-tras-los-terremotos/",
-      "published_date": "2026-09-22T13:42:53Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/tebas-responde-a-las-criticas-del-madrid-representar-a-todos-no-significa-obedecer-al-mas-poderoso/",
+      "published_date": "2026-09-22T21:29:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Anuncian cierres parciales de varias avenidas de Caracas hasta el 24 de septiembre",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/anuncian-cierres-parciales-de-varias-avenidas-de-caracas-hasta-el-24-de-septiembre/",
-      "published_date": "2026-09-22T13:39:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Anuncian cierres parciales de varias avenidas de Caracas hasta el 24 de septiembre",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/anuncian-cierres-parciales-de-varias-avenidas-de-caracas-hasta-el-24-de-septiembre/",
-      "published_date": "2026-09-22T13:39:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lula dice que EEUU transmite la idea de que «gobierna» Venezuela",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/lula-dice-que-eeuu-transmite-la-idea-de-que-gobierna-venezuela/",
-      "published_date": "2026-09-22T13:15:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Creo que fue su enfermedad mental\": las razones del exesposo de Lindsay Clancy para perdonarle que haya matado a sus 3 hijos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/las-razones-del-exesposo-de-lindsay-clancy-para-perdonarla/",
-      "published_date": "2026-09-22T13:13:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "\"Creo que fue su enfermedad mental\": las razones del exesposo de Lindsay Clancy para perdonarle que haya matado a sus 3 hijos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/las-razones-del-exesposo-de-lindsay-clancy-para-perdonarla/",
-      "published_date": "2026-09-22T13:13:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Libro de Charles Spencer reabre heridas de la Corona sobre la muerte de Diana",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/libro-de-charles-spencer-reabre-heridas-sobre-la-muerte-de-diana/",
-      "published_date": "2026-09-22T13:02:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Libro de Charles Spencer reabre heridas de la Corona sobre la muerte de Diana",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/libro-de-charles-spencer-reabre-heridas-sobre-la-muerte-de-diana/",
-      "published_date": "2026-09-22T13:02:06Z",
+      "title": "Ciudadanos protestan en la sede de la ONU en Caracas para desconocer la representación de Delcy Rodríguez",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/opositores-venezolanos-protestan-en-rechazo-a-la-participacion-de-delcy-rodriguez-en-la-onu/",
+      "published_date": "2026-09-22T21:13:42Z",
       "category": "Local Events"
     }
   ]
