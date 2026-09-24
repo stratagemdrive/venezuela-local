@@ -1,146 +1,174 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-24T01:19:25Z",
+  "last_updated": "2026-09-24T15:48:38Z",
   "stories": [
     {
-      "title": "Delcy Rodríguez asegura ante la ONU que habrá elecciones en Venezuela pero sin precisar fecha",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-asegura-ante-la-onu-que-habra-elecciones-en-venezuela-pero-sin-precisar-fecha/",
-      "published_date": "2026-09-24T01:17:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Estudiantes de Ayotzinapa lanzan artefactos explosivos contra un batallón militar al cumplirse 12 años de la desaparición de los 43 normalistas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/estudiantes-de-ayotzinapa-lanzan-artefactos-explosivos-contra-un-batallon-militar-al-cumplirse-12-anos-de-la-desaparicion-de-los-43-normalistas/",
-      "published_date": "2026-09-24T00:53:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Estudiantes de Ayotzinapa lanzan artefactos explosivos contra un batallón militar al cumplirse 12 años de la desaparición de los 43 normalistas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/estudiantes-de-ayotzinapa-lanzan-artefactos-explosivos-contra-un-batallon-militar-al-cumplirse-12-anos-de-la-desaparicion-de-los-43-normalistas/",
-      "published_date": "2026-09-24T00:53:39Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diez ONG proponen criterios técnicos para garantizar independencia en la renovación del TSJ",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/diez-ong-proponen-criterios-tecnicos-para-garantizar-independencia-en-la-renovacion-del-tsj/",
-      "published_date": "2026-09-24T00:11:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diez ONG proponen criterios técnicos para garantizar independencia en la renovación del TSJ",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/diez-ong-proponen-criterios-tecnicos-para-garantizar-independencia-en-la-renovacion-del-tsj/",
-      "published_date": "2026-09-24T00:11:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"En Venezuela habrá elecciones\": Delcy Rodríguez proclama un \"renacer\" político ante la Asamblea General de la ONU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/en-venezuela-habra-elecciones-delcy-rodriguez-proclama-un-renacer-politico-ante-la-asamblea-general-de-la-onu/",
-      "published_date": "2026-09-23T23:59:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "\"En Venezuela habrá elecciones\": Delcy Rodríguez proclama un \"renacer\" político ante la Asamblea General de la ONU",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/en-venezuela-habra-elecciones-delcy-rodriguez-proclama-un-renacer-politico-ante-la-asamblea-general-de-la-onu/",
-      "published_date": "2026-09-23T23:59:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Termina toma de rehenes en Barinas: liberadas las dos menores de edad y el agresor se entrega a las autoridades",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/termina-toma-de-rehenes-en-barinas-liberadas-las-dos-menores-de-edad-y-el-agresor-se-entrega-a-las-autoridades/",
-      "published_date": "2026-09-23T23:34:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La foto entre Donald Trump y Delcy Rodríguez: la prueba de quién está «enchufada» al poder",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/la-foto-entre-donald-trump-y-delcy-rodriguez-la-prueba-de-quien-esta-enchufada-al-poder/",
-      "published_date": "2026-09-23T23:25:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Xi Jinping llega a Washington para su primera visita de Estado a la Casa Blanca en más de una década",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/xi-jinping-llega-a-washington-para-su-primera-visita-de-estado-a-la-casa-blanca-en-mas-de-una-decada/",
-      "published_date": "2026-09-23T22:59:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Xi Jinping llega a Washington para su primera visita de Estado a la Casa Blanca en más de una década",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/xi-jinping-llega-a-washington-para-su-primera-visita-de-estado-a-la-casa-blanca-en-mas-de-una-decada/",
-      "published_date": "2026-09-23T22:59:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El desalojo de una madrileña de 87 años conmociona a España en plena crisis de la vivienda",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-desalojo-de-una-madrilena-de-87-anos-conmociona-a-espana-en-plena-crisis-de-la-vivienda/",
-      "published_date": "2026-09-23T22:40:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El desalojo de una madrileña de 87 años conmociona a España en plena crisis de la vivienda",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-desalojo-de-una-madrilena-de-87-anos-conmociona-a-espana-en-plena-crisis-de-la-vivienda/",
-      "published_date": "2026-09-23T22:40:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Zulia | Tribunal priva de libertad a hombre que mató a su esposa y simuló un suicidio",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/zulia-tribunal-priva-de-libertad-a-hombre-que-mato-a-su-esposa-y-simulo-un-suicidio/",
-      "published_date": "2026-09-23T22:31:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE. UU. restringirá visas a quienes faciliten el turismo de maternidad",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/ee-uu-restringira-visas-a-quienes-faciliten-el-turismo-de-maternidad/",
-      "published_date": "2026-09-23T22:22:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Calabozo | Muere bebé por múltiples lesiones: detienen a la madre y al padrastro",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/calabozo-muere-bebe-por-multiples-lesiones-detienen-a-la-madre-y-al-padrastro/",
-      "published_date": "2026-09-23T22:18:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La reunión entre Trump y Rodríguez asomó la posibilidad de unas elecciones en Venezuela para 2027-2028",
+      "title": "A 90 días de los sismos: la deuda pendiente con la transparencia y las víctimas",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/620732/la-reunion-entre-trump-y-rodriguez-asomo-la-posibilidad-de-unas-elecciones-en-venezuela-para-2027-2028/",
-      "published_date": "2026-09-23T22:01:10Z",
+      "url": "https://runrun.es/noticias/620777/a-90-dias-de-los-sismos-la-deuda-pendiente-con-la-transparencia-y-las-victimas/",
+      "published_date": "2026-09-24T15:41:38Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Colombia y Venezuela exploran nuevas oportunidades comerciales en encuentro empresarial en Cúcuta",
+      "title": "Taylor Swift lanzará cuatro canciones de The Life of a Showgirl: The Encore",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/colombia-y-venezuela-exploran-nuevas-oportunidades-comerciales-en-encuentro-empresarial-en-cucuta/",
-      "published_date": "2026-09-23T21:50:55Z",
+      "url": "https://www.elnacional.com/2026/09/taylor-swift-lanzara-cuatro-canciones-de-the-life-of-a-showgirl-the-encore/",
+      "published_date": "2026-09-24T14:42:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Colombia y Venezuela exploran nuevas oportunidades comerciales en encuentro empresarial en Cúcuta",
+      "title": "Taylor Swift lanzará cuatro canciones de The Life of a Showgirl: The Encore",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/colombia-y-venezuela-exploran-nuevas-oportunidades-comerciales-en-encuentro-empresarial-en-cucuta/",
-      "published_date": "2026-09-23T21:50:55Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/taylor-swift-lanzara-cuatro-canciones-de-the-life-of-a-showgirl-the-encore/",
+      "published_date": "2026-09-24T14:42:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Mujeres denuncian que fueron estafadas a través de planes de financiamiento para cirugías estéticas",
+      "title": "Manuel Llorens, “Hay un trabajo enorme en cuanto a justicia restaurativa”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/620730/manuel-llorens-hay-un-trabajo-enorme-en-cuanto-a-justicia-restaurativa/",
+      "published_date": "2026-09-24T14:28:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fiscalía rechaza libertad provisional de Cilia Flores por «extremo riesgo de fuga»",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/mujeres-denuncian-que-fueron-estafadas-a-traves-de-planes-de-financiamiento-para-cirugias-esteticas/",
-      "published_date": "2026-09-23T21:45:48Z",
+      "url": "https://elpitazo.net/politica/fiscalia-rechaza-libertad-provisional-de-cilia-flores-por-extremo-riesgo-de-fuga/",
+      "published_date": "2026-09-24T14:19:18Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Venezolanos en EE UU, entre el miedo al ICE y la decisión de regresar a su país",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/venezolanos-en-ee-uu-entre-el-miedo-a-ice-y-la-decision-de-regresar-a-su-pais/",
+      "published_date": "2026-09-24T13:57:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezolanos en EE UU, entre el miedo al ICE y la decisión de regresar a su país",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/venezolanos-en-ee-uu-entre-el-miedo-a-ice-y-la-decision-de-regresar-a-su-pais/",
+      "published_date": "2026-09-24T13:57:41Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Robot cuadrúpedo corrió un maratón en 4 horas y 19 minutos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/robot-cuadrupedo-corre-un-maraton-en-4-horas-y-19-minutos/",
+      "published_date": "2026-09-24T13:49:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Robot cuadrúpedo corrió un maratón en 4 horas y 19 minutos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/robot-cuadrupedo-corre-un-maraton-en-4-horas-y-19-minutos/",
+      "published_date": "2026-09-24T13:49:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fiscalía ratifica rechazo a la solicitud de libertad provisional de Cilia Flores",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/fiscalia-ratifica-rechazo-a-la-solicitud-de-libertad-provisional-de-cilia-flores/",
+      "published_date": "2026-09-24T13:47:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fiscalía ratifica rechazo a la solicitud de libertad provisional de Cilia Flores",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/fiscalia-ratifica-rechazo-a-la-solicitud-de-libertad-provisional-de-cilia-flores/",
+      "published_date": "2026-09-24T13:47:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Racionamiento eléctrico superó las diez horas en sectores de Carora y Aregue en solo 24 horas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/racionamiento-electrico-diez-horas-carora-aregue-municipio-torres-2026/",
+      "published_date": "2026-09-24T13:43:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Racionamiento eléctrico superó las diez horas en sectores de Carora y Aregue en solo 24 horas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/racionamiento-electrico-diez-horas-carora-aregue-municipio-torres-2026/",
+      "published_date": "2026-09-24T13:43:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Presidente de Irán desafió a Trump en la ONU: advirtió que su país nunca “se arrodillará”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/presidente-de-iran-desafio-a-trump-en-la-onu-advirtio-que-su-pais-nunca-se-arrodillara/",
+      "published_date": "2026-09-24T13:26:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Presidente de Irán desafió a Trump en la ONU: advirtió que su país nunca “se arrodillará”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/presidente-de-iran-desafio-a-trump-en-la-onu-advirtio-que-su-pais-nunca-se-arrodillara/",
+      "published_date": "2026-09-24T13:26:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anthropic usa la IA para hacer descubrimientos biológicos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/anthropic-usa-la-ia-para-hacer-descubrimientos-biologicos/",
+      "published_date": "2026-09-24T13:21:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anthropic usa la IA para hacer descubrimientos biológicos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/anthropic-usa-la-ia-para-hacer-descubrimientos-biologicos/",
+      "published_date": "2026-09-24T13:21:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump asegura que China y EE UU se oponen a las  nuevas regulaciones sobre la IA",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/trump-china-y-ee-uu-se-oponen-a-nuevas-regulaciones-sobre-la-ia/",
+      "published_date": "2026-09-24T13:13:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump asegura que China y EE UU se oponen a las  nuevas regulaciones sobre la IA",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/trump-china-y-ee-uu-se-oponen-a-nuevas-regulaciones-sobre-la-ia/",
+      "published_date": "2026-09-24T13:13:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Así son los Ray-Ban Meta Audio, los nuevos lentes inteligentes de Meta",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/asi-son-los-ray-ban-meta-audio-los-nuevos-lentes-inteligentes/",
+      "published_date": "2026-09-24T13:12:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diosdado Cabello defendió el viaje de Delcy Rodríguez a EE UU",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/diosdado-cabello-defendio-el-viaje-de-delcy-rodriguez-a-ee-uu/",
+      "published_date": "2026-09-24T12:19:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Diosdado Cabello defendió el viaje de Delcy Rodríguez a EE UU",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/diosdado-cabello-defendio-el-viaje-de-delcy-rodriguez-a-ee-uu/",
+      "published_date": "2026-09-24T12:19:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Delcy Rodríguez instó a Guyana en la Asamblea General de la ONU a negociar por el Esequibo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-insto-a-guyana-en-la-asamblea-general-de-la-onu-a-negociar-por-el-esequibo/",
+      "published_date": "2026-09-24T11:49:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Delcy Rodríguez instó a Guyana en la Asamblea General de la ONU a negociar por el Esequibo",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/delcy-rodriguez-insto-a-guyana-en-la-asamblea-general-de-la-onu-a-negociar-por-el-esequibo/",
+      "published_date": "2026-09-24T11:49:00Z",
+      "category": "Military"
     },
     {
       "title": "Asamblea Nacional aprueba acuerdo de respaldo a la participación de Delcy Rodríguez en la Asamblea General de la ONU",
@@ -255,32 +283,53 @@
       "category": "Military"
     },
     {
-      "title": "Acceso a la Justicia advierte sobre posible vacío de poder por viaje de Delcy Rodríguez a a EE UU",
+      "title": "Cómo la nueva derecha que gobierna en América Latina muestra su alineamiento pleno con Trump ante los ojos del mundo",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/acceso-a-la-justicia-advierte-sobre-posible-vacio-de-poder-por-viaje-de-delcy-rodriguez-a-a-ee-uu/",
-      "published_date": "2026-09-22T13:26:28Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/09/como-la-nueva-derecha-que-gobierna-en-america-latina-muestra-su-alineamiento-pleno-con-trump-ante-los-ojos-del-mundo/",
+      "published_date": "2026-09-24T14:58:46Z",
+      "category": "Energy"
     },
     {
-      "title": "Del “huele a azufre” al “Venezuela no acepta ultimátum”: el paso del chavismo por la ONU",
+      "title": "Cómo la nueva derecha que gobierna en América Latina muestra su alineamiento pleno con Trump ante los ojos del mundo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/del-huele-a-azufre-al-venezuela-no-acepta-ultimatum-el-paso-del-chavismo-por-la-onu/",
-      "published_date": "2026-09-22T08:38:51Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/09/como-la-nueva-derecha-que-gobierna-en-america-latina-muestra-su-alineamiento-pleno-con-trump-ante-los-ojos-del-mundo/",
+      "published_date": "2026-09-24T14:58:46Z",
+      "category": "Energy"
     },
     {
-      "title": "Del “huele a azufre” al “Venezuela no acepta ultimátum”: el paso del chavismo por la ONU",
+      "title": "Mánager de Dolly Parton pidió orden de alejamiento contra sobrino de la cantante",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/del-huele-a-azufre-al-venezuela-no-acepta-ultimatum-el-paso-del-chavismo-por-la-onu/",
-      "published_date": "2026-09-22T08:38:51Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/09/manager-de-dolly-parton-pidio-orden-de-alejamiento-contra-sobrino-de-la-cantante/",
+      "published_date": "2026-09-24T14:08:33Z",
+      "category": "Energy"
     },
     {
-      "title": "Paramount supera obstáculo antimonopolio y avanza en compra de Warner Bros. Discovery",
+      "title": "Mánager de Dolly Parton pidió orden de alejamiento contra sobrino de la cantante",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/paramount-supera-obstaculo-antimonopolio-y-avanza-en-compra-de-warner-bros-discovery/",
-      "published_date": "2026-09-21T22:55:55Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/09/manager-de-dolly-parton-pidio-orden-de-alejamiento-contra-sobrino-de-la-cantante/",
+      "published_date": "2026-09-24T14:08:33Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Gabriel Moreno se soltó en la ofensiva y amenaza el liderato de bateo de Luis Arráez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/gabriel-moreno-se-solto-en-la-ofensiva-y-amenaza-el-liderato-de-bateo-de-luis-arraez/",
+      "published_date": "2026-09-24T13:45:06Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Gabriel Moreno se soltó en la ofensiva y amenaza el liderato de bateo de Luis Arráez",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/gabriel-moreno-se-solto-en-la-ofensiva-y-amenaza-el-liderato-de-bateo-de-luis-arraez/",
+      "published_date": "2026-09-24T13:45:06Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Doble tanda de apagones: decenas de sectores de Maracaibo amanecen sin luz",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/doble-tanda-de-apagones-decenas-de-sectores-de-maracaibo-amanecen-sin-luz/",
+      "published_date": "2026-09-24T11:20:17Z",
+      "category": "Energy"
     },
     {
       "title": "Experto advierte sobre limitaciones de Corpoelec: “El déficit eléctrico se multiplicó por siete desde 2024”",
@@ -371,55 +420,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/quien-es-anuar-yzze-el-hombre-interceptado-por-sujetos-armados-en-avenida-de-barquisimeto/",
       "published_date": "2026-09-22T16:23:34Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Washington tiene una participación en el petróleo venezolano. La historia muestra dos caminos",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/620595/acuerdo-petrolero-2/",
-      "published_date": "2026-09-22T04:48:54Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Aumentan las horas de apagones mientras crece el déficit de Corpoelec para cubrir la demanda del país",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/aumentan-las-horas-de-apagones-mientras-crece-el-deficit-de-corpoelec-para-cubrir-la-demanda-del-pais/",
-      "published_date": "2026-09-21T22:14:50Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El toque venezolano marca el cierre del Power Ranking de la MLB",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-toque-venezolano-marca-el-cierre-del-power-ranking-de-la-mlb/",
-      "published_date": "2026-09-21T15:26:54Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El toque venezolano marca el cierre del Power Ranking de la MLB",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-toque-venezolano-marca-el-cierre-del-power-ranking-de-la-mlb/",
-      "published_date": "2026-09-21T15:26:54Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El pabellón criollo venezolano y el cebiche peruano avanzaron a la final del Mundial de Comidas de Ibai Llanos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-pabellon-criollo-venezolano-y-el-cebiche-peruano-avanzaron-a-la-final-del-mundial-de-comidas-de-ibai-llanos/",
-      "published_date": "2026-09-19T23:46:27Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El pabellón criollo venezolano y el cebiche peruano avanzaron a la final del Mundial de Comidas de Ibai Llanos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-pabellon-criollo-venezolano-y-el-cebiche-peruano-avanzaron-a-la-final-del-mundial-de-comidas-de-ibai-llanos/",
-      "published_date": "2026-09-19T23:46:27Z",
-      "category": "Energy"
-    },
-    {
-      "title": "El pabellón criollo venezolano y el ceviche peruano avanzaron a la final del Mundial de Comidas de Ibai Llanos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-pabellon-criollo-venezolano-y-el-ceviche-peruano-avanzaron-a-la-final-del-mundial-de-comidas-de-ibai-llanos/",
-      "published_date": "2026-09-19T23:46:27Z",
       "category": "Energy"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Especialista recomienda cirugía a venezolano detenido tras recibir disparo de agente del ICE",
+      "title": "Del trauma del terremoto a una promesa: cuidar desde EE UU a sus sobrinos en Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/especialista-recomienda-cirugia-a-venezolano-detenido-tras-recibir-disparo-de-agente-del-ice/",
-      "published_date": "2026-09-24T00:44:31Z",
+      "url": "https://www.elnacional.com/2026/09/del-trauma-del-terremoto-a-una-promesa-cuidar-desde-ee-uu-a-sus-sobrinos-en-venezuela/",
+      "published_date": "2026-09-24T15:19:19Z",
       "category": "Local Events"
     },
     {
-      "title": "Especialista recomienda cirugía a venezolano detenido tras recibir disparo de agente del ICE",
+      "title": "Del trauma del terremoto a una promesa: cuidar desde EE UU a sus sobrinos en Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/especialista-recomienda-cirugia-a-venezolano-detenido-tras-recibir-disparo-de-agente-del-ice/",
-      "published_date": "2026-09-24T00:44:31Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/del-trauma-del-terremoto-a-una-promesa-cuidar-desde-ee-uu-a-sus-sobrinos-en-venezuela/",
+      "published_date": "2026-09-24T15:19:19Z",
       "category": "Local Events"
     },
     {
-      "title": "El Foro Venezolano de Política Exterior respalda el retorno de María Corina Machado y exige garantías para su ingreso al país",
+      "title": "Christopher, el hijo de Miguel Cabrera que lidera a Venezuela en el Mundial sub-15",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-foro-venezolano-de-politica-exterior-respalda-el-retorno-de-maria-corina-machado-y-exige-garantias-para-su-ingreso-al-pais/",
-      "published_date": "2026-09-24T00:15:28Z",
+      "url": "https://www.elnacional.com/2026/09/christopher-el-hijo-de-miguel-cabrera-que-lidera-a-venezuela-en-el-mundial-sub-15/",
+      "published_date": "2026-09-24T15:15:09Z",
       "category": "Local Events"
     },
     {
-      "title": "El Foro Venezolano de Política Exterior respalda el retorno de María Corina Machado y exige garantías para su ingreso al país",
+      "title": "Christopher, el hijo de Miguel Cabrera que lidera a Venezuela en el Mundial sub-15",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-foro-venezolano-de-politica-exterior-respalda-el-retorno-de-maria-corina-machado-y-exige-garantias-para-su-ingreso-al-pais/",
-      "published_date": "2026-09-24T00:15:28Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/christopher-el-hijo-de-miguel-cabrera-que-lidera-a-venezuela-en-el-mundial-sub-15/",
+      "published_date": "2026-09-24T15:15:09Z",
       "category": "Local Events"
     },
     {
-      "title": "Comunidad de la ULA mantiene iniciativas solidarias a tres meses de los terremotos",
+      "title": "Lo que nadie te cuenta sobre cómo los videojuegos se están volviendo más inclusivos y accesibles",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/lo-que-nadie-te-cuenta-sobre-como-los-videojuegos-se-estan-volviendo-mas-inclusivos-y-accesibles/",
+      "published_date": "2026-09-24T14:30:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lo que nadie te cuenta sobre cómo los videojuegos se están volviendo más inclusivos y accesibles",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/lo-que-nadie-te-cuenta-sobre-como-los-videojuegos-se-estan-volviendo-mas-inclusivos-y-accesibles/",
+      "published_date": "2026-09-24T14:30:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANSA: Venezolanos destinan 60% de sus ingresos a la compra de alimentos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/ansa-venezolanos-destinan-60-de-sus-ingresos-a-la-compra-de-alimentos/",
+      "published_date": "2026-09-24T14:16:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ANSA: Venezolanos destinan 60% de sus ingresos a la compra de alimentos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/ansa-venezolanos-destinan-60-de-sus-ingresos-a-la-compra-de-alimentos/",
+      "published_date": "2026-09-24T14:16:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protestas por racionamiento eléctrico: vecinos reportan dos cortes diarios y hasta 18 horas a oscuras",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/comunidad-de-la-ula-mantiene-iniciativas-solidarias-a-tres-meses-de-los-terremotos/",
-      "published_date": "2026-09-23T23:41:36Z",
+      "url": "https://elpitazo.net/regiones/protestas-por-racionamiento-electrico-vecinos-reportan-dos-cortes-diarios-y-hasta-18-horas-a-oscuras/",
+      "published_date": "2026-09-24T14:06:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Fernando Tatis se reportó a los Tiburones para dirigir los entrenamientos",
+      "title": "El Niño podría causar 451.000 muertes adicionales por calor",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/fernando-tatis-se-reporto-a-los-tiburones-para-dirigir-los-entrenamientos/",
-      "published_date": "2026-09-23T23:23:09Z",
+      "url": "https://www.elnacional.com/2026/09/el-nino-podria-causar-451-000-muertes-adicionales-por-calor/",
+      "published_date": "2026-09-24T13:56:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Fernando Tatis se reportó a los Tiburones para dirigir los entrenamientos",
+      "title": "El Niño podría causar 451.000 muertes adicionales por calor",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/fernando-tatis-se-reporto-a-los-tiburones-para-dirigir-los-entrenamientos/",
-      "published_date": "2026-09-23T23:23:09Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/el-nino-podria-causar-451-000-muertes-adicionales-por-calor/",
+      "published_date": "2026-09-24T13:56:21Z",
       "category": "Local Events"
     },
     {
-      "title": "El Salvador prorroga por el régimen de excepción pese a denuncias de abusos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-salvador-prorroga-por-el-regimen-de-excepcion-pese-a-denuncias-de-abusos/",
-      "published_date": "2026-09-23T23:09:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Salvador prorroga por el régimen de excepción pese a denuncias de abusos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-salvador-prorroga-por-el-regimen-de-excepcion-pese-a-denuncias-de-abusos/",
-      "published_date": "2026-09-23T23:09:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela alcanza las cuarenta medallas de oro en los Juegos Sudamericanos Santa Fe 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/venezuela-alcanza-las-cuarenta-medallas-de-oro-en-los-juegos-sudamericanos-santa-fe-2026/",
-      "published_date": "2026-09-23T22:52:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Venezuela alcanza las cuarenta medallas de oro en los Juegos Sudamericanos Santa Fe 2026",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/venezuela-alcanza-las-cuarenta-medallas-de-oro-en-los-juegos-sudamericanos-santa-fe-2026/",
-      "published_date": "2026-09-23T22:52:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inter de Miami omite el nombre de Telasco Segovia en la lista de convocados por las selecciones",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/inter-de-miami-omite-el-nombre-de-telasco-segovia-en-la-lista-de-convocados-por-las-selecciones/",
-      "published_date": "2026-09-23T22:38:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Inter de Miami omite el nombre de Telasco Segovia en la lista de convocados por las selecciones",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/inter-de-miami-omite-el-nombre-de-telasco-segovia-en-la-lista-de-convocados-por-las-selecciones/",
-      "published_date": "2026-09-23T22:38:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Vente Venezuela protestan frente a la sede del CNE para exigir elecciones",
+      "title": "«Una sola llamada de Rubio podría ayudar a María Corina a volver», dice Comité de Asuntos Exteriores de EE. UU.",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/zulia-vente-venezuela-protestan-frente-a-la-sede-del-cne-para-exigir-elecciones/",
-      "published_date": "2026-09-23T22:36:01Z",
+      "url": "https://elpitazo.net/politica/una-sola-llamada-de-rubio-podria-ayudar-a-maria-corina-a-volver-dice-comite-de-asuntos-exteriores-de-ee-uu/",
+      "published_date": "2026-09-24T13:52:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Ministerio de Pesca planea entregar a privados activos del Grupo Lamar: su dueño permanece detenido",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/ministerio-de-pesca-planea-entregar-a-privados-activos-del-grupo-lamar-su-dueno-permanece-detenido/",
-      "published_date": "2026-09-23T22:27:31Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Estudiantes de la UCV alertan sobre posible suspensión del servicio de comedores por falta de recursos",
+      "title": "Zuckerberg insiste en empoderar a las personas con la IA",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/estudiantes-de-la-ucv-alertan-sobre-posible-suspension-de-comedores-por-falta-de-recursos/",
-      "published_date": "2026-09-23T22:13:38Z",
+      "url": "https://www.elnacional.com/2026/09/zuckerberg-insiste-en-empoderar-a-las-personas-con-la-ia/",
+      "published_date": "2026-09-24T13:43:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Estudiantes de la UCV alertan sobre posible suspensión del servicio de comedores por falta de recursos",
+      "title": "Zuckerberg insiste en empoderar a las personas con la IA",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/estudiantes-de-la-ucv-alertan-sobre-posible-suspension-de-comedores-por-falta-de-recursos/",
-      "published_date": "2026-09-23T22:13:38Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/zuckerberg-insiste-en-empoderar-a-las-personas-con-la-ia/",
+      "published_date": "2026-09-24T13:43:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Miguel Rojas hace historia al ganar por tercer año al hilo el premio Roy Campanella",
+      "title": "La muerte no tiene dueño es la candidata venezolana al premio Oscar",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/miguel-rojas-hace-historia-al-ganar-por-tercer-ano-al-hilo-el-premio-roy-campanella/",
-      "published_date": "2026-09-23T21:52:27Z",
+      "url": "https://www.elnacional.com/2026/09/la-muerte-no-tiene-dueno-es-la-candidata-venezolana-al-oscar/",
+      "published_date": "2026-09-24T13:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Miguel Rojas hace historia al ganar por tercer año al hilo el premio Roy Campanella",
+      "title": "La muerte no tiene dueño es la candidata venezolana al premio Oscar",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/miguel-rojas-hace-historia-al-ganar-por-tercer-ano-al-hilo-el-premio-roy-campanella/",
-      "published_date": "2026-09-23T21:52:27Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/la-muerte-no-tiene-dueno-es-la-candidata-venezolana-al-oscar/",
+      "published_date": "2026-09-24T13:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Estudiantes de la UCV protestan en Maiquetía para exigir retorno seguro de María Corina Machado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/estudiantes-de-la-ucv-protestan-en-maiquetia-para-exigir-retorno-seguro-de-maria-corina-machado/",
-      "published_date": "2026-09-23T21:39:04Z",
+      "title": "Familiares de mujer larense hallada en Caracas enfrentan trabas migratorias para atender su salud mental",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/hallan-en-caracas-a-jorgiannys-castellano-trabas-migratorias-2026/",
+      "published_date": "2026-09-24T13:29:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Familiares de mujer larense hallada en Caracas enfrentan trabas migratorias para atender su salud mental",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/hallan-en-caracas-a-jorgiannys-castellano-trabas-migratorias-2026/",
+      "published_date": "2026-09-24T13:29:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "UCAB: Rendimiento en Matemáticas sigue siendo deficiente en estudiantes venezolanos",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/620725/ucab-rendimiento-en-matematicas-sigue-siendo-deficiente-en-estudiantes-venezolanos/",
+      "published_date": "2026-09-24T13:03:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Países Bajos respalda una transición democrática en Venezuela tras encuentro con Delcy Rodríguez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/paises-bajos-respalda-una-transicion-democratica-en-venezuela-tras-encuentro-con-delcy-rodriguez/",
+      "published_date": "2026-09-24T13:02:24Z",
       "category": "Local Events"
     }
   ]
