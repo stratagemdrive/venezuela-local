@@ -1,146 +1,153 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-09-26T01:26:55Z",
+  "last_updated": "2026-09-26T14:59:34Z",
   "stories": [
     {
-      "title": "Mesa de Diálogo acuerda crear un comité de juristas para evaluar postulaciones al TSJ",
+      "title": "Justicia, Encuentro y Perdón verificó 29 nuevas excarcelaciones este #25Sept",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/620936/justicia-encuentro-y-perdon-verifico-29-nuevas-excarcelaciones-este-25sept/",
+      "published_date": "2026-09-26T14:36:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump aseguró que habló con Delcy Rodríguez sobre elecciones durante reunión en Nueva York",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/trump-aseguro-que-hablo-con-delcy-rodriguez-sobre-elecciones-en-venezuela-durante-reunion-en-nueva-york/",
+      "published_date": "2026-09-26T14:36:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump aseguró que habló con Delcy Rodríguez sobre elecciones durante reunión en Nueva York",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/trump-aseguro-que-hablo-con-delcy-rodriguez-sobre-elecciones-en-venezuela-durante-reunion-en-nueva-york/",
+      "published_date": "2026-09-26T14:36:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alex Saab se declaró culpable sin nombrar a Maduro, Cilia Flores, los Rodríguez y Cabello",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/cocuyo-chequea/alex-saab-se-declaro-culpable-sin-nombrar-a-maduro-cilia-flores-los-rodriguez-y-cabello/",
+      "published_date": "2026-09-26T14:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Las Opppe de Caracas no se cayeron, pero 14 de ellas quedaron con destrozos a la vista",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/alianzas/las-opppe-de-caracas-no-se-cayeron-pero-14-de-ellas-quedaron-con-destrozos-a-la-vista/",
+      "published_date": "2026-09-26T13:31:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Enrique Márquez aseguró que no conoce a \"Mimou\" Vargas y explicó su presencia durante detención en Maiquetía",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/enrique-marquez-aseguro-que-no-conoce-a-mimou-vargas-y-aclaro-su-presencia-durante-detencion-en-maiquetia/",
+      "published_date": "2026-09-26T13:27:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Enrique Márquez aseguró que no conoce a \"Mimou\" Vargas y explicó su presencia durante detención en Maiquetía",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/enrique-marquez-aseguro-que-no-conoce-a-mimou-vargas-y-aclaro-su-presencia-durante-detencion-en-maiquetia/",
+      "published_date": "2026-09-26T13:27:11Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protestaron en España contra la gestión del gobierno de Sánchez en la crisis de Ceuta",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/protestan-en-espana-contra-la-gestion-del-gobierno-de-sanchez-en-la-crisis-de-ceuta/",
+      "published_date": "2026-09-26T13:17:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Protestaron en España contra la gestión del gobierno de Sánchez en la crisis de Ceuta",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/protestan-en-espana-contra-la-gestion-del-gobierno-de-sanchez-en-la-crisis-de-ceuta/",
+      "published_date": "2026-09-26T13:17:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Declararon culpable en EE UU a cubano que cobraba hasta 40.000 dólares por traficar migrantes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/declararon-culpable-en-ee-uu-a-cubano-que-cobraba-hasta-40-000-dolares-por-traficar-migrantes/",
+      "published_date": "2026-09-26T13:00:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Declararon culpable en EE UU a cubano que cobraba hasta 40.000 dólares por traficar migrantes",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/declararon-culpable-en-ee-uu-a-cubano-que-cobraba-hasta-40-000-dolares-por-traficar-migrantes/",
+      "published_date": "2026-09-26T13:00:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Papa León XIV se reunió con migrantes antes de su misa en los Campos Elíseos de París",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/papa-leon-xiv-se-reunio-con-migrantes-antes-de-su-misa-gigante-en-los-campos-eliseos-de-paris/",
+      "published_date": "2026-09-26T12:34:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Papa León XIV se reunió con migrantes antes de su misa en los Campos Elíseos de París",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/papa-leon-xiv-se-reunio-con-migrantes-antes-de-su-misa-gigante-en-los-campos-eliseos-de-paris/",
+      "published_date": "2026-09-26T12:34:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gabriel Moreno asume el liderato de bateo de la Liga Nacional y va por la corona este fin de semana",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/gabriel-moreno-asume-el-liderato-de-bateo-de-la-liga-nacional-y-va-por-la-corona-este-fin-de-semana/",
+      "published_date": "2026-09-26T12:30:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Gabriel Moreno asume el liderato de bateo de la Liga Nacional y va por la corona este fin de semana",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/gabriel-moreno-asume-el-liderato-de-bateo-de-la-liga-nacional-y-va-por-la-corona-este-fin-de-semana/",
+      "published_date": "2026-09-26T12:30:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foro Penal confirmó excarcelación de Frank Cabañas y de un número importante de otros presos políticos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/foro-penal-confirmo-excarcelacion-de-frank-cabanas-y-de-un-numero-importante-de-otros-presos-politicos/",
+      "published_date": "2026-09-26T11:48:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foro Penal confirmó excarcelación de Frank Cabañas y de un número importante de otros presos políticos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/foro-penal-confirmo-excarcelacion-de-frank-cabanas-y-de-un-numero-importante-de-otros-presos-politicos/",
+      "published_date": "2026-09-26T11:48:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jorge Rodríguez niega que estén impidiendo el regreso de María Corina Machado a Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/jorge-rodriguez-niega-que-esten-impidiendo-el-regreso-de-maria-corina-machado-a-venezuela/",
+      "published_date": "2026-09-26T06:35:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jorge Rodríguez niega que estén impidiendo el regreso de María Corina Machado a Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/jorge-rodriguez-niega-que-esten-impidiendo-el-regreso-de-maria-corina-machado-a-venezuela/",
+      "published_date": "2026-09-26T06:35:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mesa de Diálogo anuncia quiénes integran el comité de juristas para evaluar postulaciones al TSJ",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/mesa-de-dialogo-acuerda-crear-un-comite-de-juristas-para-evaluar-postulaciones-al-tsj/",
       "published_date": "2026-09-26T01:16:18Z",
       "category": "Diplomacy"
     },
     {
-      "title": "El Senado estadounidense convoca una reunión secreta con el Departamento de Estado para abordar el futuro de Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/senado-de-ee-uu-discutira-a-puerta-cerrada-fecha-de-elecciones-en-venezuela/",
-      "published_date": "2026-09-26T01:08:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Senado estadounidense convoca una reunión secreta con el Departamento de Estado para abordar el futuro de Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/senado-de-ee-uu-discutira-a-puerta-cerrada-fecha-de-elecciones-en-venezuela/",
-      "published_date": "2026-09-26T01:08:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un pacto de mínimos institucionales: las claves del segundo ciclo de negociación entre el gobierno interino y la oposición",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/un-pacto-de-minimos-institucionales-las-claves-del-segundo-ciclo-de-negociacion-entre-el-gobierno-interino-y-la-oposicion/",
-      "published_date": "2026-09-26T00:51:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un pacto de mínimos institucionales: las claves del segundo ciclo de negociación entre el gobierno interino y la oposición",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/un-pacto-de-minimos-institucionales-las-claves-del-segundo-ciclo-de-negociacion-entre-el-gobierno-interino-y-la-oposicion/",
-      "published_date": "2026-09-26T00:51:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Que desbloqueen a todos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/que-desbloqueen-a-todos/",
-      "published_date": "2026-09-26T00:23:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Red de Medios Independientes exige desbloqueo de todos los medios informativos",
+      "title": "Laboratorio de Paz: La restitución de la soberanía popular exige fecha concreta",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/620902/red-de-medios-independientes-exige-desbloqueo-de-todos-los-medios-informativos/",
-      "published_date": "2026-09-26T00:04:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Desbloqueo de portales web deja en evidencia las medidas de censura por parte del chavismo",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-ordena-el-desbloqueo-de-portales-web-en-venezuela-tras-avances-en-el-dialogo-nacional/",
-      "published_date": "2026-09-25T23:34:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Director de El Pitazo: el escenario actual ratifica la tesis del «golpe de palacio» tras la salida de Maduro",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/director-de-el-pitazo-el-escenario-actual-ratifica-la-tesis-del-golpe-de-palacio-tras-la-salida-de-maduro/",
-      "published_date": "2026-09-25T23:25:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Femicidio en Catia: PNB asesinó a su pareja delante de su hija de dos años",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/femicidio-en-catia-pnb-asesino-a-su-pareja-delante-de-su-hija-de-dos-anos/",
-      "published_date": "2026-09-25T23:05:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Médicos piden incluir la crisis de salud pública en la mesa de diálogo",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/620908/medicos-piden-incluir-la-crisis-de-salud-publica-en-la-mesa-de-dialogo/",
-      "published_date": "2026-09-25T23:01:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sector médico pide incorporar la crisis sanitaria a la mesa de negociación en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/sector-medico-pide-incorporar-la-crisis-sanitaria-a-la-mesa-de-negociacion-en-venezuela/",
-      "published_date": "2026-09-25T22:51:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sector médico pide incorporar la crisis sanitaria a la mesa de negociación en Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/sector-medico-pide-incorporar-la-crisis-sanitaria-a-la-mesa-de-negociacion-en-venezuela/",
-      "published_date": "2026-09-25T22:51:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Acceso a la Justicia diseña baremo para evaluar a los candidatos a magistrados del TSJ",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/620890/acceso-a-la-justicia-disena-baremo-para-evaluar-a-los-candidatos-a-magistrados-del-tsj/",
-      "published_date": "2026-09-25T22:36:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fallo judicial revela el uso de la inteligencia artificial Claude en la operación militar contra Maduro",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/fallo-corte-washington-ia-claude-operacion-captura-maduro-2026/",
-      "published_date": "2026-09-25T22:24:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fallo judicial revela el uso de la inteligencia artificial Claude en la operación militar contra Maduro",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/fallo-corte-washington-ia-claude-operacion-captura-maduro-2026/",
-      "published_date": "2026-09-25T22:24:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Apagones dejan sin respaldo eléctrico a hospitales y CDI en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/apagones-dejan-sin-respaldo-electrico-a-hospitales-y-cdi-en-venezuela/",
-      "published_date": "2026-09-25T22:06:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armando Armas elevó a la mesa de negociación una propuesta para instaurar el voto consular digital y la libertad plena de los presos políticos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/armando-armas-elevo-a-la-mesa-de-negociacion-una-propuesta-para-instaurar-el-voto-consular-digital-y-la-libertad-plena-de-los-presos-politicos/",
-      "published_date": "2026-09-25T21:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Armando Armas elevó a la mesa de negociación una propuesta para instaurar el voto consular digital y la libertad plena de los presos políticos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/armando-armas-elevo-a-la-mesa-de-negociacion-una-propuesta-para-instaurar-el-voto-consular-digital-y-la-libertad-plena-de-los-presos-politicos/",
-      "published_date": "2026-09-25T21:49:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vacíos y propaganda: ProBox analizó la respuesta comunicacional estatal tras el doble terremoto",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/620870/vacios-y-propaganda-probox-analizo-la-respuesta-comunicacional-estatal-tras-el-doble-terremoto/",
-      "published_date": "2026-09-25T21:33:14Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/620917/laboratorio-de-paz-la-restitucion-de-la-soberania-popular-exige-fecha-concreta/",
+      "published_date": "2026-09-26T12:36:00Z",
+      "category": "Military"
     },
     {
       "title": "Guterres pide al presidente iraní resolver el conflicto mediante el diálogo y garantizar la navegación en el estrecho de Ormuz",
@@ -276,11 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Asamblea Nacional aprueba acuerdo de respaldo a la participación de Delcy Rodríguez en la Asamblea General de la ONU",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/asamblea-nacional-aprueba-acuerdo-de-respaldo-a-la-participacion-de-delcy-rodriguez-en-la-asamblea-general-de-la-onu/",
-      "published_date": "2026-09-23T21:12:16Z",
-      "category": "Military"
+      "title": "Exviceministro Alexander «Mimou» Vargas es detenido por segunda vez en Maiquetía",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/exvuceministro-alexander-mimou-vargas-es-detenido-por-segunda-vez-en-maiquetia/",
+      "published_date": "2026-09-26T14:51:34Z",
+      "category": "Energy"
     },
     {
       "title": "Alianzas, formación y buen augurio para la industria musical deja el Caracas Music BIZ-360 en su segunda edición",
@@ -413,13 +420,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/regiones/petroleros-esperaran-hasta-el-1-de-octubre-por-respuesta-de-pdvsa-en-monagas-al-fondo-de-jubilaciones/",
       "published_date": "2026-09-23T12:36:20Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Jefe de inteligencia del Pentágono visitó Caracas el fin de semana en gira regional de seguridad",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/jefe-de-inteligencia-del-pentagono-visito-caracas-el-fin-de-semana-en-gira-regional-de-seguridad/",
-      "published_date": "2026-09-22T19:48:41Z",
       "category": "Energy"
     },
     {
@@ -556,150 +556,143 @@
       "category": "Economy"
     },
     {
-      "title": "Fiscalía abordó con HRW la situación de los derechos humanos en el país",
+      "title": "Protestaron en Lara por los cortes eléctricos y pidieron a Trump atender la situación",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/__trashed-7/",
-      "published_date": "2026-09-19T11:34:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "La economía política de la miseria periodística",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/620928/fake-news-venezuela/",
-      "published_date": "2026-09-26T00:59:30Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/protestaron-en-lara-por-los-cortes-electricos-y-pidieron-a-trump-atender-la-situacion/",
+      "published_date": "2026-09-26T14:55:17Z",
       "category": "Local Events"
     },
     {
-      "title": "Sntp pide garantías reales tras el desbloqueo de portales",
+      "title": "Rick Scott señaló que Delcy Rodríguez debe cooperar con EE UU mientras se trabaja en una verdadera transición",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/rick-scott-senalo-que-delcy-rodriguez-debe-cooperar-con-ee-uu-mientras-se-trabaja-en-una-verdadera-transicion/",
+      "published_date": "2026-09-26T14:21:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Rick Scott señaló que Delcy Rodríguez debe cooperar con EE UU mientras se trabaja en una verdadera transición",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/rick-scott-senalo-que-delcy-rodriguez-debe-cooperar-con-ee-uu-mientras-se-trabaja-en-una-verdadera-transicion/",
+      "published_date": "2026-09-26T14:21:51Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Silvana Dragone: “Del estudio tras los terremotos saldrán lineamientos para actualizar las normas sísmicas de Venezuela”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/silvana-dragone-del-estudio-tras-los-terremotos-saldran-lineamientos-para-actualizar-las-normas-sismicas-de-venezuela/",
+      "published_date": "2026-09-26T14:11:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Silvana Dragone: “Del estudio tras los terremotos saldrán lineamientos para actualizar las normas sísmicas de Venezuela”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/silvana-dragone-del-estudio-tras-los-terremotos-saldran-lineamientos-para-actualizar-las-normas-sismicas-de-venezuela/",
+      "published_date": "2026-09-26T14:11:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "20 medios desarrollan proyectos de video e inteligencia artificial con Google y la SIP",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/20-medios-desarrollan-proyectos-de-video-e-inteligencia-artificial-con-google-y-la-sip/",
+      "published_date": "2026-09-26T14:05:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "20 medios desarrollan proyectos de video e inteligencia artificial con Google y la SIP",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/20-medios-desarrollan-proyectos-de-video-e-inteligencia-artificial-con-google-y-la-sip/",
+      "published_date": "2026-09-26T14:05:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conformaron el Consejo de Revisión de Credenciales para seleccionar a los magistrados del TSJ",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/conformaron-el-consejo-de-revision-de-credenciales-para-seleccionar-a-los-magistrados-del-tsj/",
+      "published_date": "2026-09-26T14:01:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Conformaron el Consejo de Revisión de Credenciales para seleccionar a los magistrados del TSJ",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/conformaron-el-consejo-de-revision-de-credenciales-para-seleccionar-a-los-magistrados-del-tsj/",
+      "published_date": "2026-09-26T14:01:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Paparoni exigió el desbloqueo total de los medios digitales independientes en Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/carlos-paparoni-exigio-el-desbloqueo-total-de-los-medios-digitales-independientes-en-venezuela/",
+      "published_date": "2026-09-26T13:53:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Carlos Paparoni exigió el desbloqueo total de los medios digitales independientes en Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/carlos-paparoni-exigio-el-desbloqueo-total-de-los-medios-digitales-independientes-en-venezuela/",
+      "published_date": "2026-09-26T13:53:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canciller Félix Plasencia reiteró el rechazo a la jurisdicción de la CIJ en la controversia por el Esequibo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/canciller-felix-plasencia-reitero-el-rechazo-de-venezuela-a-la-jurisdiccion-de-la-cij-en-la-controversia-por-el-esequibo/",
+      "published_date": "2026-09-26T13:35:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Canciller Félix Plasencia reiteró el rechazo a la jurisdicción de la CIJ en la controversia por el Esequibo",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/canciller-felix-plasencia-reitero-el-rechazo-de-venezuela-a-la-jurisdiccion-de-la-cij-en-la-controversia-por-el-esequibo/",
+      "published_date": "2026-09-26T13:35:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "George Russell gana el Gran Premio de Azerbaiyán",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/09/george-russell-gana-el-gran-premio-de-azerbaiyan/",
+      "published_date": "2026-09-26T13:28:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "George Russell gana el Gran Premio de Azerbaiyán",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/09/george-russell-gana-el-gran-premio-de-azerbaiyan/",
+      "published_date": "2026-09-26T13:28:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Desbloquean más de 60 dominios de internet y mantiene veto a 166, según VE sin Filtro",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/destacado-4/sntp-pide-garantias-reales-desbloqueo-portales/",
-      "published_date": "2026-09-26T00:53:27Z",
+      "url": "https://efectococuyo.com/la-humanidad/desbloquean-mas-de-60-dominios-internet/",
+      "published_date": "2026-09-26T12:51:16Z",
       "category": "Local Events"
     },
     {
-      "title": "VE Sin Filtro pide transparencia tras nuevo anuncio de desbloqueo de sitios web",
+      "title": "Activistas marcharán este sábado hacia la AN para entregar propuesta de ley para protección animal",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ve-sin-filtro-pide-transparencia-tras-nuevo-anuncio-de-desbloqueo-de-sitios-web/",
-      "published_date": "2026-09-26T00:30:50Z",
+      "url": "https://www.elnacional.com/2026/09/activistas-marcharan-este-sabado-hacia-la-an-para-entregar-ley-de-proteccion-animal-y-exigir-sanciones-severas-contra-el-maltrato/",
+      "published_date": "2026-09-26T12:40:49Z",
       "category": "Local Events"
     },
     {
-      "title": "VE Sin Filtro pide transparencia tras nuevo anuncio de desbloqueo de sitios web",
+      "title": "Activistas marcharán este sábado hacia la AN para entregar propuesta de ley para protección animal",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ve-sin-filtro-pide-transparencia-tras-nuevo-anuncio-de-desbloqueo-de-sitios-web/",
-      "published_date": "2026-09-26T00:30:50Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/activistas-marcharan-este-sabado-hacia-la-an-para-entregar-ley-de-proteccion-animal-y-exigir-sanciones-severas-contra-el-maltrato/",
+      "published_date": "2026-09-26T12:40:49Z",
       "category": "Local Events"
     },
     {
-      "title": "El SNTP denuncia que cambiar \"bloqueo\" por \"medidas administrativas\" no borra la censura",
+      "title": "Jorge Rodríguez dijo que se celebrarán cuatro procesos electorales en Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-sntp-denuncia-que-cambiar-bloqueo-por-medidas-administrativas-no-borra-la-censura/",
-      "published_date": "2026-09-26T00:28:33Z",
+      "url": "https://www.elnacional.com/2026/09/jorge-rodriguez-dice-que-se-celebraran-cuatro-procesos-electorales-en-venezuela-y-dejo-de-ultimo-las-presidenciales/",
+      "published_date": "2026-09-26T12:19:02Z",
       "category": "Local Events"
     },
     {
-      "title": "El SNTP denuncia que cambiar \"bloqueo\" por \"medidas administrativas\" no borra la censura",
+      "title": "Jorge Rodríguez dijo que se celebrarán cuatro procesos electorales en Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-sntp-denuncia-que-cambiar-bloqueo-por-medidas-administrativas-no-borra-la-censura/",
-      "published_date": "2026-09-26T00:28:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francisco Garcés confirma el hallazgo de \"prácticas inadecuadas\" en la inspección de más de 65.000 edificaciones tras el terremoto",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/francisco-garces-confirma-el-hallazgo-de-practicas-inadecuadas-en-la-inspeccion-de-mas-de-65-000-edificaciones-tras-el-terremoto/",
-      "published_date": "2026-09-25T23:56:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francisco Garcés confirma el hallazgo de \"prácticas inadecuadas\" en la inspección de más de 65.000 edificaciones tras el terremoto",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/francisco-garces-confirma-el-hallazgo-de-practicas-inadecuadas-en-la-inspeccion-de-mas-de-65-000-edificaciones-tras-el-terremoto/",
-      "published_date": "2026-09-25T23:56:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reuters: Reformas institucionales podrían retrasar elecciones venezolanas hasta finales de 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/reuters-reformas-institucionales-podrian-retrasar-elecciones-venezolanas-hasta-finales-de-2027/",
-      "published_date": "2026-09-25T23:28:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Reuters: Reformas institucionales podrían retrasar elecciones venezolanas hasta finales de 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/reuters-reformas-institucionales-podrian-retrasar-elecciones-venezolanas-hasta-finales-de-2027/",
-      "published_date": "2026-09-25T23:28:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El pabellón criollo arrasa en la final del Mundial de Comidas de Ibai Llanos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-pabellon-criollo-arrasa-en-la-final-del-mundial-de-comidas-de-ibai-llanos/",
-      "published_date": "2026-09-25T22:58:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El pabellón criollo arrasa en la final del Mundial de Comidas de Ibai Llanos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-pabellon-criollo-arrasa-en-la-final-del-mundial-de-comidas-de-ibai-llanos/",
-      "published_date": "2026-09-25T22:58:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez ordena levantar restricciones administrativas contra otro grupo de plataformas y medios digitales",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/delcy-rodriguez-ordena-levantar-restricciones-administrativas-contra-un-nuevo-grupo-de-plataformas-y-medios-digitales/",
-      "published_date": "2026-09-25T22:25:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez ordena levantar restricciones administrativas contra otro grupo de plataformas y medios digitales",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/delcy-rodriguez-ordena-levantar-restricciones-administrativas-contra-un-nuevo-grupo-de-plataformas-y-medios-digitales/",
-      "published_date": "2026-09-25T22:25:04Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suramericanos: Venezuela gana tres doradas en una jornada de 16 medallas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/suramericanos-yorgelis-salazar-dio-el-oro-a-venezuela-en-una-jornada-de-13-medallas/",
-      "published_date": "2026-09-25T22:14:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Suramericanos: Venezuela gana tres doradas en una jornada de 16 medallas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/suramericanos-yorgelis-salazar-dio-el-oro-a-venezuela-en-una-jornada-de-13-medallas/",
-      "published_date": "2026-09-25T22:14:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bolívar | Colegio de Veterinarios denuncia cobros irregulares en entrega de permisos sanitarios",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/bolivar-colegio-de-veterinarios-denuncia-cobros-irregulares-en-entrega-de-permisos-sanitarios/",
-      "published_date": "2026-09-25T22:04:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La OPS y las autoridades sanitarias de Venezuela diseñan una hoja de ruta para reforzar la respuesta médica ante emergencias sísmicas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/la-ops-y-las-autoridades-sanitarias-de-venezuela-disenan-una-hoja-de-ruta-para-reforzar-la-respuesta-medica-ante-emergencias-sismicas/",
-      "published_date": "2026-09-25T21:54:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La OPS y las autoridades sanitarias de Venezuela diseñan una hoja de ruta para reforzar la respuesta médica ante emergencias sísmicas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/la-ops-y-las-autoridades-sanitarias-de-venezuela-disenan-una-hoja-de-ruta-para-reforzar-la-respuesta-medica-ante-emergencias-sismicas/",
-      "published_date": "2026-09-25T21:54:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez ordena desbloqueo de más portales web tras “avances en diálogos”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/delcy-rodriguez-ordena-desbloqueo-de-mas-portales-web-tras-avances-en-dialogos/",
-      "published_date": "2026-09-25T21:53:39Z",
+      "url": "https://bitlysdowssl-aws.com/2026/09/jorge-rodriguez-dice-que-se-celebraran-cuatro-procesos-electorales-en-venezuela-y-dejo-de-ultimo-las-presidenciales/",
+      "published_date": "2026-09-26T12:19:02Z",
       "category": "Local Events"
     }
   ]
