@@ -1,7 +1,119 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-03T01:54:04Z",
+  "last_updated": "2026-10-03T15:09:12Z",
   "stories": [
+    {
+      "title": "Anzoátegui | Bomberos rescatan a un hombre que estuvo 15 días desaparecido en una zona montañosa",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/anzoategui-bomberos-rescatan-a-un-hombre-que-estuvo-15-dias-desaparecido-en-una-zona-montanosa/",
+      "published_date": "2026-10-03T14:54:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Red Bull sigue progresando y Verstappen logra la pole de GP de Baréin",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/red-bull-sigue-progresando-y-verstappen-logra-la-pole-de-gp-de-barein/",
+      "published_date": "2026-10-03T14:40:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Red Bull sigue progresando y Verstappen logra la pole de GP de Baréin",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/red-bull-sigue-progresando-y-verstappen-logra-la-pole-de-gp-de-barein/",
+      "published_date": "2026-10-03T14:40:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Instituto Casla entrega medalla de reconocimiento al expresidente de Colombia Andrés Pastrana",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/instituto-casla-entrega-medalla-de-reconocimiento-al-expresidente-de-colombia-andres-pastrana/",
+      "published_date": "2026-10-03T13:54:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Instituto Casla entrega medalla de reconocimiento al expresidente de Colombia Andrés Pastrana",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/instituto-casla-entrega-medalla-de-reconocimiento-al-expresidente-de-colombia-andres-pastrana/",
+      "published_date": "2026-10-03T13:54:05Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HYPE Fighting debuta en Latinoamérica: ¡Ecuador se prepara para acoger a luchadores de talla mundial!",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/hype-fighting-debuta-en-latinoamerica-ecuador-se-prepara-para-acoger-a-luchadores-de-talla-mundial/",
+      "published_date": "2026-10-03T13:02:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "HYPE Fighting debuta en Latinoamérica: ¡Ecuador se prepara para acoger a luchadores de talla mundial!",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/hype-fighting-debuta-en-latinoamerica-ecuador-se-prepara-para-acoger-a-luchadores-de-talla-mundial/",
+      "published_date": "2026-10-03T13:02:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela evalúa alianzas con Baker Hughes para desarrollo de proyectos de gas natural",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/venezuela-evalua-alianzas-con-baker-hughes-para-desarrollo-de-proyectos-de-gas-natural/",
+      "published_date": "2026-10-03T11:42:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela evalúa alianzas con Baker Hughes para desarrollo de proyectos de gas natural",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/venezuela-evalua-alianzas-con-baker-hughes-para-desarrollo-de-proyectos-de-gas-natural/",
+      "published_date": "2026-10-03T11:42:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE UU capturó a un venezolano acusado de liderar una red financiera del Tren de Aragua",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/ee-uu-capturo-a-un-venezolano-acusado-de-liderar-una-red-financiera-del-tren-de-aragua/",
+      "published_date": "2026-10-03T11:28:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE UU capturó a un venezolano acusado de liderar una red financiera del Tren de Aragua",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/ee-uu-capturo-a-un-venezolano-acusado-de-liderar-una-red-financiera-del-tren-de-aragua/",
+      "published_date": "2026-10-03T11:28:50Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Renunció fiscal federal que llevaba el caso contra Nicolás Maduro y Cilia Flores en Nueva York",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/renuncio-fiscal-federal-que-llevaba-el-caso-contra-nicolas-maduro-y-cilia-flores-en-nueva-york/",
+      "published_date": "2026-10-03T10:13:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Renunció fiscal federal que llevaba el caso contra Nicolás Maduro y Cilia Flores en Nueva York",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/renuncio-fiscal-federal-que-llevaba-el-caso-contra-nicolas-maduro-y-cilia-flores-en-nueva-york/",
+      "published_date": "2026-10-03T10:13:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Digger, la irregular y ambiciosa sátira política de Alejandro González Iñárritu",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/digger-la-irregular-y-ambiciosa-satira-politica-de-alejandro-gonzalez-inarritu/",
+      "published_date": "2026-10-03T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Digger, la irregular y ambiciosa sátira política de Alejandro González Iñárritu",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/digger-la-irregular-y-ambiciosa-satira-politica-de-alejandro-gonzalez-inarritu/",
+      "published_date": "2026-10-03T05:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un policía que fue crítico con el Gobierno murió preso, con golpes que el acta oficial no menciona. Nadie investigó (3/8)",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/621687/preso-politico-edison-torre/",
+      "published_date": "2026-10-03T04:29:49Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Portavoz del Departamento de Estado de EE. UU. evita pronunciarse sobre regreso de María Corina Machado a Venezuela",
       "source": "El Pitazo",
@@ -31,116 +143,32 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Gatorade Caracas Rock celebra su 25.ª edición este #4oct",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/deportes/gatorade-caracas-rock-celebra-su-25-a-edicion-este-4oct/",
-      "published_date": "2026-10-02T22:57:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez: «Estamos en un proceso de recuperación del sistema eléctrico nacional»",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/delcy-rodriguez-estamos-en-un-proceso-de-recuperacion-del-sistema-electrico-nacional/",
-      "published_date": "2026-10-02T22:28:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "De Nueva York a Londres: un vistazo a la semana de la moda en Avanti Talks",
+      "title": "Guaya de alta tensión se desprendió y cayó sobre una chalana en el río Orinoco",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/de-nueva-york-a-londres-un-vistazo-a-la-semana-de-la-moda-en-avanti-talks/",
-      "published_date": "2026-10-02T21:58:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/10/guaya-de-alta-tension-se-desprendio-y-cayo-sobre-una-chalana-en-el-rio-orinoco/",
+      "published_date": "2026-10-03T13:37:00Z",
+      "category": "Military"
     },
     {
-      "title": "De Nueva York a Londres: un vistazo a la semana de la moda en Avanti Talks",
+      "title": "Guaya de alta tensión se desprendió y cayó sobre una chalana en el río Orinoco",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/de-nueva-york-a-londres-un-vistazo-a-la-semana-de-la-moda-en-avanti-talks/",
-      "published_date": "2026-10-02T21:58:47Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/10/guaya-de-alta-tension-se-desprendio-y-cayo-sobre-una-chalana-en-el-rio-orinoco/",
+      "published_date": "2026-10-03T13:37:00Z",
+      "category": "Military"
     },
     {
-      "title": "Condenan a 10 años de prisión a excongresista de EE UU por cabildeo secreto a favor del gobierno de Maduro",
+      "title": "California y otros 26 estados demandan al gobierno de Trump por reducir normas de consumo de combustible",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/condenan-a-10-anos-de-prision-a-excongresista-de-ee-uu-por-cabildeo-secreto-a-favor-del-gobierno-de-maduro/",
-      "published_date": "2026-10-02T21:47:03Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/10/california-y-otros-26-estados-demandan-al-gobierno-de-trump-por-reducir-normas-de-consumo-de-combustible/",
+      "published_date": "2026-10-03T11:07:27Z",
+      "category": "Military"
     },
     {
-      "title": "Condenan a 10 años de prisión a excongresista de EE UU por cabildeo secreto a favor del gobierno de Maduro",
+      "title": "California y otros 26 estados demandan al gobierno de Trump por reducir normas de consumo de combustible",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/condenan-a-10-anos-de-prision-a-excongresista-de-ee-uu-por-cabildeo-secreto-a-favor-del-gobierno-de-maduro/",
-      "published_date": "2026-10-02T21:47:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Francia no pasa del empate ante Italia y Bélgica amplía la racha negativa de Turquía",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/francia-no-pasa-del-empate-ante-italia-y-belgica-amplia-la-racha-negativa-de-turquia/",
-      "published_date": "2026-10-02T21:43:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Francia no pasa del empate ante Italia y Bélgica amplía la racha negativa de Turquía",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/francia-no-pasa-del-empate-ante-italia-y-belgica-amplia-la-racha-negativa-de-turquia/",
-      "published_date": "2026-10-02T21:43:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "¿Habrá pernil en Navidad para los venezolanos? Esto dijo Delcy Rodríguez",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/habra-pernil-en-navidad-para-los-venezolanos-esto-dijo-delcy-rodriguez/",
-      "published_date": "2026-10-02T21:42:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La “happy hour” de Delcy Rodríguez en Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/621681/la-happy-hour-de-delcy-rodriguez-en-venezuela/",
-      "published_date": "2026-10-02T21:42:22Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Incumplimiento de acuerdos con Corpoelec desata nueva protesta y tranca en la carretera Centroccidental",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/incumplimiento-de-acuerdos-con-corpoelec-desata-nueva-protesta-y-tranca-en-la-carretera-centroccidental/",
-      "published_date": "2026-10-02T21:27:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Incumplimiento de acuerdos con Corpoelec desata nueva protesta y tranca en la carretera Centroccidental",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/incumplimiento-de-acuerdos-con-corpoelec-desata-nueva-protesta-y-tranca-en-la-carretera-centroccidental/",
-      "published_date": "2026-10-02T21:27:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las estiradas de Donnarumma le permiten a Italia rasgar un punto en Francia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/las-estiradas-de-donnarumma-le-permiten-a-italia-rasgar-un-punto-en-francia/",
-      "published_date": "2026-10-02T21:11:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las estiradas de Donnarumma le permiten a Italia rasgar un punto en Francia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/las-estiradas-de-donnarumma-le-permiten-a-italia-rasgar-un-punto-en-francia/",
-      "published_date": "2026-10-02T21:11:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE. UU. condena a excongresista republicano David Rivera por lavado de dinero y lobby secreto a favor de Maduro",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ee-uu-condena-a-excongresista-republicano-david-rivera-por-lavado-de-dinero-y-lobby-secreto-a-favor-de-maduro/",
-      "published_date": "2026-10-02T20:53:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez anuncia acuerdos con BID Invest para reactivar el financiamiento al sector privado y servicios en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-anuncia-acuerdos-con-bid-invest-para-reactivar-el-financiamiento-al-sector-privado-y-servicios-en-venezuela/",
-      "published_date": "2026-10-02T20:07:09Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/10/california-y-otros-26-estados-demandan-al-gobierno-de-trump-por-reducir-normas-de-consumo-de-combustible/",
+      "published_date": "2026-10-03T11:07:27Z",
+      "category": "Military"
     },
     {
       "title": "Conflicto en Oriente Medio deja 11 millones más de mujeres en inseguridad alimentaria, según la ONU",
@@ -255,32 +283,46 @@
       "category": "Military"
     },
     {
-      "title": "Familiares de Eloy Sánchez temen que haya sufrido el mismo destino que Víctor Quero",
+      "title": "Inameh prevé lluvias y descargas eléctricas para este sábado",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/familiares-de-eloy-sanchez-temen-que-haya-sufrido-el-mismo-destino-que-victor-quero/",
-      "published_date": "2026-09-30T05:00:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/inameh-preve-lluvias-y-descargas-eslectricas-para-este-sabado/",
+      "published_date": "2026-10-03T14:47:51Z",
+      "category": "Energy"
     },
     {
-      "title": "República Dominicana acelera reapertura de su Consulado General en Caracas tras la normalización diplomática regional",
+      "title": "Inameh prevé lluvias y descargas eléctricas para este sábado",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/republica-dominicana-acelera-la-reapertura-de-su-consulado-general-en-caracas-tras-la-normalizacion-diplomatica-regional/",
-      "published_date": "2026-09-29T20:04:01Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/10/inameh-preve-lluvias-y-descargas-eslectricas-para-este-sabado/",
+      "published_date": "2026-10-03T14:47:51Z",
+      "category": "Energy"
     },
     {
-      "title": "República Dominicana acelera reapertura de su Consulado General en Caracas tras la normalización diplomática regional",
+      "title": "Maurel&Prom estima producción de 23.000 bdp y Repsol de 60.000 bdp para finales de 2026",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/republica-dominicana-acelera-la-reapertura-de-su-consulado-general-en-caracas-tras-la-normalizacion-diplomatica-regional/",
-      "published_date": "2026-09-29T20:04:01Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/maurelprom-estima-produccion-de-23-000-bdp-y-repsol-de-60-000-bdp-para-finales-de-2026/",
+      "published_date": "2026-10-03T14:27:29Z",
+      "category": "Energy"
     },
     {
-      "title": "Familia exige respuestas por la desaparición forzada de Eloy Sánchez a manos del Sebin",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/familia-exige-respuestas-por-la-desaparicion-forzada-de-eloy-sanchez-a-manos-del-sebin/",
-      "published_date": "2026-09-29T19:04:52Z",
-      "category": "Military"
+      "title": "Maurel&Prom estima producción de 23.000 bdp y Repsol de 60.000 bdp para finales de 2026",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/maurelprom-estima-produccion-de-23-000-bdp-y-repsol-de-60-000-bdp-para-finales-de-2026/",
+      "published_date": "2026-10-03T14:27:29Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Las Series Divisionales abren el camino hacia las finales de las Grandes Ligas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/las-series-divisionales-abren-el-camino-hacia-las-finales-de-las-grandes-ligas/",
+      "published_date": "2026-10-03T14:16:05Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Las Series Divisionales abren el camino hacia las finales de las Grandes Ligas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/las-series-divisionales-abren-el-camino-hacia-las-finales-de-las-grandes-ligas/",
+      "published_date": "2026-10-03T14:16:05Z",
+      "category": "Energy"
     },
     {
       "title": "Monagas | Organizaciones exigen calendario electoral y liberación de presos políticos",
@@ -378,48 +420,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/10/repsol-confirma-que-mantiene-la-produccion-de-580-millones-de-pies-cubicos-de-gas-diarios-en-venezuela/",
       "published_date": "2026-10-01T16:32:45Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Crisis de infraestructura y falta de acuerdos políticos frenan el sueño de Venezuela como \"potencia gasífera\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/crisis-de-infraestructura-y-falta-de-acuerdos-politicos-frenan-el-sueno-de-venezuela-como-potencia-gasifera/",
-      "published_date": "2026-10-01T09:49:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Crisis de infraestructura y falta de acuerdos políticos frenan el sueño de Venezuela como \"potencia gasífera\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/crisis-de-infraestructura-y-falta-de-acuerdos-politicos-frenan-el-sueno-de-venezuela-como-potencia-gasifera/",
-      "published_date": "2026-10-01T09:49:00Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Empresa de Qatar negocia su entrada al sector de petróleo y gas en Venezuela, según Reuters",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/empresa-de-qatar-negocia-su-entrada-al-sector-de-petroleo-y-gas-en-venezuela-segun-reuters/",
-      "published_date": "2026-09-30T17:47:52Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Empresa de Qatar negocia su entrada al sector de petróleo y gas en Venezuela, según Reuters",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/empresa-de-qatar-negocia-su-entrada-al-sector-de-petroleo-y-gas-en-venezuela-segun-reuters/",
-      "published_date": "2026-09-30T17:47:52Z",
-      "category": "Energy"
-    },
-    {
-      "title": "San Diego y Nueva York tuvieron comienzos arrolladores en los playoffs de MLB",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/san-diego-y-nueva-york-tuvieron-comienzos-arrolladores-en-los-playoffs-de-mlb/",
-      "published_date": "2026-09-30T15:15:03Z",
-      "category": "Energy"
-    },
-    {
-      "title": "San Diego y Nueva York tuvieron comienzos arrolladores en los playoffs de MLB",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/san-diego-y-nueva-york-tuvieron-comienzos-arrolladores-en-los-playoffs-de-mlb/",
-      "published_date": "2026-09-30T15:15:03Z",
       "category": "Energy"
     },
     {
@@ -563,6 +563,111 @@
       "category": "Economy"
     },
     {
+      "title": "Comí alimentos descompuestos y pasé frío intencional: así relata exalcalde de Mérida la crudeza de su detención en EE. UU.",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/comi-alimentos-descompuestos-y-pase-frio-intencional-asi-relata-exalcalde-de-merida-la-crudeza-de-su-detencion-en-ee-uu/",
+      "published_date": "2026-10-03T14:03:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "42 mujeres siguen encarceladas por razones políticas en Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/42-mujeres-siguen-encarceladas-por-razones-politicas-en-venezuela/",
+      "published_date": "2026-10-03T14:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "​Frente de Entendimiento Nacional exige investigación exhaustiva sobre el despojo de El Nacional y la restitución inmediata de sus instalaciones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/frente-de-entendimiento-nacional-exige-investigacion-exhaustiva-sobre-el-despojo-de-el-nacional-y-la-restitucion-inmediata-de-sus-instalaciones/",
+      "published_date": "2026-10-03T13:12:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "​Frente de Entendimiento Nacional exige investigación exhaustiva sobre el despojo de El Nacional y la restitución inmediata de sus instalaciones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/frente-de-entendimiento-nacional-exige-investigacion-exhaustiva-sobre-el-despojo-de-el-nacional-y-la-restitucion-inmediata-de-sus-instalaciones/",
+      "published_date": "2026-10-03T13:12:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "¿Qué se sabe sobre el caso Caguaripano?",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/que-se-sabe-sobre-el-caso-caguaripano/",
+      "published_date": "2026-10-03T12:30:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beatrice Rangel, poder con ingenio: secretos de una venezolana de cancha internacional",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/beatrice-rangel-poder-con-ingenio-secretos-de-una-venezolana-de-cancha-internacional/",
+      "published_date": "2026-10-03T12:05:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Beatrice Rangel, poder con ingenio: secretos de una venezolana de cancha internacional",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/beatrice-rangel-poder-con-ingenio-secretos-de-una-venezolana-de-cancha-internacional/",
+      "published_date": "2026-10-03T12:05:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alcaraz pasa a cuartos en el ATP 500 de Tokio",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/alcaraz-pasa-a-cuartos-en-el-atp-500-de-tokio/",
+      "published_date": "2026-10-03T11:51:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alcaraz pasa a cuartos en el ATP 500 de Tokio",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/alcaraz-pasa-a-cuartos-en-el-atp-500-de-tokio/",
+      "published_date": "2026-10-03T11:51:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesta en la carretera Centroccidental derivó en violencia tras 13 horas de cierre por fallas eléctricas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/protesta-en-la-carretera-centroccidental-derivo-en-violencia-tras-13-horas-de-cierre-por-fallas-electricas/",
+      "published_date": "2026-10-03T11:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Protesta en la carretera Centroccidental derivó en violencia tras 13 horas de cierre por fallas eléctricas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/protesta-en-la-carretera-centroccidental-derivo-en-violencia-tras-13-horas-de-cierre-por-fallas-electricas/",
+      "published_date": "2026-10-03T11:07:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezolanos rindieron tributo a las víctimas a 100 días del doble terremoto en La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/venezolanos-rinden-tributo-a-las-victimas-a-100-dias-del-doble-terremoto-en-la-guaira/",
+      "published_date": "2026-10-03T11:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezolanos rindieron tributo a las víctimas a 100 días del doble terremoto en La Guaira",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/venezolanos-rinden-tributo-a-las-victimas-a-100-dias-del-doble-terremoto-en-la-guaira/",
+      "published_date": "2026-10-03T11:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tranca en la Panamericana Lara-Trujillo: protestas por apagones paralizaron la vía a la altura de La Pastora",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/tranca-en-la-panamericana-lara-trujillo-protestas-por-apagones-paralizaron-la-via-a-la-altura-de-la-pastora/",
+      "published_date": "2026-10-03T10:59:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tranca en la Panamericana Lara-Trujillo: protestas por apagones paralizaron la vía a la altura de La Pastora",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/tranca-en-la-panamericana-lara-trujillo-protestas-por-apagones-paralizaron-la-via-a-la-altura-de-la-pastora/",
+      "published_date": "2026-10-03T10:59:05Z",
+      "category": "Local Events"
+    },
+    {
       "title": "Burkina Faso está bloqueada en Marruecos a horas de su juego ante Argentina en Buenos Aires",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/burkina-faso-esta-bloqueada-en-marruecos-a-horas-de-su-juego-ante-argentina-en-buenos-aires/",
@@ -595,111 +700,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/diaspora-venezolana-en-ee-uu-anuncia-movilizacion-del-voto-ante-la-ola-de-deportaciones-de-la-administracion-trump/",
       "published_date": "2026-10-02T23:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Diáspora venezolana en EE UU anuncia movilización del voto ante la ola de deportaciones de la administración Trump",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/diaspora-venezolana-en-ee-uu-anuncia-movilizacion-del-voto-ante-la-ola-de-deportaciones-de-la-administracion-trump/",
-      "published_date": "2026-10-02T23:55:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rory Branker, editor de La Patilla, recibe libertad plena",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/rory-branker-editor-de-la-patilla-recibe-libertad-plena/",
-      "published_date": "2026-10-02T23:44:55Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Pablo Pérez estima que el nuevo TSJ esté decidido en el mes de diciembre",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/pablo-perez-estima-que-el-nuevo-tsj-este-decidido-en-el-mes-de-diciembre/",
-      "published_date": "2026-10-02T23:16:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colapso de alcantarilla en la Troncal 5 cierra el paso vehicular entre Barinas y Táchira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/colapso-troncal-5-barinas-tachira-lluvias-pedraza/",
-      "published_date": "2026-10-02T22:54:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Colapso de alcantarilla en la Troncal 5 cierra el paso vehicular entre Barinas y Táchira",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/colapso-troncal-5-barinas-tachira-lluvias-pedraza/",
-      "published_date": "2026-10-02T22:54:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Banco Interamericano de Desarrollo reabre su oficina en Caracas tras siete años de inactividad",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-banco-interamericano-de-desarrollo-reabre-su-oficina-en-caracas-tras-siete-anos-de-inactividad/",
-      "published_date": "2026-10-02T22:52:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Banco Interamericano de Desarrollo reabre su oficina en Caracas tras siete años de inactividad",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-banco-interamericano-de-desarrollo-reabre-su-oficina-en-caracas-tras-siete-anos-de-inactividad/",
-      "published_date": "2026-10-02T22:52:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dodgers eligen a Skubal para abrir la Serie Divisional ante Atlanta",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/dodgers-eligen-a-skubal-para-abrir-la-serie-divisional-ante-atlanta/",
-      "published_date": "2026-10-02T22:43:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dodgers eligen a Skubal para abrir la Serie Divisional ante Atlanta",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/dodgers-eligen-a-skubal-para-abrir-la-serie-divisional-ante-atlanta/",
-      "published_date": "2026-10-02T22:43:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Medio neerlandés aseguró que «por órdenes superiores» Curazao negó aterrizaje de avión donde iba María Corina Machado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/medio-neerlandes-aseguro-que-por-ordenes-superiores-curazao-nego-aterrizaje-de-avion-donde-iba-maria-corina-machado/",
-      "published_date": "2026-10-02T22:15:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "14 venezolanos jugarán en las Series Divisionales de MLB",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/14-venezolanos-jugaran-en-las-series-divisionales-de-mlb/",
-      "published_date": "2026-10-02T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "14 venezolanos jugarán en las Series Divisionales de MLB",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/14-venezolanos-jugaran-en-las-series-divisionales-de-mlb/",
-      "published_date": "2026-10-02T22:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Coca-Cola y Chinotto presentan novedades en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/ultimas-noticias/coca-cola-y-chinotto-presentan-novedades-en-venezuela/",
-      "published_date": "2026-10-02T21:50:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aregue inicia festividades patronales con el tradicional “Rompimiento” en vísperas de la XX Marcha de la Fe",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/aregue-inicia-festividades-patronales-con-el-tradicional-rompimiento-en-visperas-de-la-xx-marcha-de-la-fe/",
-      "published_date": "2026-10-02T21:24:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aregue inicia festividades patronales con el tradicional “Rompimiento” en vísperas de la XX Marcha de la Fe",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/aregue-inicia-festividades-patronales-con-el-tradicional-rompimiento-en-visperas-de-la-xx-marcha-de-la-fe/",
-      "published_date": "2026-10-02T21:24:40Z",
       "category": "Local Events"
     }
   ]
