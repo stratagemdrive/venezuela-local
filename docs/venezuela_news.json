@@ -1,7 +1,98 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-04T02:32:18Z",
+  "last_updated": "2026-10-04T15:46:16Z",
   "stories": [
+    {
+      "title": "Zulia | Incendio en inmediaciones de subestación eléctrica genera alarma en Lagunillas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/occidente/zulia-incendio-en-inmediaciones-de-subestacion-electrica-genera-alarma-en-lagunillas/",
+      "published_date": "2026-10-04T15:45:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El crecimiento del PIB está desconectado del bolsillo de los venezolanos",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/621748/el-crecimiento-del-pib-esta-desconectado-del-bolsillo-de-los-venezolanos/",
+      "published_date": "2026-10-04T13:30:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Familia Belfort espera que un nuevo TSJ resuelva caso del CNB tras 17 años fuera del aire: “Sería lo justo para el país”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/caso-cnb-familia-belfort-nuevo-tsj/",
+      "published_date": "2026-10-04T12:54:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Familia Belfort espera que un nuevo TSJ resuelva caso del CNB tras 17 años fuera del aire: “Sería lo justo para el país”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/caso-cnb-familia-belfort-nuevo-tsj/",
+      "published_date": "2026-10-04T12:54:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A nueve meses de la captura de Maduro, su hijo promete no descansar hasta verlo volver",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/a-nueve-meses-de-la-captura-de-maduro-su-hijo-promete-no-descansar-hasta-verlo-volver/",
+      "published_date": "2026-10-04T12:48:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "A nueve meses de la captura de Maduro, su hijo promete no descansar hasta verlo volver",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/a-nueve-meses-de-la-captura-de-maduro-su-hijo-promete-no-descansar-hasta-verlo-volver/",
+      "published_date": "2026-10-04T12:48:47Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brasil acude a las urnas en medio de una profunda polarización y tensiones institucionales",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/brasil-acude-a-las-urnas-en-medio-de-una-profunda-polarizacion-y-tensiones-institucionales/",
+      "published_date": "2026-10-04T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Brasil acude a las urnas en medio de una profunda polarización y tensiones institucionales",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/brasil-acude-a-las-urnas-en-medio-de-una-profunda-polarizacion-y-tensiones-institucionales/",
+      "published_date": "2026-10-04T09:48:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carmen Teresa Navas buscó a su hijo durante 16 meses. Le dijeron que estaba muerto entregándole un papel para que lo leyera ella misma (4/8)",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/621742/carmen-teresa-navas/",
+      "published_date": "2026-10-04T08:26:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Seis presos políticos con penas cumplidas siguen tras las rejas, cinco son militares",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/seis-presos-politicos-con-condena-cumplida-siguen-tras-las-rejas/",
+      "published_date": "2026-10-04T06:50:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Niños venezolanos en EEUU: cómo prepararlos ante riesgo de separación familiar por ICE",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/venezuela-migrante/ninos-venezolanos-en-eeuu-como-prepararlos-ante-riesgo-de-separacion-familiar-por-ice/",
+      "published_date": "2026-10-04T06:26:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "TSJ: Comisión Preliminar bajo control chavista vs contrapeso del Consejo de Revisión y sociedad civil",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/tsj-comision-preliminar-bajo-control-chavista-vs-contrapeso-del-consejo-de-revision-y-sociedad-civil/",
+      "published_date": "2026-10-04T06:15:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Departamento de Estado ratifica que desconoce a Maduro como presidente de la República",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/departamento-de-estado-ratifica-ante-la-fiscalia-que-desconoce-a-maduro-como-presidente-de-la-republica/",
+      "published_date": "2026-10-04T01:06:57Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dua Lipa se sumó como invitada sorpresa en el concierto de Shakira en Madrid",
       "source": "El Nacional",
@@ -49,97 +140,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/621727/crisis-electrica-1300-megavatios-son-suficientes-para-mejorar-el-servicio/",
       "published_date": "2026-10-03T23:01:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Disney sumó 300 nuevos despidos y ofreció hasta un año de indemnización en retiro a ejecutivos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/disney-sumo-300-nuevos-despidos-y-ofrecio-hasta-un-ano-de-indemnizacion-en-retiro-a-ejecutivos/",
-      "published_date": "2026-10-03T22:49:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Disney sumó 300 nuevos despidos y ofreció hasta un año de indemnización en retiro a ejecutivos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/disney-sumo-300-nuevos-despidos-y-ofrecio-hasta-un-ano-de-indemnizacion-en-retiro-a-ejecutivos/",
-      "published_date": "2026-10-03T22:49:01Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE. UU. pide rechazar inmunidad de Maduro y Cilia Flores en caso por narcotráfico",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ee-uu-pide-rechazar-inmunidad-de-maduro-y-cilia-flores-en-caso-por-narcotrafico/",
-      "published_date": "2026-10-03T22:04:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bomberos sofocaron un incendio en la guardería de un centro comercial en Montalbán",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/bomberos-sofocaron-un-incendio-en-la-guarderia-de-un-centro-comercial-en-montalban/",
-      "published_date": "2026-10-03T22:02:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bomberos sofocaron un incendio en la guardería de un centro comercial en Montalbán",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/bomberos-sofocaron-un-incendio-en-la-guarderia-de-un-centro-comercial-en-montalban/",
-      "published_date": "2026-10-03T22:02:13Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hombre de 70 años evitó estafa de 20.000 bolívares al descubrir un video falso de Cristiano Ronaldo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/hombre-de-70-anos-evito-estafa-de-20-000-bolivares-al-descubrir-un-video-falso-de-cristiano-ronaldo/",
-      "published_date": "2026-10-03T20:44:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Hombre de 70 años evitó estafa de 20.000 bolívares al descubrir un video falso de Cristiano Ronaldo",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/hombre-de-70-anos-evito-estafa-de-20-000-bolivares-al-descubrir-un-video-falso-de-cristiano-ronaldo/",
-      "published_date": "2026-10-03T20:44:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vecinos de El Rodeo en Aragua acumulan cinco días sin electricidad por falta de un transformador",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/vecinos-de-el-rodeo-en-aragua-acumulan-cinco-dias-sin-electricidad-por-falta-de-un-transformador/",
-      "published_date": "2026-10-03T20:09:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vecinos de El Rodeo en Aragua acumulan cinco días sin electricidad por falta de un transformador",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/vecinos-de-el-rodeo-en-aragua-acumulan-cinco-dias-sin-electricidad-por-falta-de-un-transformador/",
-      "published_date": "2026-10-03T20:09:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inglaterra somete a la Croacia de Modric a una paliza histórica",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/inglaterra-somete-a-la-croacia-de-modric-a-una-paliza-historica/",
-      "published_date": "2026-10-03T19:56:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inglaterra somete a la Croacia de Modric a una paliza histórica",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/inglaterra-somete-a-la-croacia-de-modric-a-una-paliza-historica/",
-      "published_date": "2026-10-03T19:56:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jorge Martín refuerza su liderazgo en MotoGP con la pole en Japón",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/jorge-martin-refuerza-su-liderazgo-en-motogp-con-la-pole-en-japon/",
-      "published_date": "2026-10-03T19:35:33Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jorge Martín refuerza su liderazgo en MotoGP con la pole en Japón",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/jorge-martin-refuerza-su-liderazgo-en-motogp-con-la-pole-en-japon/",
-      "published_date": "2026-10-03T19:35:33Z",
       "category": "Diplomacy"
     },
     {
@@ -283,6 +283,20 @@
       "category": "Military"
     },
     {
+      "title": "75% de latinoamericanos recorta otros gastos para cubrir el de vivienda, según estudio",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/75-de-latinoamericanos-recorta-otros-gastos-para-cubrir-el-de-vivienda-segun-estudio/",
+      "published_date": "2026-10-04T14:36:48Z",
+      "category": "Energy"
+    },
+    {
+      "title": "75% de latinoamericanos recorta otros gastos para cubrir el de vivienda, según estudio",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/75-de-latinoamericanos-recorta-otros-gastos-para-cubrir-el-de-vivienda-segun-estudio/",
+      "published_date": "2026-10-04T14:36:48Z",
+      "category": "Energy"
+    },
+    {
       "title": "Bloomberg: Eni y Repsol estudian vender parte de sus acciones en el yacimiento de gas Perla para obtener más fondos",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/eni-y-repsol-estudian-vender-parte-de-sus-acciones-en-el-yacimiento-de-gas-perla-para-obtener-mas-fondos/",
@@ -406,20 +420,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/abelardo-de-la-espriella-frena-el-alza-de-la-gasolina-en-colombia-pese-a-la-escalada-del-crudo-internacional/",
       "published_date": "2026-10-01T23:16:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Abelardo de la Espriella frena el alza de la gasolina en Colombia pese a la escalada del crudo internacional",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/abelardo-de-la-espriella-frena-el-alza-de-la-gasolina-en-colombia-pese-a-la-escalada-del-crudo-internacional/",
-      "published_date": "2026-10-01T23:16:38Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ethan Salas sigue rompiendo marcas históricas en las Grandes Ligas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ethan-salas-sigue-rompiendo-marcas-historicas-en-las-grandes-ligas/",
-      "published_date": "2026-10-01T19:29:20Z",
       "category": "Energy"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Rescatistas y voluntarios recuperaron cuatro cuerpos en La Guaira tras 101 días de los terremotos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/rescatistas-y-voluntarios-recuperaron-cuatro-cuerpos-en-la-guaira-tras-101-dias-de-los-terremotos/",
-      "published_date": "2026-10-04T01:00:40Z",
+      "title": "Asesinan a puñaladas a una niña venezolana en las calles de Chicago",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/sucesos/asesinan-a-punaladas-a-una-nina-venezolana-en-las-calles-de-chicago/",
+      "published_date": "2026-10-04T15:43:52Z",
       "category": "Local Events"
     },
     {
-      "title": "Rescatistas y voluntarios recuperaron cuatro cuerpos en La Guaira tras 101 días de los terremotos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/rescatistas-y-voluntarios-recuperaron-cuatro-cuerpos-en-la-guaira-tras-101-dias-de-los-terremotos/",
-      "published_date": "2026-10-04T01:00:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alto comisionado de Acnur recorrió La Guaira tras 100 días de los terremotos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/alto-comisionado-de-acnur-recorrio-la-guaira-tras-100-dias-de-los-terremotos/",
-      "published_date": "2026-10-03T23:44:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alto comisionado de Acnur recorrió La Guaira tras 100 días de los terremotos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/alto-comisionado-de-acnur-recorrio-la-guaira-tras-100-dias-de-los-terremotos/",
-      "published_date": "2026-10-03T23:44:59Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avión desaparecido frente a costa de EE UU cayó 12.000 pies antes de perder contacto con controladores",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/avion-desaparecido-frente-a-costa-de-ee-uu-cayo-12-000-pies-antes-perder-contacto-con-controladores/",
-      "published_date": "2026-10-03T23:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avión desaparecido frente a costa de EE UU cayó 12.000 pies antes de perder contacto con controladores",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/avion-desaparecido-frente-a-costa-de-ee-uu-cayo-12-000-pies-antes-perder-contacto-con-controladores/",
-      "published_date": "2026-10-03T23:00:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miles de devotos acompañaron la XX Marcha de la Fe a su santuario en Aregue",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/miles-de-devotos-acompanaron-la-xx-marcha-de-la-fe-a-su-santuario-en-aregue/",
-      "published_date": "2026-10-03T22:41:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miles de devotos acompañaron la XX Marcha de la Fe a su santuario en Aregue",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/miles-de-devotos-acompanaron-la-xx-marcha-de-la-fe-a-su-santuario-en-aregue/",
-      "published_date": "2026-10-03T22:41:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global Empowerment Mission reportó más de $47,4 millones en ayuda para Venezuela a 100 días de los terremotos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/global-empowerment-mission-reporto-mas-de-474-millones-en-ayuda-para-venezuela-a-100-dias-de-los-terremotos/",
-      "published_date": "2026-10-03T22:33:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Global Empowerment Mission reportó más de $47,4 millones en ayuda para Venezuela a 100 días de los terremotos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/global-empowerment-mission-reporto-mas-de-474-millones-en-ayuda-para-venezuela-a-100-dias-de-los-terremotos/",
-      "published_date": "2026-10-03T22:33:24Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avión con seis personas desapareció durante vuelo de Bermudas a Boston",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/un-avion-con-seis-personas-desaparecio-durante-vuelo-de-bermudas-a-boston/",
-      "published_date": "2026-10-03T21:54:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Avión con seis personas desapareció durante vuelo de Bermudas a Boston",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/un-avion-con-seis-personas-desaparecio-durante-vuelo-de-bermudas-a-boston/",
-      "published_date": "2026-10-03T21:54:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renunció el jefe de prisiones de Tennessee tras la fallida ejecución por inyección letal de Christa Pike",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/renuncio-el-jefe-de-prisiones-de-tennessee-tras-la-fallida-ejecucion-por-inyeccion-letal-de-christa-pike/",
-      "published_date": "2026-10-03T21:11:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Renunció el jefe de prisiones de Tennessee tras la fallida ejecución por inyección letal de Christa Pike",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/renuncio-el-jefe-de-prisiones-de-tennessee-tras-la-fallida-ejecucion-por-inyeccion-letal-de-christa-pike/",
-      "published_date": "2026-10-03T21:11:45Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gatorade Caracas Rock: estas son las calles que estarán cerradas durante la carrera este 4 de octubre",
+      "title": "Terminal provisional de Maiquetía incorpora nueva carpa para desembarques nacionales",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gatorade-caracas-rock-estas-son-las-calles-que-estaran-cerradas-durante-la-carrera-este-4-de-octubre/",
-      "published_date": "2026-10-03T21:00:24Z",
+      "url": "https://elpitazo.net/otras-noticias/terminal-provisional-de-maiquetia-incorpora-nueva-carpa-para-desembarques-nacionales/",
+      "published_date": "2026-10-04T15:40:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Chicago sorprendió a Cleveland con sólido picheo y se llevó el primer juego de la Serie Divisional de la Liga Americana",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/chicago-sorprendio-a-cleveland-con-solido-pitcheo-y-se-lleva-el-primer-juego-de-la-serie-divisional/",
-      "published_date": "2026-10-03T20:58:49Z",
+      "title": "Desbloqueo selectivo de la censura digital: 74 dominios libres y 145 portales siguen bloqueados",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/desbloqueo-selectivo-de-la-censura-digital-74-dominios-libres-y-145-portales-siguen-bloqueados/",
+      "published_date": "2026-10-04T15:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Chicago sorprendió a Cleveland con sólido picheo y se llevó el primer juego de la Serie Divisional de la Liga Americana",
+      "title": "Djokovic elimina a Zverev y alcanza semifinales del ATP 500 de Pekín",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/chicago-sorprendio-a-cleveland-con-solido-pitcheo-y-se-lleva-el-primer-juego-de-la-serie-divisional/",
-      "published_date": "2026-10-03T20:58:49Z",
+      "url": "https://www.elnacional.com/2026/10/djokovic-elimina-a-zverev-y-alcanza-semifinales-del-atp-500-de-pekin/",
+      "published_date": "2026-10-04T14:58:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Edmundo González rechazó comentarios contra Dinorah Figuera y llamó a no degradar figura de la mujer",
+      "title": "Djokovic elimina a Zverev y alcanza semifinales del ATP 500 de Pekín",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/edmundo-gonzalez-se-pronuncio-sobre-los-comentarios-contra-dinorah-figuera-y-llamo-a-no-degradar-la-figura-de-la-mujer/",
-      "published_date": "2026-10-03T20:35:23Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/djokovic-elimina-a-zverev-y-alcanza-semifinales-del-atp-500-de-pekin/",
+      "published_date": "2026-10-04T14:58:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Edmundo González rechazó comentarios contra Dinorah Figuera y llamó a no degradar figura de la mujer",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/edmundo-gonzalez-se-pronuncio-sobre-los-comentarios-contra-dinorah-figuera-y-llamo-a-no-degradar-la-figura-de-la-mujer/",
-      "published_date": "2026-10-03T20:35:23Z",
+      "title": "Actor José Torres, el recordado “Tacupay”, reveló que sobrevivió a los terremotos de La Guaira",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/cultura/actor-jose-torres-el-recordado-tacupay-revelo-que-sobrevivio-a-los-terremotos-de-la-guaira/",
+      "published_date": "2026-10-04T14:43:06Z",
       "category": "Local Events"
     },
     {
-      "title": "Sociedad civil podrá integrar el Comité de Postulaciones Judiciales",
+      "title": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/economia/la-opep-decidio-congelar-su-oferta-de-petroleo-hasta-noviembre/",
+      "published_date": "2026-10-04T14:30:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La selección de Venezuela de Futsal Sub-20 venció 3-2 a Chile y selló su pase a la final ante Brasil",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/sociedad-civil-podra-integrar-el-comite-de-postulaciones-judiciales/",
-      "published_date": "2026-10-03T20:28:58Z",
+      "url": "https://www.elnacional.com/2026/10/la-seleccion-de-venezuela-de-futsal-sub-20-vencio-3-2-a-chile-y-sello-su-pase-a-la-final-ante-brasil/",
+      "published_date": "2026-10-04T14:08:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La selección de Venezuela de Futsal Sub-20 venció 3-2 a Chile y selló su pase a la final ante Brasil",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/la-seleccion-de-venezuela-de-futsal-sub-20-vencio-3-2-a-chile-y-sello-su-pase-a-la-final-ante-brasil/",
+      "published_date": "2026-10-04T14:08:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asesinaron a puñaladas a una niña venezolana en Chicago",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/asesinaron-a-punaladas-a-una-nina-venezolana-de-7-anos-en-chicago/",
+      "published_date": "2026-10-04T13:57:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asesinaron a puñaladas a una niña venezolana en Chicago",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/asesinaron-a-punaladas-a-una-nina-venezolana-de-7-anos-en-chicago/",
+      "published_date": "2026-10-04T13:57:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump pide el voto en Ohio para frenar el avance demócrata y amarrar el control del Senado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/trump-pide-el-voto-en-ohio-para-frenar-el-avance-democrata-y-amarrar-el-control-del-senado/",
+      "published_date": "2026-10-04T13:52:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump pide el voto en Ohio para frenar el avance demócrata y amarrar el control del Senado",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trump-pide-el-voto-en-ohio-para-frenar-el-avance-democrata-y-amarrar-el-control-del-senado/",
+      "published_date": "2026-10-04T13:52:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marc Márquez gana MotoGP de Japón y recorta distancia con Martín",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/marc-marquez-gana-motogp-de-japon-y-recorta-distancia-con-martin/",
+      "published_date": "2026-10-04T13:41:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Marc Márquez gana MotoGP de Japón y recorta distancia con Martín",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/marc-marquez-gana-motogp-de-japon-y-recorta-distancia-con-martin/",
+      "published_date": "2026-10-04T13:41:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verstappen reina en el caos de Sepang para ganar el GP de Baréin",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/verstappen-reina-en-el-caos-de-sepang-para-ganar-el-gp-de-barein/",
+      "published_date": "2026-10-04T13:19:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Verstappen reina en el caos de Sepang para ganar el GP de Baréin",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/verstappen-reina-en-el-caos-de-sepang-para-ganar-el-gp-de-barein/",
+      "published_date": "2026-10-04T13:19:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alcaraz avanza a semifinales del Abierto de Japón tras la retirada de Shapovalov",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/alcaraz-avanza-a-semifinales-del-abierto-de-japon-tras-la-retirada-de-shapovalov/",
+      "published_date": "2026-10-04T13:08:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Alcaraz avanza a semifinales del Abierto de Japón tras la retirada de Shapovalov",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/alcaraz-avanza-a-semifinales-del-abierto-de-japon-tras-la-retirada-de-shapovalov/",
+      "published_date": "2026-10-04T13:08:07Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuertes lluvias y ráfagas de viento causaron daños en el estado Zulia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/fuertes-lluvias-y-rafagas-de-viento-causan-danos-en-el-estado-zulia/",
+      "published_date": "2026-10-04T12:52:12Z",
       "category": "Local Events"
     }
   ]
