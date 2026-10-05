@@ -1,146 +1,181 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-04T15:46:16Z",
+  "last_updated": "2026-10-05T01:50:14Z",
   "stories": [
     {
-      "title": "Zulia | Incendio en inmediaciones de subestación eléctrica genera alarma en Lagunillas",
+      "title": "Pedro Sánchez contempla adelanto electoral y rescate de los decretos rechazados por el Congreso, según The Objetive",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/pedro-sanchez-contempla-adelanto-electoral-y-rescate-de-los-decretos-rechazados-por-el-congreso/",
+      "published_date": "2026-10-05T00:52:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pedro Sánchez contempla adelanto electoral y rescate de los decretos rechazados por el Congreso, según The Objetive",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/pedro-sanchez-contempla-adelanto-electoral-y-rescate-de-los-decretos-rechazados-por-el-congreso/",
+      "published_date": "2026-10-05T00:52:53Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El juez brasileño que condenó a Lula por corrupción es elegido gobernador de una región",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/el-juez-brasileno-que-condeno-a-lula-por-corrupcion-es-elegido-gobernador-de-una-region/",
+      "published_date": "2026-10-05T00:30:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El juez brasileño que condenó a Lula por corrupción es elegido gobernador de una región",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/el-juez-brasileno-que-condeno-a-lula-por-corrupcion-es-elegido-gobernador-de-una-region/",
+      "published_date": "2026-10-05T00:30:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guardia Costera de EE UU localizó restos del avión que desapareció cuando volaba de Bermudas a Boston",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/guardia-costera-de-eeuu-localizo-restos-del-avion-desaparecido-cuando-volaba-de-bermudas-a-boston/",
+      "published_date": "2026-10-04T23:34:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Guardia Costera de EE UU localizó restos del avión que desapareció cuando volaba de Bermudas a Boston",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/guardia-costera-de-eeuu-localizo-restos-del-avion-desaparecido-cuando-volaba-de-bermudas-a-boston/",
+      "published_date": "2026-10-04T23:34:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Solidaridad en la Caracas Rock: tres corredores auxilian a dos participantes tras sufrir emergencias en la carrera",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/zulia-incendio-en-inmediaciones-de-subestacion-electrica-genera-alarma-en-lagunillas/",
-      "published_date": "2026-10-04T15:45:36Z",
+      "url": "https://elpitazo.net/deportes/solidaridad-en-la-caracas-rock-tres-corredores-auxilian-a-dos-participantes-tras-sufrir-emergencias-en-la-carrera/",
+      "published_date": "2026-10-04T23:01:34Z",
       "category": "Diplomacy"
     },
     {
-      "title": "El crecimiento del PIB está desconectado del bolsillo de los venezolanos",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/621748/el-crecimiento-del-pib-esta-desconectado-del-bolsillo-de-los-venezolanos/",
-      "published_date": "2026-10-04T13:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Familia Belfort espera que un nuevo TSJ resuelva caso del CNB tras 17 años fuera del aire: “Sería lo justo para el país”",
+      "title": "Portugal no necesitó de CR7 y ya está en cuartos de la Nations League tras superar a Noruega",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/caso-cnb-familia-belfort-nuevo-tsj/",
-      "published_date": "2026-10-04T12:54:37Z",
+      "url": "https://www.elnacional.com/2026/10/portugal-no-necesito-de-cr7-y-ya-esta-en-cuartos-de-nations-league-tras-superar-a-noruega/",
+      "published_date": "2026-10-04T22:26:36Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Familia Belfort espera que un nuevo TSJ resuelva caso del CNB tras 17 años fuera del aire: “Sería lo justo para el país”",
+      "title": "Portugal no necesitó de CR7 y ya está en cuartos de la Nations League tras superar a Noruega",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/caso-cnb-familia-belfort-nuevo-tsj/",
-      "published_date": "2026-10-04T12:54:37Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/portugal-no-necesito-de-cr7-y-ya-esta-en-cuartos-de-nations-league-tras-superar-a-noruega/",
+      "published_date": "2026-10-04T22:26:36Z",
       "category": "Diplomacy"
     },
     {
-      "title": "A nueve meses de la captura de Maduro, su hijo promete no descansar hasta verlo volver",
+      "title": "Desde bañarse hasta la venta de cotufas en el cine: el uso que le dan los venezolanos al pote de margarina",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/desde-guardar-comida-hasta-banarse-el-uso-que-le-dan-los-venezolanos-al-pote-de-margarina/",
+      "published_date": "2026-10-04T22:12:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La música enlaza pasado y presente del personaje de Pedro Pascal en ¡Behemoth!",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/a-nueve-meses-de-la-captura-de-maduro-su-hijo-promete-no-descansar-hasta-verlo-volver/",
-      "published_date": "2026-10-04T12:48:47Z",
+      "url": "https://www.elnacional.com/2026/10/la-musica-enlaza-pasado-y-presente-del-personaje-de-pedro-pascal-en-behemoth/",
+      "published_date": "2026-10-04T21:06:19Z",
       "category": "Diplomacy"
     },
     {
-      "title": "A nueve meses de la captura de Maduro, su hijo promete no descansar hasta verlo volver",
+      "title": "La música enlaza pasado y presente del personaje de Pedro Pascal en ¡Behemoth!",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/a-nueve-meses-de-la-captura-de-maduro-su-hijo-promete-no-descansar-hasta-verlo-volver/",
-      "published_date": "2026-10-04T12:48:47Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/la-musica-enlaza-pasado-y-presente-del-personaje-de-pedro-pascal-en-behemoth/",
+      "published_date": "2026-10-04T21:06:19Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Brasil acude a las urnas en medio de una profunda polarización y tensiones institucionales",
+      "title": "Trump apunta a la victoria de Flávio Bolsonaro como pieza clave para consolidar su influencia en América Latina",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/brasil-acude-a-las-urnas-en-medio-de-una-profunda-polarizacion-y-tensiones-institucionales/",
-      "published_date": "2026-10-04T09:48:00Z",
+      "url": "https://www.elnacional.com/2026/10/trump-apunta-a-la-victoria-de-flavio-bolsonaro-como-pieza-clave-para-consolidar-su-influencia-en-america-latina/",
+      "published_date": "2026-10-04T20:52:31Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Brasil acude a las urnas en medio de una profunda polarización y tensiones institucionales",
+      "title": "Trump apunta a la victoria de Flávio Bolsonaro como pieza clave para consolidar su influencia en América Latina",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/brasil-acude-a-las-urnas-en-medio-de-una-profunda-polarizacion-y-tensiones-institucionales/",
-      "published_date": "2026-10-04T09:48:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trump-apunta-a-la-victoria-de-flavio-bolsonaro-como-pieza-clave-para-consolidar-su-influencia-en-america-latina/",
+      "published_date": "2026-10-04T20:52:31Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Carmen Teresa Navas buscó a su hijo durante 16 meses. Le dijeron que estaba muerto entregándole un papel para que lo leyera ella misma (4/8)",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/621742/carmen-teresa-navas/",
-      "published_date": "2026-10-04T08:26:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Seis presos políticos con penas cumplidas siguen tras las rejas, cinco son militares",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/seis-presos-politicos-con-condena-cumplida-siguen-tras-las-rejas/",
-      "published_date": "2026-10-04T06:50:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Niños venezolanos en EEUU: cómo prepararlos ante riesgo de separación familiar por ICE",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/venezuela-migrante/ninos-venezolanos-en-eeuu-como-prepararlos-ante-riesgo-de-separacion-familiar-por-ice/",
-      "published_date": "2026-10-04T06:26:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "TSJ: Comisión Preliminar bajo control chavista vs contrapeso del Consejo de Revisión y sociedad civil",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/tsj-comision-preliminar-bajo-control-chavista-vs-contrapeso-del-consejo-de-revision-y-sociedad-civil/",
-      "published_date": "2026-10-04T06:15:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Departamento de Estado ratifica que desconoce a Maduro como presidente de la República",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/departamento-de-estado-ratifica-ante-la-fiscalia-que-desconoce-a-maduro-como-presidente-de-la-republica/",
-      "published_date": "2026-10-04T01:06:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dua Lipa se sumó como invitada sorpresa en el concierto de Shakira en Madrid",
+      "title": "Investigan muerte de niño de ocho años que se ahogó en la piscina de un hotel en Yaracuy",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/dua-lipa-se-sumo-como-invitada-sorpresa-en-el-concierto-de-shakira-en-madrid/",
-      "published_date": "2026-10-04T00:16:41Z",
+      "url": "https://www.elnacional.com/2026/10/investigan-muerte-de-nino-de-ocho-anos-que-se-ahogo-en-la-piscina-de-un-hotel-en-yaracuy/",
+      "published_date": "2026-10-04T20:23:33Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Dua Lipa se sumó como invitada sorpresa en el concierto de Shakira en Madrid",
+      "title": "Investigan muerte de niño de ocho años que se ahogó en la piscina de un hotel en Yaracuy",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/dua-lipa-se-sumo-como-invitada-sorpresa-en-el-concierto-de-shakira-en-madrid/",
-      "published_date": "2026-10-04T00:16:41Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/investigan-muerte-de-nino-de-ocho-anos-que-se-ahogo-en-la-piscina-de-un-hotel-en-yaracuy/",
+      "published_date": "2026-10-04T20:23:33Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Gobierno señaló que Acuerdo de Ginebra de 1966 es la vía para resolver la controversia por el Esequibo",
+      "title": "Nahuel Gallo caminó 60 kilómetros hasta Luján y pidió por los presos políticos en Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/gobierno-senalo-que-acuerdo-de-ginebra-de-1966-es-la-via-para-resolver-la-controversia-por-el-esequibo/",
-      "published_date": "2026-10-04T00:11:14Z",
+      "url": "https://www.elnacional.com/2026/10/nahuel-gallo-camino-60-kilometros-hasta-lujan-y-pidio-por-los-presos-politicos-en-venezuela/",
+      "published_date": "2026-10-04T19:49:35Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Gobierno señaló que Acuerdo de Ginebra de 1966 es la vía para resolver la controversia por el Esequibo",
+      "title": "Nahuel Gallo caminó 60 kilómetros hasta Luján y pidió por los presos políticos en Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/gobierno-senalo-que-acuerdo-de-ginebra-de-1966-es-la-via-para-resolver-la-controversia-por-el-esequibo/",
-      "published_date": "2026-10-04T00:11:14Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/nahuel-gallo-camino-60-kilometros-hasta-lujan-y-pidio-por-los-presos-politicos-en-venezuela/",
+      "published_date": "2026-10-04T19:49:35Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Dodgers resistió la reacción de Bravos y tomó ventaja 1-0 en la Serie Divisional de la Liga Nacional",
+      "title": "Caída de una guaya de alta tensión dejó a Amazonas sin conexión telefónica ni internet por más de 20 horas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/dodgers-resistio-la-reaccion-de-bravos-y-tomo-ventaja-1-0-en-la-serie-divisional-de-la-liga-nacional/",
-      "published_date": "2026-10-03T23:30:16Z",
+      "url": "https://www.elnacional.com/2026/10/caida-de-una-guaya-de-alta-tension-dejo-a-amazonas-sin-conexion-telefonica-ni-internet-por-mas-de-20-horas/",
+      "published_date": "2026-10-04T19:13:47Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Dodgers resistió la reacción de Bravos y tomó ventaja 1-0 en la Serie Divisional de la Liga Nacional",
+      "title": "Caída de una guaya de alta tensión dejó a Amazonas sin conexión telefónica ni internet por más de 20 horas",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/dodgers-resistio-la-reaccion-de-bravos-y-tomo-ventaja-1-0-en-la-serie-divisional-de-la-liga-nacional/",
-      "published_date": "2026-10-03T23:30:16Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/caida-de-una-guaya-de-alta-tension-dejo-a-amazonas-sin-conexion-telefonica-ni-internet-por-mas-de-20-horas/",
+      "published_date": "2026-10-04T19:13:47Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Crisis eléctrica: ¿1300 megavatios son suficientes para mejorar el servicio?",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/621727/crisis-electrica-1300-megavatios-son-suficientes-para-mejorar-el-servicio/",
-      "published_date": "2026-10-03T23:01:55Z",
-      "category": "Diplomacy"
+      "title": "Madre de Hugo Marino pidió a Dinorah Figuera exigir información sobre el paradero de su hijo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/madre-de-hugo-marino-pidio-a-dinorah-figuera-exigir-informacion-sobre-el-paradero-hijo/",
+      "published_date": "2026-10-04T21:37:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Madre de Hugo Marino pidió a Dinorah Figuera exigir información sobre el paradero de su hijo",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/madre-de-hugo-marino-pidio-a-dinorah-figuera-exigir-informacion-sobre-el-paradero-hijo/",
+      "published_date": "2026-10-04T21:37:52Z",
+      "category": "Military"
+    },
+    {
+      "title": "Fedenaga solicitó ante la AN penas ejemplarizantes para combatir delitos que afectan al campo venezolano",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/fedenaga-solicito-ante-la-an-penas-ejemplarizantes-para-combatir-delitos-que-afectan-al-campo-venezolano/",
+      "published_date": "2026-10-04T18:28:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Fedenaga solicitó ante la AN penas ejemplarizantes para combatir delitos que afectan al campo venezolano",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/fedenaga-solicito-ante-la-an-penas-ejemplarizantes-para-combatir-delitos-que-afectan-al-campo-venezolano/",
+      "published_date": "2026-10-04T18:28:50Z",
+      "category": "Military"
+    },
+    {
+      "title": "Portuguesa | Cuatro accidentes en cinco días dejan 34 heridos y seis muertos en la autopista José Antonio Páez",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/portuguesa-cuatro-accidentes-en-cinco-dias-dejan-34-heridos-y-seis-muertos-en-la-autopista-jose-antonio-paez/",
+      "published_date": "2026-10-04T17:42:25Z",
+      "category": "Military"
     },
     {
       "title": "Cinco minutos en 2 años y 8 meses de prisión: la desgarradora llamada que hizo el general Hernández Da Costa a su hija",
@@ -248,39 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Portuguesa | Tres muertos y 15 heridos deja vuelco de Encava en la autopista José Antonio Páez",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/portuguesa-tres-muertos-y-15-heridos-deja-vuelco-de-encava-en-la-autopista-jose-antonio-paez/",
-      "published_date": "2026-09-30T20:01:03Z",
-      "category": "Military"
+      "title": "Médicos de Monagas reportaron alza de 30% en consultas de pacientes cardíacos por ola de calor",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/medicos-de-monagas-reportaron-alza-de-30-en-consultas-de-pacientes-cardiacos-por-ola-de-calor/",
+      "published_date": "2026-10-04T21:53:27Z",
+      "category": "Energy"
     },
     {
-      "title": "EE UU sanciona a cabecilla del Tren de Aragua y a otros 10 implicados en robo de cajeros automáticos",
+      "title": "Médicos de Monagas reportaron alza de 30% en consultas de pacientes cardíacos por ola de calor",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/ee-uu-sanciona-a-cabecilla-del-tren-de-aragua-y-a-otros-10-implicados-en-robo-de-cajeros-automaticos/",
-      "published_date": "2026-09-30T19:16:26Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/10/medicos-de-monagas-reportaron-alza-de-30-en-consultas-de-pacientes-cardiacos-por-ola-de-calor/",
+      "published_date": "2026-10-04T21:53:27Z",
+      "category": "Energy"
     },
     {
-      "title": "EE UU sanciona a cabecilla del Tren de Aragua y a otros 10 implicados en robo de cajeros automáticos",
+      "title": "Lluvias, descargas eléctricas y temperaturas de hasta 40 °C se esperan en varios estados del país, según Inameh",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/ee-uu-sanciona-a-cabecilla-del-tren-de-aragua-y-a-otros-10-implicados-en-robo-de-cajeros-automaticos/",
-      "published_date": "2026-09-30T19:16:26Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/lluvias-descargas-electricas-y-temperaturas-de-hasta-40-c-se-esperan-en-varios-estados-segun-inameh/",
+      "published_date": "2026-10-04T18:14:02Z",
+      "category": "Energy"
     },
     {
-      "title": "El Festival Nuevas Bandas celebrará su final en la Concha Acústica de Bello Monte",
+      "title": "Lluvias, descargas eléctricas y temperaturas de hasta 40 °C se esperan en varios estados del país, según Inameh",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/el-festival-nuevas-bandas-celebrara-su-final-en-la-concha-acustica-de-bello-monte/",
-      "published_date": "2026-09-30T18:41:54Z",
-      "category": "Military"
-    },
-    {
-      "title": "El Festival Nuevas Bandas celebrará su final en la Concha Acústica de Bello Monte",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/09/el-festival-nuevas-bandas-celebrara-su-final-en-la-concha-acustica-de-bello-monte/",
-      "published_date": "2026-09-30T18:41:54Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/10/lluvias-descargas-electricas-y-temperaturas-de-hasta-40-c-se-esperan-en-varios-estados-segun-inameh/",
+      "published_date": "2026-10-04T18:14:02Z",
+      "category": "Energy"
     },
     {
       "title": "75% de latinoamericanos recorta otros gastos para cubrir el de vivienda, según estudio",
@@ -392,34 +420,6 @@
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/venezuela-entre-los-paises-con-mas-trabajadores-incorporados-por-la-regularizacion-en-espana/",
       "published_date": "2026-10-02T15:31:52Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuela, entre los países con más trabajadores incorporados por la regularización de inmigrantes en España",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/venezuela-entre-los-paises-con-mas-trabajadores-incorporados-por-la-regularizacion-en-espana/",
-      "published_date": "2026-10-02T15:31:52Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bravos sacaron del camino a Filadelfia y se citan con los Dodgers en la Serie Divisional",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/bravos-sacaron-del-camino-a-filadelfia-y-se-citan-con-los-dodgers-en-la-serie-divisional/",
-      "published_date": "2026-10-02T12:10:10Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bravos sacaron del camino a Filadelfia y se citan con los Dodgers en la Serie Divisional",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/bravos-sacaron-del-camino-a-filadelfia-y-se-citan-con-los-dodgers-en-la-serie-divisional/",
-      "published_date": "2026-10-02T12:10:10Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Abelardo de la Espriella frena el alza de la gasolina en Colombia pese a la escalada del crudo internacional",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/abelardo-de-la-espriella-frena-el-alza-de-la-gasolina-en-colombia-pese-a-la-escalada-del-crudo-internacional/",
-      "published_date": "2026-10-01T23:16:38Z",
       "category": "Energy"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Asesinan a puñaladas a una niña venezolana en las calles de Chicago",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/asesinan-a-punaladas-a-una-nina-venezolana-en-las-calles-de-chicago/",
-      "published_date": "2026-10-04T15:43:52Z",
+      "title": "Flávio Bolsonaro, el heredero de la derecha que desafió a Lula",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/flavio-bolsonaro-el-heredero-de-la-derecha-que-desafio-a-lula/",
+      "published_date": "2026-10-05T00:43:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Terminal provisional de Maiquetía incorpora nueva carpa para desembarques nacionales",
+      "title": "Flávio Bolsonaro, el heredero de la derecha que desafió a Lula",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/flavio-bolsonaro-el-heredero-de-la-derecha-que-desafio-a-lula/",
+      "published_date": "2026-10-05T00:43:46Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula y Flávio Bolsonaro irán a segunda vuelta en las elecciones presidenciales de Brasil",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/otras-noticias/terminal-provisional-de-maiquetia-incorpora-nueva-carpa-para-desembarques-nacionales/",
-      "published_date": "2026-10-04T15:40:03Z",
+      "url": "https://elpitazo.net/internacionales/lula-y-flavio-bolsonaro-iran-a-segunda-vuelta-en-las-elecciones-presidenciales-de-brasil/",
+      "published_date": "2026-10-05T00:29:25Z",
       "category": "Local Events"
     },
     {
-      "title": "Desbloqueo selectivo de la censura digital: 74 dominios libres y 145 portales siguen bloqueados",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/desbloqueo-selectivo-de-la-censura-digital-74-dominios-libres-y-145-portales-siguen-bloqueados/",
-      "published_date": "2026-10-04T15:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Djokovic elimina a Zverev y alcanza semifinales del ATP 500 de Pekín",
+      "title": "Falta de presupuesto y deterioro de infraestructura afectan posición de la ULA en ranking regional, según docentes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/djokovic-elimina-a-zverev-y-alcanza-semifinales-del-atp-500-de-pekin/",
-      "published_date": "2026-10-04T14:58:36Z",
+      "url": "https://www.elnacional.com/2026/10/falta-de-presupuesto-y-deterioro-de-infraestructura-afectan-posicion-de-la-ula-en-ranking-regional-segun-docentes/",
+      "published_date": "2026-10-05T00:18:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Djokovic elimina a Zverev y alcanza semifinales del ATP 500 de Pekín",
+      "title": "Falta de presupuesto y deterioro de infraestructura afectan posición de la ULA en ranking regional, según docentes",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/djokovic-elimina-a-zverev-y-alcanza-semifinales-del-atp-500-de-pekin/",
-      "published_date": "2026-10-04T14:58:36Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/falta-de-presupuesto-y-deterioro-de-infraestructura-afectan-posicion-de-la-ula-en-ranking-regional-segun-docentes/",
+      "published_date": "2026-10-05T00:18:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Actor José Torres, el recordado “Tacupay”, reveló que sobrevivió a los terremotos de La Guaira",
+      "title": "Jackson Chourio volvió a ser el héroe de Milwaukee con hit para dejar en el terreno a San Diego",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/jackson-chourio-volvio-a-ser-el-heroe-de-milwaukee-con-hit-para-dejar-en-el-terreno-a-san-diego/",
+      "published_date": "2026-10-05T00:06:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jackson Chourio volvió a ser el héroe de Milwaukee con hit para dejar en el terreno a San Diego",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/jackson-chourio-volvio-a-ser-el-heroe-de-milwaukee-con-hit-para-dejar-en-el-terreno-a-san-diego/",
+      "published_date": "2026-10-05T00:06:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula y Flávio Bolsonaro van a segunda vuelta en Brasil",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/bolsonaro-y-lula-van-a-segunda-vuelta-en-brasil/",
+      "published_date": "2026-10-05T00:04:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lula y Flávio Bolsonaro van a segunda vuelta en Brasil",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/bolsonaro-y-lula-van-a-segunda-vuelta-en-brasil/",
+      "published_date": "2026-10-05T00:04:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exigen fe de vida del sindicalista del transporte Orlando Ramírez, desaparecido desde el #8Sep",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/621858/exigen-fe-de-vida-del-sindicalista-del-transporte-orlando-ramirez-desaparecido-desde-el-8sep/",
+      "published_date": "2026-10-04T23:49:09Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Del Moscow Mule al Espresso Martini: cinco bebidas para conmemorar el Día Internacional del vodka",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/del-moscow-mule-al-espresso-martini-cinco-bebidas-para-conmemorar-el-dia-internacional-del-vodka/",
+      "published_date": "2026-10-04T23:26:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Del Moscow Mule al Espresso Martini: cinco bebidas para conmemorar el Día Internacional del vodka",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/del-moscow-mule-al-espresso-martini-cinco-bebidas-para-conmemorar-el-dia-internacional-del-vodka/",
+      "published_date": "2026-10-04T23:26:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Granizos del tamaño de pelotas de tenis provocaron severos daños en Paraguay",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/granizos-del-tamano-de-pelotas-de-tenis-provocaron-severos-danos-en-paraguay/",
+      "published_date": "2026-10-04T22:48:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Granizos del tamaño de pelotas de tenis provocaron severos daños en Paraguay",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/granizos-del-tamano-de-pelotas-de-tenis-provocaron-severos-danos-en-paraguay/",
+      "published_date": "2026-10-04T22:48:01Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juan Pablo Guanipa señaló que se debe convencer a EE UU de que Venezuela quiere y está lista para elecciones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/juan-pablo-guanipa-senalo-que-se-debe-convencer-a-ee-uu-de-que-venezuela-quiere-y-esta-lista-para-elecciones/",
+      "published_date": "2026-10-04T22:12:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Juan Pablo Guanipa señaló que se debe convencer a EE UU de que Venezuela quiere y está lista para elecciones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/juan-pablo-guanipa-senalo-que-se-debe-convencer-a-ee-uu-de-que-venezuela-quiere-y-esta-lista-para-elecciones/",
+      "published_date": "2026-10-04T22:12:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Joselyn Brea y José Daniel González ganaron la XXV Gatorade Caracas Rock",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/actor-jose-torres-el-recordado-tacupay-revelo-que-sobrevivio-a-los-terremotos-de-la-guaira/",
-      "published_date": "2026-10-04T14:43:06Z",
+      "url": "https://elpitazo.net/deportes/joselyn-brea-y-jose-daniel-gonzalez-ganaron-la-xxv-gatorade-caracas-rock/",
+      "published_date": "2026-10-04T21:28:57Z",
       "category": "Local Events"
     },
     {
-      "title": "La OPEP+ decidió congelar su oferta de petróleo hasta noviembre",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/la-opep-decidio-congelar-su-oferta-de-petroleo-hasta-noviembre/",
-      "published_date": "2026-10-04T14:30:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La selección de Venezuela de Futsal Sub-20 venció 3-2 a Chile y selló su pase a la final ante Brasil",
+      "title": "Imputaron a dos hermanos por liderar esquema de sobornos de 80 millones de dólares a famosa cadena de comida en Florida",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-seleccion-de-venezuela-de-futsal-sub-20-vencio-3-2-a-chile-y-sello-su-pase-a-la-final-ante-brasil/",
-      "published_date": "2026-10-04T14:08:43Z",
+      "url": "https://www.elnacional.com/2026/10/imputaron-a-dos-hermanos-por-liderar-un-esquema-de-sobornos-de-80-millones-de-dolares-a-famosa-cadena-de-comida-en-florida/",
+      "published_date": "2026-10-04T21:23:31Z",
       "category": "Local Events"
     },
     {
-      "title": "La selección de Venezuela de Futsal Sub-20 venció 3-2 a Chile y selló su pase a la final ante Brasil",
+      "title": "Imputaron a dos hermanos por liderar esquema de sobornos de 80 millones de dólares a famosa cadena de comida en Florida",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-seleccion-de-venezuela-de-futsal-sub-20-vencio-3-2-a-chile-y-sello-su-pase-a-la-final-ante-brasil/",
-      "published_date": "2026-10-04T14:08:43Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/imputaron-a-dos-hermanos-por-liderar-un-esquema-de-sobornos-de-80-millones-de-dolares-a-famosa-cadena-de-comida-en-florida/",
+      "published_date": "2026-10-04T21:23:31Z",
       "category": "Local Events"
     },
     {
-      "title": "Asesinaron a puñaladas a una niña venezolana en Chicago",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/asesinaron-a-punaladas-a-una-nina-venezolana-de-7-anos-en-chicago/",
-      "published_date": "2026-10-04T13:57:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asesinaron a puñaladas a una niña venezolana en Chicago",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/asesinaron-a-punaladas-a-una-nina-venezolana-de-7-anos-en-chicago/",
-      "published_date": "2026-10-04T13:57:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump pide el voto en Ohio para frenar el avance demócrata y amarrar el control del Senado",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/trump-pide-el-voto-en-ohio-para-frenar-el-avance-democrata-y-amarrar-el-control-del-senado/",
-      "published_date": "2026-10-04T13:52:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump pide el voto en Ohio para frenar el avance demócrata y amarrar el control del Senado",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/trump-pide-el-voto-en-ohio-para-frenar-el-avance-democrata-y-amarrar-el-control-del-senado/",
-      "published_date": "2026-10-04T13:52:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marc Márquez gana MotoGP de Japón y recorta distancia con Martín",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/marc-marquez-gana-motogp-de-japon-y-recorta-distancia-con-martin/",
-      "published_date": "2026-10-04T13:41:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Marc Márquez gana MotoGP de Japón y recorta distancia con Martín",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/marc-marquez-gana-motogp-de-japon-y-recorta-distancia-con-martin/",
-      "published_date": "2026-10-04T13:41:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verstappen reina en el caos de Sepang para ganar el GP de Baréin",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/verstappen-reina-en-el-caos-de-sepang-para-ganar-el-gp-de-barein/",
-      "published_date": "2026-10-04T13:19:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Verstappen reina en el caos de Sepang para ganar el GP de Baréin",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/verstappen-reina-en-el-caos-de-sepang-para-ganar-el-gp-de-barein/",
-      "published_date": "2026-10-04T13:19:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alcaraz avanza a semifinales del Abierto de Japón tras la retirada de Shapovalov",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/alcaraz-avanza-a-semifinales-del-abierto-de-japon-tras-la-retirada-de-shapovalov/",
-      "published_date": "2026-10-04T13:08:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Alcaraz avanza a semifinales del Abierto de Japón tras la retirada de Shapovalov",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/alcaraz-avanza-a-semifinales-del-abierto-de-japon-tras-la-retirada-de-shapovalov/",
-      "published_date": "2026-10-04T13:08:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Fuertes lluvias y ráfagas de viento causaron daños en el estado Zulia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/fuertes-lluvias-y-rafagas-de-viento-causan-danos-en-el-estado-zulia/",
-      "published_date": "2026-10-04T12:52:12Z",
+      "title": "La luz que desafía al olvido en La Guaira",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/621816/la-luz-que-desafia-al-olvido-en-la-guaira/",
+      "published_date": "2026-10-04T21:01:00Z",
       "category": "Local Events"
     }
   ]
