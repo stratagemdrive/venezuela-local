@@ -1,146 +1,153 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-06T02:54:25Z",
+  "last_updated": "2026-10-06T17:08:19Z",
   "stories": [
     {
-      "title": "Guayana | Sindicalistas exigen liberación de presos políticos y derogación de Ley contra el odio",
+      "title": "Novak Djokovic gana su séptimo título en el Abierto de China y el 102 de su carrera",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/novak-djokovic-gana-su-septimo-titulo-en-el-abierto-de-china-y-el-102-de-su-carrera/",
+      "published_date": "2026-10-06T17:04:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Elecciones en Brasil: Lula da Silva y Flávio Bolsonaro inician contactos estratégicos para la segunda vuelta",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/elecciones-en-brasil-lula-da-silva-y-flavio-bolsonaro-inician-contactos-estrategicos-para-la-segunda-vuelta/",
+      "published_date": "2026-10-06T16:21:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Elecciones en Brasil: Lula da Silva y Flávio Bolsonaro inician contactos estratégicos para la segunda vuelta",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/elecciones-en-brasil-lula-da-silva-y-flavio-bolsonaro-inician-contactos-estrategicos-para-la-segunda-vuelta/",
+      "published_date": "2026-10-06T16:21:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Persisten los bloqueos digitales en Venezuela: El Nacional registra 76% de inaccesibilidad",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/persisten-los-bloqueos-digitales-en-venezuela-el-nacional-registra-76-de-inaccesibilidad/",
+      "published_date": "2026-10-06T16:16:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Persisten los bloqueos digitales en Venezuela: El Nacional registra 76% de inaccesibilidad",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/persisten-los-bloqueos-digitales-en-venezuela-el-nacional-registra-76-de-inaccesibilidad/",
+      "published_date": "2026-10-06T16:16:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Renuevan por otros dos años la misión de investigación de la ONU para Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/renuevan-por-otros-dos-anos-la-mision-de-investigacion-de-la-onu-para-venezuela/",
+      "published_date": "2026-10-06T15:56:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Renuevan por otros dos años la misión de investigación de la ONU para Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/renuevan-por-otros-dos-anos-la-mision-de-investigacion-de-la-onu-para-venezuela/",
+      "published_date": "2026-10-06T15:56:42Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mujer vinculada al asesinato de periodista peruana murió en accidente en Portuguesa",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/?p=525421",
-      "published_date": "2026-10-06T02:54:01Z",
+      "url": "https://elpitazo.net/sucesos/mujer-vinculada-al-asesinato-de-periodista-peruana-murio-en-accidente-en-portuguesa/",
+      "published_date": "2026-10-06T15:47:36Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Habitantes de la Misión Vivienda en Caracas temen regresar a sus casas por falta de reparaciones: no siento confianza en el edificio",
+      "title": "Alejandro Grisanti: La crisis eléctrica empeorará antes de mejorar",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/621980/alejandro-gristanti-la-crisis-electrica-empeorara-antes-de-mejorar/",
+      "published_date": "2026-10-06T15:38:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministerio de Salud declara alerta sanitaria nacional por efectos del fenómeno El Niño",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/ministerio-de-salud-declara-alerta-sanitaria-nacional-por-efectos-del-fenomeno-el-nino/",
+      "published_date": "2026-10-06T15:22:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Ministerio de Salud declara alerta sanitaria nacional por efectos del fenómeno El Niño",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/ministerio-de-salud-declara-alerta-sanitaria-nacional-por-efectos-del-fenomeno-el-nino/",
+      "published_date": "2026-10-06T15:22:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sam Altman califica a Musk como un abusón",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/altman-califica-a-musk-como-un-abuson/",
+      "published_date": "2026-10-06T14:43:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sam Altman califica a Musk como un abusón",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/altman-califica-a-musk-como-un-abuson/",
+      "published_date": "2026-10-06T14:43:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miles de estudiantes se movilizan en Francia bajo fuerte despliegue policial",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/miles-de-estudiantes-se-movilizan-en-francia-bajo-fuerte-despliegue-policial/",
+      "published_date": "2026-10-06T13:55:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Miles de estudiantes se movilizan en Francia bajo fuerte despliegue policial",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/miles-de-estudiantes-se-movilizan-en-francia-bajo-fuerte-despliegue-policial/",
+      "published_date": "2026-10-06T13:55:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE.UU. \"sigue de cerca\" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/ee-uu-sigue-de-cerca-el-caso-de-la-cientifica-rusa-que-fallecio/",
+      "published_date": "2026-10-06T12:30:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE.UU. \"sigue de cerca\" el caso de una científica rusa que falleció en un centro de investigación de la peste en Siberia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/ee-uu-sigue-de-cerca-el-caso-de-la-cientifica-rusa-que-fallecio/",
+      "published_date": "2026-10-06T12:30:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/que-salio-mal-en-nike-que-perdio-el-liderazgo-mundial/",
+      "published_date": "2026-10-06T12:22:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Qué salió mal en Nike, el gigante que perdió el liderazgo mundial de la ropa deportiva",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/que-salio-mal-en-nike-que-perdio-el-liderazgo-mundial/",
+      "published_date": "2026-10-06T12:22:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La OMS pide a Rusia información sobre un caso mortal de peste neumónica",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/oms-pide-informacion-sobre-caso-mortal-de-peste-neumonica/",
+      "published_date": "2026-10-06T12:10:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oscar Murillo: Es una muy mala señal y negativo para las víctimas que no se derogue Ley contra el odio",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/?p=525442",
-      "published_date": "2026-10-06T02:53:59Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Medias Blancas vencen 4-3 a los Guardianes y se colocan a un triunfo de la Serie de Campeonato",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/medias-blancas-vencen-4-3-a-los-guardianes-y-se-colocan-a-un-triunfo-de-la-serie-de-campeonato/",
-      "published_date": "2026-10-06T01:10:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Medias Blancas vencen 4-3 a los Guardianes y se colocan a un triunfo de la Serie de Campeonato",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/medias-blancas-vencen-4-3-a-los-guardianes-y-se-colocan-a-un-triunfo-de-la-serie-de-campeonato/",
-      "published_date": "2026-10-06T01:10:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Partido Liberal de Bolsonaro arrasa en el Congreso y deja a la derecha con mayoría en el Senado brasileñoB",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-partido-liberal-de-bolsonaro-arrasa-en-el-congreso-y-deja-a-la-derecha-con-mayoria-en-el-senado-brasilenob/",
-      "published_date": "2026-10-06T00:47:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Partido Liberal de Bolsonaro arrasa en el Congreso y deja a la derecha con mayoría en el Senado brasileñoB",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-partido-liberal-de-bolsonaro-arrasa-en-el-congreso-y-deja-a-la-derecha-con-mayoria-en-el-senado-brasilenob/",
-      "published_date": "2026-10-06T00:47:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "¿Es posible un cara a cara entre María Corina Machado y Delcy Rodríguez?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/es-posible-un-cara-a-cara-entre-maria-corina-machado-y-delcy-rodriguez/",
-      "published_date": "2026-10-06T00:02:41Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump responde evasivo sobre el retorno de María Corina Machado a Venezuela: \"Es una mujer excelente, todo saldrá bien\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/trump-responde-evasivo-sobre-el-retorno-de-maria-corina-machado-a-venezuela-es-una-mujer-excelente-todo-saldra-bien/",
-      "published_date": "2026-10-05T23:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump responde evasivo sobre el retorno de María Corina Machado a Venezuela: \"Es una mujer excelente, todo saldrá bien\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/trump-responde-evasivo-sobre-el-retorno-de-maria-corina-machado-a-venezuela-es-una-mujer-excelente-todo-saldra-bien/",
-      "published_date": "2026-10-05T23:38:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Barinas | OVP denuncia la muerte de un preso en el Injuba cuatro días después de la visita de la Comisión Presidencial",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/barinas-ovp-denuncia-la-muerte-de-un-preso-en-el-injuba-cuatro-dias-despues-de-la-visita-de-la-comision-presidencial/",
-      "published_date": "2026-10-05T22:38:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pragmatismo con Venezuela mientras llega la democracia: lo que se espera de un nuevo gobierno en Brasil",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/pragmatismo-con-venezuela-mientras-llega-la-democracia-lo-que-se-espera-de-un-nuevo-gobierno-en-brasil/",
-      "published_date": "2026-10-05T22:10:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jackson Chourio asegura que jugará en Venezuela “hasta que gane con las Águilas”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/jackson-chourio-asegura-que-jugara-en-venezuela-hasta-que-gane-con-las-aguilas/",
-      "published_date": "2026-10-05T22:03:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jackson Chourio asegura que jugará en Venezuela “hasta que gane con las Águilas”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/jackson-chourio-asegura-que-jugara-en-venezuela-hasta-que-gane-con-las-aguilas/",
-      "published_date": "2026-10-05T22:03:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Comisión parlamentaria revisará casos relacionados con la Ley contra el Odio",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/comision-parlamentaria-revisara-casos-relacionados-con-la-ley-contra-el-odio/",
-      "published_date": "2026-10-05T21:37:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Comisión parlamentaria revisará casos relacionados con la Ley contra el Odio",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/comision-parlamentaria-revisara-casos-relacionados-con-la-ley-contra-el-odio/",
-      "published_date": "2026-10-05T21:37:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Caracas | Habitantes de la Misión Vivienda temen regresar a sus casas por falta de reparaciones: no sentimos confianza",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/caracas-habitantes-de-la-mision-vivienda-temen-regresar-a-sus-casas-por-falta-de-reparaciones-no-sentimos-confianza/",
-      "published_date": "2026-10-05T21:32:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump afirma que «todo saldrá bien» sobre un eventual retorno de María Corina Machado a Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/trump-afirma-que-todo-saldra-bien-sobre-un-eventual-retorno-de-maria-corina-machado-a-venezuela/",
-      "published_date": "2026-10-05T20:59:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El adelanto electoral de Pedro Sánchez, un intento de contener el desgaste del PSOE",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-adelanto-electoral-de-pedro-sanchez-un-intento-de-contener-el-desgaste-del-psoe/",
-      "published_date": "2026-10-05T20:14:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El adelanto electoral de Pedro Sánchez, un intento de contener el desgaste del PSOE",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-adelanto-electoral-de-pedro-sanchez-un-intento-de-contener-el-desgaste-del-psoe/",
-      "published_date": "2026-10-05T20:14:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "“Nicolasito” pide medida humanitaria para Cilia Flores ante riesgo de fallo cardíaco",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/nicolasito-pide-medida-humanitaria-para-cilia-flores-ante-riesgo-de-fallo-cardiaco/",
-      "published_date": "2026-10-05T19:55:40Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/politica/oscar-murillo-es-una-muy-mala-senal-y-negativo-para-las-victimas-que-no-se-derogue-ley-contra-el-odio/",
+      "published_date": "2026-10-06T15:06:56Z",
+      "category": "Military"
     },
     {
       "title": "Defensa de Orlando Ramírez acudirá a tribunales para exigir información sobre su paradero",
@@ -276,11 +283,46 @@
       "category": "Military"
     },
     {
-      "title": "California y otros 26 estados demandan al gobierno de Trump por reducir normas de consumo de combustible",
+      "title": "Trabajadores eléctricos de Lara eligen nueva directiva sindical de forma autónoma tras 15 años de parálisis",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/california-y-otros-26-estados-demandan-al-gobierno-de-trump-por-reducir-normas-de-consumo-de-combustible/",
-      "published_date": "2026-10-03T11:07:27Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/trabajadores-electricos-de-lara-eligen-nueva-directiva-sindical-de-forma-autonoma-tras-15-anos-de-paralisis/",
+      "published_date": "2026-10-06T13:52:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Trabajadores eléctricos de Lara eligen nueva directiva sindical de forma autónoma tras 15 años de parálisis",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trabajadores-electricos-de-lara-eligen-nueva-directiva-sindical-de-forma-autonoma-tras-15-anos-de-paralisis/",
+      "published_date": "2026-10-06T13:52:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Desgaste, rechazo al PT y polarización ponen a prueba a Lula en la segunda vuelta en Brasil",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/desgaste-rechazo-al-pt-y-polarizacion-ponen-a-prueba-a-lula-en-la-segunda-vuelta-en-brasil/",
+      "published_date": "2026-10-06T12:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Desgaste, rechazo al PT y polarización ponen a prueba a Lula en la segunda vuelta en Brasil",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/desgaste-rechazo-al-pt-y-polarizacion-ponen-a-prueba-a-lula-en-la-segunda-vuelta-en-brasil/",
+      "published_date": "2026-10-06T12:00:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Una herida sin cicatrizar en Israel y una Gaza desangrada, 3 años después del 7 de octubre",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/una-herida-sin-cicatrizar-en-israel-y-una-gaza-desangrada-3-anos-despues-del-7-de-octubre/",
+      "published_date": "2026-10-06T09:42:52Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Una herida sin cicatrizar en Israel y una Gaza desangrada, 3 años después del 7 de octubre",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/una-herida-sin-cicatrizar-en-israel-y-una-gaza-desangrada-3-anos-despues-del-7-de-octubre/",
+      "published_date": "2026-10-06T09:42:52Z",
+      "category": "Energy"
     },
     {
       "title": "Familiares de 77 detenidos en caso Pdvsa-Obrero piden medidas sustitutivas",
@@ -315,20 +357,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/10/reuters-baker-hughes-y-pdvsa-pactan-proyectos-para-impulsar-el-gas-natural-en-venezuela/",
       "published_date": "2026-10-05T20:33:49Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Desgaste, rechazo al PT y polarización ponen a prueba a Lula en la segunda vuelta en Brasil",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/desgaste-rechazo-al-pt-y-polarizacion-ponen-a-prueba-a-lula-en-la-segunda-vuelta-en-brasil/",
-      "published_date": "2026-10-05T19:56:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Desgaste, rechazo al PT y polarización ponen a prueba a Lula en la segunda vuelta en Brasil",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/desgaste-rechazo-al-pt-y-polarizacion-ponen-a-prueba-a-lula-en-la-segunda-vuelta-en-brasil/",
-      "published_date": "2026-10-05T19:56:53Z",
       "category": "Energy"
     },
     {
@@ -392,34 +420,6 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/10/75-de-latinoamericanos-recorta-otros-gastos-para-cubrir-el-de-vivienda-segun-estudio/",
       "published_date": "2026-10-04T14:36:48Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bloomberg: Eni y Repsol estudian vender parte de sus acciones en el yacimiento de gas Perla para obtener más fondos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/eni-y-repsol-estudian-vender-parte-de-sus-acciones-en-el-yacimiento-de-gas-perla-para-obtener-mas-fondos/",
-      "published_date": "2026-10-03T21:25:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bloomberg: Eni y Repsol estudian vender parte de sus acciones en el yacimiento de gas Perla para obtener más fondos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/eni-y-repsol-estudian-vender-parte-de-sus-acciones-en-el-yacimiento-de-gas-perla-para-obtener-mas-fondos/",
-      "published_date": "2026-10-03T21:25:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Exportaciones de petróleo venezolano a EE UU crecieron 170% impulsadas por Citgo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/exportaciones-de-petroleo-venezolano-a-ee-uu-crecieron-170-impulsadas-por-citgo/",
-      "published_date": "2026-10-03T18:37:33Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Exportaciones de petróleo venezolano a EE UU crecieron 170% impulsadas por Citgo",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/exportaciones-de-petroleo-venezolano-a-ee-uu-crecieron-170-impulsadas-por-citgo/",
-      "published_date": "2026-10-03T18:37:33Z",
       "category": "Energy"
     },
     {
@@ -556,150 +556,143 @@
       "category": "Economy"
     },
     {
-      "title": "La insólita carrera por conseguir palos de golf en Caracas previo a una cumbre petrolera",
+      "title": "20 personas intoxicadas en Anzoátegui por consumir arroz chino",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/09/la-insolita-carrera-por-conseguir-palos-de-golf-en-caracas-previo-a-una-cumbre-petrolera/",
-      "published_date": "2026-09-29T15:04:20Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/10/20-personas-intoxicadas-en-anzoategui-por-consumir-arroz-chino/",
+      "published_date": "2026-10-06T17:01:21Z",
+      "category": "Local Events"
     },
     {
-      "title": "Exalcalde activa recolección de firmas para exigir solución a la crisis eléctrica en Zulia",
+      "title": "20 personas intoxicadas en Anzoátegui por consumir arroz chino",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/20-personas-intoxicadas-en-anzoategui-por-consumir-arroz-chino/",
+      "published_date": "2026-10-06T17:01:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "¿Qué se sabe del posible regreso de María Corina Machado a Venezuela?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/exalcalde-activa-recoleccion-de-firmas-para-exigir-solucion-a-la-crisis-electrica-en-zulia/",
-      "published_date": "2026-10-05T23:38:45Z",
+      "url": "https://elpitazo.net/politica/que-se-sabe-del-posible-regreso-de-maria-corina-machado-a-venezuela/",
+      "published_date": "2026-10-06T16:52:03Z",
       "category": "Local Events"
     },
     {
-      "title": "Fondo respaldado por Qatar buscaría destrabar financiamiento del BID para Venezuela",
+      "title": "Sucre: desbordamiento del río Manzanares causó daños en el municipio Montes",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/fondo-respaldado-por-qatar-buscaria-destrabar-financiamiento-del-bid-para-venezuela/",
-      "published_date": "2026-10-05T23:23:22Z",
+      "url": "https://www.elnacional.com/2026/10/sucre-desbordamiento-del-rio-manzanares-causo-danos-en-el-municipio-montes/",
+      "published_date": "2026-10-06T16:27:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Fondo respaldado por Qatar buscaría destrabar financiamiento del BID para Venezuela",
+      "title": "Sucre: desbordamiento del río Manzanares causó daños en el municipio Montes",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/fondo-respaldado-por-qatar-buscaria-destrabar-financiamiento-del-bid-para-venezuela/",
-      "published_date": "2026-10-05T23:23:22Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/sucre-desbordamiento-del-rio-manzanares-causo-danos-en-el-municipio-montes/",
+      "published_date": "2026-10-06T16:27:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump augura una segunda vuelta \"muy reñida\" entre Flávio Bolsonaro y Lula en Brasil",
+      "title": "Compañeros de Acuña Jr. en Atlanta confían en su resurgir en la postemporada",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/trump-augura-una-segunda-vuelta-muy-renida-entre-flavio-bolsonaro-y-lula-en-brasil/",
-      "published_date": "2026-10-05T22:37:49Z",
+      "url": "https://www.elnacional.com/2026/10/companeros-de-acuna-jr-en-atlanta-confian-en-su-resurgir-en-la-postemporada/",
+      "published_date": "2026-10-06T16:23:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Trump augura una segunda vuelta \"muy reñida\" entre Flávio Bolsonaro y Lula en Brasil",
+      "title": "Compañeros de Acuña Jr. en Atlanta confían en su resurgir en la postemporada",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/trump-augura-una-segunda-vuelta-muy-renida-entre-flavio-bolsonaro-y-lula-en-brasil/",
-      "published_date": "2026-10-05T22:37:49Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/companeros-de-acuna-jr-en-atlanta-confian-en-su-resurgir-en-la-postemporada/",
+      "published_date": "2026-10-06T16:23:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Cristiano Ronaldo vuelve a Arabia Saudita con la mira en el millar de goles",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/cristiano-ronaldo-vuelve-a-arabia-saudita-con-la-mira-en-el-millar-de-goles/",
-      "published_date": "2026-10-05T22:36:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cristiano Ronaldo vuelve a Arabia Saudita con la mira en el millar de goles",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/cristiano-ronaldo-vuelve-a-arabia-saudita-con-la-mira-en-el-millar-de-goles/",
-      "published_date": "2026-10-05T22:36:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Rocío San Miguel: “Durante cuatro meses no me dejaron ver el sol”",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/621944/rocio-san-miguel-durante-cuatro-meses-no-me-dejaron-ver-el-sol/",
-      "published_date": "2026-10-05T22:09:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El bloqueo digital a El Nacional vuelve a escalar y alcanza 78 % de inaccesibilidad",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-bloqueo-digital-a-el-nacional-vuelve-a-escalar-y-alcanza-78-de-inaccesibilidad/",
-      "published_date": "2026-10-05T22:02:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El bloqueo digital a El Nacional vuelve a escalar y alcanza 78 % de inaccesibilidad",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-bloqueo-digital-a-el-nacional-vuelve-a-escalar-y-alcanza-78-de-inaccesibilidad/",
-      "published_date": "2026-10-05T22:02:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francia golea a Bélgica e Italia supera a Turquía para cerrar la ventana internacional",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/francia-golea-a-belgica-e-italia-supera-a-turquia-para-cerrar-la-ventana-internacional/",
-      "published_date": "2026-10-05T22:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Francia golea a Bélgica e Italia supera a Turquía para cerrar la ventana internacional",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/francia-golea-a-belgica-e-italia-supera-a-turquia-para-cerrar-la-ventana-internacional/",
-      "published_date": "2026-10-05T22:00:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cecodap: al menos 118 adolescentes fueron imputados bajo la Ley contra el Odio",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/621909/cecodap-al-menos-118-adolescentes-fueron-imputados-bajo-la-ley-contra-el-odio/",
-      "published_date": "2026-10-05T21:53:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los cambios de Zidane hacen reaccionar a Francia para remontar a Bélgica",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/los-cambios-de-zidane-hacen-reaccionar-a-francia-para-remontar-a-belgica/",
-      "published_date": "2026-10-05T20:55:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Los cambios de Zidane hacen reaccionar a Francia para remontar a Bélgica",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/los-cambios-de-zidane-hacen-reaccionar-a-francia-para-remontar-a-belgica/",
-      "published_date": "2026-10-05T20:55:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Willson Contreras se reúne con la directiva de Medias Rojas tras críticas por eliminación",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/willson-contreras-se-reune-con-la-directiva-de-medias-rojas-tras-criticas-por-eliminacion/",
-      "published_date": "2026-10-05T20:37:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Willson Contreras se reúne con la directiva de Medias Rojas tras críticas por eliminación",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/willson-contreras-se-reune-con-la-directiva-de-medias-rojas-tras-criticas-por-eliminacion/",
-      "published_date": "2026-10-05T20:37:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Trump: Regreso de Machado a Venezuela “va a salir bien”",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/trump-regreso-de-machado-a-venezuela-va-a-salir-bien/",
-      "published_date": "2026-10-05T20:25:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Abogados de sindicalista Orlando Ramírez introducirán habeas corpus para conocer su paradero",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/abogados-de-sindicalista-orlando-ramirez-introduciran-habeas-corpus-para-conocer-su-paradero/",
-      "published_date": "2026-10-05T19:47:52Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chavismo instala comisión que reformará la Ley contra el odio: proponen cambiarle el nombre",
+      "title": "Consejo de DD. HH. de la ONU aprueba renovación de la Misión de Hechos sobre Venezuela por otros dos años",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/?p=525403",
-      "published_date": "2026-10-05T19:41:20Z",
+      "url": "https://elpitazo.net/politica/consejo-de-dd-hh-de-la-onu-aprueba-renovacion-de-la-mision-de-hechos-sobre-venezuela-por-otros-dos-anos/",
+      "published_date": "2026-10-06T16:12:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La LVBP alista una campaña de innovación, solidaridad y alto nivel competitivo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/la-lvbp-alista-una-campana-de-innovacion-solidaridad-y-alto-nivel-competitivo/",
+      "published_date": "2026-10-06T16:05:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La LVBP alista una campaña de innovación, solidaridad y alto nivel competitivo",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/la-lvbp-alista-una-campana-de-innovacion-solidaridad-y-alto-nivel-competitivo/",
+      "published_date": "2026-10-06T16:05:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las guerreras K-pop 2 se estrenará primero a los cines",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/las-guerreras-k-pop-2-se-estrenara-primero-a-los-cines/",
+      "published_date": "2026-10-06T15:53:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las guerreras K-pop 2 se estrenará primero a los cines",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/las-guerreras-k-pop-2-se-estrenara-primero-a-los-cines/",
+      "published_date": "2026-10-06T15:53:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nueva York declara emergencia por sarampión y Pensilvania supera los 1.000 casos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/nueva-york-declara-emergencia-por-sarampion-y-pensilvania-supera-los-1-000-casos/",
+      "published_date": "2026-10-06T15:49:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nueva York declara emergencia por sarampión y Pensilvania supera los 1.000 casos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/nueva-york-declara-emergencia-por-sarampion-y-pensilvania-supera-los-1-000-casos/",
+      "published_date": "2026-10-06T15:49:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 ejercicios para proteger tu cuello del estrés y la mala postura",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/5-ejercicios-para-proteger-tu-cuello-del-estres-y-la-mala-postura/",
+      "published_date": "2026-10-06T15:19:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "5 ejercicios para proteger tu cuello del estrés y la mala postura",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/5-ejercicios-para-proteger-tu-cuello-del-estres-y-la-mala-postura/",
+      "published_date": "2026-10-06T15:19:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Entran 150 MW al Sistema Eléctrico Nacional desde Termozulia: ¿Son suficientes frente a los apagones?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/occidente/entran-150-mw-al-sistema-electrico-nacional-desde-termozulia-son-suficientes-frente-a-los-apagones/",
+      "published_date": "2026-10-06T15:04:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump aprueba el fusilamiento del autor de la masacre de una base militar de Texas en 2009",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/trump-aprueba-el-fusilamiento-del-autor-de-la-masacre-de-una-base-militar-de-texas-en-2009/",
+      "published_date": "2026-10-06T14:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump aprueba el fusilamiento del autor de la masacre de una base militar de Texas en 2009",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trump-aprueba-el-fusilamiento-del-autor-de-la-masacre-de-una-base-militar-de-texas-en-2009/",
+      "published_date": "2026-10-06T14:52:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Congresista Díaz-Balart: 24 de julio de 2027 es una buena fecha para elecciones en Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/congresista-diaz-balart-24-de-julio-de-2027-es-una-buena-fecha-para-elecciones-en-venezuela/",
+      "published_date": "2026-10-06T14:44:39Z",
       "category": "Local Events"
     }
   ]
