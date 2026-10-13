@@ -1,145 +1,145 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-12T20:13:58Z",
+  "last_updated": "2026-10-13T03:31:29Z",
   "stories": [
     {
-      "title": "Los Pitazos del director: ¿existe un cártel dentro de la Policía Nacional Bolivariana?",
+      "title": "Tiburones de La Guaira desató su ofensiva ante Magallanes y arruinó la fiesta inaugural de los actuales campeones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/tiburones-de-la-guaira-desato-su-ofensiva-ante-magallanes-y-arruino-su-fiesta-inaugural/",
+      "published_date": "2026-10-13T02:48:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tiburones de La Guaira desató su ofensiva ante Magallanes y arruinó la fiesta inaugural de los actuales campeones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/tiburones-de-la-guaira-desato-su-ofensiva-ante-magallanes-y-arruino-su-fiesta-inaugural/",
+      "published_date": "2026-10-13T02:48:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Los Cerveceros toman ventaja de 2-0 con exhibición histórica de William Contreras",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/los-cerveceros-toman-ventaja-de-2-0-con-exhibicion-historica-de-william-contreras/",
+      "published_date": "2026-10-13T00:52:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Los Cerveceros toman ventaja de 2-0 con exhibición histórica de William Contreras",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/los-cerveceros-toman-ventaja-de-2-0-con-exhibicion-historica-de-william-contreras/",
+      "published_date": "2026-10-13T00:52:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canciller de Uruguay descartó reanudar relaciones con Venezuela: “Delcy es tan ilegítima como Maduro”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/canciller-de-uruguay-descarto-reanudar-relaciones-con-venezuela-delcy-es-tan-ilegitima-como-maduro/",
+      "published_date": "2026-10-13T00:13:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Canciller de Uruguay descartó reanudar relaciones con Venezuela: “Delcy es tan ilegítima como Maduro”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/canciller-de-uruguay-descarto-reanudar-relaciones-con-venezuela-delcy-es-tan-ilegitima-como-maduro/",
+      "published_date": "2026-10-13T00:13:40Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump refuerza su alianza con Milei en plena disputa por el liderazgo político y económico de América Latina",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/trump-refuerza-su-alianza-con-milei-en-plena-disputa-por-el-liderazgo-politico-y-economico-de-america-latina/",
+      "published_date": "2026-10-13T00:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump refuerza su alianza con Milei en plena disputa por el liderazgo político y económico de América Latina",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trump-refuerza-su-alianza-con-milei-en-plena-disputa-por-el-liderazgo-politico-y-economico-de-america-latina/",
+      "published_date": "2026-10-13T00:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Atentado con carro bomba deja tres heridos y obliga a cerrar vía Panamericana en Colombia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/atentado-con-carro-bomba-deja-tres-heridos-y-obliga-a-cerrar-via-panamericana-en-colombia/",
+      "published_date": "2026-10-12T23:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Atentado con carro bomba deja tres heridos y obliga a cerrar vía Panamericana en Colombia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/atentado-con-carro-bomba-deja-tres-heridos-y-obliga-a-cerrar-via-panamericana-en-colombia/",
+      "published_date": "2026-10-12T23:53:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Corte Interamericana de Derechos Humanos conocerá el caso de las víctimas del 11 de abril de 2002",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/corte-interamericana-de-derechos-humanos-conocera-el-caso-de-las-victimas-del-11-de-abril-de-2002/",
+      "published_date": "2026-10-12T23:35:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Corte Interamericana de Derechos Humanos conocerá el caso de las víctimas del 11 de abril de 2002",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/corte-interamericana-de-derechos-humanos-conocera-el-caso-de-las-victimas-del-11-de-abril-de-2002/",
+      "published_date": "2026-10-12T23:35:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Fundehullan confirma excarcelación del abogado Marlon Maya",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/622469/fundehullan-confirma-excarcelacion-del-abogado-marlon-maya/",
+      "published_date": "2026-10-12T23:35:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Autoridades capturan en Guárico a venezolano investigado por el asesinato de la periodista peruana «China Polo»",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/los-pitazos-del-director-existe-un-cartel-dentro-de-la-policia-nacional-bolivariana/",
-      "published_date": "2026-10-12T20:10:01Z",
+      "url": "https://elpitazo.net/sucesos/autoridades-capturan-en-guarico-a-venezolano-investigado-por-el-asesinato-de-la-periodista-peruana-china-polo/",
+      "published_date": "2026-10-12T22:51:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Juan Carlos Apitz: “La justicia no es venganza y la paz no es impunidad”",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/juan-carlos-apitz-la-justicia-no-es-venganza-y-la-paz-no-es-impunidad/",
-      "published_date": "2026-10-12T19:53:34Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Escapan seis presos de una cárcel de Ecuador tras hacer un hueco en la pared de una celda",
+      "title": "Trump aseguró que proceso judicial contra Maduro seguirá su curso tras nueva acusación: “Hizo cosas muy malas”",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/escapan-seis-presos-de-una-carcel-de-ecuador-tras-hacer-un-hueco-en-la-pared-de-una-celda/",
-      "published_date": "2026-10-12T19:37:00Z",
+      "url": "https://www.elnacional.com/2026/10/trump-aseguro-que-proceso-judicial-contra-maduro-seguira-su-curso-tras-nueva-acusacion-hizo-cosas-muy-malas/",
+      "published_date": "2026-10-12T22:32:17Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Escapan seis presos de una cárcel de Ecuador tras hacer un hueco en la pared de una celda",
+      "title": "Trump aseguró que proceso judicial contra Maduro seguirá su curso tras nueva acusación: “Hizo cosas muy malas”",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/escapan-seis-presos-de-una-carcel-de-ecuador-tras-hacer-un-hueco-en-la-pared-de-una-celda/",
-      "published_date": "2026-10-12T19:37:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trump-aseguro-que-proceso-judicial-contra-maduro-seguira-su-curso-tras-nueva-acusacion-hizo-cosas-muy-malas/",
+      "published_date": "2026-10-12T22:32:17Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Académicos, políticos y analistas rechazan acuerdo petrolero a través de manifiesto conjunto",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/academicos-politicos-y-analistas-rechazan-acuerdo-petrolero-a-traves-de-manifiesto-conjunto/",
-      "published_date": "2026-10-12T19:30:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Álvaro Pulido comparecerá este martes en Miami tras ser trasladado desde Venezuela, según El Nuevo Herald",
+      "title": "Perú desarticula una banda criminal dedicada a la extorsión de transportistas en Lima",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/alvaro-pulido-comparecera-este-martes-en-miami-tras-ser-trasladado-de-venezuela-a-ee-uu-segun-miami-herald/",
-      "published_date": "2026-10-12T17:00:02Z",
+      "url": "https://www.elnacional.com/2026/10/peru-desarticula-una-banda-criminal-dedicada-a-la-extorsion-de-transportistas-en-lima/",
+      "published_date": "2026-10-12T22:09:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Álvaro Pulido comparecerá este martes en Miami tras ser trasladado desde Venezuela, según El Nuevo Herald",
+      "title": "Perú desarticula una banda criminal dedicada a la extorsión de transportistas en Lima",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/alvaro-pulido-comparecera-este-martes-en-miami-tras-ser-trasladado-de-venezuela-a-ee-uu-segun-miami-herald/",
-      "published_date": "2026-10-12T17:00:02Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/peru-desarticula-una-banda-criminal-dedicada-a-la-extorsion-de-transportistas-en-lima/",
+      "published_date": "2026-10-12T22:09:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Trasnocho Cultural recibirá una inversión de 40 millones de dólares para renovar sus instalaciones",
+      "title": "Colapsó por las lluvias un puente que inauguraron hace tres días en Portuguesa",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/trasnocho-cultural-recibira-una-inversion-de-40-millones-de-dolares-para-renovar-sus-instalaciones/",
-      "published_date": "2026-10-12T16:24:27Z",
+      "url": "https://www.elnacional.com/2026/10/denuncian-colapso-de-puente-recien-inaugurado-e-inundaciones-por-lluvias-en-ospino/",
+      "published_date": "2026-10-12T21:49:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Trasnocho Cultural recibirá una inversión de 40 millones de dólares para renovar sus instalaciones",
+      "title": "Colapsó por las lluvias un puente que inauguraron hace tres días en Portuguesa",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/trasnocho-cultural-recibira-una-inversion-de-40-millones-de-dolares-para-renovar-sus-instalaciones/",
-      "published_date": "2026-10-12T16:24:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Integrante de BTS sorprendió a sus fanáticos en Lima con una camiseta de la marca venezolana Caracas Merch",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/integrante-de-bts-sorprendio-a-sus-fanaticos-en-lima-con-una-camiseta-de-la-marca-venezolana-caracas-merch/",
-      "published_date": "2026-10-12T15:58:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Integrante de BTS sorprendió a sus fanáticos en Lima con una camiseta de la marca venezolana Caracas Merch",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/integrante-de-bts-sorprendio-a-sus-fanaticos-en-lima-con-una-camiseta-de-la-marca-venezolana-caracas-merch/",
-      "published_date": "2026-10-12T15:58:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Director de la FAO recibió a Delcy Rodríguez en Roma para el inicio del Foro Mundial de la Alimentación 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/director-de-la-fao-recibio-a-delcy-rodriguez-en-roma-para-el-inicio-del-foro-mundial-de-la-alimentacion-2026/",
-      "published_date": "2026-10-12T15:19:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Director de la FAO recibió a Delcy Rodríguez en Roma para el inicio del Foro Mundial de la Alimentación 2026",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/director-de-la-fao-recibio-a-delcy-rodriguez-en-roma-para-el-inicio-del-foro-mundial-de-la-alimentacion-2026/",
-      "published_date": "2026-10-12T15:19:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Muere en accidente de bus música de la Orquesta de Chile: fue primera violinista en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/muere-en-accidente-de-bus-musica-de-la-orquesta-de-chile-fue-primera-violinista-en-venezuela/",
-      "published_date": "2026-10-12T15:19:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Boca Juniors y Vasco da Gama se juegan el semestre en semis de Copa Sudamericana",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/boca-juniors-y-vasco-da-gama-se-juegan-el-semestre-en-semis-de-copa-sudamericana/",
-      "published_date": "2026-10-12T14:33:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Boca Juniors y Vasco da Gama se juegan el semestre en semis de Copa Sudamericana",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/boca-juniors-y-vasco-da-gama-se-juegan-el-semestre-en-semis-de-copa-sudamericana/",
-      "published_date": "2026-10-12T14:33:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China aseguró que no establece divisiones ideológicas en sus relaciones con América Latina y el Caribe",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/china-aseguro-que-no-establece-divisiones-ideologicas-en-sus-relaciones-con-america-latina-y-el-caribe/",
-      "published_date": "2026-10-12T12:50:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "China aseguró que no establece divisiones ideológicas en sus relaciones con América Latina y el Caribe",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/china-aseguro-que-no-establece-divisiones-ideologicas-en-sus-relaciones-con-america-latina-y-el-caribe/",
-      "published_date": "2026-10-12T12:50:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inameh pronosticó lluvias de intensidad variable y actividad eléctrica en gran parte de Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/inameh-pronostico-lluvias-de-intensidad-variable-y-actividad-electrica-en-gran-parte-de-venezuela/",
-      "published_date": "2026-10-12T12:41:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Inameh pronosticó lluvias de intensidad variable y actividad eléctrica en gran parte de Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/inameh-pronostico-lluvias-de-intensidad-variable-y-actividad-electrica-en-gran-parte-de-venezuela/",
-      "published_date": "2026-10-12T12:41:31Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/denuncian-colapso-de-puente-recien-inaugurado-e-inundaciones-por-lluvias-en-ospino/",
+      "published_date": "2026-10-12T21:49:00Z",
       "category": "Diplomacy"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "Cadena perpetua para femicida de madre venezolana: la petición de la fiscalía chilena",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/migracion/cadena-perpetua-para-femicida-de-madre-venezolana-la-peticion-de-la-fiscalia-chilena/",
+      "published_date": "2026-10-12T20:43:57Z",
+      "category": "Economy"
+    },
+    {
       "title": "Hijas de Petro demandarán a Semana por acusaciones contra ex primera dama",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/hijas-de-petro-demandaran-a-semana-por-acusaciones-contra-ex-primera-dama/",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Pitazos del director | Autoridades liberan a fiscal antidrogas investigado por el caso de San Bernardino",
+      "title": "Fuertes lluvias causaron deslizamientos de tierra y rocas en la vía a Choroní",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/fuertes-lluvias-causaron-deslizamientos-de-tierra-y-rocas-en-la-via-a-choroni/",
+      "published_date": "2026-10-13T01:01:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuertes lluvias causaron deslizamientos de tierra y rocas en la vía a Choroní",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/fuertes-lluvias-causaron-deslizamientos-de-tierra-y-rocas-en-la-via-a-choroni/",
+      "published_date": "2026-10-13T01:01:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nuevo sismo de magnitud 6,1 sacudió Panamá",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/nuevo-sismo-de-61-grados-sacude-centro-sur-de-panama/",
+      "published_date": "2026-10-13T00:45:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Nuevo sismo de magnitud 6,1 sacudió Panamá",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/nuevo-sismo-de-61-grados-sacude-centro-sur-de-panama/",
+      "published_date": "2026-10-13T00:45:18Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela rechaza las declaraciones del canciller de Uruguay y denuncia \"intromisión inadmisible\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/venezuela-rechaza-las-declaraciones-del-canciller-de-uruguay-y-denuncia-intromision-inadmisible/",
+      "published_date": "2026-10-13T00:40:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Venezuela rechaza las declaraciones del canciller de Uruguay y denuncia \"intromisión inadmisible\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/venezuela-rechaza-las-declaraciones-del-canciller-de-uruguay-y-denuncia-intromision-inadmisible/",
+      "published_date": "2026-10-13T00:40:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cerraron temporalmente el acceso a las cataratas del Iguazú por crecidas en Argentina",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/cerraron-temporalmente-las-cataratas-del-iguazu-por-crecidas-en-argentina/",
+      "published_date": "2026-10-12T23:53:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cerraron temporalmente el acceso a las cataratas del Iguazú por crecidas en Argentina",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/cerraron-temporalmente-las-cataratas-del-iguazu-por-crecidas-en-argentina/",
+      "published_date": "2026-10-12T23:53:55Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agentes federales registraron la casa de la congresista Ilhan Omar, crítica de Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/agentes-federales-registraron-la-casa-de-la-congresista-ilhan-omar-critica-de-trump/",
+      "published_date": "2026-10-12T23:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Agentes federales registraron la casa de la congresista Ilhan Omar, crítica de Trump",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/agentes-federales-registraron-la-casa-de-la-congresista-ilhan-omar-critica-de-trump/",
+      "published_date": "2026-10-12T23:30:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Susana Raffalli desmiente a Delcy Rodríguez y asegura que los CLAP se usaron como instrumento de control electoral",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/susana-raffalli-desmiente-a-delcy-rodriguez-y-asegura-que-en-venezuela-se-usaron-los-clap-como-instrumentos-de-control-electoral/",
+      "published_date": "2026-10-12T23:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Susana Raffalli desmiente a Delcy Rodríguez y asegura que los CLAP se usaron como instrumento de control electoral",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/susana-raffalli-desmiente-a-delcy-rodriguez-y-asegura-que-en-venezuela-se-usaron-los-clap-como-instrumentos-de-control-electoral/",
+      "published_date": "2026-10-12T23:05:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Smart Fit llega a Caracas con planes desde $29,99 al mes",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/pitazos-del-director-autoridades-liberan-a-fiscal-antidrogas-investigado-por-el-caso-de-san-bernardino/",
-      "published_date": "2026-10-08T00:06:06Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/deportes/smart-fit-llega-a-caracas-con-planes-desde-2999-al-mes/",
+      "published_date": "2026-10-12T23:01:37Z",
+      "category": "Local Events"
     },
     {
-      "title": "Caficultores de Portuguesa y Lara se declaran en emergencia y protestaron frente a las torrefactoras",
+      "title": "Trump sobre la tregua entre Ucrania y Rusia: \"Hay acuerdo porque yo he dicho que hay acuerdo\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/trump-sobre-la-tregua-entre-ucrania-y-rusia-hay-acuerdo-porque-yo-he-dicho-que-hay-acuerdo/",
+      "published_date": "2026-10-12T22:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump sobre la tregua entre Ucrania y Rusia: \"Hay acuerdo porque yo he dicho que hay acuerdo\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/trump-sobre-la-tregua-entre-ucrania-y-rusia-hay-acuerdo-porque-yo-he-dicho-que-hay-acuerdo/",
+      "published_date": "2026-10-12T22:43:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Excarcelaron en Barinas a Marlon Maya, miembro de Vente Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/excarcelan-en-barinas-a-marlon-maya-miembro-de-vente-venezuela/",
+      "published_date": "2026-10-12T22:27:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Excarcelaron en Barinas a Marlon Maya, miembro de Vente Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/excarcelan-en-barinas-a-marlon-maya-miembro-de-vente-venezuela/",
+      "published_date": "2026-10-12T22:27:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los Pitazos del director: ¿Será Maikel Moreno el próximo?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/caficultores-de-portuguesa-y-lara-se-declaran-en-emergencia-y-protestaron-frente-a-las-torrefactoras/",
-      "published_date": "2026-10-12T19:25:20Z",
+      "url": "https://elpitazo.net/politica/los-pitazos-del-director-sera-maikel-moreno-el-proximo/",
+      "published_date": "2026-10-12T22:15:36Z",
       "category": "Local Events"
     },
     {
-      "title": "La Casa Blanca lanza web para homenajear a Colón, \"el héroe estadounidense por excelencia\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-casa-blanca-lanza-web-para-homenajear-a-colon-el-heroe-estadounidense-por-excelencia/",
-      "published_date": "2026-10-12T19:23:50Z",
+      "title": "Reinauguran plaza Lincoln en Bello Monte con placa dedicada a Donald Trump",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/reinauguran-plaza-lincoln-en-bello-monte-con-placa-dedicada-a-donald-trump/",
+      "published_date": "2026-10-12T22:15:30Z",
       "category": "Local Events"
     },
     {
-      "title": "La Casa Blanca lanza web para homenajear a Colón, \"el héroe estadounidense por excelencia\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-casa-blanca-lanza-web-para-homenajear-a-colon-el-heroe-estadounidense-por-excelencia/",
-      "published_date": "2026-10-12T19:23:50Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apagón en las parroquias San Juan y Santa Teresa de Caracas: llevan más de 30 horas sin servicio eléctrico",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/reportan-apagon-en-las-parroquias-san-juan-y-santa-teresa-de-caracas-llevan-mas-de-30-horas-sin-electricidad/",
-      "published_date": "2026-10-12T19:14:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Apagón en las parroquias San Juan y Santa Teresa de Caracas: llevan más de 30 horas sin servicio eléctrico",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/reportan-apagon-en-las-parroquias-san-juan-y-santa-teresa-de-caracas-llevan-mas-de-30-horas-sin-electricidad/",
-      "published_date": "2026-10-12T19:14:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gustavo Dudamel inicia en España la gira europea de la New York Philharmonic",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/gustavo-dudamel-inicia-en-espana-la-gira-europea-de-la-new-york-philharmonic/",
-      "published_date": "2026-10-12T19:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gustavo Dudamel inicia en España la gira europea de la New York Philharmonic",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/gustavo-dudamel-inicia-en-espana-la-gira-europea-de-la-new-york-philharmonic/",
-      "published_date": "2026-10-12T19:02:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Barcelona vuelve a Estambul para enfrentar al Galatasaray",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-barcelona-vuelve-a-estambul-para-enfrentar-al-galatasaray/",
-      "published_date": "2026-10-12T18:55:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Barcelona vuelve a Estambul para enfrentar al Galatasaray",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-barcelona-vuelve-a-estambul-para-enfrentar-al-galatasaray/",
-      "published_date": "2026-10-12T18:55:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Saren reabre Registro Principal, Mercantil y Notaría Primera de La Guaira este 13 de octubre",
+      "title": "GobernAI, la startup que permite a los gobiernos anticipar con IA la opinión de los ciudadanos",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/gran-caracas/saren-reabre-registro-principal-mercantil-y-notaria-primera-de-la-guaira-este-13-de-octubre/",
-      "published_date": "2026-10-12T18:42:29Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez y Luis Abinader se reunieron por primera vez en Roma",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-y-luis-abinader-se-reunieron-por-primera-vez-en-roma/",
-      "published_date": "2026-10-12T18:38:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez y Luis Abinader se reunieron por primera vez en Roma",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-y-luis-abinader-se-reunieron-por-primera-vez-en-roma/",
-      "published_date": "2026-10-12T18:38:02Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Taxista es asesinado en Anzoátegui: había salido a comprar dólares",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/taxista-es-asesinado-en-anzoategui-habia-salido-a-comprar-dolares/",
-      "published_date": "2026-10-12T18:17:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La \"historia olvidada\" de los vikingos que llegaron a América 500 años antes que Colón",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-historia-olvidada-de-los-vikingos-que-llegaron-a-america-500-anos-antes-que-colon/",
-      "published_date": "2026-10-12T18:11:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La \"historia olvidada\" de los vikingos que llegaron a América 500 años antes que Colón",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-historia-olvidada-de-los-vikingos-que-llegaron-a-america-500-anos-antes-que-colon/",
-      "published_date": "2026-10-12T18:11:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Familiares y defensores de derechos humanos celebraron una misa por los presos políticos fallecidos bajo custodia del Estado",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/familiares-y-defensores-de-derechos-humanos-celebraron-una-misa-por-los-presos-politicos-fallecidos-bajo-custodia-del-estado/",
-      "published_date": "2026-10-12T17:56:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Familiares y defensores de derechos humanos celebraron una misa por los presos políticos fallecidos bajo custodia del Estado",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/familiares-y-defensores-de-derechos-humanos-celebraron-una-misa-por-los-presos-politicos-fallecidos-bajo-custodia-del-estado/",
-      "published_date": "2026-10-12T17:56:06Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Cedice Libertad: Venezuela ocupa el último lugar en el Índice de Libertad Económica 2026",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/622456/cedice-libertad-venezuela-ocupa-el-ultimo-lugar-en-el-indice-de-libertad-economica-2026/",
-      "published_date": "2026-10-12T17:43:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguesa | Lluvias hacen colapsar puente que inauguraron hace tres días",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/portuguesa-lluvias-hacen-colapsar-puente-que-inauguraron-hace-tres-dias/",
-      "published_date": "2026-10-12T17:35:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lester Toledo exigió soluciones a la crisis eléctrica en Zulia y denunció el abandono de la subestación El Chivo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/lester-toledo-exigio-soluciones-a-la-crisis-electrica-en-zulia-y-denuncio-el-abandono-de-la-subestacion-el-chivo/",
-      "published_date": "2026-10-12T17:25:51Z",
+      "url": "https://elpitazo.net/tecnologia/gobernai-la-startup-que-permite-a-los-gobiernos-anticipar-con-ia-la-opinion-de-los-ciudadanos/",
+      "published_date": "2026-10-12T22:11:00Z",
       "category": "Local Events"
     }
   ]
