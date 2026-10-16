@@ -1,146 +1,167 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-16T01:10:02Z",
+  "last_updated": "2026-10-16T15:21:47Z",
   "stories": [
     {
-      "title": "Un tiroteo en una escuela de Bend deja al menos cuatro muertos y varios heridos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/un-tiroteo-en-una-escuela-de-bend-deja-al-menos-cuatro-muertos-y-varios-heridos/",
-      "published_date": "2026-10-16T00:42:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un tiroteo en una escuela de Bend deja al menos cuatro muertos y varios heridos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/un-tiroteo-en-una-escuela-de-bend-deja-al-menos-cuatro-muertos-y-varios-heridos/",
-      "published_date": "2026-10-16T00:42:50Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Aprender a vivir con la incertidumbre",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/622815/vivir-con-la-incertidumbre/",
-      "published_date": "2026-10-15T23:34:25Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La enfermedad de León XIV abre interrogantes sobre el rumbo de su papado",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-enfermedad-de-leon-xiv-abre-interrogantes-sobre-el-rumbo-de-su-papado/",
-      "published_date": "2026-10-15T23:34:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La enfermedad de León XIV abre interrogantes sobre el rumbo de su papado",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-enfermedad-de-leon-xiv-abre-interrogantes-sobre-el-rumbo-de-su-papado/",
-      "published_date": "2026-10-15T23:34:03Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OVP denuncia cobros de hasta 100 dólares a presos y familiares para reparar cárceles en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ovp-denuncia-cobros-de-hasta-100-dolares-a-presos-y-familiares-para-reparar-carceles-en-venezuela/",
-      "published_date": "2026-10-15T23:19:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "OVP denuncia cobros de hasta 100 dólares a presos y familiares para reparar cárceles en Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ovp-denuncia-cobros-de-hasta-100-dolares-a-presos-y-familiares-para-reparar-carceles-en-venezuela/",
-      "published_date": "2026-10-15T23:19:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Callao | Mineros denuncian jubilaciones forzadas en Minerven",
+      "title": "«Petro y Maduro dieron la orden»: esposa de Miguel Uribe Turbay sobre el asesinato del exsenador",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/el-callao-mineros-denuncian-jubilaciones-forzadas-en-minerven/",
-      "published_date": "2026-10-15T23:07:00Z",
+      "url": "https://elpitazo.net/politica/petro-y-maduro-dieron-la-orden-esposa-de-miguel-uribe-turbay-sobre-el-asesinato-del-exsenador/",
+      "published_date": "2026-10-16T14:32:02Z",
       "category": "Diplomacy"
     },
     {
-      "title": "De los Extraditables de Pablo Escobar a los “extraditables” de Maduro",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/622791/extraditables-de-maduro/",
-      "published_date": "2026-10-15T22:57:43Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trujillo | Estudiantes de una universidad en Valera afectados por posible intoxicación",
+      "title": "ONG se reúnen con delegación de la AN de 2015 para plantear derogación de leyes represivas",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/trujillo-autoridades-reportan-estudiantes-afectados-por-posible-intoxicacion-en-universidad-de-valera/",
-      "published_date": "2026-10-15T22:53:22Z",
+      "url": "https://elpitazo.net/politica/ong-se-reunen-con-delegacion-de-la-an-de-2015-para-plantear-derogacion-de-leyes-represivas/",
+      "published_date": "2026-10-16T14:16:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Funvisis instala estación geodésica de alta precisión en Caracas para monitorear deformaciones tectónicas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/funvisis-instala-estacion-geodesica-de-alta-precision-en-caracas-para-monitorear-deformaciones-tectonicas/",
-      "published_date": "2026-10-15T22:41:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Funvisis instala estación geodésica de alta precisión en Caracas para monitorear deformaciones tectónicas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/funvisis-instala-estacion-geodesica-de-alta-precision-en-caracas-para-monitorear-deformaciones-tectonicas/",
-      "published_date": "2026-10-15T22:41:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LeBron James advierte sobre el talento de Miami: “Va a ser emocionante ver a ese equipo”",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/lebron-james-advierte-sobre-el-talento-de-miami-va-a-ser-emocionante-ver-a-ese-equipo/",
-      "published_date": "2026-10-15T22:27:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LeBron James advierte sobre el talento de Miami: “Va a ser emocionante ver a ese equipo”",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/lebron-james-advierte-sobre-el-talento-de-miami-va-a-ser-emocionante-ver-a-ese-equipo/",
-      "published_date": "2026-10-15T22:27:58Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gobierno cubano incrimina al director de La Hora de Cuba",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/622778/gobierno-cubano-incrimina-al-director-de-la-hora-de-cuba/",
-      "published_date": "2026-10-15T22:24:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Delcy Rodríguez propone a Keiko Fujimori el retorno seguro de venezolanos desde Perú",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/delcy-rodriguez-propone-a-keiko-fujimori-el-retorno-seguro-de-venezolanos-desde-peru/",
-      "published_date": "2026-10-15T21:56:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Caso Farmatodo: Diosdado Cabello advierte que detenidos deberán asumir las responsabilidades penales",
+      "title": "Hija de banquero venezolano Julio Herrera Velutini promete millonaria donación a la Casa Blanca previo al indulto de su padre",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/caso-farmatodo-diosdado-cabello-advierte-que-detenidos-deberan-asumir-las-responsabilidades-penales/",
-      "published_date": "2026-10-15T21:43:02Z",
+      "url": "https://elpitazo.net/sin-categoria/hija-de-banquero-venezolano-julio-herrera-velutini-promete-millonaria-donacion-a-la-casa-blanca-previo-al-indulto-de-su-padre/",
+      "published_date": "2026-10-16T14:11:34Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Condenan a 20 años de prisión a Maickel Villegas por el asesinato de Ronald Ojeda",
+      "title": "Jódar, a semifinales de Shanghai y más cerca del Masters",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/condenan-a-20-anos-de-prision-a-maickel-villegas-por-el-asesinato-de-ronald-ojeda/",
-      "published_date": "2026-10-15T21:32:21Z",
+      "url": "https://www.elnacional.com/2026/10/jodar-a-semifinales-de-shanghai-y-mas-cerca-del-masters/",
+      "published_date": "2026-10-16T13:30:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Condenan a 20 años de prisión a Maickel Villegas por el asesinato de Ronald Ojeda",
+      "title": "Jódar, a semifinales de Shanghai y más cerca del Masters",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/condenan-a-20-anos-de-prision-a-maickel-villegas-por-el-asesinato-de-ronald-ojeda/",
-      "published_date": "2026-10-15T21:32:21Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/jodar-a-semifinales-de-shanghai-y-mas-cerca-del-masters/",
+      "published_date": "2026-10-16T13:30:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Colombia anuncia su retiro del Grupo de La Haya y consolida el viraje diplomático a favor de Israel",
+      "title": "Publican las primeras fotografías del Papa tras su operación de pulmón",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/colombia-anuncia-su-retiro-del-grupo-de-la-haya-y-consolida-el-viraje-diplomatico-a-favor-de-israel/",
-      "published_date": "2026-10-15T21:18:13Z",
+      "url": "https://www.elnacional.com/2026/10/publican-las-primeras-fotografias-del-papa-tras-su-operacion-de-pulmon/",
+      "published_date": "2026-10-16T13:23:29Z",
       "category": "Diplomacy"
+    },
+    {
+      "title": "Publican las primeras fotografías del Papa tras su operación de pulmón",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/publican-las-primeras-fotografias-del-papa-tras-su-operacion-de-pulmon/",
+      "published_date": "2026-10-16T13:23:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Siete de cada diez hogares venezolanos siguen siendo pobres",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/622828/claves-economia-crecera-65-en-2026-pero-siete-de-cada-diez-hogares-siguen-siendo-pobres/",
+      "published_date": "2026-10-16T13:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Viuda de Miguel Uribe Turbay señala a Petro y Maduro por su asesinato: \"Dieron la orden a la Segunda Marquetalia\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/viuda-de-miguel-uribe-turbay-senala-a-petro-y-maduro-por-su-asesinato-dieron-la-orden-a-la-segunda-marquetalia/",
+      "published_date": "2026-10-16T11:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Viuda de Miguel Uribe Turbay señala a Petro y Maduro por su asesinato: \"Dieron la orden a la Segunda Marquetalia\"",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/viuda-de-miguel-uribe-turbay-senala-a-petro-y-maduro-por-su-asesinato-dieron-la-orden-a-la-segunda-marquetalia/",
+      "published_date": "2026-10-16T11:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Quién es Katie Zacharia, la nueva portavoz de Trump que tuvo un debut accidentado en la Casa Blanca",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/quien-es-katie-zacharia-la-nueva-portavoz-de-trump-que-tuvo-un-debut-accidentado-en-la-casa-blanca/",
+      "published_date": "2026-10-16T11:00:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Quién es Katie Zacharia, la nueva portavoz de Trump que tuvo un debut accidentado en la Casa Blanca",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/quien-es-katie-zacharia-la-nueva-portavoz-de-trump-que-tuvo-un-debut-accidentado-en-la-casa-blanca/",
+      "published_date": "2026-10-16T11:00:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Así es el carro volador de Tesla presentado por Elon Musk",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/asi-es-el-auto-volador-de-tesla-presentado-por-elon-musk/",
+      "published_date": "2026-10-16T09:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Así es el carro volador de Tesla presentado por Elon Musk",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/asi-es-el-auto-volador-de-tesla-presentado-por-elon-musk/",
+      "published_date": "2026-10-16T09:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anthropic  propone compartir mecanismos de seguridad para la IA",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/anthropic-propone-compartir-mecanismos-de-seguridad-para-la-ia/",
+      "published_date": "2026-10-16T09:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Anthropic  propone compartir mecanismos de seguridad para la IA",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/anthropic-propone-compartir-mecanismos-de-seguridad-para-la-ia/",
+      "published_date": "2026-10-16T09:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El consumo elevado de ultraprocesados podría causar daños cerebrales",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/consumo-elevado-de-ultraprocesados-podria-causar-danos/",
+      "published_date": "2026-10-16T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El consumo elevado de ultraprocesados podría causar daños cerebrales",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/consumo-elevado-de-ultraprocesados-podria-causar-danos/",
+      "published_date": "2026-10-16T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Steven Soderbergh sustituirá a Matt Reeves en The Batman 2",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/steven-soderbergh-sustituira-a-matt-reeves-en-the-batman-2/",
+      "published_date": "2026-10-16T05:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Steven Soderbergh sustituirá a Matt Reeves en The Batman 2",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/steven-soderbergh-sustituira-a-matt-reeves-en-the-batman-2/",
+      "published_date": "2026-10-16T05:03:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "En fotos: así es la nueva megacárcel de máxima seguridad de Costa Rica que imita a la de Bukele en El Salvador",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/en-fotos-asi-es-la-nueva-megacarcel-de-maxima-seguridad-de-costa-rica-que-imita-a-la-de-bukele-en-el-salvador/",
+      "published_date": "2026-10-16T14:39:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "En fotos: así es la nueva megacárcel de máxima seguridad de Costa Rica que imita a la de Bukele en El Salvador",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/en-fotos-asi-es-la-nueva-megacarcel-de-maxima-seguridad-de-costa-rica-que-imita-a-la-de-bukele-en-el-salvador/",
+      "published_date": "2026-10-16T14:39:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "La Conversa | Vinculan a Cabello, Granko y Hernández Dala con archivos de guerrillas colombianas",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/622862/la-conversa-vinculan-a-cabello-granko-y-hernandez-dala-con-archivos-de-guerrillas-colombianas/",
+      "published_date": "2026-10-16T14:30:26Z",
+      "category": "Military"
     },
     {
       "title": "Detuvieron en Guárico al líder de la banda que asesinó a la candidata peruana Susy Aponte Polo",
@@ -262,25 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Konami celebra 40 años de Castlevania con el lanzamiento de Belmont's Curse",
+      "title": "Presidente de Pdvsa: Acuerdo petrolero con EE UU ya está vigente y en funcionamiento",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/konami-celebra-40-anos-de-castlevania-con-el-lanzamiento-de-belmonts-curse/",
-      "published_date": "2026-10-14T05:00:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/presidente-de-pdvsa-acuerdo-petrolero-con-ee-uu-ya-esta-vigente-y-en-funcionamiento/",
+      "published_date": "2026-10-16T13:00:18Z",
+      "category": "Energy"
     },
     {
-      "title": "Diócesis de Carora impulsa la 36ª edición de “Abrazo en Familia” como respuesta a la crisis del tejido social venezolano",
+      "title": "Presidente de Pdvsa: Acuerdo petrolero con EE UU ya está vigente y en funcionamiento",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/diocesis-de-carora-impulsa-la-36a-edicion-de-abrazo-en-familia-como-respuesta-a-la-crisis-del-tejido-social-venezolano/",
-      "published_date": "2026-10-13T21:10:01Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/10/presidente-de-pdvsa-acuerdo-petrolero-con-ee-uu-ya-esta-vigente-y-en-funcionamiento/",
+      "published_date": "2026-10-16T13:00:18Z",
+      "category": "Energy"
     },
     {
-      "title": "Diócesis de Carora impulsa la 36ª edición de “Abrazo en Familia” como respuesta a la crisis del tejido social venezolano",
+      "title": "Japón sufre una ola de ciberataques con millones de datos filtrados",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/diocesis-de-carora-impulsa-la-36a-edicion-de-abrazo-en-familia-como-respuesta-a-la-crisis-del-tejido-social-venezolano/",
-      "published_date": "2026-10-13T21:10:01Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/japon-sufre-una-ola-de-ciberataques-con-millones-de-datos-filtrados/",
+      "published_date": "2026-10-16T05:01:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Japón sufre una ola de ciberataques con millones de datos filtrados",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/japon-sufre-una-ola-de-ciberataques-con-millones-de-datos-filtrados/",
+      "published_date": "2026-10-16T05:01:00Z",
+      "category": "Energy"
     },
     {
       "title": "Presidente de Pdvsa asegura que acuerdo petrolero con EE. UU. «ya está en funcionamiento»",
@@ -395,32 +423,11 @@
       "category": "Energy"
     },
     {
-      "title": "Reino Unido amplió su alerta de viaje sobre Venezuela: pidió evitar el estado Amazonas y la frontera colombiana",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/reino-unido-amplio-su-alerta-de-viaje-sobre-venezuela-pidio-evitar-el-estado-amazonas-y-la-frontera-colombiana/",
-      "published_date": "2026-10-14T14:32:24Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Reino Unido amplió su alerta de viaje sobre Venezuela: pidió evitar el estado Amazonas y la frontera colombiana",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/reino-unido-amplio-su-alerta-de-viaje-sobre-venezuela-pidio-evitar-el-estado-amazonas-y-la-frontera-colombiana/",
-      "published_date": "2026-10-14T14:32:24Z",
-      "category": "Energy"
-    },
-    {
-      "title": "La IA podría causar graves incidentes en dos años, advierte Google",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-ia-podria-causar-graves-incidentes-en-dos-anos/",
-      "published_date": "2026-10-14T13:44:33Z",
-      "category": "Energy"
-    },
-    {
-      "title": "La IA podría causar graves incidentes en dos años, advierte Google",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-ia-podria-causar-graves-incidentes-en-dos-anos/",
-      "published_date": "2026-10-14T13:44:33Z",
-      "category": "Energy"
+      "title": "María Corina Machado sobre Alejandro Betancourt: es uno de los principales responsables del sufrimiento que padece nuestra gente",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/maria-corina-machado-sobre-alejandro-betancourt-es-uno-de-los-principales-responsables-del-sufrimiento-que-padece-nuestra-gente/",
+      "published_date": "2026-10-16T12:11:22Z",
+      "category": "Economy"
     },
     {
       "title": "San Bernardino: detienen al jefe de Gestión Humana de la PNB por el caso de los 1.000 kilos de marihuana",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Expertos, académicos y políticos cuestionaron legalidad y transparencia del acuerdo petrolero entre Venezuela y EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/expertos-academicos-y-politicos-cuestionaron-legalidad-y-transparencia-del-acuerdo-petrolero-entre-venezuela-y-ee-uu/",
-      "published_date": "2026-10-12T12:09:45Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Sociedad Anticancerosa de Venezuela presenta sus proyecciones para 2026 y pide acción conjunta contra el cáncer",
+      "title": "María Corina Machado cuestiona a EE. UU. por excluirla del plan de transición para Venezuela",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/salud/sociedad-anticancerosa-de-venezuela-presenta-sus-proyecciones-para-2026-y-pide-accion-conjunta-contra-el-cancer/",
-      "published_date": "2026-10-16T00:38:25Z",
+      "url": "https://elpitazo.net/politica/maria-corina-machado-cuestiona-a-ee-uu-por-excluirla-del-plan-de-transicion-para-venezuela/",
+      "published_date": "2026-10-16T15:15:30Z",
       "category": "Local Events"
     },
     {
-      "title": "El TSJ avala la reforma a la Ley contra el Odio y autoriza a la Asamblea Nacional a continuar el debate legislativo",
+      "title": "Oposición venezolana convoca a movilización nacional el 22Oct para exigir fecha de elecciones",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/politica/oposicion-venezolana-convoca-a-movilizacion-nacional-el-22oct-para-exigir-fecha-de-elecciones/",
+      "published_date": "2026-10-16T15:10:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Delegación opositora evaluó con ONG derechos civiles en el marco de diálogo con chavismo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-tsj-avala-la-reforma-a-la-ley-contra-el-odio-y-autoriza-a-la-asamblea-nacional-a-continuar-el-debate-legislativo/",
-      "published_date": "2026-10-16T00:29:09Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/delegacion-opositora-evaluo-con-ong-derechos-civiles-en-el-marco-de-dialogo-con-chavismo/",
+      "published_date": "2026-10-16T15:05:00Z",
       "category": "Local Events"
     },
     {
-      "title": "El TSJ avala la reforma a la Ley contra el Odio y autoriza a la Asamblea Nacional a continuar el debate legislativo",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-tsj-avala-la-reforma-a-la-ley-contra-el-odio-y-autoriza-a-la-asamblea-nacional-a-continuar-el-debate-legislativo/",
-      "published_date": "2026-10-16T00:29:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Binance habilita depósitos en bolívares en Venezuela mediante transferencias bancarias y Pago Móvil",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/binance-habilita-depositos-en-bolivares-en-venezuela-mediante-transferencias-bancarias-y-pago-movil/",
-      "published_date": "2026-10-15T23:54:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Binance habilita depósitos en bolívares en Venezuela mediante transferencias bancarias y Pago Móvil",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/binance-habilita-depositos-en-bolivares-en-venezuela-mediante-transferencias-bancarias-y-pago-movil/",
-      "published_date": "2026-10-15T23:54:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laser Airlines reanudará la ruta comercial entre Caracas y Aruba a partir del 3 de diciembre",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/laser-airlines-reanudara-la-ruta-comercial-entre-caracas-y-aruba-a-partir-del-3-de-diciembre/",
-      "published_date": "2026-10-15T23:48:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Laser Airlines reanudará la ruta comercial entre Caracas y Aruba a partir del 3 de diciembre",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/laser-airlines-reanudara-la-ruta-comercial-entre-caracas-y-aruba-a-partir-del-3-de-diciembre/",
-      "published_date": "2026-10-15T23:48:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keiko Fujimori y Delcy Rodríguez acuerdan protocolo para la expulsión de ciudadanos venezolanos indocumentados de Perú",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/keiko-fujimori-y-delcy-rodriguez-acuerdan-protocolo-para-la-expulsion-de-ciudadanos-venezolanos-indocumentados-de-peru/",
-      "published_date": "2026-10-15T23:45:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Keiko Fujimori y Delcy Rodríguez acuerdan protocolo para la expulsión de ciudadanos venezolanos indocumentados de Perú",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/keiko-fujimori-y-delcy-rodriguez-acuerdan-protocolo-para-la-expulsion-de-ciudadanos-venezolanos-indocumentados-de-peru/",
-      "published_date": "2026-10-15T23:45:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "PoliChacao pide a ciudadanos verificar fecha y veracidad de videos difundidos en redes sociales",
+      "title": "Caficultores amanecen en protesta frente torrefactora: exigen que se respeten los precios acordados",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/polichacao-pide-a-ciudadanos-verificar-fecha-y-veracidad-de-videos-difundidos-en-redes-sociales/",
-      "published_date": "2026-10-15T23:21:21Z",
+      "url": "https://elpitazo.net/regiones/caficultores-amanecen-en-protesta-frente-torrefactora-exigen-que-se-respeten-los-precios-acordados/",
+      "published_date": "2026-10-16T14:54:01Z",
       "category": "Local Events"
     },
     {
-      "title": "PoliChacao pide a ciudadanos verificar fecha y veracidad de videos difundidos en redes sociales",
+      "title": "Delegación de la AN de 2015 y ONG acuerdan priorizar la transición democrática y la defensa de los DD. HH.",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/622861/delegacion-de-la-an-de-2015-y-ong-acuerdan-priorizar-la-transicion-democratica-y-la-defensa-de-los-dd-hh/",
+      "published_date": "2026-10-16T14:36:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inameh prevé lluvias variables este viernes y fin de semana por el paso de la onda tropical 57",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/inameh-preve-lluvias-variables-este-viernes/",
+      "published_date": "2026-10-16T14:23:06Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milwaukee tuvo su dulce venganza ante los Dodgers",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/milwaukee-tuvo-su-dulce-venganza-ante-los-dodgers/",
+      "published_date": "2026-10-16T14:22:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Milwaukee tuvo su dulce venganza ante los Dodgers",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/milwaukee-tuvo-su-dulce-venganza-ante-los-dodgers/",
+      "published_date": "2026-10-16T14:22:49Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La UE reafirma su apoyo a Zelenski en plena tensión con Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/la-ue-reafirma-su-apoyo-a-zelenski-en-plena-tension-con-trump/",
+      "published_date": "2026-10-16T14:20:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La UE reafirma su apoyo a Zelenski en plena tensión con Trump",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/la-ue-reafirma-su-apoyo-a-zelenski-en-plena-tension-con-trump/",
+      "published_date": "2026-10-16T14:20:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Falleció Mariela Ramírez, arquitecta del diálogo social en Venezuela",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/fallecio-mariela-ramirez-arquitecta-del-dialogo-social-en-venezuela/",
+      "published_date": "2026-10-16T14:03:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murió a los 100 años de edad el padre del expresidente español José Luis Rodríguez Zapatero",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/murio-a-los-100-anos-de-edad-el-padre-del-expresidente-espanol-jose-luis-rodriguez-zapatero/",
+      "published_date": "2026-10-16T13:54:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Murió a los 100 años de edad el padre del expresidente español José Luis Rodríguez Zapatero",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/murio-a-los-100-anos-de-edad-el-padre-del-expresidente-espanol-jose-luis-rodriguez-zapatero/",
+      "published_date": "2026-10-16T13:54:35Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El papa León XIV celebra Santa Misa en el hospital Gemelli y muestra mejoría constante",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/el-papa-leon-xiv-celebra-santa-misa-en-el-hospital-gemelli-y-muestra-mejoria-constante/",
+      "published_date": "2026-10-16T13:49:43Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Hija de banquero venezolano hace millonaria donación antes de que Trump indultara al padre",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/hija-de-banquero-venezolano-hace-millonaria-donacion-antes-de-que-trump-indultara-al-padre/",
+      "published_date": "2026-10-16T13:09:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tigres apeló al poder, Bravos arruinó el estreno melenudo y Caribes volvió a desatar su ofensiva en la LVBP",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/tigres-apelo-al-poder-bravos-arruino-el-estreno-melenudo-y-caribes-volvio-a-desatar-su-ofensiva-en-la-lvbp/",
+      "published_date": "2026-10-16T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tigres apeló al poder, Bravos arruinó el estreno melenudo y Caribes volvió a desatar su ofensiva en la LVBP",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/tigres-apelo-al-poder-bravos-arruino-el-estreno-melenudo-y-caribes-volvio-a-desatar-su-ofensiva-en-la-lvbp/",
+      "published_date": "2026-10-16T13:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los Cerveceros de Jackson Chourio, William Contreras y Luis Lara están en la Serie Mundial",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/polichacao-pide-a-ciudadanos-verificar-fecha-y-veracidad-de-videos-difundidos-en-redes-sociales/",
-      "published_date": "2026-10-15T23:21:21Z",
+      "url": "https://elpitazo.net/deportes/los-cerveceros-de-jackson-chourio-william-contreras-y-luis-lara-estan-en-la-serie-mundial/",
+      "published_date": "2026-10-16T12:54:16Z",
       "category": "Local Events"
     },
     {
-      "title": "Isabel Allende gana el Premio Planeta 2026 con La hora antes del alba",
+      "title": "EE UU evalúa levantar sanciones a buques de la flota fantasma de Venezuela, Rusia e Irán",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/isabel-allende-gana-el-premio-planeta-2026-con-la-hora-antes-del-alba/",
-      "published_date": "2026-10-15T22:12:10Z",
+      "url": "https://www.elnacional.com/2026/10/ee-uu-evalua-levantar-sanciones-a-buques-de-la-flota-fantasma-de-venezuela-rusia-e-iran/",
+      "published_date": "2026-10-16T12:40:51Z",
       "category": "Local Events"
     },
     {
-      "title": "Isabel Allende gana el Premio Planeta 2026 con La hora antes del alba",
+      "title": "EE UU evalúa levantar sanciones a buques de la flota fantasma de Venezuela, Rusia e Irán",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/isabel-allende-gana-el-premio-planeta-2026-con-la-hora-antes-del-alba/",
-      "published_date": "2026-10-15T22:12:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Williams Dávila y Américo De Grazia expusieron ante el Parlamento Europeo la situación de los presos políticos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/williams-davila-y-americo-de-grazia-expusieron-ante-el-parlamento-europeo-la-situacion-de-los-presos-politicos/",
-      "published_date": "2026-10-15T22:05:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Williams Dávila y Américo De Grazia expusieron ante el Parlamento Europeo la situación de los presos políticos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/williams-davila-y-americo-de-grazia-expusieron-ante-el-parlamento-europeo-la-situacion-de-los-presos-politicos/",
-      "published_date": "2026-10-15T22:05:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Estos son los seis finalistas al Premio Luis Aparicio",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/estos-son-los-seis-finalistas-al-premio-luis-aparicio/",
-      "published_date": "2026-10-15T21:54:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Estos son los seis finalistas al Premio Luis Aparicio",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/estos-son-los-seis-finalistas-al-premio-luis-aparicio/",
-      "published_date": "2026-10-15T21:54:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Monseñor Jylman Red Jurado presenta ante la AN el anteproyecto de Ley de Reparación para Presos Políticos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/monsenor-jylman-red-jurado-presenta-ante-la-an-el-anteproyecto-de-ley-de-reparacion-para-presos-politicos/",
-      "published_date": "2026-10-15T21:33:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La congresista María Elvira Salazar asegura que Donald Trump respaldará la regularización de algunos migrantes antes de terminar su mandato",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-congresista-maria-elvira-salazar-asegura-que-donald-trump-respaldara-la-regularizacion-de-algunos-migrantes-antes-de-terminar-su-mandato/",
-      "published_date": "2026-10-15T21:00:21Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La congresista María Elvira Salazar asegura que Donald Trump respaldará la regularización de algunos migrantes antes de terminar su mandato",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-congresista-maria-elvira-salazar-asegura-que-donald-trump-respaldara-la-regularizacion-de-algunos-migrantes-antes-de-terminar-su-mandato/",
-      "published_date": "2026-10-15T21:00:21Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/ee-uu-evalua-levantar-sanciones-a-buques-de-la-flota-fantasma-de-venezuela-rusia-e-iran/",
+      "published_date": "2026-10-16T12:40:51Z",
       "category": "Local Events"
     }
   ]
