@@ -1,146 +1,167 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-21T15:55:47Z",
+  "last_updated": "2026-10-22T01:27:57Z",
   "stories": [
     {
-      "title": "Protestas en Francia afectan al Toulouse de Cristian Cásseres Jr.",
+      "title": "Mesa de Negociación acuerda revisar inhabilitaciones políticas y juramentar Comité para renovar el TSJ",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/protestas-en-francia-afectan-al-toulouse-de-cristian-casseres-jr/",
-      "published_date": "2026-10-21T15:39:52Z",
+      "url": "https://www.elnacional.com/2026/10/mesa-de-negociacion-acuerda-revisar-inhabilitaciones-politicas-y-juramentar-comite-para-renovar-el-tsj/",
+      "published_date": "2026-10-22T01:21:41Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Protestas en Francia afectan al Toulouse de Cristian Cásseres Jr.",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/protestas-en-francia-afectan-al-toulouse-de-cristian-casseres-jr/",
-      "published_date": "2026-10-21T15:39:52Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "22 de octubre: el inicio del quiebre del régimen chavista",
+      "title": "Venezuela tiene 11 años ocupando el último lugar del Índice Mundial del Estado de Derecho",
       "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/623134/primarias-opositoras-de-2023/",
-      "published_date": "2026-10-21T15:12:54Z",
+      "url": "https://runrun.es/noticias/623149/venezuela-tiene-11-anos-ocupando-el-ultimo-lugar-del-indice-mundial-del-estado-de-derecho/",
+      "published_date": "2026-10-22T01:17:17Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Papa retoma las audiencias y se vuelve a subir al papamóvil tras su operación",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/papa-retoma-las-audiencias-y-se-vuelve-a-subir-al-papamovil-tras-su-operacion/",
-      "published_date": "2026-10-21T15:10:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Canciller iraní afirma que su país y EE UU continúan sus negociaciones “sin interrupción”",
+      "title": "Formalizan cargos contra venezolano baleado por ICE en Texas: enfrenta hasta 20 años de prisión",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/canciller-irani-afirma-que-su-pais-y-ee-uu-continuan-sus-negociaciones-sin-interrupcion/",
-      "published_date": "2026-10-21T13:55:00Z",
+      "url": "https://www.elnacional.com/2026/10/formalizan-cargos-contra-venezolano-baleado-por-ice-en-texas-enfrenta-hasta-20-anos-de-prision/",
+      "published_date": "2026-10-22T00:24:30Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Canciller iraní afirma que su país y EE UU continúan sus negociaciones “sin interrupción”",
+      "title": "Formalizan cargos contra venezolano baleado por ICE en Texas: enfrenta hasta 20 años de prisión",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/canciller-irani-afirma-que-su-pais-y-ee-uu-continuan-sus-negociaciones-sin-interrupcion/",
-      "published_date": "2026-10-21T13:55:00Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/formalizan-cargos-contra-venezolano-baleado-por-ice-en-texas-enfrenta-hasta-20-anos-de-prision/",
+      "published_date": "2026-10-22T00:24:30Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Soldado mata a tres compañeros y escapa con un fusil al atacar base aérea de Táchira",
+      "title": "Gran jurado federal acusa a venezolano baleado por agente del ICE en Texas",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/soldado-mata-a-tres-companeros-y-escapa-con-un-fusil-en-ataque-en-base-aerea-de-tachira/",
-      "published_date": "2026-10-21T13:44:19Z",
+      "url": "https://elpitazo.net/migracion/gran-jurado-federal-acusa-a-venezolano-baleado-por-agente-del-ice-en-texas/",
+      "published_date": "2026-10-21T23:03:35Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Reuters: EEUU invoca una ley de tortura raramente aplicada en el caso ampliado contra Maduro",
+      "title": "Jose Mourinho sobre el cambio de Vinícius: “No es de un entrenador que no está contento”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/jose-mourinho-sobre-el-cambio-de-vinicius-no-es-de-un-entrenador-que-no-esta-contento/",
+      "published_date": "2026-10-21T22:55:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Jose Mourinho sobre el cambio de Vinícius: “No es de un entrenador que no está contento”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/jose-mourinho-sobre-el-cambio-de-vinicius-no-es-de-un-entrenador-que-no-esta-contento/",
+      "published_date": "2026-10-21T22:55:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Recuperación del sistema eléctrico venezolano requerirá hasta 40.000 millones de dólares y una década de ejecución, estimó la Aviem",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/recuperacion-del-sistema-electrico-venezolano-requerira-hasta-40-000-millones-de-dolares-y-una-decada-de-ejecucion-estimo-la-aviem/",
+      "published_date": "2026-10-21T22:52:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Recuperación del sistema eléctrico venezolano requerirá hasta 40.000 millones de dólares y una década de ejecución, estimó la Aviem",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/recuperacion-del-sistema-electrico-venezolano-requerira-hasta-40-000-millones-de-dolares-y-una-decada-de-ejecucion-estimo-la-aviem/",
+      "published_date": "2026-10-21T22:52:08Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela vuelve a ocupar el último lugar en Estado de derecho y EE UU cae al puesto 30",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/venezuela-vuelve-a-ocupar-el-ultimo-lugar-en-estado-de-derecho-y-ee-uu-cae-al-puesto-30/",
+      "published_date": "2026-10-21T22:50:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela vuelve a ocupar el último lugar en Estado de derecho y EE UU cae al puesto 30",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/venezuela-vuelve-a-ocupar-el-ultimo-lugar-en-estado-de-derecho-y-ee-uu-cae-al-puesto-30/",
+      "published_date": "2026-10-21T22:50:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soldado asesinó a tres militares e hirió a otros dos en Táchira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/soldado-asesino-a-tres-militares-e-hirio-a-otros-dos-en-tachira/",
+      "published_date": "2026-10-21T22:06:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Soldado asesinó a tres militares e hirió a otros dos en Táchira",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/soldado-asesino-a-tres-militares-e-hirio-a-otros-dos-en-tachira/",
+      "published_date": "2026-10-21T22:06:43Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela venció Zambia en el Mundial sub-17 con un golazo de Andrea Suárez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/venezuela-vencio-zambia-en-el-mundial-sub-17-con-un-golazo-de-andrea-suarez/",
+      "published_date": "2026-10-21T21:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela venció Zambia en el Mundial sub-17 con un golazo de Andrea Suárez",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/venezuela-vencio-zambia-en-el-mundial-sub-17-con-un-golazo-de-andrea-suarez/",
+      "published_date": "2026-10-21T21:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba califica de “acto infame” la orden de arresto de EE UU contra Raúl Castro y afirma que la política de Washington “tendrá que cambiar”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/cuba-califica-de-acto-infame-la-orden-de-arresto-de-ee-uu-contra-raul-castro-y-afirma-que-la-politica-de-washington-tendra-que-cambiar/",
+      "published_date": "2026-10-21T21:05:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cuba califica de “acto infame” la orden de arresto de EE UU contra Raúl Castro y afirma que la política de Washington “tendrá que cambiar”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/cuba-califica-de-acto-infame-la-orden-de-arresto-de-ee-uu-contra-raul-castro-y-afirma-que-la-politica-de-washington-tendra-que-cambiar/",
+      "published_date": "2026-10-21T21:05:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Capriles descarta volver a competir por la presidencia y reconoce el liderazgo de María Corina Machado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/capriles-descarta-volver-a-competir-por-la-presidencia-y-reconoce-el-liderazgo-de-maria-corina-machado/",
+      "published_date": "2026-10-21T20:43:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Capriles descarta volver a competir por la presidencia y reconoce el liderazgo de María Corina Machado",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/capriles-descarta-volver-a-competir-por-la-presidencia-y-reconoce-el-liderazgo-de-maria-corina-machado/",
+      "published_date": "2026-10-21T20:43:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Capriles descarta nueva candidatura presidencial: “El país tiene hoy un nuevo liderazgo, el de María Corina”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/623160/capriles-descarta-nueva-candidatura-presidencial-el-pais-tiene-hoy-un-nuevo-liderazgo-el-de-maria-corina/",
+      "published_date": "2026-10-21T20:39:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Airtek: el Internet más premiado de Venezuela por cuarto año",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/airtek-el-internet-mas-premiado-de-venezuela-por-cuarto-ano/",
+      "published_date": "2026-10-21T21:22:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Airtek: el Internet más premiado de Venezuela por cuarto año",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/airtek-el-internet-mas-premiado-de-venezuela-por-cuarto-ano/",
+      "published_date": "2026-10-21T21:22:18Z",
+      "category": "Military"
+    },
+    {
+      "title": "Fanb busca a soldado que disparó a compañeros en base aérea del estado Táchira",
       "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/internacionales/reuters-eeuu-invoca-una-ley-de-tortura/",
-      "published_date": "2026-10-21T13:42:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LeBron James y sus Sixers arruinaron la fiesta de los Knicks",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/lebron-james-y-sus-sixers-arruinaron-la-fiesta-de-los-knicks/",
-      "published_date": "2026-10-21T13:30:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "LeBron James y sus Sixers arruinaron la fiesta de los Knicks",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/lebron-james-y-sus-sixers-arruinaron-la-fiesta-de-los-knicks/",
-      "published_date": "2026-10-21T13:30:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Pensionados reciben bono de Ingreso Integral este #21Oct: ¿de cuánto es el monto?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/pensionados-reciben-bono-de-ingreso-integral-este-21oct-de-cuanto-es-el-monto/",
-      "published_date": "2026-10-21T12:53:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Estatuto federal contra la tortura: el arma legal de EE UU frente a Maduro",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/estatuto-federal-contra-la-tortura-el-arma-legal-de-ee-uu-frente-a-maduro/",
-      "published_date": "2026-10-21T12:41:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Estatuto federal contra la tortura: el arma legal de EE UU frente a Maduro",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/estatuto-federal-contra-la-tortura-el-arma-legal-de-ee-uu-frente-a-maduro/",
-      "published_date": "2026-10-21T12:41:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marc Márquez buscará su quinto triunfo en Australia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/marc-marquez-buscara-su-quinto-triunfo-en-australia/",
-      "published_date": "2026-10-21T12:31:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Marc Márquez buscará su quinto triunfo en Australia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/marc-marquez-buscara-su-quinto-triunfo-en-australia/",
-      "published_date": "2026-10-21T12:31:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Guillaume Herblot: La extrema izquierda o la secesión de las élites culturales",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/guillaume-herblot-la-extrema-izquierda-o-la-secesion-de-las-elites-culturales/",
-      "published_date": "2026-10-21T12:13:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Guillaume Herblot: La extrema izquierda o la secesión de las élites culturales",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/guillaume-herblot-la-extrema-izquierda-o-la-secesion-de-las-elites-culturales/",
-      "published_date": "2026-10-21T12:13:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Conversando con Miranda en La Carraca | Francisco de Miranda: el hombre que soñó una América libre (I)",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/623125/francisco-de-miranda/",
-      "published_date": "2026-10-21T12:07:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Plataforma Unitaria se sumará a movilización del 22 de octubre: Exigen el nombramiento de un nuevo CNE",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/plataforma-unitaria-se-sumara-a-movilizacion-del-22-de-octubre-exigen-el-nombramiento-de-un-nuevo-cne/",
-      "published_date": "2026-10-21T11:42:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Mañanero del 21 de octubre: estudiante Jonathan Carrillo sigue bajo medidas cautelares",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/623111/el-mananero-del-21-de-octubre-estudiante-jonathan-carrillo-sigue-bajo-medidas-cautelares/",
-      "published_date": "2026-10-21T09:00:00Z",
-      "category": "Diplomacy"
+      "url": "https://efectococuyo.com/sucesos/fanb-busca-a-soldado-que-disparo-a-companeros-en-base-aerea-del-estado-tachira/",
+      "published_date": "2026-10-21T19:45:30Z",
+      "category": "Military"
     },
     {
       "title": "Putin ofrece ayuda a Estados Unidos para solucionar conflicto con Irán",
@@ -262,25 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "NBA: los Knicks ponen a prueba su poder frente a rivales cada vez más fuertes",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/nba-los-knicks-ponen-a-prueba-su-poder-frente-a-rivales-cada-vez-mas-fuertes/",
-      "published_date": "2026-10-20T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "NBA: los Knicks ponen a prueba su poder frente a rivales cada vez más fuertes",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/nba-los-knicks-ponen-a-prueba-su-poder-frente-a-rivales-cada-vez-mas-fuertes/",
-      "published_date": "2026-10-20T00:00:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Alexis Bonte: «Transformar los sistemas agroalimentarios exige innovación, alianzas y compromiso colectivo»",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/alexis-bonte-fao-dia-mundial-alimentacion-innovacion-venezuela/",
-      "published_date": "2026-10-19T20:23:22Z",
-      "category": "Military"
+      "title": "El acuerdo que protege a Betancourt podría volverse contra Trump después de las elecciones del #3Nov",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/opinion/punto-y-contexto-el-acuerdo-que-protege-a-betancourt-podria-volverse-contra-trump-despues-de-las-elecciones-del-3nov/",
+      "published_date": "2026-10-21T23:24:07Z",
+      "category": "Energy"
     },
     {
       "title": "Zulia | Sectores de Maracaibo están sin luz este #21Oct en medio de fuertes lluvias",
@@ -416,11 +423,46 @@
       "category": "Energy"
     },
     {
-      "title": "Macron rechazó dimisión del ministro del Interior tras los disturbios en París y otras ciudades",
+      "title": "Delcy Rodríguez elimina la obligatoriedad de las máquinas fiscales y anuncia reforma tributaria",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/macron-rechazo-dimision-del-ministro-del-interior-tras-los-disturbios-en-paris-y-otras-ciudades/",
-      "published_date": "2026-10-19T09:49:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-elimina-la-obligatoriedad-de-las-maquinas-fiscales-y-anuncia-reforma-tributaria/",
+      "published_date": "2026-10-22T00:51:31Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Delcy Rodríguez elimina la obligatoriedad de las máquinas fiscales y anuncia reforma tributaria",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-elimina-la-obligatoriedad-de-las-maquinas-fiscales-y-anuncia-reforma-tributaria/",
+      "published_date": "2026-10-22T00:51:31Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Delcy Rodríguez suspende el uso obligatorio de máquinas fiscales en Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/delcy-rodriguez-suspende-el-uso-obligatorio-de-maquinas-fiscales-en-venezuela/",
+      "published_date": "2026-10-22T00:21:42Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cendas: Canasta alimentaria en Venezuela aumentó 0,79% y alcanzó los $ 761 en septiembre",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/cendas-canasta-alimentaria-en-venezuela-aumento-079-y-alcanzo-los-761-en-septiembre/",
+      "published_date": "2026-10-21T21:57:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Cendas: Canasta alimentaria en Venezuela aumentó 0,79% y alcanzó los $ 761 en septiembre",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/cendas-canasta-alimentaria-en-venezuela-aumento-079-y-alcanzo-los-761-en-septiembre/",
+      "published_date": "2026-10-21T21:57:36Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Rubio visita la refinería india de Jamnagar, capaz de refinar el crudo pesado venezolano",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/internacionales/rubio-visita-la-refineria-india-de-jamnagar-capaz-de-refinar-el-crudo-pesado-venezolano/",
+      "published_date": "2026-10-21T16:21:31Z",
+      "category": "Economy"
     },
     {
       "title": "ProPublica: pacto petrolero de EE. UU. blinda a socios y no garantiza ingresos a Venezuela",
@@ -521,185 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Delcy Rodríguez proyectó inversiones petroleras de casi 76.000 millones de dólares para los próximos cinco años",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-proyecto-inversiones-petroleras-de-casi-76-000-millones-de-dolares-en-los-proximos-cinco-anos/",
-      "published_date": "2026-10-18T00:07:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Delcy Rodríguez proyectó inversiones petroleras de casi 76.000 millones de dólares para los próximos cinco años",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-proyecto-inversiones-petroleras-de-casi-76-000-millones-de-dolares-en-los-proximos-cinco-anos/",
-      "published_date": "2026-10-18T00:07:54Z",
-      "category": "Economy"
-    },
-    {
-      "title": "María Corina Machado rompe el silencio: ¿se enfrenta a la estrategia de Trump en Venezuela?",
+      "title": "Tercer ciclo de la mesa de diálogo finaliza con anuncio de designación del comité de postulaciones para este 22 de octubre",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-rompe-el-silencio-se-enfrenta-a-la-estrategia-de-trump-en-venezuela/",
-      "published_date": "2026-10-16T23:18:29Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/politica/tercer-ciclo-de-la-mesa-de-dialogo-finaliza-con-anuncio-de-designacion-del-comite-de-postulaciones-para-este-22-de-octubre/",
+      "published_date": "2026-10-22T01:22:17Z",
+      "category": "Local Events"
     },
     {
-      "title": "Claves: Excluida de las negociaciones, Machado critica el trato de EEUU con Betancourt",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/claves-excluida-de-las-negociaciones-machado-critica-el-trato-de-eeuu-con-betancourt/",
-      "published_date": "2026-10-16T17:55:12Z",
-      "category": "Economy"
+      "title": "Delcy Rodríguez solicita al papa León XIV impulsar la canonización de la Madre María de San José y la beatificación de monseñor Salvador Montes de Oca",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-solicita-al-papa-leon-xiv-impulsar-la-canonizacion-de-la-madre-maria-de-san-jose-y-la-beatificacion-de-monsenor-salvador-montes-de-oca/",
+      "published_date": "2026-10-22T00:46:58Z",
+      "category": "Local Events"
     },
     {
-      "title": "María Corina Machado sobre Alejandro Betancourt: es uno de los principales responsables del sufrimiento que padece nuestra gente",
+      "title": "Delcy Rodríguez solicita al papa León XIV impulsar la canonización de la Madre María de San José y la beatificación de monseñor Salvador Montes de Oca",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-solicita-al-papa-leon-xiv-impulsar-la-canonizacion-de-la-madre-maria-de-san-jose-y-la-beatificacion-de-monsenor-salvador-montes-de-oca/",
+      "published_date": "2026-10-22T00:46:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La administración Trump solicita a la Corte Suprema reanudar la construcción del muro fronterizo en el parque nacional Big Bend de Texas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/la-administracion-trump-solicita-a-la-corte-suprema-reanudar-la-construccion-del-muro-fronterizo-en-el-parque-nacional-big-bend-de-texas/",
+      "published_date": "2026-10-22T00:41:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La administración Trump solicita a la Corte Suprema reanudar la construcción del muro fronterizo en el parque nacional Big Bend de Texas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/la-administracion-trump-solicita-a-la-corte-suprema-reanudar-la-construccion-del-muro-fronterizo-en-el-parque-nacional-big-bend-de-texas/",
+      "published_date": "2026-10-22T00:41:14Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cedice celebrará su 42 aniversario con una conferencia de José Toro Hardy",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-sobre-alejandro-betancourt-es-uno-de-los-principales-responsables-del-sufrimiento-que-padece-nuestra-gente/",
-      "published_date": "2026-10-16T12:11:22Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/politica/cedice-celebrara-su-42-aniversario-con-una-conferencia-de-jose-toro-hardy/",
+      "published_date": "2026-10-22T00:25:47Z",
+      "category": "Local Events"
     },
     {
-      "title": "San Bernardino: detienen al jefe de Gestión Humana de la PNB por el caso de los 1.000 kilos de marihuana",
+      "title": "EE UU defiende negociaciones entre el chavismo y la oposición pese a la ausencia de María Corina Machado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/ee-uu-defiende-negociaciones-entre-el-chavismo-y-la-oposicion-pese-a-la-ausencia-de-maria-corina-machado/",
+      "published_date": "2026-10-21T23:37:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EE UU defiende negociaciones entre el chavismo y la oposición pese a la ausencia de María Corina Machado",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/ee-uu-defiende-negociaciones-entre-el-chavismo-y-la-oposicion-pese-a-la-ausencia-de-maria-corina-machado/",
+      "published_date": "2026-10-21T23:37:40Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump descalifica a reporteras de CNN y ABC News tras ser interrogado sobre el alivio de sanciones a Rusia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/donald-trump-descalifica-a-reporteras-de-cnn-y-abc-news-tras-ser-interrogado-sobre-el-alivio-de-sanciones-a-rusia/",
+      "published_date": "2026-10-21T23:11:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump descalifica a reporteras de CNN y ABC News tras ser interrogado sobre el alivio de sanciones a Rusia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/donald-trump-descalifica-a-reporteras-de-cnn-y-abc-news-tras-ser-interrogado-sobre-el-alivio-de-sanciones-a-rusia/",
+      "published_date": "2026-10-21T23:11:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magallanes deja en libertad al lanzador Yohander Méndez",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/magallanes-deja-en-libertad-al-lanzador-yohander-mendez/",
+      "published_date": "2026-10-21T23:04:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magallanes deja en libertad al lanzador Yohander Méndez",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/magallanes-deja-en-libertad-al-lanzador-yohander-mendez/",
+      "published_date": "2026-10-21T23:04:21Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inauguran en Caracas mural dedicado a Carmen Teresa Navas y a las familias de víctimas de violaciones de derechos humanos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/amnistia-internacional-devela-en-caracas-un-mural-en-honor-a-carmen-teresa-navas-y-a-los-familiares-de-victimas-de-desaparicion-forzada/",
+      "published_date": "2026-10-21T22:11:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inauguran en Caracas mural dedicado a Carmen Teresa Navas y a las familias de víctimas de violaciones de derechos humanos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/amnistia-internacional-devela-en-caracas-un-mural-en-honor-a-carmen-teresa-navas-y-a-los-familiares-de-victimas-de-desaparicion-forzada/",
+      "published_date": "2026-10-21T22:11:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid, Betis y Aston Villa mantienen sus rachas victoriosas en la Champions League",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/real-madrid-betis-y-aston-villa-mantienen-sus-rachas-victoriosas-en-la-champions-league/",
+      "published_date": "2026-10-21T22:07:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Real Madrid, Betis y Aston Villa mantienen sus rachas victoriosas en la Champions League",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/real-madrid-betis-y-aston-villa-mantienen-sus-rachas-victoriosas-en-la-champions-league/",
+      "published_date": "2026-10-21T22:07:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL no cambia su agenda en París a pesar de los disturbios",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/nfl-no-cambia-su-agenda-en-paris-a-pesar-de-los-disturbios/",
+      "published_date": "2026-10-21T21:58:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "NFL no cambia su agenda en París a pesar de los disturbios",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/nfl-no-cambia-su-agenda-en-paris-a-pesar-de-los-disturbios/",
+      "published_date": "2026-10-21T21:58:30Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Saime pide a ciudadanos con cédulas entre 22 y 34 millones acudir para actualizar sus datos",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/san-bernardino-detienen-al-jefe-de-gestion-humana-de-la-pnb-por-el-caso-de-los-1-000-kilos-de-marihuana/",
-      "published_date": "2026-10-15T21:30:27Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Putin acepta reanudar en noviembre las negociaciones con Ucrania con la mediación de EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/putin-acepta-reanudar-en-noviembre-las-negociaciones-con-ucrania-con-la-mediacion-de-ee-uu/",
-      "published_date": "2026-10-21T15:44:12Z",
+      "url": "https://elpitazo.net/migracion/saime-pide-a-ciudadanos-con-cedulas-entre-22-y-34-millones-acudir-para-actualizar-sus-datos/",
+      "published_date": "2026-10-21T21:34:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Putin acepta reanudar en noviembre las negociaciones con Ucrania con la mediación de EE UU",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/putin-acepta-reanudar-en-noviembre-las-negociaciones-con-ucrania-con-la-mediacion-de-ee-uu/",
-      "published_date": "2026-10-21T15:44:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron acusa a Trump de manipular las revueltas francesas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/macron-acusa-a-trump-de-manipular-las-revueltas-francesas/",
-      "published_date": "2026-10-21T14:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Macron acusa a Trump de manipular las revueltas francesas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/macron-acusa-a-trump-de-manipular-las-revueltas-francesas/",
-      "published_date": "2026-10-21T14:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "México sumó 169 asesinatos de periodistas en los últimos 20 años con impunidad en 99% de los casos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/mexico-sumo-169-asesinatos-de-periodistas-en-los-ultimos-20-anos-con-impunidad-en-99-de-los-casos/",
-      "published_date": "2026-10-21T14:31:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "México sumó 169 asesinatos de periodistas en los últimos 20 años con impunidad en 99% de los casos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/mexico-sumo-169-asesinatos-de-periodistas-en-los-ultimos-20-anos-con-impunidad-en-99-de-los-casos/",
-      "published_date": "2026-10-21T14:31:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IVIC pronostica fuertes lluvias en Venezuela entre diciembre de 2026 y febrero de 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ivic-pronostica-fuertes-lluvias-en-venezuela-entre-diciembre-de-2026-y-febrero-de-2027/",
-      "published_date": "2026-10-21T14:17:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "IVIC pronostica fuertes lluvias en Venezuela entre diciembre de 2026 y febrero de 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ivic-pronostica-fuertes-lluvias-en-venezuela-entre-diciembre-de-2026-y-febrero-de-2027/",
-      "published_date": "2026-10-21T14:17:22Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Chavismo y oposición culminan tercera ronda de diálogo: se esperan anuncios sobre garantías políticas y ruta electoral",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/politica/chavismo-y-oposicion-culminan-tercera-ronda-de-dialogo-se-esperan-anuncios-sobre-garantias-politicas-y-ruta-electoral/",
-      "published_date": "2026-10-21T14:09:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gobierno promete 6.000 viviendas para reubicar a damnificados antes de finalizar el año",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/gobierno-promete-6-000-viviendas-para-reubicar-a-damnificados-antes-de-finalizar-el-ano/",
-      "published_date": "2026-10-21T13:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Gobierno promete 6.000 viviendas para reubicar a damnificados antes de finalizar el año",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/gobierno-promete-6-000-viviendas-para-reubicar-a-damnificados-antes-de-finalizar-el-ano/",
-      "published_date": "2026-10-21T13:41:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "SNTP advierte que periodistas y medios seguirán expuestos a sanciones con reforma de la Ley contra el Odio",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/sntp-advierte-que-periodistas-y-medios-seguiran-expuestos-a-sanciones-con-reforma-de-la-ley-contra-el-odio/",
-      "published_date": "2026-10-21T13:38:42Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYT: Número de fallecidos por los terremotos en Venezuela podría ser mucho mayor al balance oficial",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/nyt-numero-de-fallecidos-por-los-terremotos-en-venezuela-podria-ser-mucho-mayor-al-balance-oficial/",
-      "published_date": "2026-10-21T13:21:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "NYT: Número de fallecidos por los terremotos en Venezuela podría ser mucho mayor al balance oficial",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/nyt-numero-de-fallecidos-por-los-terremotos-en-venezuela-podria-ser-mucho-mayor-al-balance-oficial/",
-      "published_date": "2026-10-21T13:21:53Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Saime reitera llamado a ciudadanos con cédulas entre 22 a 34 millones para verificar sus datos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/el-saime-reitera-llamado-a-ciudadanos-con-cedulas-entre-22-a-34-millones-para-verificar-sus-datos/",
-      "published_date": "2026-10-21T12:26:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El Saime reitera llamado a ciudadanos con cédulas entre 22 a 34 millones para verificar sus datos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/el-saime-reitera-llamado-a-ciudadanos-con-cedulas-entre-22-a-34-millones-para-verificar-sus-datos/",
-      "published_date": "2026-10-21T12:26:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acuerdo millonario y donaciones políticas reavivaron la polémica tras indulto de Trump a banquero venezolano",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/acuerdo-millonario-y-donaciones-politicas-reavivaron-la-polemica-tras-indulto-de-trump-a-banquero-venezolano/",
-      "published_date": "2026-10-21T12:07:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Acuerdo millonario y donaciones políticas reavivaron la polémica tras indulto de Trump a banquero venezolano",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/acuerdo-millonario-y-donaciones-politicas-reavivaron-la-polemica-tras-indulto-de-trump-a-banquero-venezolano/",
-      "published_date": "2026-10-21T12:07:08Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tercer ciclo de conversaciones de la mesa de diálogo termina este 21 de octubre",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/tercer-ciclo-de-conversaciones-de-la-mesa-de-dialogo-termina-este-21-de-octubre/",
-      "published_date": "2026-10-21T11:30:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Foro Penal introdujo recurso ante el TSJ por el caso Paramacay",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/foro-penal-introdujo-recurso-ante-el-tsj-por-el-caso-paramacay/",
-      "published_date": "2026-10-21T11:25:51Z",
+      "title": "La Amazonía también elige entre Lula y Bolsonaro",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/623152/la-amazonia-tambien-elige-entre-lula-y-bolsonaro/",
+      "published_date": "2026-10-21T21:24:50Z",
       "category": "Local Events"
     }
   ]
