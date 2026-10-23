@@ -1,7 +1,140 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-23T01:25:41Z",
+  "last_updated": "2026-10-23T15:42:52Z",
   "stories": [
+    {
+      "title": "Dos atacantes muertos y 5 heridos en ataque contra israelíes en Cisjordania",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/dos-atacantes-muertos-y-5-heridos-en-ataque-contra-israelies-en-cisjordania/",
+      "published_date": "2026-10-23T15:24:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Meghan Markle “consternada” tras abrirse una investigación a su padre por posesión de imágenes de pornografía infantil",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/meghan-markle-consternada-tras-abrirse-una-investigacion-a-su-padre-por-posesion-de-imagenes-de-pornografia-infantil/",
+      "published_date": "2026-10-23T14:41:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un empresario es el nuevo embajador de Colombia en Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/un-empresario-sera-el-nuevo-embajador-de-colombia-en-venezuela/",
+      "published_date": "2026-10-23T14:26:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Accidente en la Cota Mil dejó un adolescente muerto y un adulto gravemente herido",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/accidente-en-la-cota-mil-dejo-un-adolescente-muerto-y-un-adulto-gravemente-herido/",
+      "published_date": "2026-10-23T14:05:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un muerto y cuatro heridos en varios tiroteos perpetrados por un hombre cerca de París",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/un-muerto-y-cuatro-heridos-en-varios-tiroteos-perpetrados-por-un-hombre-cerca-de-paris/",
+      "published_date": "2026-10-23T12:46:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "GE Vernova reconoce deterioro de sistema eléctrico en Venezuela por falta de mantenimiento",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/ge-vernova-reconoce-deterioro-de-sistema-electrico-en-venezuela-por-falta-de-mantenimiento/",
+      "published_date": "2026-10-23T12:28:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Luis Balbo y Christian Makoun firman una jornada triunfal en la Europa League",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/luis-balbo-y-christian-makoun-firman-una-jornada-triunfal-en-la-europa-league/",
+      "published_date": "2026-10-23T11:50:02Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Quiénes son los “ciudadanos palestinos de Israel” y por qué pueden tener la llave para desbancar a Netanyahu",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/quienes-son-los-ciudadanos-palestinos-de-israel-y-por-que-pueden-tener-la-llave-para-desbancar-a-netanyahu/",
+      "published_date": "2026-10-23T11:44:15Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China intensifica los rescates tras sismo en Tíbet, con 16 muertos y más de 12.000 evacuados",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/china-intensifica-los-rescates-tras-sismo-en-tibet-con-16-muertos-y-mas-de-12-000-evacuados/",
+      "published_date": "2026-10-23T11:22:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Departamento del Tesoro de EE UU excluye a Venezuela de lista de países sujetos a controles de inversión",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/departamento-del-tesoro-de-ee-uu-excluye-a-venezuela-de-lista-de-paises-sujetos-a-controles-de-inversion/",
+      "published_date": "2026-10-23T10:11:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El Mañanero del 23 de octubre: Juramentados y con el compromiso de cumplir",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/623343/el-mananero-del-23-de-octubre-juramentados-y-con-el-compromiso-de-cumplir/",
+      "published_date": "2026-10-23T09:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela tendrá un diciembre menos fresco y temperaturas altas hasta 2027 por el fenómeno de El Niño",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/venezuela-tendra-un-diciembre-de-temperaturas-altas-hasta-2027/",
+      "published_date": "2026-10-23T06:00:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Editores de noticias piden a Meta suspender recopilación de contenidos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/editores-de-noticias-piden-a-meta-suspender-recopilacion/",
+      "published_date": "2026-10-23T05:01:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "China lanza su primer largometraje generado íntegramente con IA",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/china-lanza-su-primer-largometraje-generado-integramente-con-ia/",
+      "published_date": "2026-10-23T04:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Murió Tom Skerritt, actor de Alien y Top Gun",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/murio-tom-skerritt-actor-de-alien-y-top-gun/",
+      "published_date": "2026-10-23T04:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El iPhone Duo llega este viernes con unidades limitadas y alta demanda",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/el-iphone-duo-llega-este-viernes-con-unidades-limitadas/",
+      "published_date": "2026-10-23T04:55:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tener embarazos muy seguidos podría acelerar el envejecimiento de la mujer",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/tener-embarazos-muy-seguidos-podria-acelerar-el-envejecimiento/",
+      "published_date": "2026-10-23T04:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cardenales castigó con 20 hits y dos jonrones de Rafael “Balita” Ortega a Águilas para conseguir su quinta victoria",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/cardenales-castigo-con-20-hits-y-dos-jonrones-de-rafael-ortega-a-aguilas-para-conseguir-su-quinta-victoria/",
+      "published_date": "2026-10-23T03:22:30Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Caracas | Ciudadanos cuestionan avances lentos en la mesa de negociación y exigen elecciones presidenciales ya",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/quiero-que-mi-hija-conozca-una-venezuela-libre-el-clamor-de-una-madre-en-concentracion-opositora-en-caracas/",
+      "published_date": "2026-10-23T01:20:19Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Delcy Rodríguez destaca avances en garantías políticas y reforma del sistema de justicia tras reunión con representantes de la mesa de diálogo",
       "source": "El Nacional",
@@ -10,137 +143,25 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez destaca avances en garantías políticas y reforma del sistema de justicia tras reunión con representantes de la mesa de diálogo",
+      "title": "ABC: EE UU obtuvo los archivos secretos del Sebin y desmantela el aparato de inteligencia",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-destaca-avances-en-garantias-politicas-y-reforma-del-sistema-de-justicia-tras-reunion-con-representantes-de-la-mesa-de-dialogo/",
-      "published_date": "2026-10-23T01:18:38Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/10/abc-ee-uu-obtuvo-los-archivos-secretos-del-sebin-y-desmantela-el-aparato-de-inteligencia/",
+      "published_date": "2026-10-23T15:05:40Z",
+      "category": "Military"
     },
     {
-      "title": "Machado aseguró que las protestas de este jueves son el inicio de nuevas acciones en Venezuela",
+      "title": "Vente Venezuela denunció retención de equipos tras liberación de encargados del sonido en marcha opositora",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/machado-aseguro-que-las-protestas-de-este-jueves-son-el-inicio-de-nuevas-acciones-en-venezuela/",
-      "published_date": "2026-10-23T00:51:47Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/10/vente-venezuela-denuncio-retencion-de-equipos-tras-liberacion-de-encargados-del-sonido-en-marcha-opositora/",
+      "published_date": "2026-10-23T10:31:00Z",
+      "category": "Military"
     },
     {
-      "title": "Machado aseguró que las protestas de este jueves son el inicio de nuevas acciones en Venezuela",
+      "title": "Médicos sugieren al Papa no viajar en helicóptero pese a su óptima recuperación",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/machado-aseguro-que-las-protestas-de-este-jueves-son-el-inicio-de-nuevas-acciones-en-venezuela/",
-      "published_date": "2026-10-23T00:51:47Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GE Vernova atribuye el deterioro del sistema eléctrico venezolano a la falta de mantenimiento prolongada",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ge-vernova-atribuye-el-deterioro-del-sistema-electrico-venezolano-a-la-falta-de-mantenimiento-prolongada/",
-      "published_date": "2026-10-23T00:45:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "GE Vernova atribuye el deterioro del sistema eléctrico venezolano a la falta de mantenimiento prolongada",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ge-vernova-atribuye-el-deterioro-del-sistema-electrico-venezolano-a-la-falta-de-mantenimiento-prolongada/",
-      "published_date": "2026-10-23T00:45:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opositores marchan en Caracas para exigir fecha electoral y rechazan postergar los comicios a 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/marcha-plaza-venezuela-elecciones-presidenciales-maria-corina-machado/",
-      "published_date": "2026-10-23T00:36:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Opositores marchan en Caracas para exigir fecha electoral y rechazan postergar los comicios a 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/marcha-plaza-venezuela-elecciones-presidenciales-maria-corina-machado/",
-      "published_date": "2026-10-23T00:36:12Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezolanos se movilizaron en 12 estados del país para exigir elecciones presidenciales,  retorno de María Corina Machado y libertad de los presos políticos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/venezolanos-se-movilizaron-en-12-estados-del-pais-para-exigir-elecciones-presidenciales-el-retorno-de-maria-corina-machado-y-la-libertad-de-los-presos-politicos/",
-      "published_date": "2026-10-23T00:18:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezolanos se movilizaron en 12 estados del país para exigir elecciones presidenciales,  retorno de María Corina Machado y libertad de los presos políticos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/venezolanos-se-movilizaron-en-12-estados-del-pais-para-exigir-elecciones-presidenciales-el-retorno-de-maria-corina-machado-y-la-libertad-de-los-presos-politicos/",
-      "published_date": "2026-10-23T00:18:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gremio de enfermería entrega propuestas a Dinorah Figuera para encarar la emergencia humanitaria en el sector salud",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/gremio-de-enfermeria-entrega-propuestas-a-dinorah-figuera-para-encarar-la-emergencia-humanitaria-en-el-sector-salud/",
-      "published_date": "2026-10-22T22:48:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Gremio de enfermería entrega propuestas a Dinorah Figuera para encarar la emergencia humanitaria en el sector salud",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/gremio-de-enfermeria-entrega-propuestas-a-dinorah-figuera-para-encarar-la-emergencia-humanitaria-en-el-sector-salud/",
-      "published_date": "2026-10-22T22:48:44Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ciudadanos vuelven a las calles de Caracas para exigir un cronograma electoral",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ciudadanos-vuelven-a-las-calles-de-caracas-para-exigir-un-cronograma-electoral/",
-      "published_date": "2026-10-22T22:20:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ciudadanos vuelven a las calles de Caracas para exigir un cronograma electoral",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ciudadanos-vuelven-a-las-calles-de-caracas-para-exigir-un-cronograma-electoral/",
-      "published_date": "2026-10-22T22:20:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quiénes son los 12 representantes de la sociedad civil elegidos para renovar el TSJ",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/asamblea-nacional-designa-12-representantes-sociedad-civil-comite-postulaciones-tsj/",
-      "published_date": "2026-10-22T21:28:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quiénes son los 12 representantes de la sociedad civil elegidos para renovar el TSJ",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/asamblea-nacional-designa-12-representantes-sociedad-civil-comite-postulaciones-tsj/",
-      "published_date": "2026-10-22T21:28:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vehículo cae de un puente en la Cota Mil de Caracas: reportan un fallecido y un herido",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/vehiculo-cae-de-un-puente-en-la-cota-mil-de-caracas-reportan-un-fallecido-y-un-herido/",
-      "published_date": "2026-10-22T21:19:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dos las personas fallecidas por el terremoto de magnitud 7,7 en la península de Azuero, Panamá",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/se-elevan-a-dos-las-victimas-mortales-tras-el-terremoto-de-magnitud-77-en-la-peninsula-de-azuero-panama/",
-      "published_date": "2026-10-22T19:42:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dos las personas fallecidas por el terremoto de magnitud 7,7 en la península de Azuero, Panamá",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/se-elevan-a-dos-las-victimas-mortales-tras-el-terremoto-de-magnitud-77-en-la-peninsula-de-azuero-panama/",
-      "published_date": "2026-10-22T19:42:55Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Reuters: Venezuela evalúa un préstamo puente con Qatar para pagar deuda con el BID",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/reuters-venezuela-evalua-un-prestamo-puente-con-qatar-para-pagar-deuda-con-el-bid/",
-      "published_date": "2026-10-22T19:33:54Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/10/medicos-sugieren-al-papa-no-viajar-en-helicoptero-pese-a-su-optima-recuperacion/",
+      "published_date": "2026-10-23T09:45:29Z",
+      "category": "Military"
     },
     {
       "title": "Corte Suprema de Colombia evaluará nexos de congresistas con el crimen de Miguel Uribe Turbay",
@@ -259,27 +280,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/las-perlas/623097/las-perlas-con-las-que-diosdado-pide-garantias-politicas/",
       "published_date": "2026-10-20T16:46:51Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cedice Libertad: Inflación y contracción del encaje legal limitan al sector financiero a otorgar préstamos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/cedice-libertad-inflacion-y-contraccion-del-encaje-legal-limitan-al-sector-financiero-a-otorgar-prestamos/",
-      "published_date": "2026-10-20T12:34:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "Cedice Libertad: Inflación y contracción del encaje legal limitan al sector financiero a otorgar préstamos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/cedice-libertad-inflacion-y-contraccion-del-encaje-legal-limitan-al-sector-financiero-a-otorgar-prestamos/",
-      "published_date": "2026-10-20T12:34:34Z",
-      "category": "Military"
-    },
-    {
-      "title": "15 años sin ETA en España: la banda terrorista se borra del imaginario colectivo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/15-anos-sin-eta-en-espana-la-banda-terrorista-se-borra-del-imaginario-colectivo/",
-      "published_date": "2026-10-20T10:19:25Z",
       "category": "Military"
     },
     {
@@ -423,6 +423,13 @@
       "category": "Energy"
     },
     {
+      "title": "PNB libera a 7 detenidos en marcha opositora: no les devolvieron los equipos de sonido",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/pnb-libera-a-7-detenidos-en-marcha-opositora-no-les-devolvieron-los-equipos-de-sonido/",
+      "published_date": "2026-10-23T15:39:06Z",
+      "category": "Economy"
+    },
+    {
       "title": "Vente Venezuela denuncia que PNB detuvo a siete personas durante movilización en Caracas",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/vente-venezuela-denuncia-que-pnb-detuvo-a-siete-personas-durante-movilizacion-en-caracas/",
@@ -556,150 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Simón Calzadilla pide al TSJ ordenar la designación de una nueva directiva para el BCV",
+      "title": "Colegio de Ingenieros alerta que condominios en La Guaira no tienen recursos para reconstruir sus inmuebles",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/simon-calzadilla-pide-tsj-ordenar-nueva-directiva-bcv-autonomia/",
-      "published_date": "2026-10-20T18:37:32Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/10/colegio-de-ingenieros-alerta-que-condominios-en-la-guaira-no-tienen-recursos-para-reconstruir-sus-inmuebles/",
+      "published_date": "2026-10-23T15:22:23Z",
+      "category": "Local Events"
     },
     {
-      "title": "Estados Unidos habla de “resultados tangibles” tras la tercera ronda de la mesa de diálogo",
+      "title": "Bono de fin de año para trabajadores de universidades no supera los 10 dólares",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/estados-unidos-habla-de-resultados-tangibles-tras-la-tercera-ronda-de-la-mesa-de-dialogo/",
-      "published_date": "2026-10-23T01:22:22Z",
+      "url": "https://elpitazo.net/economia/bono-de-fin-de-ano-para-trabajadores-de-universidades-no-supera-los-10-dolares/",
+      "published_date": "2026-10-23T14:48:45Z",
       "category": "Local Events"
     },
     {
-      "title": "Estados Unidos respalda los avances de la tercera ronda del diálogo político en Venezuela y reitera su apoyo a la transición democrática",
+      "title": "Los Cerveceros le dan alegría a Milwaukee con Jackson Chourio y William Contreras",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/estados-unidos-respalda-los-avances-de-la-tercera-ronda-del-dialogo-politico-en-venezuela-y-reitera-su-apoyo-a-la-transicion-democratica/",
-      "published_date": "2026-10-23T01:07:14Z",
+      "url": "https://www.elnacional.com/2026/10/los-cerveceros-le-dan-alegria-a-milwaukee-con-jackson-chourio-y-william-contreras/",
+      "published_date": "2026-10-23T14:18:48Z",
       "category": "Local Events"
     },
     {
-      "title": "Estados Unidos respalda los avances de la tercera ronda del diálogo político en Venezuela y reitera su apoyo a la transición democrática",
+      "title": "Analistas cuestionan las reservas de 300.000 millones de barriles de petróleo reportadas por Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/estados-unidos-respalda-los-avances-de-la-tercera-ronda-del-dialogo-politico-en-venezuela-y-reitera-su-apoyo-a-la-transicion-democratica/",
-      "published_date": "2026-10-23T01:07:14Z",
+      "url": "https://www.elnacional.com/2026/10/analistas-cuestionan-las-reservas-de-300-000-millones-de-barriles-de-petroleo-reportadas-por-venezuela/",
+      "published_date": "2026-10-23T13:45:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Comité de Postulaciones Judiciales se instala este viernes para iniciar el proceso de renovación del TSJ",
+      "title": "Max Verstappen tratará de impedir la coronación de Kimi Antonelli en Austin",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/comite-de-postulaciones-judiciales-se-instala-este-viernes-para-iniciar-el-proceso-de-renovacion-del-tsj/",
-      "published_date": "2026-10-22T23:51:50Z",
+      "url": "https://www.elnacional.com/2026/10/max-verstappen-tratara-de-impedir-la-coronacion-de-kimi-antonelli-en-austin/",
+      "published_date": "2026-10-23T13:27:27Z",
       "category": "Local Events"
     },
     {
-      "title": "Comité de Postulaciones Judiciales se instala este viernes para iniciar el proceso de renovación del TSJ",
+      "title": "Lula y Bolsonaro, en su último cara a cara antes del balotaje en Brasil",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/comite-de-postulaciones-judiciales-se-instala-este-viernes-para-iniciar-el-proceso-de-renovacion-del-tsj/",
-      "published_date": "2026-10-22T23:51:50Z",
+      "url": "https://www.elnacional.com/2026/10/lula-y-bolsonaro-en-su-ultimo-cara-a-cara-antes-del-balotaje-en-brasil/",
+      "published_date": "2026-10-23T13:26:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez y Dinorah Figuera se reúnen en Miraflores",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/delcy-rodriguez-y-dinorah-figuera-se-reunen-en-miraflores/",
-      "published_date": "2026-10-22T23:46:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Departamento del Tesoro de EE. UU. saca a Venezuela de lista de países con restricciones a inversiones salientes",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/departamento-del-tesoro-de-ee-uu-saca-a-venezuela-de-lista-de-paises-con-restricciones-a-inversiones-salientes/",
-      "published_date": "2026-10-22T23:43:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Portuguesa | Organización pide al MP investigar ataque a tiros contra otro activista opositor en Ospino",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/portuguesa-organizacion-pide-al-mp-investigar-ataque-a-tiros-contra-otro-activista-opositor-en-ospino/",
-      "published_date": "2026-10-22T23:31:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "¿Cómo queda el poder dentro del Comité de Postulaciones Judiciales?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/como-queda-el-poder-dentro-del-comite-de-postulaciones-judiciales/",
-      "published_date": "2026-10-22T23:12:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez se reúne con los jefes negociadores del chavismo y la oposición en diálogo",
+      "title": "Rusia anuncia negociación con Ucrania bajo mediación de EE UU",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-se-reune-con-los-jefes-negociadores-del-chavismo-y-la-oposicion-en-dialogo/",
-      "published_date": "2026-10-22T23:08:11Z",
+      "url": "https://www.elnacional.com/2026/10/rusia-anuncia-negociacion-con-ucrania-bajo-mediacion-de-ee-uu/",
+      "published_date": "2026-10-23T13:11:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez se reúne con los jefes negociadores del chavismo y la oposición en diálogo",
+      "title": "“Hay descuido de las autoridades”: exigen investigar intoxicaciones en escuelas en Lara y Táchira",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-se-reune-con-los-jefes-negociadores-del-chavismo-y-la-oposicion-en-dialogo/",
-      "published_date": "2026-10-22T23:08:11Z",
+      "url": "https://www.elnacional.com/2026/10/hay-descuido-de-las-autoridades-exigen-investigar-intoxicaciones-en-escuelas-en-lara-y-tachira/",
+      "published_date": "2026-10-23T12:35:39Z",
       "category": "Local Events"
     },
     {
-      "title": "Asamblea Nacional difiere la segunda discusión para reformar la ley del sistema eléctrico",
+      "title": "Abelardo de la Espriella destituye a su ministro del Interior tras dos meses en el cargo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/asamblea-nacional-difiere-la-segunda-discusion-para-reformar-la-ley-del-sistema-electrico/",
-      "published_date": "2026-10-22T23:02:05Z",
+      "url": "https://www.elnacional.com/2026/10/abelardo-de-la-espriella-destituye-a-su-ministro-del-interior-rodrigo-lara-tras-dos-meses-en-el-cargo/",
+      "published_date": "2026-10-23T12:18:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Asamblea Nacional difiere la segunda discusión para reformar la ley del sistema eléctrico",
+      "title": "Juan Pablo Guanipa rechazó propuesta de Dinorah Figuera de postergar elecciones para 2028",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/asamblea-nacional-difiere-la-segunda-discusion-para-reformar-la-ley-del-sistema-electrico/",
-      "published_date": "2026-10-22T23:02:05Z",
+      "url": "https://www.elnacional.com/2026/10/juan-pablo-guanipa-rechazo-propuesta-de-dinorah-figuera-de-postergar-elecciones-para-2028/",
+      "published_date": "2026-10-23T12:04:35Z",
       "category": "Local Events"
     },
     {
-      "title": "Exalcalde de Cabimas recibe libertad plena: estuvo 22 meses presos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/exalcalde-de-cabimas-recibe-libertad-plena-estuvo-22-meses-presos/",
-      "published_date": "2026-10-22T22:52:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "80 % de los deportados por Trump no tenía condenas penales",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/80-de-los-deportados-por-trump-no-tenia-condenas-penales/",
-      "published_date": "2026-10-22T22:14:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "80 % de los deportados por Trump no tenía condenas penales",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/80-de-los-deportados-por-trump-no-tenia-condenas-penales/",
-      "published_date": "2026-10-22T22:14:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Vente Venezuela se moviliza en Bolívar: reafirman regreso de María Corina Machado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/vente-venezuela-se-moviliza-en-bolivar-reafirman-regreso-de-maria-corina-machado/",
-      "published_date": "2026-10-22T22:11:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asamblea Nacional ya tiene a sus doce apóstoles",
+      "title": "De la promesa europea al calvario del sistema penitenciario venezolano: el caso de Dayana Heredia",
       "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/623323/los-ciudadanos-tendran-en-sus-manos-escoger-a-los-magistrados-del-tribunal/",
-      "published_date": "2026-10-22T22:05:54Z",
+      "url": "https://runrun.es/inicio/623333/de-la-promesa-europea-al-calvario-del-sistema-penitenciario-venezolano-el-caso-de-dayana-heredia/",
+      "published_date": "2026-10-23T12:00:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sebastián Serenelli destaca en el Mundial de Easykart en Italia y apunta a Europa en 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/sebastian-serenelli-destaca-en-el-mundial-de-easykart-en-italia-y-apunta-a-europa-en-2027/",
-      "published_date": "2026-10-22T22:05:35Z",
+      "title": "Sntp condena agresiones contra periodista durante concentración opositora del #22Oct",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/623490/sntp-condena-agresiones-contra-periodista-durante-concentracion-opositora-del-22oct/",
+      "published_date": "2026-10-23T11:47:57Z",
       "category": "Local Events"
     },
     {
-      "title": "Sebastián Serenelli destaca en el Mundial de Easykart en Italia y apunta a Europa en 2027",
+      "title": "SNTP denuncia agresión contra periodista de Efecto Cocuyo durante concentración opositora",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/sntp-denuncia-agresion-contra-periodista-de-efecto-cocuyo-durante-concentracion-opositora/",
+      "published_date": "2026-10-23T11:27:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caracas y El Ávila cobran nueva vida con la luz de Pedro Ángel González",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/sebastian-serenelli-destaca-en-el-mundial-de-easykart-en-italia-y-apunta-a-europa-en-2027/",
-      "published_date": "2026-10-22T22:05:35Z",
+      "url": "https://www.elnacional.com/2026/10/caracas-y-el-avila-cobran-nueva-vida-con-la-luz-de-pedro-angel-gonzalez/",
+      "published_date": "2026-10-23T05:01:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Netflix: ¿cuáles fueron las series y películas más vistas esta semana en Venezuela?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/netflix-cuales-fueron-las-series-y-peliculas-mas-vistas-esta-semana-en-venezuela-173/",
+      "published_date": "2026-10-23T05:00:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Vida Bohème busca ayudar a los músicos afectados por los terremotos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/la-vida-boheme-busca-ayudar-a-los-musicos-afectados-por-los-terremotos/",
+      "published_date": "2026-10-23T04:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fuerza Regida y Bad Bunny triunfaron en los Billboard Latinos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/fuerza-regida-y-bad-bunny-triunfaron-en-los-billboard-latinos/",
+      "published_date": "2026-10-23T04:59:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tom Hanks regresa a Broadway con This World of Tomorrow",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/tom-hanks-regresa-a-broadway-con-this-world-of-tomorrow/",
+      "published_date": "2026-10-23T04:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Iris de Monet es la obra de arte más cara vendida en Francia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/iris-de-monet-es-la-obra-de-arte-mas-cara-vendida-en-francia/",
+      "published_date": "2026-10-23T04:55:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Exceso de lluvias frena la siembra de girasoles en Turén",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/exceso-de-lluvias-frena-la-siembra-de-girasoles-en-turen/",
+      "published_date": "2026-10-23T04:50:00Z",
       "category": "Local Events"
     }
   ]
