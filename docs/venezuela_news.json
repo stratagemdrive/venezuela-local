@@ -1,146 +1,167 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-10-28T02:08:38Z",
+  "last_updated": "2026-10-28T17:05:12Z",
   "stories": [
     {
-      "title": "Táchira se mantiene en la cima del cuadrangular B tras ganarle a Monagas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/tachira-se-mantiene-en-la-cima-del-cuadrangular-b-tras-ganarle-a-monagas/",
-      "published_date": "2026-10-28T01:26:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Táchira se mantiene en la cima del cuadrangular B tras ganarle a Monagas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/tachira-se-mantiene-en-la-cima-del-cuadrangular-b-tras-ganarle-a-monagas/",
-      "published_date": "2026-10-28T01:26:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jeremy Lewin, asesor clave de Marco Rubio para Venezuela y Cuba, dejará el gobierno de Trump",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/jeremy-lewin-asesor-clave-de-marco-rubio-para-venezuela-y-cuba-dejara-el-gobierno-de-trump/",
-      "published_date": "2026-10-28T01:10:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Jeremy Lewin, asesor clave de Marco Rubio para Venezuela y Cuba, dejará el gobierno de Trump",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/jeremy-lewin-asesor-clave-de-marco-rubio-para-venezuela-y-cuba-dejara-el-gobierno-de-trump/",
-      "published_date": "2026-10-28T01:10:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump y su barco que sí puede navegar",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/623909/trump-y-su-barco-que-si-puede-navegar/",
-      "published_date": "2026-10-28T00:58:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula da Silva tilda de \"vergonzosa\" la huida de Flávio Bolsonaro y afirma que \"quien sale escondido, algo debe\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/lula-da-silva-tilda-de-vergonzosa-la-huida-de-flavio-bolsonaro-y-afirma-que-quien-sale-escondido-algo-debe/",
-      "published_date": "2026-10-28T00:13:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Lula da Silva tilda de \"vergonzosa\" la huida de Flávio Bolsonaro y afirma que \"quien sale escondido, algo debe\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/lula-da-silva-tilda-de-vergonzosa-la-huida-de-flavio-bolsonaro-y-afirma-que-quien-sale-escondido-algo-debe/",
-      "published_date": "2026-10-28T00:13:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Los récords de Jackson Chourio y William Contreras que los acercan al MVP de la Serie Mundial",
+      "title": "Fallece el juez que llevaba el caso de Nicolás Maduro y Cilia Flores",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/los-records-de-jackson-chourio-y-william-contreras-que-los-acercan-al-mvp-de-la-serie-mundial/",
-      "published_date": "2026-10-27T23:25:11Z",
+      "url": "https://elpitazo.net/politica/fallece-el-juez-que-llevaba-el-caso-de-nicolas-maduro-y-cilia-flores/",
+      "published_date": "2026-10-28T16:45:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Murió Alvin Hellerstein, juez federal que llevaba el caso de Nicolás Maduro",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/murio-alvin-hellerstein-juez-federal-que-llevaba-el-caso-de-nicolas-maduro/",
+      "published_date": "2026-10-28T16:44:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Murió Alvin Hellerstein, juez federal que llevaba el caso de Nicolás Maduro",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/murio-alvin-hellerstein-juez-federal-que-llevaba-el-caso-de-nicolas-maduro/",
+      "published_date": "2026-10-28T16:44:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La ONU aprueba la resolución contra el embargo de EE UU a Cuba pese a perder apoyos clave",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/la-onu-aprueba-la-resolucion-contra-el-embargo-de-ee-uu-a-cuba-pese-a-perder-apoyos-clave/",
+      "published_date": "2026-10-28T16:34:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La ONU aprueba la resolución contra el embargo de EE UU a Cuba pese a perder apoyos clave",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/la-onu-aprueba-la-resolucion-contra-el-embargo-de-ee-uu-a-cuba-pese-a-perder-apoyos-clave/",
+      "published_date": "2026-10-28T16:34:38Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "William Contreras convierte al sistema ABS en su mejor arma en la Serie Mundial",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/william-contreras-convierte-al-sistema-abs-en-su-mejor-arma-en-la-serie-mundial/",
+      "published_date": "2026-10-28T16:15:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "William Contreras convierte al sistema ABS en su mejor arma en la Serie Mundial",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/william-contreras-convierte-al-sistema-abs-en-su-mejor-arma-en-la-serie-mundial/",
+      "published_date": "2026-10-28T16:15:25Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Escasez de agua en Cuba obliga a ciudadanos y comercios a cavar pozos para abastecerse",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/escasez-de-agua-en-cuba-obliga-a-ciudadanos-y-comercios-a-cavar-pozos-para-abastecerse/",
+      "published_date": "2026-10-28T16:01:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Escasez de agua en Cuba obliga a ciudadanos y comercios a cavar pozos para abastecerse",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/escasez-de-agua-en-cuba-obliga-a-ciudadanos-y-comercios-a-cavar-pozos-para-abastecerse/",
+      "published_date": "2026-10-28T16:01:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bloque liderado por Netanyahu se sitúa en 53 diputados y las fuerzas árabes crecen dos con el 85,6% escrutado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/escrutinio-en-israel-se-acerca-al-80-con-netanyahu-a-la-cabeza/",
+      "published_date": "2026-10-28T15:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Bloque liderado por Netanyahu se sitúa en 53 diputados y las fuerzas árabes crecen dos con el 85,6% escrutado",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/escrutinio-en-israel-se-acerca-al-80-con-netanyahu-a-la-cabeza/",
+      "published_date": "2026-10-28T15:49:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy pasa del sermón “antishow” al perreo político",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/623925/delcy-pasa-del-sermon-antishow-al-perreo-politico/",
+      "published_date": "2026-10-28T15:34:29Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Autoridades aprueban la reapertura de los balnearios de La Guaira a partir del 31 de octubre",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/autoridades-aprueban-la-reapertura-de-los-balnearios-de-la-guaira-a-partir-del-31-de-octubre/",
+      "published_date": "2026-10-28T15:25:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Autoridades aprueban la reapertura de los balnearios de La Guaira a partir del 31 de octubre",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/autoridades-aprueban-la-reapertura-de-los-balnearios-de-la-guaira-a-partir-del-31-de-octubre/",
+      "published_date": "2026-10-28T15:25:34Z",
       "category": "Diplomacy"
     },
     {
       "title": "Choque diplomático entre EE UU y Cuba obligó a suspender temporalmente el debate sobre el embargo en la ONU",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/10/choque-diplomatico-entre-ee-uu-y-cuba-obligo-a-suspender-temporalmente-el-debate-sobre-el-embargo-en-la-onu/",
-      "published_date": "2026-10-27T23:19:34Z",
+      "published_date": "2026-10-28T15:22:00Z",
       "category": "Diplomacy"
     },
     {
       "title": "Choque diplomático entre EE UU y Cuba obligó a suspender temporalmente el debate sobre el embargo en la ONU",
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/10/choque-diplomatico-entre-ee-uu-y-cuba-obligo-a-suspender-temporalmente-el-debate-sobre-el-embargo-en-la-onu/",
-      "published_date": "2026-10-27T23:19:34Z",
+      "published_date": "2026-10-28T15:22:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "EE UU anuncia que otorgará visados a Flávio Bolsonaro y a su familia tras su salida de Brasil",
+      "title": "Flávio Bolsonaro llegó a EE UU tras huir de Brasil",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ee-uu-anuncia-que-otorgara-visados-a-flavio-bolsonaro-y-a-su-familia-tras-su-salida-de-brasil/",
-      "published_date": "2026-10-27T22:51:48Z",
+      "url": "https://www.elnacional.com/2026/10/flavio-bolsonaro-llego-a-ee-uu-tras-huir-de-brasil/",
+      "published_date": "2026-10-28T15:05:38Z",
       "category": "Diplomacy"
     },
     {
-      "title": "EE UU anuncia que otorgará visados a Flávio Bolsonaro y a su familia tras su salida de Brasil",
+      "title": "Flávio Bolsonaro llegó a EE UU tras huir de Brasil",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ee-uu-anuncia-que-otorgara-visados-a-flavio-bolsonaro-y-a-su-familia-tras-su-salida-de-brasil/",
-      "published_date": "2026-10-27T22:51:48Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/flavio-bolsonaro-llego-a-ee-uu-tras-huir-de-brasil/",
+      "published_date": "2026-10-28T15:05:38Z",
       "category": "Diplomacy"
     },
     {
-      "title": "OVP pide esclarecer si un preso recibió atención médica antes de morir en Margarita",
+      "title": "Venezuela proyecta un centro de supercómputo y un ente regulador en su plan nacional de inteligencia artificial",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ovp-pide-esclarecer-si-un-preso-recibio-atencion-medica-antes-de-morir-en-margarita/",
-      "published_date": "2026-10-27T22:43:38Z",
+      "url": "https://www.elnacional.com/2026/10/mincyt-plan-nacional-inteligencia-artificial-2025-2031-venezuela/",
+      "published_date": "2026-10-28T14:45:48Z",
       "category": "Diplomacy"
     },
     {
-      "title": "OVP pide esclarecer si un preso recibió atención médica antes de morir en Margarita",
+      "title": "Venezuela proyecta un centro de supercómputo y un ente regulador en su plan nacional de inteligencia artificial",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ovp-pide-esclarecer-si-un-preso-recibio-atencion-medica-antes-de-morir-en-margarita/",
-      "published_date": "2026-10-27T22:43:38Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/mincyt-plan-nacional-inteligencia-artificial-2025-2031-venezuela/",
+      "published_date": "2026-10-28T14:45:48Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Trump insiste en que Venezuela sea el estado 51 de EE UU y elija un gobernador",
+      "title": "Flávio Bolsonaro hace breve parada en Ecuador tras huir de Brasil",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/trump-insiste-en-que-venezuela-sea-el-estado-51-de-estados-unidos-y-elija-un-gobernador/",
-      "published_date": "2026-10-27T21:58:11Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/10/flavio-bolsonaro-hace-breve-parada-en-ecuador-tras-huir-de-brasil/",
+      "published_date": "2026-10-28T10:56:00Z",
+      "category": "Military"
     },
     {
-      "title": "Trump insiste en que Venezuela sea el estado 51 de EE UU y elija un gobernador",
+      "title": "Flávio Bolsonaro hace breve parada en Ecuador tras huir de Brasil",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/trump-insiste-en-que-venezuela-sea-el-estado-51-de-estados-unidos-y-elija-un-gobernador/",
-      "published_date": "2026-10-27T21:58:11Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/10/flavio-bolsonaro-hace-breve-parada-en-ecuador-tras-huir-de-brasil/",
+      "published_date": "2026-10-28T10:56:00Z",
+      "category": "Military"
     },
     {
-      "title": "Caracas desbordada: el regreso de María Corina",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/623890/caracas-desbordada-el-regreso-de-maria-corina/",
-      "published_date": "2026-10-27T21:54:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Djokovic pondera el tiempo con su familia sin perder de vista el boleto a las Finales de la ATP",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/djokovic-pondera-el-tiempo-a-su-familia-sin-perder-de-vista-el-boleto-a-las-finales-de-la-atp/",
-      "published_date": "2026-10-27T21:45:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Djokovic pondera el tiempo con su familia sin perder de vista el boleto a las Finales de la ATP",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/djokovic-pondera-el-tiempo-a-su-familia-sin-perder-de-vista-el-boleto-a-las-finales-de-la-atp/",
-      "published_date": "2026-10-27T21:45:11Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump insiste en que Venezuela sea el estado 51: debería tener gobernador y no presidente",
+      "title": "Hombre mata a su pareja en Chile y confiesa el crimen a su familia: la víctima era zuliana",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/trump-insiste-en-que-venezuela-sea-el-estado-51-deberia-tener-gobernador-y-no-presidente/",
-      "published_date": "2026-10-27T21:16:57Z",
-      "category": "Diplomacy"
+      "url": "https://elpitazo.net/migracion/hombre-mata-a-su-pareja-en-chile-y-confiesa-el-crimen-a-su-familia-la-victima-era-zuliana/",
+      "published_date": "2026-10-27T22:14:07Z",
+      "category": "Military"
     },
     {
       "title": "Comando Sur de EE UU mató a cinco personas en otro ataque contra embarcación en el Pacífico",
@@ -262,25 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "ABC: Diosdado Cabello entregó ficheros secretos del Sebin a Estados Unidos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/abc-diosdado-cabello-entrego-ficheros-secretos-del-sebin-a-estados-unidos/",
-      "published_date": "2026-10-23T17:49:25Z",
-      "category": "Military"
-    },
-    {
-      "title": "Intoxicación masiva en Táchira: 68 personas sufren afectaciones respiratorias en una escuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-andes/intoxicacion-masiva-en-tachira-68-personas-sufren-afectaciones-respiratorias-en-una-escuela/",
-      "published_date": "2026-10-23T17:35:38Z",
-      "category": "Military"
-    },
-    {
-      "title": "ABC: EE UU obtuvo los archivos secretos del Sebin y desmantela el aparato de inteligencia",
+      "title": "Caracas hace movimientos en el roster para recibir a Tiburones",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/abc-ee-uu-obtuvo-los-archivos-secretos-del-sebin-y-desmantela-el-aparato-de-inteligencia/",
-      "published_date": "2026-10-23T15:05:40Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/10/caracas-hace-movimientos-en-el-roster-para-recibir-a-tiburones/",
+      "published_date": "2026-10-28T15:11:09Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Caracas hace movimientos en el roster para recibir a Tiburones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/caracas-hace-movimientos-en-el-roster-para-recibir-a-tiburones/",
+      "published_date": "2026-10-28T15:11:09Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Chiquinquirá Delgado conducirá la alfombra roja previa a los Latin Grammy",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/chiquinquira-delgado-conducira-la-alfombra-roja-previa-a-los-latin-grammy/",
+      "published_date": "2026-10-28T04:59:00Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Chiquinquirá Delgado conducirá la alfombra roja previa a los Latin Grammy",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/chiquinquira-delgado-conducira-la-alfombra-roja-previa-a-los-latin-grammy/",
+      "published_date": "2026-10-28T04:59:00Z",
+      "category": "Energy"
     },
     {
       "title": "Caracas suma sus primeros tres puntos de la fase final con una victoria ante Academia Puerto Cabello",
@@ -395,32 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Fuertes lluvias dejan apagones, colapso vial y viviendas anegadas en Carora",
+      "title": "Justicia colombiana admite denuncias contra Petro por contratar a mujeres a cambio de favores sexuales",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/lluvias-carora-municipio-torres-lara-apagones-colapso-vial/",
-      "published_date": "2026-10-27T00:53:04Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/10/justicia-colombiana-admite-denuncias-contra-petro-por-contratar-a-mujeres-a-cambio-de-favores-sexuales/",
+      "published_date": "2026-10-28T10:20:39Z",
+      "category": "Economy"
     },
     {
-      "title": "Fuertes lluvias dejan apagones, colapso vial y viviendas anegadas en Carora",
+      "title": "Justicia colombiana admite denuncias contra Petro por contratar a mujeres a cambio de favores sexuales",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/lluvias-carora-municipio-torres-lara-apagones-colapso-vial/",
-      "published_date": "2026-10-27T00:53:04Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Barinas recibirá a 20 equipos en el XXX Campeonato Nacional de Beisbol Preparatorio de Criollitos de Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/barinas-campeonato-nacional-beisbol-preparatorio-criollitos-de-venezuela/",
-      "published_date": "2026-10-26T19:45:31Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Barinas recibirá a 20 equipos en el XXX Campeonato Nacional de Beisbol Preparatorio de Criollitos de Venezuela",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/barinas-campeonato-nacional-beisbol-preparatorio-criollitos-de-venezuela/",
-      "published_date": "2026-10-26T19:45:31Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/10/justicia-colombiana-admite-denuncias-contra-petro-por-contratar-a-mujeres-a-cambio-de-favores-sexuales/",
+      "published_date": "2026-10-28T10:20:39Z",
+      "category": "Economy"
     },
     {
       "title": "PNB detiene a dos sacerdotes del Ordinariato Militar al culminar misa en Barcelona",
@@ -549,157 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Vente Venezuela denuncia que PNB detuvo a siete personas durante movilización en Caracas",
+      "title": "Los Pitazos del director l ¿Cómo llegó María Corina Machado a Venezuela?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/vente-venezuela-denuncia-que-pnb-detuvo-a-siete-personas-durante-movilizacion-en-caracas/",
-      "published_date": "2026-10-23T00:45:23Z",
-      "category": "Economy"
+      "url": "https://elpitazo.net/politica/los-pitazos-del-director-l-como-llego-maria-corina-machado-a-venezuela/",
+      "published_date": "2026-10-28T16:32:22Z",
+      "category": "Local Events"
     },
     {
-      "title": "EE UU revocó visas a más de 60 funcionarios de Colombia y Bolivia por presuntos vínculos con el narcotráfico y la corrupción",
+      "title": "Camión de carga pesada volcó e impactó contra una vivienda en la autopista Caracas-La Guaira",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/estados-unidos-revoca-visas-a-mas-de-60-altos-cargos-de-colombia-y-bolivia-por-presuntos-vinculos-con-el-narcotrafico-y-la-corrupcion/",
-      "published_date": "2026-10-22T21:29:08Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/10/camion-de-carga-pesada-volco-e-impacto-contra-una-vivienda-en-la-autopista-caracas-la-guaira/",
+      "published_date": "2026-10-28T16:22:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "Bolívar | Equipo de Criollitos de Venezuela necesita apoyo para viajar a campeonato nacional",
+      "title": "Camión de carga pesada volcó e impactó contra una vivienda en la autopista Caracas-La Guaira",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/camion-de-carga-pesada-volco-e-impacto-contra-una-vivienda-en-la-autopista-caracas-la-guaira/",
+      "published_date": "2026-10-28T16:22:11Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Peralta dicta el ritmo ofensivo de Bravos de Margarita",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/david-peralta-dicta-el-ritmo-ofensivo-de-bravos-de-margarita/",
+      "published_date": "2026-10-28T16:14:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "David Peralta dicta el ritmo ofensivo de Bravos de Margarita",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/david-peralta-dicta-el-ritmo-ofensivo-de-bravos-de-margarita/",
+      "published_date": "2026-10-28T16:14:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Crisis eléctrica: Delcy Rodríguez promete «alivio» mientras protestan en Caracas por apagones de hasta 12 horas",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/?p=529576",
-      "published_date": "2026-10-28T02:07:40Z",
+      "url": "https://elpitazo.net/regiones/gran-caracas/crisis-electrica-delcy-rodriguez-promete-alivio-mientras-protestan-en-caracas-por-apagones-de-hasta-12-horas/",
+      "published_date": "2026-10-28T16:09:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Hombre mata a su pareja en Chile y confiesa el crimen a su familia: la víctima era zuliana",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/?p=529604",
-      "published_date": "2026-10-28T02:07:36Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El significado del voto del pueblo brasileño",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/opinion/623908/elecciones-en-brasil/",
-      "published_date": "2026-10-28T01:45:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Delcy Rodríguez promete erradicar el hambre para 2028 y anuncia despliegue gubernamental por el \"Renacer Productivo\"",
+      "title": "TSJ traslada casos de adolescentes procesados a tribunales regionales",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-promete-erradicar-el-hambre-para-2028-y-anuncia-despliegue-gubernamental-por-el-renacer-productivo/",
-      "published_date": "2026-10-28T00:57:11Z",
+      "url": "https://www.elnacional.com/2026/10/tsj-traslada-casos-de-adolescentes-procesados-a-tribunales-regionales/",
+      "published_date": "2026-10-28T16:00:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez promete erradicar el hambre para 2028 y anuncia despliegue gubernamental por el \"Renacer Productivo\"",
+      "title": "TSJ traslada casos de adolescentes procesados a tribunales regionales",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-promete-erradicar-el-hambre-para-2028-y-anuncia-despliegue-gubernamental-por-el-renacer-productivo/",
-      "published_date": "2026-10-28T00:57:11Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/tsj-traslada-casos-de-adolescentes-procesados-a-tribunales-regionales/",
+      "published_date": "2026-10-28T16:00:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Familiares de presos políticos denuncian torturas y falta de atención médica ante María Corina Machado",
+      "title": "Red de trenes de alta velocidad de España acumula dos siniestros fatales en nueve meses",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/familiares-de-presos-politicos-denuncian-torturas-y-falta-de-atencion-medica-ante-maria-corina-machado/",
-      "published_date": "2026-10-28T00:40:34Z",
+      "url": "https://www.elnacional.com/2026/10/red-de-trenes-de-alta-velocidad-de-espana-acumula-dos-siniestros-fatales-en-nueve-meses/",
+      "published_date": "2026-10-28T15:16:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Familiares de presos políticos denuncian torturas y falta de atención médica ante María Corina Machado",
+      "title": "Red de trenes de alta velocidad de España acumula dos siniestros fatales en nueve meses",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/familiares-de-presos-politicos-denuncian-torturas-y-falta-de-atencion-medica-ante-maria-corina-machado/",
-      "published_date": "2026-10-28T00:40:34Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/red-de-trenes-de-alta-velocidad-de-espana-acumula-dos-siniestros-fatales-en-nueve-meses/",
+      "published_date": "2026-10-28T15:16:29Z",
       "category": "Local Events"
     },
     {
-      "title": "María Corina Machado se reúne con familiares de presos políticos y reafirma compromiso con su liberación",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-se-reune-con-familiares-de-presos-politicos-y-reafirma-compromiso-con-su-liberacion/",
-      "published_date": "2026-10-28T00:29:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VE Sin Filtro denuncia uso de reclamos fraudulentos para censurar a medios de comunicación en Instagram",
+      "title": "Comunidad internacional envía condolencias a España por el accidente de trenes en Toledo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/ve-sin-filtro-denuncia-uso-de-reclamos-fraudulentos-para-censurar-a-medios-de-comunicacion-en-instagram/",
-      "published_date": "2026-10-27T23:58:55Z",
+      "url": "https://www.elnacional.com/2026/10/comunidad-internacional-envia-condolencias-a-espana-por-el-accidente-de-trenes-en-toledo/",
+      "published_date": "2026-10-28T14:50:26Z",
       "category": "Local Events"
     },
     {
-      "title": "VE Sin Filtro denuncia uso de reclamos fraudulentos para censurar a medios de comunicación en Instagram",
+      "title": "Comunidad internacional envía condolencias a España por el accidente de trenes en Toledo",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/ve-sin-filtro-denuncia-uso-de-reclamos-fraudulentos-para-censurar-a-medios-de-comunicacion-en-instagram/",
-      "published_date": "2026-10-27T23:58:55Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/comunidad-internacional-envia-condolencias-a-espana-por-el-accidente-de-trenes-en-toledo/",
+      "published_date": "2026-10-28T14:50:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Zulia | Lluvias afectan a Maracaibo y la COL: hay calles anegadas y viviendas inundadas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/zulia-lluvias-afectan-a-maracaibo-y-la-col-hay-calles-anegadas-y-viviendas-inundadas/",
-      "published_date": "2026-10-27T23:25:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "¿Desde cuándo aparece Tarek El Aissami en la página de ICE?",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/desde-cuando-aparece-tarek-el-aissami-en-la-pagina-de-ice/",
-      "published_date": "2026-10-27T22:47:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La OEA respalda la integridad del triunfo de Lula en Brasil, pero advierte sobre los riesgos de la judicialización del proceso",
+      "title": "Delcy Rodríguez solicitó oraciones por el sistema eléctrico durante una concentración en Carabobo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/la-oea-respalda-la-integridad-del-triunfo-de-lula-en-brasil-pero-advierte-sobre-los-riesgos-de-la-judicializacion-del-proceso/",
-      "published_date": "2026-10-27T22:28:11Z",
+      "url": "https://www.elnacional.com/2026/10/delcy-rodriguez-solicito-oraciones-por-el-sistema-electrico-durante-una-concentracion-en-carabobo/",
+      "published_date": "2026-10-28T13:56:41Z",
       "category": "Local Events"
     },
     {
-      "title": "La OEA respalda la integridad del triunfo de Lula en Brasil, pero advierte sobre los riesgos de la judicialización del proceso",
+      "title": "Delcy Rodríguez solicitó oraciones por el sistema eléctrico durante una concentración en Carabobo",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/la-oea-respalda-la-integridad-del-triunfo-de-lula-en-brasil-pero-advierte-sobre-los-riesgos-de-la-judicializacion-del-proceso/",
-      "published_date": "2026-10-27T22:28:11Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/delcy-rodriguez-solicito-oraciones-por-el-sistema-electrico-durante-una-concentracion-en-carabobo/",
+      "published_date": "2026-10-28T13:56:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Irlanda del Norte será el rival de Venezuela en la fase final del Mundial y Festival sub-15",
+      "title": "El rey de España lamenta el accidente ferroviario de Toledo: \"Estamos conmovidos\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/irlanda-del-norte-sera-el-rival-de-venezuela-en-la-fase-final-del-mundial-y-festival-sub-15/",
-      "published_date": "2026-10-27T21:24:49Z",
+      "url": "https://www.elnacional.com/2026/10/el-rey-de-espana-lamenta-el-terrible-accidente-ferroviario-de-toledo/",
+      "published_date": "2026-10-28T13:48:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Irlanda del Norte será el rival de Venezuela en la fase final del Mundial y Festival sub-15",
+      "title": "El rey de España lamenta el accidente ferroviario de Toledo: \"Estamos conmovidos\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/irlanda-del-norte-sera-el-rival-de-venezuela-en-la-fase-final-del-mundial-y-festival-sub-15/",
-      "published_date": "2026-10-27T21:24:49Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/el-rey-de-espana-lamenta-el-terrible-accidente-ferroviario-de-toledo/",
+      "published_date": "2026-10-28T13:48:40Z",
       "category": "Local Events"
     },
     {
-      "title": "Aguinaldos para trabajadores públicos: esto es lo que saben los gremios",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/aguinaldos-para-trabajadores-publicos-esto-es-lo-que-saben-los-gremios/",
-      "published_date": "2026-10-27T21:23:16Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Israel cierra las urnas con la mayor participación en cuatro décadas",
+      "title": "Detienen en Chile a venezolano que confesó a su familia el asesinato de su pareja",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/israel-cierra-las-urnas-con-la-mayor-participacion-en-cuatro-decadas/",
-      "published_date": "2026-10-27T21:12:05Z",
+      "url": "https://www.elnacional.com/2026/10/detienen-en-chile-a-venezolano-que-confeso-a-su-familia-el-asesinato-de-su-pareja/",
+      "published_date": "2026-10-28T13:30:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Israel cierra las urnas con la mayor participación en cuatro décadas",
+      "title": "Detienen en Chile a venezolano que confesó a su familia el asesinato de su pareja",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/israel-cierra-las-urnas-con-la-mayor-participacion-en-cuatro-decadas/",
-      "published_date": "2026-10-27T21:12:05Z",
+      "url": "https://bitlysdowssl-aws.com/2026/10/detienen-en-chile-a-venezolano-que-confeso-a-su-familia-el-asesinato-de-su-pareja/",
+      "published_date": "2026-10-28T13:30:30Z",
       "category": "Local Events"
     },
     {
-      "title": "VE Sin Filtro alerta otra forma de censurar la prensa en redes sociales: las denuncias falsas de derecho de autor",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/623883/ve-sin-filtro-alerta-otra-forma-de-censurar-la-prensa-en-redes-sociales-las-denuncias-falsas-de-derecho-de-autor/",
-      "published_date": "2026-10-27T20:52:17Z",
+      "title": "ABC: EE UU forzará a Delcy Rodríguez a dejar la presidencia, pero no le impedirá presentarse a las elecciones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/10/abc-ee-uu-forzara-a-delcy-rodriguez-a-dejar-la-presidencia-pero-no-le-impedira-presentarse-a-las-elecciones/",
+      "published_date": "2026-10-28T13:14:38Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "ABC: EE UU forzará a Delcy Rodríguez a dejar la presidencia, pero no le impedirá presentarse a las elecciones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/10/abc-ee-uu-forzara-a-delcy-rodriguez-a-dejar-la-presidencia-pero-no-le-impedira-presentarse-a-las-elecciones/",
+      "published_date": "2026-10-28T13:14:38Z",
       "category": "Local Events"
     }
   ]
