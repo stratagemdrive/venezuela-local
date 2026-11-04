@@ -1,146 +1,167 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-11-03T18:20:18Z",
+  "last_updated": "2026-11-04T03:01:41Z",
   "stories": [
     {
-      "title": "11 personas a tribunales por asesinato del aficionado del Zamora FC en Barinas",
+      "title": "El demócrata Chris Pappas, primer hombre abiertamente gay en ganar un escaño del Senado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/el-democrata-chris-pappas-primer-hombre-abiertamente-gay-en-ganar-un-escano-del-senado/",
+      "published_date": "2026-11-04T02:42:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El demócrata Chris Pappas, primer hombre abiertamente gay en ganar un escaño del Senado",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/el-democrata-chris-pappas-primer-hombre-abiertamente-gay-en-ganar-un-escano-del-senado/",
+      "published_date": "2026-11-04T02:42:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Byron Donalds gana la gobernación de Florida y se convierte en el primer gobernador negro del estado",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/byron-donalds-gana-la-gobernacion-de-florida-y-se-convierte-en-el-primer-gobernador-negro-del-estado/",
+      "published_date": "2026-11-04T02:25:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Byron Donalds gana la gobernación de Florida y se convierte en el primer gobernador negro del estado",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/byron-donalds-gana-la-gobernacion-de-florida-y-se-convierte-en-el-primer-gobernador-negro-del-estado/",
+      "published_date": "2026-11-04T02:25:07Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump afirma tener el \"poder absoluto\" ante un posible control demócrata del Congreso",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/trump-afirma-tener-el-poder-absoluto-ante-un-posible-control-democrata-del-congreso/",
+      "published_date": "2026-11-04T01:39:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump afirma tener el \"poder absoluto\" ante un posible control demócrata del Congreso",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/trump-afirma-tener-el-poder-absoluto-ante-un-posible-control-democrata-del-congreso/",
+      "published_date": "2026-11-04T01:39:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Delcy Rodríguez habla de plan económico hasta 2040",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/11-personas-a-tribunales-por-asesinato-del-aficionado-del-zamora-fc-en-barinas/",
-      "published_date": "2026-11-03T17:40:21Z",
+      "url": "https://elpitazo.net/economia/delcy-rodriguez-habla-de-plan-economico-hasta-2040/",
+      "published_date": "2026-11-04T00:49:23Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Mujer mata a su pareja en Guacara durante un apagón: la homicida fue detenida",
+      "title": "Desde Florida hasta Alaska: las voces de los votantes estadounidenses en las elecciones legislativas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/desde-florida-hasta-alaska-las-voces-de-los-votantes-estadounidenses-en-las-elecciones-legislativas/",
+      "published_date": "2026-11-04T00:38:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Desde Florida hasta Alaska: las voces de los votantes estadounidenses en las elecciones legislativas",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/desde-florida-hasta-alaska-las-voces-de-los-votantes-estadounidenses-en-las-elecciones-legislativas/",
+      "published_date": "2026-11-04T00:38:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela negocia financiamiento por 17.000 millones de dólares con organismos multilaterales para impulsar sectores productivos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/venezuela-negocia-financiamiento-por-17-000-millones-de-dolares-con-organismos-multilaterales-para-impulsar-sectores-productivos/",
+      "published_date": "2026-11-04T00:32:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela negocia financiamiento por 17.000 millones de dólares con organismos multilaterales para impulsar sectores productivos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/venezuela-negocia-financiamiento-por-17-000-millones-de-dolares-con-organismos-multilaterales-para-impulsar-sectores-productivos/",
+      "published_date": "2026-11-04T00:32:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Asociación petrolera exige el retorno de Marilú Paredes, la venezolana deportada a África desde EE. UU.",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/mujer-mata-a-su-pareja-en-guacara-durante-un-apagon-la-homicida-fue-detenida/",
-      "published_date": "2026-11-03T17:07:06Z",
+      "url": "https://elpitazo.net/migracion/asociacion-petrolera-exige-el-retorno-de-marilu-paredes-la-venezolana-deportada-a-africa-desde-ee-uu/",
+      "published_date": "2026-11-04T00:20:03Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Novak Djokovic sale adelante e impone un récord en el Masters 1.000 de París",
+      "title": "Óscar Puente dimite como ministro de Transportes de España tras la segunda tragedia ferroviaria del año",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/novak-djokovic-sale-adelante-e-impone-un-record-en-el-masters-1-000-de-paris/",
-      "published_date": "2026-11-03T17:00:53Z",
+      "url": "https://www.elnacional.com/2026/11/oscar-puente-dimite-como-ministro-de-transportes-de-espana-tras-la-segunda-tragedia-ferroviaria-del-ano/",
+      "published_date": "2026-11-03T23:55:08Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Novak Djokovic sale adelante e impone un récord en el Masters 1.000 de París",
+      "title": "Óscar Puente dimite como ministro de Transportes de España tras la segunda tragedia ferroviaria del año",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/novak-djokovic-sale-adelante-e-impone-un-record-en-el-masters-1-000-de-paris/",
-      "published_date": "2026-11-03T17:00:53Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/oscar-puente-dimite-como-ministro-de-transportes-de-espana-tras-la-segunda-tragedia-ferroviaria-del-ano/",
+      "published_date": "2026-11-03T23:55:08Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Súmate exige que la preselección de nuevos magistrados del TSJ sea a puertas abiertas y con transparencia",
+      "title": "Estados Unidos vota entre el respaldo a Trump y el regreso del control demócrata al Congreso",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/sumate-exige-que-la-preseleccion-de-nuevos-magistrados-del-tsj-sea-a-puertas-abiertas-y-con-transparencia/",
-      "published_date": "2026-11-03T16:56:42Z",
+      "url": "https://www.elnacional.com/2026/11/estados-unidos-vota-entre-el-respaldo-a-trump-y-el-regreso-del-control-democrata-al-congreso/",
+      "published_date": "2026-11-03T23:09:08Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Súmate exige que la preselección de nuevos magistrados del TSJ sea a puertas abiertas y con transparencia",
+      "title": "Estados Unidos vota entre el respaldo a Trump y el regreso del control demócrata al Congreso",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/sumate-exige-que-la-preseleccion-de-nuevos-magistrados-del-tsj-sea-a-puertas-abiertas-y-con-transparencia/",
-      "published_date": "2026-11-03T16:56:42Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/estados-unidos-vota-entre-el-respaldo-a-trump-y-el-regreso-del-control-democrata-al-congreso/",
+      "published_date": "2026-11-03T23:09:08Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Jesús María Casal anuncia que se postulará al TSJ para impulsar la reinstitucionalización del Poder Judicial",
+      "title": "Clara Vegas Goetz: “Me siento orgullosa de representar a Venezuela en un año tan retador”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/clara-vegas-orgullosa-de-representar-al-pais-en-un-ano-retador/",
+      "published_date": "2026-11-03T22:55:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Clara Vegas Goetz: “Me siento orgullosa de representar a Venezuela en un año tan retador”",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/clara-vegas-orgullosa-de-representar-al-pais-en-un-ano-retador/",
+      "published_date": "2026-11-03T22:55:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Detienen al exdiputado chavista Richard Rosa tras incautarle armas de fuego y municiones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/detienen-al-exdiputado-chavista-richard-rosa-tras-incautarle-armas-de-fuego-y-municiones/",
+      "published_date": "2026-11-03T22:51:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Detienen al exdiputado chavista Richard Rosa tras incautarle armas de fuego y municiones",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/detienen-al-exdiputado-chavista-richard-rosa-tras-incautarle-armas-de-fuego-y-municiones/",
+      "published_date": "2026-11-03T22:51:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Inflación, guerra de Irán y política migratoria podrían poner a Trump de rodillas",
       "source": "Runrun.es",
-      "url": "https://runrun.es/inicio/624484/jesus-maria-casal-anuncia-que-se-postulara-al-tsj-para-impulsar-la-reinstitucionalizacion-del-poder-judicial/",
-      "published_date": "2026-11-03T16:47:15Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/624549/inflacion-guerra-de-iran-y-politica-migratoria-podrian-poner-a-trump-de-rodillas/",
+      "published_date": "2026-11-04T02:42:34Z",
+      "category": "Military"
     },
     {
-      "title": "Otro fanático fallecido en medio de opacidad respecto a violencia en el fútbol nacional",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/624487/opacidad-en-el-futbol-nacional-deja-otro-fanatico-fallecido/",
-      "published_date": "2026-11-03T16:46:08Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "«No sacan a nadie hasta que se está muriendo»: el drama de las presas en La Crisálida",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/ultimas-noticias/no-sacan-a-nadie-hasta-que-se-esta-muriendo-el-drama-de-las-presas-en-la-crisalida/",
-      "published_date": "2026-11-03T16:24:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Diosdado Cabello confirma despliegue militar en la frontera tras reportes de bombardeo en Apure",
+      "title": "Diario La Voz exige la restitución de su derecho a operar tras dos años de clausura administrativa por el Seniat",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/diosdado-cabello-confirma-despliegue-militar-en-la-frontera-tras-reportes-de-bombardeo-en-apure/",
-      "published_date": "2026-11-03T15:23:53Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/diario-la-voz-exige-reapertura-dos-anos-clausura-seniat-emilio-materan/",
+      "published_date": "2026-11-03T20:00:42Z",
+      "category": "Military"
     },
     {
-      "title": "Diosdado Cabello confirma despliegue militar en la frontera tras reportes de bombardeo en Apure",
+      "title": "Diario La Voz exige la restitución de su derecho a operar tras dos años de clausura administrativa por el Seniat",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/diosdado-cabello-confirma-despliegue-militar-en-la-frontera-tras-reportes-de-bombardeo-en-apure/",
-      "published_date": "2026-11-03T15:23:53Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las protestas en Francia acumulan 4.914 detenciones y 329 encarcelamientos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/las-protestas-en-francia-acumulan-4-914-detenciones-y-329-encarcelamientos/",
-      "published_date": "2026-11-03T14:45:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las protestas en Francia acumulan 4.914 detenciones y 329 encarcelamientos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/las-protestas-en-francia-acumulan-4-914-detenciones-y-329-encarcelamientos/",
-      "published_date": "2026-11-03T14:45:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un cantante, exconductores y una militar en retiro: los candidatos hispanos que buscan hacer historia en EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/un-cantante-exconductores-y-una-militar-en-retiro-los-candidatos-hispanos-que-buscan-hacer-historia-en-ee-uu/",
-      "published_date": "2026-11-03T13:41:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Un cantante, exconductores y una militar en retiro: los candidatos hispanos que buscan hacer historia en EE UU",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/un-cantante-exconductores-y-una-militar-en-retiro-los-candidatos-hispanos-que-buscan-hacer-historia-en-ee-uu/",
-      "published_date": "2026-11-03T13:41:49Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cómo se vive en un campamento que pide la liberación de presos políticos",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/rr-es-plus/como-se-vive/624409/como-se-vive-en-un-campamento-que-pide-la-liberacion-de-presos-politicos/",
-      "published_date": "2026-11-03T13:38:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La crisis de las tecnológicas chinas reaviva el temor a una de la IA",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/la-crisis-de-las-tecnologicas-chinas-reaviva-el-temor-a-una-de-la-ia/",
-      "published_date": "2026-11-03T13:02:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "La crisis de las tecnológicas chinas reaviva el temor a una de la IA",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/la-crisis-de-las-tecnologicas-chinas-reaviva-el-temor-a-una-de-la-ia/",
-      "published_date": "2026-11-03T13:02:30Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abren los primeros colegios electorales en EE UU, en una jornada que marcará la presidencia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/abren-los-primeros-colegios-electorales-en-ee-uu-en-una-jornada-que-marcara-la-presidencia/",
-      "published_date": "2026-11-03T12:39:57Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Abren los primeros colegios electorales en EE UU, en una jornada que marcará la presidencia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/abren-los-primeros-colegios-electorales-en-ee-uu-en-una-jornada-que-marcara-la-presidencia/",
-      "published_date": "2026-11-03T12:39:57Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/diario-la-voz-exige-reapertura-dos-anos-clausura-seniat-emilio-materan/",
+      "published_date": "2026-11-03T20:00:42Z",
+      "category": "Military"
     },
     {
       "title": "Falleció en Madrid el general retirado venezolano Eduardo Báez Torrealba",
@@ -206,6 +227,20 @@
       "category": "Military"
     },
     {
+      "title": "Maná estrenará concierto gratuito en YouTube por sus 40 años",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/mana-estrenara-concierto-gratuito-en-youtube-por-sus-40-anos/",
+      "published_date": "2026-11-03T04:59:00Z",
+      "category": "Military"
+    },
+    {
+      "title": "Maná estrenará concierto gratuito en YouTube por sus 40 años",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/mana-estrenara-concierto-gratuito-en-youtube-por-sus-40-anos/",
+      "published_date": "2026-11-03T04:59:00Z",
+      "category": "Military"
+    },
+    {
       "title": "Director de La Voz exige la reactivación del diario tras dos años de clausura por el Seniat",
       "source": "El Pitazo",
       "url": "https://elpitazo.net/politica/director-de-la-voz-exige-la-reactivacion-del-diario-tras-dos-anos-de-clausura-por-el-seniat/",
@@ -248,39 +283,67 @@
       "category": "Military"
     },
     {
-      "title": "Cicpc arresta a tres hombres en Distrito Capital y Aragua por agredir a sus parejas",
+      "title": "Caracas elimina a Monagas y mantiene sus esperanzas de alcanzar a Táchira en el cuadrangular B",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/cicpc-arresta-a-tres-hombres-en-distrito-capital-y-aragua-por-agredir-a-sus-parejas/",
-      "published_date": "2026-11-02T18:03:18Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/11/caracas-elimina-a-monagas-y-mantiene-sus-esperanzas-de-alcanzar-a-tachira-en-el-cuadrangular-b/",
+      "published_date": "2026-11-03T23:30:02Z",
+      "category": "Energy"
     },
     {
-      "title": "Atentado con explosivos en Colombia deja cuatro muertos, entre ellos una bebé de dos meses",
+      "title": "Caracas elimina a Monagas y mantiene sus esperanzas de alcanzar a Táchira en el cuadrangular B",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/atentado-con-explosivos-en-colombia-deja-cuatro-muertos-entre-ellos-una-bebe-de-dos-meses/",
-      "published_date": "2026-11-02T16:02:00Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/11/caracas-elimina-a-monagas-y-mantiene-sus-esperanzas-de-alcanzar-a-tachira-en-el-cuadrangular-b/",
+      "published_date": "2026-11-03T23:30:02Z",
+      "category": "Energy"
     },
     {
-      "title": "Atentado con explosivos en Colombia deja cuatro muertos, entre ellos una bebé de dos meses",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/atentado-con-explosivos-en-colombia-deja-cuatro-muertos-entre-ellos-una-bebe-de-dos-meses/",
-      "published_date": "2026-11-02T16:02:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Las críticas al registro en plataforma «Constructores» de Vente Venezuela: alertan sobre manejo de datos biométricos",
+      "title": "Economista José Guerra exige cuentas al Ejecutivo: “Que informe dónde están los reales del petróleo”",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/las-criticas-al-registro-en-plataforma-constructores-de-vente-venezuela-alertan-sobre-manejo-de-datos-biometricos/",
-      "published_date": "2026-11-01T19:41:20Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/economia/economista-jose-guerra-exige-cuentas-al-ejecutivo-que-informe-donde-estan-los-reales-del-petroleo/",
+      "published_date": "2026-11-03T21:36:10Z",
+      "category": "Energy"
     },
     {
-      "title": "Bukele negó que militares salvadoreños hayan bombardeado a civiles en Haití",
+      "title": "Francia investiga las fallas de seguridad tras los disturbios y saqueos del 17 de octubre",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/bukele-nego-que-militares-salvadorenos-hayan-bombardeado-civiles-en-haiti/",
-      "published_date": "2026-11-01T18:08:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/11/francia-investiga-los-fallos-de-seguridad-tras-los-disturbios-y-saqueos-del-17-de-octubre/",
+      "published_date": "2026-11-03T19:15:50Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Francia investiga las fallas de seguridad tras los disturbios y saqueos del 17 de octubre",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/francia-investiga-los-fallos-de-seguridad-tras-los-disturbios-y-saqueos-del-17-de-octubre/",
+      "published_date": "2026-11-03T19:15:50Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Elecciones en estados clave definirán el control del Senado de EE UU",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/elecciones-en-estados-clave-definiran-el-control-del-senado-de-ee-uu/",
+      "published_date": "2026-11-03T19:00:22Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Elecciones en estados clave definirán el control del Senado de EE UU",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/elecciones-en-estados-clave-definiran-el-control-del-senado-de-ee-uu/",
+      "published_date": "2026-11-03T19:00:22Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Leones mueve su pitcheo: Wilmer Font, Jesús Vargas y Joan González entran en el roster",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/leones-mueve-su-pitcheo-wilmer-font-jesus-vargas-y-joan-gonzalez-entran-en-el-roster/",
+      "published_date": "2026-11-03T18:32:36Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Leones mueve su pitcheo: Wilmer Font, Jesús Vargas y Joan González entran en el roster",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/leones-mueve-su-pitcheo-wilmer-font-jesus-vargas-y-joan-gonzalez-entran-en-el-roster/",
+      "published_date": "2026-11-03T18:32:36Z",
+      "category": "Energy"
     },
     {
       "title": "Plataforma Constructores sobre registro de electores genera dudas entre expertos",
@@ -360,67 +423,46 @@
       "category": "Energy"
     },
     {
-      "title": "Santa Teresa presenta nueva edición con 100 años de añejamiento",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/caracas/santa-teresa-presenta-nueva-edicion-con-100-anos-de-anejamiento/",
-      "published_date": "2026-10-31T21:39:35Z",
-      "category": "Energy"
+      "title": "Delcy Rodríguez asegura que la producción petrolera en Venezuela creció 8,5% en el último año",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/delcy-rodriguez-asegura-que-la-produccion-petrolera-en-venezuela-crecio-85-en-el-ultimo-ano/",
+      "published_date": "2026-11-03T23:03:15Z",
+      "category": "Economy"
     },
     {
-      "title": "Los diferentes caminos de Colombia y Venezuela hacia la recuperación",
+      "title": "Delcy Rodríguez asegura que la producción petrolera en Venezuela creció 8,5% en el último año",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/los-diferentes-caminos-de-colombia-y-venezuela-hacia-la-recuperacion/",
-      "published_date": "2026-10-31T19:27:00Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/delcy-rodriguez-asegura-que-la-produccion-petrolera-en-venezuela-crecio-85-en-el-ultimo-ano/",
+      "published_date": "2026-11-03T23:03:15Z",
+      "category": "Economy"
     },
     {
-      "title": "Los diferentes caminos de Colombia y Venezuela hacia la recuperación",
+      "title": "Policía española abre investigación tras el fallecimiento del futbolista Jesús de Miguel",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/los-diferentes-caminos-de-colombia-y-venezuela-hacia-la-recuperacion/",
-      "published_date": "2026-10-31T19:27:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/11/policia-espanola-abre-investigacion-tras-el-fallecimiento-del-futbolista-jesus-de-miguel/",
+      "published_date": "2026-11-03T19:03:19Z",
+      "category": "Economy"
     },
     {
-      "title": "México despliega 1.600 militares navales más en Sinaloa ante repunte de homicidios",
+      "title": "Policía española abre investigación tras el fallecimiento del futbolista Jesús de Miguel",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/mexico-despliega-1-600-militares-navales-mas-en-sinaloa-ante-repunte-de-homicidios/",
-      "published_date": "2026-10-31T18:55:00Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/policia-espanola-abre-investigacion-tras-el-fallecimiento-del-futbolista-jesus-de-miguel/",
+      "published_date": "2026-11-03T19:03:19Z",
+      "category": "Economy"
     },
     {
-      "title": "México despliega 1.600 militares navales más en Sinaloa ante repunte de homicidios",
+      "title": "Economista Pedro Palma explica las ventajas y los riesgos de una dolarización plena en Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/mexico-despliega-1-600-militares-navales-mas-en-sinaloa-ante-repunte-de-homicidios/",
-      "published_date": "2026-10-31T18:55:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/11/economista-pedro-palma-explica-las-ventajas-y-los-riesgos-de-una-dolarizacion-plena-en-venezuela/",
+      "published_date": "2026-11-03T18:26:17Z",
+      "category": "Economy"
     },
     {
-      "title": "Petróleo venezolano: Chevron invierte 7.000 millones y Exxon se mantiene escéptica",
+      "title": "Economista Pedro Palma explica las ventajas y los riesgos de una dolarización plena en Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/petroleo-venezolano-chevron-invierte-7-000-millones-y-exxon-se-mantiene-esceptica/",
-      "published_date": "2026-10-31T13:51:20Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Petróleo venezolano: Chevron invierte 7.000 millones y Exxon se mantiene escéptica",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/petroleo-venezolano-chevron-invierte-7-000-millones-y-exxon-se-mantiene-esceptica/",
-      "published_date": "2026-10-31T13:51:20Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Tiburones de La Guaira pierde a Yangervis Solarte por una lesión",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/10/tiburones-de-la-guaira-pierde-a-yangervis-solarte-por-una-lesion/",
-      "published_date": "2026-10-30T19:05:34Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Tiburones de La Guaira pierde a Yangervis Solarte por una lesión",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/tiburones-de-la-guaira-pierde-a-yangervis-solarte-por-una-lesion/",
-      "published_date": "2026-10-30T19:05:34Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/economista-pedro-palma-explica-las-ventajas-y-los-riesgos-de-una-dolarizacion-plena-en-venezuela/",
+      "published_date": "2026-11-03T18:26:17Z",
+      "category": "Economy"
     },
     {
       "title": "Fiebre petrolera: El Tigre despierta entre jets privados y alquileres a precio de oro",
@@ -507,143 +549,143 @@
       "category": "Economy"
     },
     {
-      "title": "Alejandro Grisanti proyecta crecimiento de 13,7% para 2027 pero alerta sobre crisis eléctrica",
+      "title": "La republicana Ashley Moody gana el escaño de Marco Rubio en el Senado de EE UU",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/alejandro-grisanti-proyecta-crecimiento-de-137-para-2027-pero-alerta-sobre-crisis-electrica/",
-      "published_date": "2026-11-03T17:56:09Z",
+      "url": "https://www.elnacional.com/2026/11/la-republicana-ashley-moody-gana-el-escano-de-marco-rubio-en-el-senado-de-eeuu/",
+      "published_date": "2026-11-04T02:01:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Alejandro Grisanti proyecta crecimiento de 13,7% para 2027 pero alerta sobre crisis eléctrica",
+      "title": "La republicana Ashley Moody gana el escaño de Marco Rubio en el Senado de EE UU",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/alejandro-grisanti-proyecta-crecimiento-de-137-para-2027-pero-alerta-sobre-crisis-electrica/",
-      "published_date": "2026-11-03T17:56:09Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/la-republicana-ashley-moody-gana-el-escano-de-marco-rubio-en-el-senado-de-eeuu/",
+      "published_date": "2026-11-04T02:01:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Dos bajones seguidos: usuarios de Caracas y 7 estados del país reportan fallas en el servicio eléctrico",
+      "title": "Jon Ossoff, el joven senador demócrata presidenciable que se afianza en la republicana Georgia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/jon-ossoff-el-joven-senador-democrata-presidenciable-que-se-afianza-en-la-republicana-georgia/",
+      "published_date": "2026-11-04T01:49:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Jon Ossoff, el joven senador demócrata presidenciable que se afianza en la republicana Georgia",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/jon-ossoff-el-joven-senador-democrata-presidenciable-que-se-afianza-en-la-republicana-georgia/",
+      "published_date": "2026-11-04T01:49:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Táchira le remonta a Academia Puerto Cabello y roza la clasificación a la final del Clausura",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/tachira-le-remonta-a-academia-puerto-cabello-y-roza-la-clasificacion-a-la-final-del-clausura/",
+      "published_date": "2026-11-04T01:32:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Táchira le remonta a Academia Puerto Cabello y roza la clasificación a la final del Clausura",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/tachira-le-remonta-a-academia-puerto-cabello-y-roza-la-clasificacion-a-la-final-del-clausura/",
+      "published_date": "2026-11-04T01:32:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los primeros resultados de las legislativas favorecen a los demócratas en Estados Unidos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/los-primeros-resultados-de-las-legislativas-favorecen-a-los-democratas-en-estados-unidos/",
+      "published_date": "2026-11-04T01:08:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Los primeros resultados de las legislativas favorecen a los demócratas en Estados Unidos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/los-primeros-resultados-de-las-legislativas-favorecen-a-los-democratas-en-estados-unidos/",
+      "published_date": "2026-11-04T01:08:52Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asamblea Nacional aplaza por segunda vez el debate para la reforma de la Ley del Servicio Eléctrico",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/asamblea-nacional-aplaza-por-segunda-vez-el-debate-para-la-reforma-de-la-ley-del-servicio-electrico/",
+      "published_date": "2026-11-04T00:54:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Asamblea Nacional aplaza por segunda vez el debate para la reforma de la Ley del Servicio Eléctrico",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/asamblea-nacional-aplaza-por-segunda-vez-el-debate-para-la-reforma-de-la-ley-del-servicio-electrico/",
+      "published_date": "2026-11-04T00:54:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Aplanadora chavista aprueba en primera discusión reforma de Ley contra el odio: es imprescindible, dice Jorge Rodríguez",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/dos-bajones-seguidos-usuarios-de-caracas-y-7-estados-del-pais-reportan-fallas-en-el-servicio-electrico/",
-      "published_date": "2026-11-03T17:52:37Z",
+      "url": "https://elpitazo.net/politica/aplanadora-chavista-aprueba-en-primera-discusion-reforma-de-ley-contra-el-odio-es-imprescindible-dice-jorge-rodriguez/",
+      "published_date": "2026-11-03T23:31:41Z",
       "category": "Local Events"
     },
     {
-      "title": "Inmigración, Irán e inflación: Trump reivindica su gestión en plenas elecciones legislativas",
+      "title": "El SNTP exige derogar la Ley contra el Odio y advierte que su reforma mantiene mecanismos de censura y sanciones económicas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/inmigracion-iran-e-inflacion-trump-reivindica-su-gestion-en-plenas-elecciones-legislativas/",
-      "published_date": "2026-11-03T17:35:46Z",
+      "url": "https://www.elnacional.com/2026/11/el-sntp-exige-derogar-la-ley-contra-el-odio-y-advierte-que-su-reforma-mantiene-mecanismos-de-censura-y-sanciones-economicas/",
+      "published_date": "2026-11-03T23:30:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Inmigración, Irán e inflación: Trump reivindica su gestión en plenas elecciones legislativas",
+      "title": "El SNTP exige derogar la Ley contra el Odio y advierte que su reforma mantiene mecanismos de censura y sanciones económicas",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/inmigracion-iran-e-inflacion-trump-reivindica-su-gestion-en-plenas-elecciones-legislativas/",
-      "published_date": "2026-11-03T17:35:46Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/el-sntp-exige-derogar-la-ley-contra-el-odio-y-advierte-que-su-reforma-mantiene-mecanismos-de-censura-y-sanciones-economicas/",
+      "published_date": "2026-11-03T23:30:04Z",
       "category": "Local Events"
     },
     {
-      "title": "Qué dice Vente Venezuela sobre su registro Constructores",
+      "title": "Magisterio en vilo: sin aguinaldos a 3 de noviembre y con salarios reducidos a menos de 20 dólares",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/magisterio-en-vilo-sin-aguinaldos-a-3-de-noviembre-y-con-salarios-reducidos-a-menos-de-20-dolares/",
+      "published_date": "2026-11-03T23:26:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magisterio en vilo: sin aguinaldos a 3 de noviembre y con salarios reducidos a menos de 20 dólares",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/magisterio-en-vilo-sin-aguinaldos-a-3-de-noviembre-y-con-salarios-reducidos-a-menos-de-20-dolares/",
+      "published_date": "2026-11-03T23:26:15Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cierran los primeros colegios electorales en las legislativas de Estados Unidos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cierran-los-primeros-colegios-electorales-en-las-legislativas-de-estados-unidos/",
+      "published_date": "2026-11-03T23:21:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cierran los primeros colegios electorales en las legislativas de Estados Unidos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/cierran-los-primeros-colegios-electorales-en-las-legislativas-de-estados-unidos/",
+      "published_date": "2026-11-03T23:21:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caracas sin luz: zonas de la capital sufren fallas eléctricas este #3Nov",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/que-dice-vente-venezuela-sobre-su-registro-constructores/",
-      "published_date": "2026-11-03T17:18:39Z",
+      "url": "https://elpitazo.net/caracas/caracas-sin-luz-zonas-de-la-capital-sufren-fallas-electricas-este-3nov/",
+      "published_date": "2026-11-03T23:17:04Z",
       "category": "Local Events"
     },
     {
-      "title": "De Paul y Lo Celso están ausentes en la primera convocatoria de Argentina tras el retiro de Messi",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/de-paul-y-lo-celso-estan-ausentes-en-la-primera-convocatoria-de-argentina-tras-el-retiro-de-messi/",
-      "published_date": "2026-11-03T17:13:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "De Paul y Lo Celso están ausentes en la primera convocatoria de Argentina tras el retiro de Messi",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/de-paul-y-lo-celso-estan-ausentes-en-la-primera-convocatoria-de-argentina-tras-el-retiro-de-messi/",
-      "published_date": "2026-11-03T17:13:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Incendios no se apagan con refresco: expertos advierten sobre la peligrosa maniobra usada por trabajador de Corpoelec",
+      "title": "CFMOTO presenta los modelos CFLITE y la 1000MT-X",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/gran-caracas-2/incendios-no-se-apagan-con-refresco-expertos-advierten-sobre-la-peligrosa-maniobra-usada-por-trabajador-de-corpoelec/",
-      "published_date": "2026-11-03T17:01:23Z",
+      "url": "https://elpitazo.net/ultimas-noticias/cfmoto-presenta-los-modelos-cflite-y-la-1000mt-x/",
+      "published_date": "2026-11-03T23:04:44Z",
       "category": "Local Events"
     },
     {
-      "title": "Conmebol confirma que Colombia albergará el Sudamericano sub-20 de 2027",
+      "title": "Refuerzos en la nave: Magallanes activa a Sandy León y a dos relevistas dominicanos",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/conmebol-confirma-que-colombia-albergara-el-sudamericano-sub-20-de-2027/",
-      "published_date": "2026-11-03T16:12:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Conmebol confirma que Colombia albergará el Sudamericano sub-20 de 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/conmebol-confirma-que-colombia-albergara-el-sudamericano-sub-20-de-2027/",
-      "published_date": "2026-11-03T16:12:05Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mundial de Beisbol sub-23: Venezuela comienza su camino frente a Sudáfrica en Managua",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/mundial-sub-23-venezuela-comienza-su-camino-frente-a-sudafrica-en-managua/",
-      "published_date": "2026-11-03T16:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Mundial de Beisbol sub-23: Venezuela comienza su camino frente a Sudáfrica en Managua",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/mundial-sub-23-venezuela-comienza-su-camino-frente-a-sudafrica-en-managua/",
-      "published_date": "2026-11-03T16:00:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Sindicatos buscan unir a trabajadores de alcaldías y gobernaciones en una lucha nacional por salarios",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/sindicatos-buscan-unir-a-trabajadores-de-alcaldias-y-gobernaciones-en-una-lucha-nacional-por-salarios/",
-      "published_date": "2026-11-03T15:50:51Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Excarcelan a Magbis Rondón tras cumplir siete años de prisión política",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/excarcelaron-a-magbis-rondon-tras-permanecer-privado-de-libertad-desde-noviembre-de-2019/",
-      "published_date": "2026-11-03T15:46:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Excarcelan a Magbis Rondón tras cumplir siete años de prisión política",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/excarcelaron-a-magbis-rondon-tras-permanecer-privado-de-libertad-desde-noviembre-de-2019/",
-      "published_date": "2026-11-03T15:46:27Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La organización del Giro de Italia revela el recorrido para la edición 2027",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/la-organizacion-del-giro-de-italia-revela-el-recorrido-para-la-edicion-2027/",
-      "published_date": "2026-11-03T15:02:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La organización del Giro de Italia revela el recorrido para la edición 2027",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/la-organizacion-del-giro-de-italia-revela-el-recorrido-para-la-edicion-2027/",
-      "published_date": "2026-11-03T15:02:07Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Multa máxima contemplada en reforma de Ley contra el Odio supera los 10 000 dólares",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/624479/multa-maxima-contemplada-en-reforma-de-ley-contra-el-odio-supera-los-10-000-dolares/",
-      "published_date": "2026-11-03T14:59:41Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El impacto goleador de Salomón Rondón que quedará en la historia del fútbol mexicano",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/el-impacto-goleador-de-salomon-rondon-que-quedara-en-la-historia-del-futbol-mexicano/",
-      "published_date": "2026-11-03T14:42:00Z",
+      "url": "https://www.elnacional.com/2026/11/refuerzos-en-la-nave-magallanes-activa-a-sandy-leon-y-a-dos-relevistas-dominicanos/",
+      "published_date": "2026-11-03T22:58:22Z",
       "category": "Local Events"
     }
   ]
