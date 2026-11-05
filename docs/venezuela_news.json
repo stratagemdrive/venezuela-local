@@ -1,146 +1,174 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-11-04T18:34:36Z",
+  "last_updated": "2026-11-05T03:26:36Z",
   "stories": [
     {
-      "title": "Arrestan en Yaracuy a los padres de un niño localizado en zona boscosa en Morón",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/arrestan-en-yaracuy-a-los-padres-de-un-nino-localizado-en-zona-boscosa-en-moron/",
-      "published_date": "2026-11-04T18:17:55Z",
+      "title": "La relevancia del sistema electoral estadounidense",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/624686/midterm-elections/",
+      "published_date": "2026-11-05T01:26:07Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Arrestan en Yaracuy a los padres de un niño localizado en zona boscosa en Morón",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/arrestan-en-yaracuy-a-los-padres-de-un-nino-localizado-en-zona-boscosa-en-moron/",
-      "published_date": "2026-11-04T18:17:55Z",
+      "title": "Delcy Rodríguez vaticina un gran “boom” económico y otras perlitas de “prosperidad”",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/624660/delcy-rodriguez-vaticina-un-gran-boom-economico-y-otras-perlitas/",
+      "published_date": "2026-11-05T01:10:53Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Dos muertos y 43 heridos en Portuguesa por accidente de autobús",
+      "title": "Almorzando con don Rómulo Betancourt [I]",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/opinion/624677/romulo-betancourt/",
+      "published_date": "2026-11-05T00:56:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“Rodríguez busca ser indispensable para Trump”: reacciones a posible acuerdo militar con EE. UU.",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/624584/rodriguez-busca-ser-indispensable-para-trump-reacciones-a-posible-acuerdo-militar-con-ee-uu/",
+      "published_date": "2026-11-04T23:22:56Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trabajadores de Ferrocarril y PMH de Ferrominera paralizan operaciones en Bolívar para exigir el pago de utilidades",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/trabajadores-ferrocarril-pmh-ferrominera-bolivar-paralizan-operaciones-utilidades/",
+      "published_date": "2026-11-04T22:47:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trabajadores de Ferrocarril y PMH de Ferrominera paralizan operaciones en Bolívar para exigir el pago de utilidades",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/trabajadores-ferrocarril-pmh-ferrominera-bolivar-paralizan-operaciones-utilidades/",
+      "published_date": "2026-11-04T22:47:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hugo Medina cumple 11 días de protesta frente a la CVG: «La huelga de hambre no comenzó aquí, ya venía desde casa»",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/hugo-medina-huelga-de-hambre-cvg-guayana/",
+      "published_date": "2026-11-04T22:38:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Hugo Medina cumple 11 días de protesta frente a la CVG: «La huelga de hambre no comenzó aquí, ya venía desde casa»",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/hugo-medina-huelga-de-hambre-cvg-guayana/",
+      "published_date": "2026-11-04T22:38:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Estrecho margen entre María Elvira Salazar y Eliott Rodríguez obliga a recuento de votos en Florida",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/estrecho-margen-entre-maria-elvira-salazar-y-eliott-rodriguez-obliga-a-recuento-de-votos-en-florida/",
+      "published_date": "2026-11-04T22:30:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Estrecho margen entre María Elvira Salazar y Eliott Rodríguez obliga a recuento de votos en Florida",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/estrecho-margen-entre-maria-elvira-salazar-y-eliott-rodriguez-obliga-a-recuento-de-votos-en-florida/",
+      "published_date": "2026-11-04T22:30:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Mesa de diálogo instala Consejo para revisar credenciales de postulados al TSJ",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/624634/mesa-de-dialogo-instala-consejo-para-revisar-credenciales-de-postulados-al-tsj/",
+      "published_date": "2026-11-04T22:14:03Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Colombia declara de «interés estratégico» la recuperación de su gasoducto con Venezuela",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/dos-muertos-y-43-heridos-en-portuguesa-por-accidente-de-autobus/",
-      "published_date": "2026-11-04T18:16:19Z",
+      "url": "https://elpitazo.net/economia/colombia-declara-de-interes-estrategico-la-recuperacion-de-su-gasoducto-con-venezuela/",
+      "published_date": "2026-11-04T22:11:26Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Cojedes | Otro caso de intoxicación escolar deja 13 afectados en Tinaco",
+      "title": "Julio Castro confirma un repunte de infecciones respiratorias en la Gran Caracas por influenza y covid-19",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/julio-castro-confirma-un-repunte-de-infecciones-respiratorias-en-la-gran-caracas-por-influenza-y-covid-19/",
+      "published_date": "2026-11-04T21:19:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Julio Castro confirma un repunte de infecciones respiratorias en la Gran Caracas por influenza y covid-19",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/julio-castro-confirma-un-repunte-de-infecciones-respiratorias-en-la-gran-caracas-por-influenza-y-covid-19/",
+      "published_date": "2026-11-04T21:19:26Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pago de aguinaldos: trabajadores exigen a Delcy Rodríguez un bono compensatorio por los bajos salarios",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/cojedes-otro-caso-de-intoxicacion-escolar-deja-13-afectados-en-tinaco/",
-      "published_date": "2026-11-04T17:47:13Z",
+      "url": "https://elpitazo.net/economia/pago-de-aguinaldos-trabajadores-exigen-a-delcy-rodriguez-un-bono-compensatorio-por-los-bajos-salarios/",
+      "published_date": "2026-11-04T20:18:07Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Opositora Rosa María Payá presenta plan de transición para Cuba: \"Habrá espacio para todas las voces\"",
+      "title": "Un latigazo de Valverde ante el AEK mantiene la seguidilla de victorias del Real Madrid",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/opositora-rosa-maria-paya-presenta-plan-de-transicion-para-cuba-habra-espacio-para-todas-las-voces/",
-      "published_date": "2026-11-04T16:33:56Z",
+      "url": "https://www.elnacional.com/2026/11/un-latigazo-de-valverde-ante-el-aek-mantiene-la-seguidilla-de-victorias-del-real-madrid/",
+      "published_date": "2026-11-04T20:10:02Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Opositora Rosa María Payá presenta plan de transición para Cuba: \"Habrá espacio para todas las voces\"",
+      "title": "Un latigazo de Valverde ante el AEK mantiene la seguidilla de victorias del Real Madrid",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/opositora-rosa-maria-paya-presenta-plan-de-transicion-para-cuba-habra-espacio-para-todas-las-voces/",
-      "published_date": "2026-11-04T16:33:56Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/un-latigazo-de-valverde-ante-el-aek-mantiene-la-seguidilla-de-victorias-del-real-madrid/",
+      "published_date": "2026-11-04T20:10:02Z",
       "category": "Diplomacy"
     },
     {
-      "title": "The New York Times: EE. UU. ayudó a Venezuela en el ataque con drones contra el ELN",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/the-new-york-times-ee-uu-ayudo-a-venezuela-en-el-ataque-con-drones-contra-el-eln/",
-      "published_date": "2026-11-04T16:30:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "The New York Times: EE. UU. ayudó a Venezuela en el ataque con drones contra el ELN",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/the-new-york-times-ee-uu-ayudo-a-venezuela-en-el-ataque-con-drones-contra-el-eln/",
-      "published_date": "2026-11-04T16:30:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Musetti arruinó el estreno de Alexander Zverev como número 1 de la ATP",
+      "title": "Jesús Owono muestra su pesar por la muerte de Jesús de Miguel: \"Siento un dolor enorme\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/musetti-arruino-el-estreno-de-alexander-zverev-como-numero-1-de-la-atp/",
-      "published_date": "2026-11-04T16:05:50Z",
+      "url": "https://www.elnacional.com/2026/11/jesus-owono-muestra-su-pesar-por-la-muerte-de-jesus-de-miguel-siento-un-dolor-enorme/",
+      "published_date": "2026-11-04T20:01:51Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Musetti arruinó el estreno de Alexander Zverev como número 1 de la ATP",
+      "title": "Jesús Owono muestra su pesar por la muerte de Jesús de Miguel: \"Siento un dolor enorme\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/musetti-arruino-el-estreno-de-alexander-zverev-como-numero-1-de-la-atp/",
-      "published_date": "2026-11-04T16:05:50Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/jesus-owono-muestra-su-pesar-por-la-muerte-de-jesus-de-miguel-siento-un-dolor-enorme/",
+      "published_date": "2026-11-04T20:01:51Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Activista de derechos humanos explica las consecuencias judiciales que enfrentarían Maduro y Flores en EE UU por actos de tortura",
+      "title": "Presidentes que pierden elecciones de medio término tienden a blindar su política internacional",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/624585/presidentes-que-pierden-elecciones-de-medio-termino-tienden-a-blindar-su-politica-internacional/",
+      "published_date": "2026-11-04T19:26:22Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La OFAC extiende la protección de Citgo hasta diciembre de 2026 y abre la puerta a una reestructuración de los bonos Pdvsa 2020",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/activista-de-derechos-humanos-explica-las-consecuencias-judiciales-que-enfrentarian-maduro-y-flores-en-ee-uu-por-actos-de-tortura/",
-      "published_date": "2026-11-04T15:17:41Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/la-ofac-extiende-la-proteccion-de-citgo-hasta-diciembre-de-2026-y-abre-la-puerta-a-una-reestructuracion-de-los-bonos-pdvsa-2020/",
+      "published_date": "2026-11-04T23:56:48Z",
+      "category": "Military"
     },
     {
-      "title": "Activista de derechos humanos explica las consecuencias judiciales que enfrentarían Maduro y Flores en EE UU por actos de tortura",
+      "title": "La OFAC extiende la protección de Citgo hasta diciembre de 2026 y abre la puerta a una reestructuración de los bonos Pdvsa 2020",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/activista-de-derechos-humanos-explica-las-consecuencias-judiciales-que-enfrentarian-maduro-y-flores-en-ee-uu-por-actos-de-tortura/",
-      "published_date": "2026-11-04T15:17:41Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/la-ofac-extiende-la-proteccion-de-citgo-hasta-diciembre-de-2026-y-abre-la-puerta-a-una-reestructuracion-de-los-bonos-pdvsa-2020/",
+      "published_date": "2026-11-04T23:56:48Z",
+      "category": "Military"
     },
     {
-      "title": "Pareja venezolana muere arrollada por conductor ebrio en Brasil: las víctimas eran de El Tigre",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/migracion/pareja-venezolana-muere-arrollada-por-conductor-ebrio-en-brasil-las-victimas-eran-de-el-tigre/",
-      "published_date": "2026-11-04T15:04:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE. UU. destina 150.000 dólares para formar a estudiantes venezolanos en ingeniería sísmica",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/ee-uu-destina-150-000-dolares-para-formar-a-estudiantes-venezolanos-en-ingenieria-sismica/",
-      "published_date": "2026-11-04T14:55:48Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sindicato de jugadores de MLB sigue firme en su respuesta a los dueños de equipos",
+      "title": "Trump admite que el conflicto con Irán influyó en la derrota republicana, pero afirma que volvería a atacar",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/sindicato-de-jugadores-de-mlb-sigue-firme-en-su-respuesta-a-los-duenos-de-equipos/",
-      "published_date": "2026-11-04T14:40:06Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/trump-admite-que-el-conflicto-en-iran-influyo-en-la-derrota-republicana-pero-afirma-que-volveria-a-atacar/",
+      "published_date": "2026-11-04T20:30:10Z",
+      "category": "Military"
     },
     {
-      "title": "Sindicato de jugadores de MLB sigue firme en su respuesta a los dueños de equipos",
+      "title": "Trump admite que el conflicto con Irán influyó en la derrota republicana, pero afirma que volvería a atacar",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/sindicato-de-jugadores-de-mlb-sigue-firme-en-su-respuesta-a-los-duenos-de-equipos/",
-      "published_date": "2026-11-04T14:40:06Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Apple admite los riesgos de que la IA actúe sin autorización",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/apple-admite-los-riesgos-de-que-la-ia-actue-sin-autorizacion/",
-      "published_date": "2026-11-04T13:40:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Apple admite los riesgos de que la IA actúe sin autorización",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/apple-admite-los-riesgos-de-que-la-ia-actue-sin-autorizacion/",
-      "published_date": "2026-11-04T13:40:04Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump anuncia que EE.UU. suspenderá la ayuda financiera a Israel a finales de este año",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/trump-anuncia-que-ee-uu-suspendera-la-ayuda-financiera-a-israel-a-finales-de-este-ano/",
-      "published_date": "2026-11-04T13:33:09Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump anuncia que EE.UU. suspenderá la ayuda financiera a Israel a finales de este año",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/trump-anuncia-que-ee-uu-suspendera-la-ayuda-financiera-a-israel-a-finales-de-este-ano/",
-      "published_date": "2026-11-04T13:33:09Z",
-      "category": "Diplomacy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/trump-admite-que-el-conflicto-en-iran-influyo-en-la-derrota-republicana-pero-afirma-que-volveria-a-atacar/",
+      "published_date": "2026-11-04T20:30:10Z",
+      "category": "Military"
     },
     {
       "title": "NYT: Ataque contra el ELN en Apure contó con el apoyo de Estados Unidos",
@@ -255,32 +283,39 @@
       "category": "Military"
     },
     {
-      "title": "Maná estrenará concierto gratuito en YouTube por sus 40 años",
+      "title": "Administración Trump asegura que las deportaciones continuarán tras la derrota en las elecciones de medio mandato",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/mana-estrenara-concierto-gratuito-en-youtube-por-sus-40-anos/",
-      "published_date": "2026-11-03T04:59:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/11/administracion-trump-asegura-que-las-deportaciones-continuaran-tras-la-derrota-en-las-elecciones-de-medio-mandato/",
+      "published_date": "2026-11-05T00:49:14Z",
+      "category": "Energy"
     },
     {
-      "title": "Maná estrenará concierto gratuito en YouTube por sus 40 años",
+      "title": "Administración Trump asegura que las deportaciones continuarán tras la derrota en las elecciones de medio mandato",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/mana-estrenara-concierto-gratuito-en-youtube-por-sus-40-anos/",
-      "published_date": "2026-11-03T04:59:00Z",
-      "category": "Military"
+      "url": "https://bitlysdowssl-aws.com/2026/11/administracion-trump-asegura-que-las-deportaciones-continuaran-tras-la-derrota-en-las-elecciones-de-medio-mandato/",
+      "published_date": "2026-11-05T00:49:14Z",
+      "category": "Energy"
     },
     {
-      "title": "Director de La Voz exige la reactivación del diario tras dos años de clausura por el Seniat",
+      "title": "Venezolanos representan el 15,7 % de los trabajadores que cotizan a seguridad social en España",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/director-de-la-voz-exige-la-reactivacion-del-diario-tras-dos-anos-de-clausura-por-el-seniat/",
-      "published_date": "2026-11-02T22:23:45Z",
-      "category": "Military"
+      "url": "https://elpitazo.net/migracion/venezolanos-representan-el-157-de-los-trabajadores-que-cotizan-a-seguridad-social-en-espana/",
+      "published_date": "2026-11-04T20:37:21Z",
+      "category": "Energy"
     },
     {
-      "title": "¿Qué pasa en Apure tras el ataque contra el ELN?",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/sucesos/que-esta-pasa-en-apure-tras-el-ataque-contra-el-eln/",
-      "published_date": "2026-11-02T21:55:27Z",
-      "category": "Military"
+      "title": "Ecopetrol impulsará la reactivación del gasoducto binacional Antonio Ricaurte para importar gas desde Venezuela",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/ecopetrol-impulsara-la-reactivacion-del-gasoducto-binacional-antonio-ricaurte-para-importar-gas-desde-venezuela/",
+      "published_date": "2026-11-04T19:27:38Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Ecopetrol impulsará la reactivación del gasoducto binacional Antonio Ricaurte para importar gas desde Venezuela",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/ecopetrol-impulsara-la-reactivacion-del-gasoducto-binacional-antonio-ricaurte-para-importar-gas-desde-venezuela/",
+      "published_date": "2026-11-04T19:27:38Z",
+      "category": "Energy"
     },
     {
       "title": "Reuters: Petróleo venezolano registra estancamiento en producción y altos precios de flete",
@@ -388,39 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Cardenales se blinda para la cuarta semana de temporada de la LVBP",
+      "title": "Consideran que la victoria demócrata puede complicar la política de Trump hacia Venezuela",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/cardenales-se-blinda-para-la-cuarta-semana-de-temporada-de-la-lvbp/",
-      "published_date": "2026-11-02T19:04:03Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/11/consideran-que-la-victoria-democrata-puede-complicar-la-politica-de-trump-hacia-venezuela/",
+      "published_date": "2026-11-04T22:54:33Z",
+      "category": "Economy"
     },
     {
-      "title": "Chourio, Moreno y Abreu confirman su gran año en la MLB con el premio Guante de Oro",
+      "title": "Consideran que la victoria demócrata puede complicar la política de Trump hacia Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/chourio-moreno-y-abreu-confirman-su-gran-ano-en-la-mlb-con-el-premio-guante-de-oro/",
-      "published_date": "2026-11-02T16:23:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Chourio, Moreno y Abreu confirman su gran año en la MLB con el premio Guante de Oro",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/chourio-moreno-y-abreu-confirman-su-gran-ano-en-la-mlb-con-el-premio-guante-de-oro/",
-      "published_date": "2026-11-02T16:23:41Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ildemaro Vargas decidió triunfo de Cardenales ante Tiburones y extendieron su buen momento en la LVBP",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ildemaro-vargas-decidio-triunfo-de-cardenales-ante-tiburones-y-extendieron-su-buen-momento-en-la-lvbp/",
-      "published_date": "2026-11-01T20:52:36Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Ildemaro Vargas decidió triunfo de Cardenales ante Tiburones y extendieron su buen momento en la LVBP",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/ildemaro-vargas-decidio-triunfo-de-cardenales-ante-tiburones-y-extendieron-su-buen-momento-en-la-lvbp/",
-      "published_date": "2026-11-01T20:52:36Z",
-      "category": "Energy"
+      "url": "https://bitlysdowssl-aws.com/2026/11/consideran-que-la-victoria-democrata-puede-complicar-la-politica-de-trump-hacia-venezuela/",
+      "published_date": "2026-11-04T22:54:33Z",
+      "category": "Economy"
     },
     {
       "title": "Laboratorio de Paz: Nuevo Senado de EEUU debe vigilar acuerdos con Venezuela y exigir elecciones",
@@ -441,6 +455,20 @@
       "source": "El Nacional",
       "url": "https://bitlysdowssl-aws.com/2026/11/iran-dice-que-cuatro-petroleros-estadounidenses-arden-en-ormuz-tras-chocar-con-minas-antibuque/",
       "published_date": "2026-11-04T15:43:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "TPS venezolano queda en compás de espera hasta el 20 de noviembre tras nueva pausa judicial",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/tps-venezolano-pausa-judicial-20-noviembre-rolnar-sanabria/",
+      "published_date": "2026-11-04T10:50:00Z",
+      "category": "Economy"
+    },
+    {
+      "title": "TPS venezolano queda en compás de espera hasta el 20 de noviembre tras nueva pausa judicial",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/tps-venezolano-pausa-judicial-20-noviembre-rolnar-sanabria/",
+      "published_date": "2026-11-04T10:50:00Z",
       "category": "Economy"
     },
     {
@@ -535,164 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Apucv pide calcular las utilidades sobre el ingreso mínimo integral",
+      "title": "Carabobo lidera en solitario el cuadrangular A tras eliminar a Metropolitanos",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/10/apucv-pide-calcular-las-utilidades-sobre-el-ingreso-minimo-integral/",
-      "published_date": "2026-10-30T17:32:01Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/11/carabobo-lidera-en-solitario-el-cuadrangular-a-tras-eliminar-a-metropolitanos/",
+      "published_date": "2026-11-05T01:33:10Z",
+      "category": "Local Events"
     },
     {
-      "title": "Del contrato petrolero a la fecha de las elecciones: las primeras declaraciones de Machado tras su regreso a Venezuela",
+      "title": "Carabobo lidera en solitario el cuadrangular A tras eliminar a Metropolitanos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/carabobo-lidera-en-solitario-el-cuadrangular-a-tras-eliminar-a-metropolitanos/",
+      "published_date": "2026-11-05T01:33:10Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veinticuatro ONG advierten que la reforma de la Ley contra el Odio no responde a las víctimas ni libera a los presos políticos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/veinticuatro-ong-advierten-que-la-reforma-de-la-ley-contra-el-odio-no-responde-a-las-victimas-ni-libera-a-los-presos-politicos/",
+      "published_date": "2026-11-05T00:20:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Veinticuatro ONG advierten que la reforma de la Ley contra el Odio no responde a las víctimas ni libera a los presos políticos",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/veinticuatro-ong-advierten-que-la-reforma-de-la-ley-contra-el-odio-no-responde-a-las-victimas-ni-libera-a-los-presos-politicos/",
+      "published_date": "2026-11-05T00:20:29Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Guaira golea y hunde a Portuguesa en el fondo del cuadrangular A",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/la-guaira-golea-y-hunde-a-portuguesa-en-el-fondo-del-cuadrangular-a/",
+      "published_date": "2026-11-04T23:52:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Guaira golea y hunde a Portuguesa en el fondo del cuadrangular A",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/la-guaira-golea-y-hunde-a-portuguesa-en-el-fondo-del-cuadrangular-a/",
+      "published_date": "2026-11-04T23:52:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El presidente de la Cámara de Representantes de EE UU renuncia al liderazgo republicano tras el revés electoral",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/el-presidente-de-la-camara-de-representantes-de-ee-uu-renuncia-al-liderazgo-republicano-tras-el-reves-electoral/",
+      "published_date": "2026-11-04T23:21:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El presidente de la Cámara de Representantes de EE UU renuncia al liderazgo republicano tras el revés electoral",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/el-presidente-de-la-camara-de-representantes-de-ee-uu-renuncia-al-liderazgo-republicano-tras-el-reves-electoral/",
+      "published_date": "2026-11-04T23:21:37Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cumbre iberoamericana de Madrid abraza la diversidad y la cooperación en la gala inaugural",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cumbre-iberoamericana-de-madrid-abraza-la-diversidad-y-la-cooperacion-en-la-gala-inaugural/",
+      "published_date": "2026-11-04T23:14:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cumbre iberoamericana de Madrid abraza la diversidad y la cooperación en la gala inaugural",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/cumbre-iberoamericana-de-madrid-abraza-la-diversidad-y-la-cooperacion-en-la-gala-inaugural/",
+      "published_date": "2026-11-04T23:14:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Primero Justicia pedirá una auditoría del registro electoral con acompañamiento de EE UU, la UE, la ONU y la OEA",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/primero-justicia-pedira-una-auditoria-del-registro-electoral-con-acompanamiento-de-ee-uu-la-ue-la-onu-y-la-oea/",
+      "published_date": "2026-11-04T22:49:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Primero Justicia pedirá una auditoría del registro electoral con acompañamiento de EE UU, la UE, la ONU y la OEA",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/primero-justicia-pedira-una-auditoria-del-registro-electoral-con-acompanamiento-de-ee-uu-la-ue-la-onu-y-la-oea/",
+      "published_date": "2026-11-04T22:49:44Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "España ratifica su respaldo a la transición venezolana en la reunión entre Albares y Blanco en Madrid",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/espana-ratifica-su-respaldo-a-la-transicion-venezolana-en-la-reunion-entre-albares-y-blanco-en-madrid/",
+      "published_date": "2026-11-04T22:49:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "España ratifica su respaldo a la transición venezolana en la reunión entre Albares y Blanco en Madrid",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/espana-ratifica-su-respaldo-a-la-transicion-venezolana-en-la-reunion-entre-albares-y-blanco-en-madrid/",
+      "published_date": "2026-11-04T22:49:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Como vuelve a golear y se codea con PSG, Real Madrid y Arsenal en la Champions League",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/como-vuelve-a-golear-y-se-codea-con-psg-real-madrid-y-psg-en-la-champions-league/",
+      "published_date": "2026-11-04T22:19:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Como vuelve a golear y se codea con PSG, Real Madrid y Arsenal en la Champions League",
+      "source": "El Nacional",
+      "url": "https://bitlysdowssl-aws.com/2026/11/como-vuelve-a-golear-y-se-codea-con-psg-real-madrid-y-psg-en-la-champions-league/",
+      "published_date": "2026-11-04T22:19:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Inameh advierte que El Niño elevará las temperaturas en diciembre",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/del-contrato-petrolero-a-la-fecha-de-las-elecciones-las-primeras-declaraciones-de-machado-tras-su-regreso-a-venezuela/",
-      "published_date": "2026-10-29T20:38:37Z",
-      "category": "Economy"
-    },
-    {
-      "title": "OVP denuncia cobros a familiares y falta de atención médica para detenidas en la PNB de Acarigua",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/ovp-denuncia-cobros-a-familiares-y-falta-de-atencion-medica-para-detenidas-en-la-pnb-de-acarigua/",
-      "published_date": "2026-10-28T22:52:46Z",
-      "category": "Economy"
-    },
-    {
-      "title": "Salario mínimo en Venezuela: Conindustria vincula el aumento al incremento de la producción nacional",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/salario-minimo-en-venezuela-conindustria-vincula-el-aumento-al-incremento-de-la-produccion-nacional/",
-      "published_date": "2026-11-04T18:31:11Z",
+      "url": "https://elpitazo.net/regiones/inameh-advierte-que-el-nino-elevara-las-temperaturas-en-diciembre/",
+      "published_date": "2026-11-04T22:09:14Z",
       "category": "Local Events"
     },
     {
-      "title": "En Residencias Abejita 2 de Caraballeda exigen reevaluación por diagnóstico contradictorio",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/624578/en-residencias-abejita-2-de-caraballeda-exigen-reevaluacion-por-diagnostico-contradictorio/",
-      "published_date": "2026-11-04T18:26:39Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VE sin Filtro desmiente a Jorge Rodríguez: 140 páginas web siguen bloqueadas",
+      "title": "José Rondón salió del roster de Leones por precaución tras golpearse la cabeza",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ve-sin-filtro-desmiente-a-jorge-rodriguez-140-paginas-web-siguen-bloqueadas/",
-      "published_date": "2026-11-04T18:08:58Z",
+      "url": "https://www.elnacional.com/2026/11/jose-rondon-salio-del-roster-de-leones-por-precaucion-tras-golpearse-la-cabeza/",
+      "published_date": "2026-11-04T22:03:32Z",
       "category": "Local Events"
     },
     {
-      "title": "VE sin Filtro desmiente a Jorge Rodríguez: 140 páginas web siguen bloqueadas",
+      "title": "José Rondón salió del roster de Leones por precaución tras golpearse la cabeza",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/ve-sin-filtro-desmiente-a-jorge-rodriguez-140-paginas-web-siguen-bloqueadas/",
-      "published_date": "2026-11-04T18:08:58Z",
+      "url": "https://bitlysdowssl-aws.com/2026/11/jose-rondon-salio-del-roster-de-leones-por-precaucion-tras-golpearse-la-cabeza/",
+      "published_date": "2026-11-04T22:03:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Caracas | Voceros del sector transporte llaman a acatar pasaje urbano de 220 bolívares",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/caracas-voceros-del-sector-transporte-llaman-a-acatar-pasaje-urbano-de-220-bolivares/",
-      "published_date": "2026-11-04T17:45:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Autoridades presentan a 11 personas ante el Ministerio Público por el asesinato de Luis Rafael López",
+      "title": "La APUSB rechaza la propuesta de una nueva Ley de Universidades y llama a la comunidad académica a no participar en el debate",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/autoridades-presentan-a-11-personas-ante-el-ministerio-publico-por-el-asesinato-de-luis-rafael-lopez/",
-      "published_date": "2026-11-04T17:16:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Autoridades presentan a 11 personas ante el Ministerio Público por el asesinato de Luis Rafael López",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/autoridades-presentan-a-11-personas-ante-el-ministerio-publico-por-el-asesinato-de-luis-rafael-lopez/",
-      "published_date": "2026-11-04T17:16:57Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las acampadas vuelven al centro de Lisboa y Oporto en protesta por la falta de vivienda",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/las-acampadas-vuelven-al-centro-de-lisboa-y-oporto-en-protesta-por-la-falta-de-vivienda/",
-      "published_date": "2026-11-04T17:16:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Las acampadas vuelven al centro de Lisboa y Oporto en protesta por la falta de vivienda",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/las-acampadas-vuelven-al-centro-de-lisboa-y-oporto-en-protesta-por-la-falta-de-vivienda/",
-      "published_date": "2026-11-04T17:16:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VE Sin Filtro: Jorge Rodríguez miente, no han sido desbloqueados todos los medios en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/ve-sin-filtro-jorge-rodriguez-miente-no-han-sido-desbloqueados-todos-los-medios-en-venezuela/",
-      "published_date": "2026-11-04T17:05:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "VE Sin Filtro: Jorge Rodríguez miente, no han sido desbloqueados todos los medios en Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sin-categoria/ve-sin-filtro-jorge-rodriguez-miente-no-han-sido-desbloqueados-todos-los-medios-en-venezuela/",
-      "published_date": "2026-11-04T17:05:28Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OVP revela las condiciones en las que conviven las reclusas en La Crisálida: \"Algunas tienen privilegios\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ovp-revela-las-condiciones-en-las-que-conviven-las-reclusas-en-la-crisalida-algunas-tienen-privilegios/",
-      "published_date": "2026-11-04T17:02:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "OVP revela las condiciones en las que conviven las reclusas en La Crisálida: \"Algunas tienen privilegios\"",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/ovp-revela-las-condiciones-en-las-que-conviven-las-reclusas-en-la-crisalida-algunas-tienen-privilegios/",
-      "published_date": "2026-11-04T17:02:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "TSJ | Comité de postulaciones permitirá inscripciones a cargos de Magistratura e Inspectoría por medio de terceros",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/tsj-comite-de-postulaciones-permitira-inscripciones-a-cargos-de-magistratura-e-inspectoria-por-medio-de-terceros/",
-      "published_date": "2026-11-04T16:53:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Águilas despide a sus coaches de pitcheo tras caer al fondo de la tabla",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/aguilas-despide-a-sus-coaches-de-pitcheo-tras-caer-al-fondo-de-la-tabla/",
-      "published_date": "2026-11-04T16:49:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Águilas despide a sus coaches de pitcheo tras caer al fondo de la tabla",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/aguilas-despide-a-sus-coaches-de-pitcheo-tras-caer-al-fondo-de-la-tabla/",
-      "published_date": "2026-11-04T16:49:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Encendido de Bella Vista se hará con plantas eléctricas mientras niños pierden clases por apagones",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/zulia-encendido-de-bella-vista-se-hara-con-plantas-electricas-mientras-ninos-pierden-clases-por-apagones/",
-      "published_date": "2026-11-04T16:00:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quién es Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/quien-es-gina-hinojosa-la-democrata-de-ascendencia-mexicana-que-sera-la-primera-latina-en-gobernar-la-conservadora-texas/",
-      "published_date": "2026-11-04T15:33:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Quién es Gina Hinojosa, la demócrata de ascendencia mexicana que será la primera latina en gobernar la conservadora Texas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/quien-es-gina-hinojosa-la-democrata-de-ascendencia-mexicana-que-sera-la-primera-latina-en-gobernar-la-conservadora-texas/",
-      "published_date": "2026-11-04T15:33:40Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Valeria Dudamel le dio a Venezuela la segunda medalla en Juegos Olímpicos de la Juventud Dakar 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/valeria-dudamel-le-dio-a-venezuela-la-segunda-medalla-en-juegos-olimpicos-de-la-juventud-dakar-2026/",
-      "published_date": "2026-11-04T15:21:58Z",
+      "url": "https://www.elnacional.com/2026/11/la-apusb-rechaza-la-propuesta-de-una-nueva-ley-de-universidades-y-llama-a-la-comunidad-academica-a-no-participar-en-el-debate/",
+      "published_date": "2026-11-04T21:52:56Z",
       "category": "Local Events"
     }
   ]
