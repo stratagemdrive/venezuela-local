@@ -1,146 +1,174 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-11-09T02:35:54Z",
+  "last_updated": "2026-11-09T21:24:47Z",
   "stories": [
     {
-      "title": "Entre la Biblia y el Corán: Maduro adelgaza y protesta por la comida en prisión según The New York Times",
+      "title": "Encuesta Meganalisis: regreso de María Corina Machado a Venezuela eleva su intención de voto a 70,1%",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/encuesta-meganalisis-regreso-de-maria-corina-machado-a-venezuela-eleva-su-intencion-de-voto-a-701/",
+      "published_date": "2026-11-09T21:04:39Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela noqueó a Cuba 10-0 y sigue invicta en el Mundial de Beisbol sub-23",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/venezuela-noqueo-a-cuba-10-0-y-sigue-invicta-en-el-mundial-de-beisbol-sub-23/",
+      "published_date": "2026-11-09T20:37:33Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tumeremo | Incendio en la casa del líder del grupo 3R: murieron sus hijas y cuñados",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/guayana-2/tumeremo-incendio-en-la-casa-del-lider-del-grupo-3r-murieron-sus-hijas-y-cunados/",
+      "published_date": "2026-11-09T20:33:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cayetana Álvarez de Toledo acusa a Pedro Sánchez de ser «un prófugo de la responsabilidad política»",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cayetana-alvarez-de-toledo-acusa-a-pedro-sanchez-de-ser-un-profugo-de-la-responsabilidad-politica/",
+      "published_date": "2026-11-09T20:32:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "El caso de Jorge Alayeto: un civil condenado por la justicia militar",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/el-caso-de-jorge-alayeto-un-civil-condenado-por-la-justicia-militar/",
+      "published_date": "2026-11-09T20:23:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Patria paga bono de 106.200 bolívares este 9 de noviembre: conoce quiénes lo reciben",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/patria-paga-bono-de-106-200-bolivares-este-9-de-noviembre-conoce-quienes-lo-reciben/",
+      "published_date": "2026-11-09T20:21:46Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Pago de aguinaldos: pensionados piden un bono de 1.522 dólares para sobrevivir en diciembre",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/pago-de-aguinaldos-pensionados-piden-un-bono-de-1-522-dolares-para-sobrevivir-en-diciembre/",
+      "published_date": "2026-11-09T19:58:14Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Abogado Joel García anuncia su postulación a magistrado del TSJ: \"Es un compromiso ético que tengo con mi país\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/abogado-joel-garcia-anuncia-su-postulacion-a-magistrado-del-tsj-es-un-compromiso-etico-que-tengo-con-mi-pais/",
+      "published_date": "2026-11-09T19:23:06Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Comienza polémico recuento de votos en EE UU, por escaño de la republicana Salazar en Miami",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/comienza-polemico-recuento-de-votos-en-ee-uu-por-escano-de-la-republicana-salazar-en-miami/",
+      "published_date": "2026-11-09T19:12:57Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Un árbol cae en la avenida Sucre de Catia: dos personas resultaron heridas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/un-arbol-cae-en-la-avenida-sucre-de-catia-dos-personas-resultaron-heridas/",
+      "published_date": "2026-11-09T19:02:04Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "José Enrique Rincón luego de su excarcelación: la recuperación del Grupo Lamar está en «curso de solución»",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/jose-enrique-rincon-luego-de-su-excarcelacion-la-recuperacion-del-grupo-lamar-esta-en-curso-de-solucion/",
+      "published_date": "2026-11-09T18:42:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Aumento de 40 dólares cada tres meses en 2027 plantea el Ejecutivo a los sindicatos",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/aumento-de-40-dolares-cada-tres-meses-plantea-el-ejecutivo-a-los-sindicatos/",
+      "published_date": "2026-11-09T17:40:27Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La Casa Blanca activó protocolo de seguridad por un vehículo que chocó en su perímetro exterior",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/la-casa-blanca-activo-protocolo-de-seguridad-por-un-vehiculo-que-choco-en-su-perimetro-exterior/",
+      "published_date": "2026-11-09T17:27:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Oliver Blanco sobre elecciones: «Todas las fuerzas políticas podrán participar y el resultado deben respetarlo todos»",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/oliver-blanco-sobre-elecciones-todas-las-fuerzas-politicas-podran-participar-y-el-resultado-deben-respetarlo-todos/",
+      "published_date": "2026-11-09T17:19:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cardenales enciende las alarmas y mueve el roster: entra Anthony Vizcaya",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cardenales-enciende-las-alarmas-y-mueve-el-roster-entra-anthony-vizcaya/",
+      "published_date": "2026-11-09T17:18:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "\"Hay un relato de que con la postmenopausia todo va a estar mal con tu cuerpo, pero el futuro para las mujeres mayores no es catastrófico, es un futuro de libertad\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/hay-un-relato-de-que-con-la-postmenopausia-todo-va-a-estar-mal/",
+      "published_date": "2026-11-09T16:55:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Diario La Voz denuncia que la libertad de prensa sigue restringida en Venezuela tras seis décadas de trayectoria",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/diario-la-voz-libertad-prensa-restringida-seniat-venezuela/",
+      "published_date": "2026-11-09T16:54:31Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Magallanes aprieta el acelerador y Leones sube en la clasificación de la LVBP",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/magallanes-aprieta-el-acelerador-y-leones-sube-en-la-clasificacion-de-la-lvbp/",
+      "published_date": "2026-11-09T16:39:34Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Foro Penal exige la liberación de todos los presos políticos tras anuncio de Dinorah Figuera",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/foro-penal-exige-la-liberacion-de-todos-los-presos-politicos-tras-anuncio-de-dinorah-figuera/",
+      "published_date": "2026-11-09T15:51:32Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Militares del Caso Cotiza inician huelga de hambre en Ramo Verde ante retraso de sus excarcelaciones",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/militares-del-caso-cotiza-inician-huelga-de-hambre-en-ramo-verde-ante-retraso-de-sus-excarcelaciones/",
+      "published_date": "2026-11-09T15:45:20Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sargentos del caso Cotiza se declararon en huelga de hambre mientras familiares claman por amnistía",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/624988/entre-la-biblia-y-el-coran-maduro-adelgaza-y-protesta-por-la-comida-en-prision-segun-the-new-york-times/",
-      "published_date": "2026-11-09T02:08:37Z",
-      "category": "Diplomacy"
+      "url": "https://runrun.es/noticias/625030/borrador-automatisargentos-del-caso-cotiza-se-declararon-en-huelga-de-hambre-mientras-familiares-claman-por-amnistia-co/",
+      "published_date": "2026-11-09T18:37:58Z",
+      "category": "Military"
     },
     {
-      "title": "304 días frente a El Rodeo I: la lucha de los familiares de presos políticos entra en otra etapa",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/624973/304-dias-frente-a-el-rodeo-i-la-lucha-de-los-familiares-de-presos-politicos-entra-en-otra-etapa/",
-      "published_date": "2026-11-09T01:04:28Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Entre cuatros, furruco y un tradicional sopazo: Carora conmemoró 10 años de hermandad gaitera",
+      "title": "Rolnar Sanabria: «La cooperación militar con Estados Unidos es una oportunidad histórica y una necesidad frente al crimen sin fronteras»",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/entre-cuatros-furruco-y-un-tradicional-sopazo-carora-conmemoro-10-anos-de-hermandad-gaitera/",
-      "published_date": "2026-11-09T01:00:45Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/rolnar-sanabria-acuerdo-militar-estados-unidos-venezuela/",
+      "published_date": "2026-11-09T18:21:33Z",
+      "category": "Military"
     },
     {
-      "title": "Cinco personas han muerto en Zulia por brote de rabia en lo que va de 2026",
+      "title": "Medios de comunicación colombianos están en alerta tras amenazas de la guerrilla",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/cinco-personas-murieron-en-el-estado-zulia-por-brote-de-rabia/",
-      "published_date": "2026-11-09T00:45:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/medios-de-comunicacion-colombianos-estan-en-alerta-tras-amenazas-de-la-guerrilla/",
+      "published_date": "2026-11-09T06:00:00Z",
+      "category": "Military"
     },
     {
-      "title": "The New York Times: Cilia Flores sufrió un “infarto leve” en prisión",
+      "title": "Condenan a Russell Brand a diez años de prisión por agresión sexual",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/cilia-flores-sufrio-un-infarto-leve-en-prision-segun-el-ny-times/",
-      "published_date": "2026-11-09T00:14:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alfonsín Rosario y José Martínez lideraron el triunfo de Bravos sobre Caribes en Puerto La Cruz",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/alfonsin-rosario-y-jose-martinez-lideraron-el-triunfo-de-bravos-sobre-caribes-en-puerto-la-cruz/",
-      "published_date": "2026-11-09T00:01:54Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Rubio: El diálogo de EE UU-Irán no ha sido productivo por demandas inaceptables",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/rubio-el-dialogo-de-ee-uu-iran-no-ha-sido-productivo-por-demandas-inaceptables/",
-      "published_date": "2026-11-08T23:55:16Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Carabobo jugará la final del Clausura contra Táchira luego de empatar ante Deportivo La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/carabobo-jugara-la-final-del-clausura-contra-tachira-luego-de-empatar-ante-deportivo-la-guaira/",
-      "published_date": "2026-11-08T23:28:36Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "León XIV llega a Argentina, la primera visita de un papa en casi 40 años",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/leon-xiv-llega-a-argentina-la-primera-visita-de-un-papa-en-casi-40-anos/",
-      "published_date": "2026-11-08T23:24:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "EE UU pide a Colombia intensificar operaciones en las fronteras con Venezuela y Ecuador",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ee-uu-pide-mas-operaciones-en-fronteras-con-venezuela-y-ecuador-segun-el-subsecretario-thomas-g-dinanno/",
-      "published_date": "2026-11-08T23:10:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cilia Flores perdió dos dientes, 11 kilos y sufrió un paro cardíaco: así es su vida en prisión",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/cilia-flores-perdio-dos-dientes-11-kilos-y-sufrio-un-paro-cardiaco-asi-es-su-vida-en-prision/",
-      "published_date": "2026-11-08T23:08:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cinco personas fallecidas por rabia en Zulia en lo que va de 2026",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/salud/cinco-personas-fallecidas-por-rabia-en-zulia-en-lo-que-va-de-2026/",
-      "published_date": "2026-11-08T23:07:24Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El caso $LIBRA: del auge cripto a la crisis política de Milei",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/el-caso-libra-del-auge-cripto-a-la-crisis-politica-de-milei/",
-      "published_date": "2026-11-08T22:51:15Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cuatro personas mueren en incendio de una vivienda en Tumeremo: una planta eléctrica sería el posible punto de origen",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/cuatro-personas-mueren-en-incendio-de-una-vivienda-en-tumeremo-una-planta-electrica-seria-el-posible-punto-de-origen/",
-      "published_date": "2026-11-08T22:42:46Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Trump dice que es \"altamente improbable\" que la guerra con Irán se reanude",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/trump-dice-que-es-altamente-improbable-que-la-guerra-con-iran-se-reanude/",
-      "published_date": "2026-11-08T22:21:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Príncipe Harry y la familia real celebran por separado el \"Domingo del Recuerdo\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/principe-harry-y-la-familia-real-celebran-por-separado-el-domingo-del-recuerdo/",
-      "published_date": "2026-11-08T22:08:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Tiroteo entre grupo armado y policías dejó pánico en Barlovento",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/tiroteo-entre-grupo-armado-y-policias-dejo-panico-en-barlovento/",
-      "published_date": "2026-11-08T21:52:23Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Orquídea de “adamantio” para el adiós de Monsieur Periné en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/orquidea-de-adamantio-para-el-adios-de-monsieur-perine-en-venezuela/",
-      "published_date": "2026-11-08T21:00:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cicpc busca a un bebé de siete meses desaparecido en Carúpano",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/cicpc-busca-a-un-bebe-de-siete-meses-desaparecido-en-carupano/",
-      "published_date": "2026-11-08T20:26:27Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Frontera mexicana espera un cambio en política migratoria con nuevo Congreso en EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/frontera-mexicana-espera-un-cambio-en-politica-migratoria-con-nuevo-congreso-en-ee-uu/",
-      "published_date": "2026-11-08T20:19:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/condenan-a-russell-brand-a-diez-anos-de-prision-por-agresion-sexual/",
+      "published_date": "2026-11-09T04:59:00Z",
+      "category": "Military"
     },
     {
       "title": "Trump admite que su política de deportaciones fue \"demasiado dura\"",
@@ -255,32 +283,18 @@
       "category": "Military"
     },
     {
-      "title": "Diario La Voz exige la restitución de su derecho a operar tras dos años de clausura administrativa por el Seniat",
+      "title": "Rafael Badell Madrid denuncia el hermetismo del juicio PDVSA Cripto y violaciones de DD HH",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/diario-la-voz-exige-reapertura-dos-anos-clausura-seniat-emilio-materan/",
-      "published_date": "2026-11-03T20:00:42Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/11/rafael-badell-juicio-pdvsa-cripto/",
+      "published_date": "2026-11-09T16:25:56Z",
+      "category": "Energy"
     },
     {
-      "title": "Diario La Voz exige la restitución de su derecho a operar tras dos años de clausura administrativa por el Seniat",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/diario-la-voz-exige-reapertura-dos-anos-clausura-seniat-emilio-materan/",
-      "published_date": "2026-11-03T20:00:42Z",
-      "category": "Military"
-    },
-    {
-      "title": "Falleció en Madrid el general retirado venezolano Eduardo Báez Torrealba",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/fallecio-en-madrid-el-general-retirado-venezolano-eduardo-baez-torrealba/",
-      "published_date": "2026-11-03T16:04:16Z",
-      "category": "Military"
-    },
-    {
-      "title": "Falleció en Madrid el general retirado venezolano Eduardo Báez Torrealba",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/fallecio-en-madrid-el-general-retirado-venezolano-eduardo-baez-torrealba/",
-      "published_date": "2026-11-03T16:04:16Z",
-      "category": "Military"
+      "title": "Vientos y lluvias anegaron carpas de damnificados en campamentos de La Guaira",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/vientos-y-lluvias-anegaron-carpas-de-damnificados-en-campamentos-de-la-guaira/",
+      "published_date": "2026-11-09T16:12:09Z",
+      "category": "Energy"
     },
     {
       "title": "Venezuela ratificó el convenio iberoamericano de seguridad social",
@@ -406,20 +420,6 @@
       "source": "El Pitazo",
       "url": "https://elpitazo.net/economia/133-millones-de-dolares-al-mes-puede-costar-el-alquiler-de-dos-barcazas-para-atender-crisis-electrica-en-zulia/",
       "published_date": "2026-11-06T18:03:22Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Inflación en dólares acumula 40% en el año y se requieren más de cuatro salarios para cubrir canasta básica",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/624849/inflacion-en-dolares-acumula-40-en-el-ano-y-se-requieren-mas-de-cuatro-salarios-para-cubrir-canasta-basica/",
-      "published_date": "2026-11-06T16:27:18Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Marco Rubio dice que las elecciones en Venezuela «idealmente» serían en 2027, según el NYT",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacionales/marco-rubio-dice-que-las-elecciones-en-venezuela-idealmente-serian-en-2027-segun-el-nyt/",
-      "published_date": "2026-11-06T12:49:38Z",
       "category": "Energy"
     },
     {
@@ -563,143 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Arias comandó con jonrón y dos remolcadas la ajustada victoria de Águilas ante Tiburones",
+      "title": "Osmary Pacheco conquista la medalla de plata en los 400 metros de Dakar 2026",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/arias-brillo-con-jonron-y-dos-remolcadas-en-la-victoria-de-aguilas-ante-tiburones/",
-      "published_date": "2026-11-09T01:18:11Z",
+      "url": "https://www.elnacional.com/2026/11/osmary-pacheco-conquista-la-medalla-de-plata-en-los-400-metros-de-dakar-2026/",
+      "published_date": "2026-11-09T20:41:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Elías Jaua sobre el 28 de julio: \"No se pudieron explicar ni argumentar finalmente los resultados\"",
+      "title": "Cayetana Álvarez de Toledo asegura que «María Corina Machado es la fuerza moral de la esperanza»",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/elias-jaua-cuestiona-resultados-del-28-de-julio-de-2024-generan-muchas-dudas/",
-      "published_date": "2026-11-09T01:05:46Z",
+      "url": "https://www.elnacional.com/2026/11/cayetana-alvarez-de-toledo-asegura-que-maria-corina-es-la-fuerza-moral-de-la-esperanza/",
+      "published_date": "2026-11-09T20:35:21Z",
       "category": "Local Events"
     },
     {
-      "title": "Localizan con vida a alcalde secuestrado en una carretera de México",
+      "title": "Pía Revollo busca llevar la justicia ambiental de Venezuela al Acuerdo de Escazú",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/localizan-con-vida-a-alcalde-secuestrado-en-una-carretera-de-mexico/",
-      "published_date": "2026-11-09T00:34:00Z",
+      "url": "https://www.elnacional.com/2026/11/pia-revollo-busca-llevar-la-justicia-ambiental-de-venezuela-al-acuerdo-de-escazu/",
+      "published_date": "2026-11-09T20:28:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Andrés Velásquez: ”La Tata quiere sepultar con infamias la lucha de los trabajadores”",
+      "title": "Nahuel Gallo intentó entregarle carta al Papa en Argentina para visibilizar situación de los presos políticos en Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/andres-velasquez-la-tata-quiere-sepultar-con-infamias-la-lucha-de-los-trabajadores/",
-      "published_date": "2026-11-08T23:27:12Z",
+      "url": "https://www.elnacional.com/2026/11/nahuel-gallo-intento-entregarle-carta-al-papa-en-argentina-para-visibilizar-situacion-de-los-presos-politicos-en-venezuela/",
+      "published_date": "2026-11-09T20:26:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Barcelona mantiene el liderato tras vencer al Atlético de Madrid",
+      "title": "León XIV congregó a 2,5 millones de fieles en Buenos Aires en la misa más multitudinaria de su pontificado",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/barcelona-mantiene-el-liderato-tras-vencer-al-atletico-de-madrid/",
-      "published_date": "2026-11-08T23:05:17Z",
+      "url": "https://www.elnacional.com/2026/11/leon-xiv-congrego-a-25-millones-de-fieles-en-buenos-aires-en-la-misa-mas-multitudinaria-de-su-pontificado/",
+      "published_date": "2026-11-09T20:02:28Z",
       "category": "Local Events"
     },
     {
-      "title": "Cuadrangular de Cedeño y oportuno sencillo de Antúnez le dieron a Leones su quinto triunfo al hilo en Maracay",
+      "title": "Carabobo jugará su quinta final de torneos cortos en los últimos tres años",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/cuadrangular-de-cedeno-y-oportuno-sencillo-de-antunez-le-dieron-a-leones-su-quinto-triunfo-al-hilo-en-maracay/",
-      "published_date": "2026-11-08T22:38:32Z",
+      "url": "https://www.elnacional.com/2026/11/carabobo-jugara-su-quinta-final-de-torneos-cortos-en-los-ultimos-tres-anos/",
+      "published_date": "2026-11-09T19:37:58Z",
       "category": "Local Events"
     },
     {
-      "title": "Cierran campamento de familiares de presos políticos en El Rodeo I: \"La lucha se transforma\"",
+      "title": "Dinorah Figuera plantea una reforma profunda del sistema electoral y la revisión del CNE para restablecer la confianza ciudadana",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/cierran-campamento-de-familiares-de-presos-politicos-en-el-rodeo-i-la-lucha-se-transforma/",
-      "published_date": "2026-11-08T21:35:36Z",
+      "url": "https://www.elnacional.com/2026/11/dinorah-figuera-plantea-una-reforma-profunda-del-sistema-electoral-y-la-revision-del-cne-para-restablecer-la-confianza-ciudadana/",
+      "published_date": "2026-11-09T19:34:34Z",
       "category": "Local Events"
     },
     {
-      "title": "Bolívar | Mueren cuatro personas durante explosión e incendio de una casa en Tumeremo",
+      "title": "Varias personas atrapadas y heridas tras la caída de un árbol en la avenida Sucre en Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/varias-personas-atrapadas-y-heridas-tras-la-caida-de-un-arbol-en-la-avenida-sucre-en-caracas/",
+      "published_date": "2026-11-09T19:30:22Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Gendarme argentino Nahuel Gallo pidió al papa León XIV que interceda por presos políticos en Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625069/gendarme-argentino-nahuel-gallo-pidio-al-papa-leon-xiv-que-interceda-por-presos-politicos-en-venezuela/",
+      "published_date": "2026-11-09T19:24:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "PJ propone cronograma de seis etapas para la transición democrática y elecciones presidenciales en 2027",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/pj-propone-cronograma-de-seis-etapas-para-la-transicion-democratica-y-elecciones-presidenciales-en-2027/",
+      "published_date": "2026-11-09T18:57:34Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Habitantes de Villa Productiva protestan en Barquisimeto por más de 20 días sin agua y apagones continuos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/protesta-villa-productiva-barquisimeto-agua-apagones/",
+      "published_date": "2026-11-09T18:43:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Pérez Vivas y otros juristas exigen al TSJ pronunciarse sobre vacante presidencial y convocar elecciones",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625031/perez-vivas-y-otros-juristas-exigen-al-tsj-pronunciarse-sobre-vacante-presidencial-y-convocar-elecciones/",
+      "published_date": "2026-11-09T18:41:33Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Las claves del Deportivo Táchira para llegar a la final del Clausura de la Liga Futve",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/las-claves-del-deportivo-tachira-finalista-del-clausura-de-la-liga-futve-2026/",
+      "published_date": "2026-11-09T18:38:13Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Feligreses venezolanos asistieron a la misa del papa León XIV en Buenos Aires",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/feligreses-venezolanos-asistieron-a-la-misa-del-papa-leon-xiv-en-buenos-aires/",
+      "published_date": "2026-11-09T18:33:41Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plataforma Kontigo sigue sin permitir retiros en bolívares ni en efectivo",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625029/plataforma-kontigo-sigue-sin-permitir-retiros-en-bolivares-ni-en-efectivo/",
+      "published_date": "2026-11-09T18:30:58Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Trump denuncia fraude electoral en las legislativas de mitad de mandato de EE UU",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/trump-denuncia-fraude-electoral-en-las-legislativas-de-mitad-de-mandato-de-ee-uu/",
+      "published_date": "2026-11-09T18:26:02Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Editor del Diario La Voz denuncia que la libertad de prensa sigue restringida en Venezuela",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/guayana/explosion-en-casa-vinculada-a-una-pandilla-en-tumeremo-genera-alarma-en-bolivar/",
-      "published_date": "2026-11-08T21:21:24Z",
+      "url": "https://elpitazo.net/politica/editor-del-diario-la-voz-denuncia-que-la-libertad-de-prensa-sigue-restringida-en-venezuela/",
+      "published_date": "2026-11-09T18:19:33Z",
       "category": "Local Events"
     },
     {
-      "title": "Secuestraron a un alcalde mexicano en una carretera del norte del país",
+      "title": "Trabajadores de la CVG cumplen 26 días en protesta mientras la salud de los huelguistas se deteriora",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/secuestraron-a-alcalde-mexicano-de-rio-bravo-en-una-carretera-del-norte-del-pais/",
-      "published_date": "2026-11-08T21:14:00Z",
+      "url": "https://www.elnacional.com/2026/11/trabajadores-cvg-huelga-de-hambre-guayana-protesta/",
+      "published_date": "2026-11-09T18:13:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Sánchez busca el apoyo del estratega digital de Lula para impulsar la campaña del PSOE",
+      "title": "Cedice conmemora la Semana de la Libertad en su trigésima séptima edición por la caída del Muro de Berlín",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/sanchez-busca-el-apoyo-del-estratega-digital-de-lula-para-impulsar-la-campana-del-psoe/",
-      "published_date": "2026-11-08T21:06:20Z",
+      "url": "https://www.elnacional.com/2026/11/cedice-conmemora-semana-libertad-muro-berlin/",
+      "published_date": "2026-11-09T18:00:30Z",
       "category": "Local Events"
     },
     {
-      "title": "Emoción entre los fieles que asistieron a la última misa de León XIV en Uruguay",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/emocion-entre-los-fieles-que-asisten-a-la-ultima-misa-de-leon-xiv-en-uruguay/",
-      "published_date": "2026-11-08T20:52:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "María Corina Machado visita una de las zonas de Caracas más afectadas por el doblete sísmico",
+      "title": "Las seis fases que propone Primero Justicia antes de ir a elecciones presidenciales en 2027",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/maria-corina-machado-visita-una-de-las-zonas-de-caracas-mas-afectadas-por-el-doblete-sismico/",
-      "published_date": "2026-11-08T20:49:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "ICE detuvo a dos hermanos venezolanos cuando regresaban a la universidad en Alabama",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ice-detuvo-a-dos-hermanos-venezolanos-en-ee-uu-cuando-regresaban-a-la-universidad/",
-      "published_date": "2026-11-08T20:30:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Norris gana en Brasil y Mercedes se asegura el título de constructores de F1",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/norris-gana-en-brasil-y-mercedes-se-asegura-el-titulo-de-constructores-de-f1/",
-      "published_date": "2026-11-08T20:09:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Familiares de presos políticos cierran campamento en el Rodeo I",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-cierran-campamento-en-el-rodeo-i/",
-      "published_date": "2026-11-08T20:06:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dos niños murieron tras derrumbe de su vivienda en Mamera",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/dos-ninos-murieron-tras-derrumbe-de-su-vivienda-en-mamera/",
-      "published_date": "2026-11-08T19:46:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Bezzecchi gana el GP de Qatar de MotoGP, el título de Márquez debe esperar",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/bezzecchi-gana-el-gp-de-qatar-de-motogp-el-titulo-de-marquez-debe-esperar/",
-      "published_date": "2026-11-08T19:30:20Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Thalía rinde tributo a Venezuela con su versión de \"El Burrito Sabanero\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/thalia-rinde-tributo-a-venezuela-al-interpretar-el-villancico-el-burrito-sabanero-creci-escuchando-esta-cancion/",
-      "published_date": "2026-11-08T19:24:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "León XIV lamenta profundamente el tiroteo en Cracovia y llama a la concordia en el país",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/leon-xiv-lamenta-profundamente-el-tiroteo-en-cracovia-y-llama-a-la-concordia-en-el-pais/",
-      "published_date": "2026-11-08T19:01:11Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Netflix resucita Stranger Things con una precuela ambientada en 1955",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/netflix-resucita-stranger-things-con-una-precuela-ambientada-en-1955/",
-      "published_date": "2026-11-08T18:57:00Z",
+      "url": "https://elpitazo.net/politica/las-seis-fases-que-propone-primero-justicia-antes-de-ir-a-elecciones-presidenciales-en-2027/",
+      "published_date": "2026-11-09T17:57:02Z",
       "category": "Local Events"
     }
   ]
