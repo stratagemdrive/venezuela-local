@@ -1,146 +1,160 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-11-08T17:00:54Z",
+  "last_updated": "2026-11-09T02:35:54Z",
   "stories": [
     {
-      "title": "Cinco personas mueren por rabia humana en Zulia: Min Salud activa plan de vacunación masiva",
+      "title": "Entre la Biblia y el Corán: Maduro adelgaza y protesta por la comida en prisión según The New York Times",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/624988/entre-la-biblia-y-el-coran-maduro-adelgaza-y-protesta-por-la-comida-en-prision-segun-the-new-york-times/",
+      "published_date": "2026-11-09T02:08:37Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "304 días frente a El Rodeo I: la lucha de los familiares de presos políticos entra en otra etapa",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/624973/304-dias-frente-a-el-rodeo-i-la-lucha-de-los-familiares-de-presos-politicos-entra-en-otra-etapa/",
+      "published_date": "2026-11-09T01:04:28Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Entre cuatros, furruco y un tradicional sopazo: Carora conmemoró 10 años de hermandad gaitera",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/entre-cuatros-furruco-y-un-tradicional-sopazo-carora-conmemoro-10-anos-de-hermandad-gaitera/",
+      "published_date": "2026-11-09T01:00:45Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cinco personas han muerto en Zulia por brote de rabia en lo que va de 2026",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cinco-personas-murieron-en-el-estado-zulia-por-brote-de-rabia/",
+      "published_date": "2026-11-09T00:45:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "The New York Times: Cilia Flores sufrió un “infarto leve” en prisión",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cilia-flores-sufrio-un-infarto-leve-en-prision-segun-el-ny-times/",
+      "published_date": "2026-11-09T00:14:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Alfonsín Rosario y José Martínez lideraron el triunfo de Bravos sobre Caribes en Puerto La Cruz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/alfonsin-rosario-y-jose-martinez-lideraron-el-triunfo-de-bravos-sobre-caribes-en-puerto-la-cruz/",
+      "published_date": "2026-11-09T00:01:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Rubio: El diálogo de EE UU-Irán no ha sido productivo por demandas inaceptables",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/rubio-el-dialogo-de-ee-uu-iran-no-ha-sido-productivo-por-demandas-inaceptables/",
+      "published_date": "2026-11-08T23:55:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Carabobo jugará la final del Clausura contra Táchira luego de empatar ante Deportivo La Guaira",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/carabobo-jugara-la-final-del-clausura-contra-tachira-luego-de-empatar-ante-deportivo-la-guaira/",
+      "published_date": "2026-11-08T23:28:36Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "León XIV llega a Argentina, la primera visita de un papa en casi 40 años",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/leon-xiv-llega-a-argentina-la-primera-visita-de-un-papa-en-casi-40-anos/",
+      "published_date": "2026-11-08T23:24:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "EE UU pide a Colombia intensificar operaciones en las fronteras con Venezuela y Ecuador",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/ee-uu-pide-mas-operaciones-en-fronteras-con-venezuela-y-ecuador-segun-el-subsecretario-thomas-g-dinanno/",
+      "published_date": "2026-11-08T23:10:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Cilia Flores perdió dos dientes, 11 kilos y sufrió un paro cardíaco: así es su vida en prisión",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/cinco-personas-mueren-por-rabia-humana-en-zulia-min-salud-activa-plan-de-vacunacion-masiva/",
-      "published_date": "2026-11-08T15:56:31Z",
+      "url": "https://elpitazo.net/internacionales/cilia-flores-perdio-dos-dientes-11-kilos-y-sufrio-un-paro-cardiaco-asi-es-su-vida-en-prision/",
+      "published_date": "2026-11-08T23:08:15Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Dinorah Figuera aseguró que se está a las puertas de nuevas excarcelaciones de presos políticos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/dinorah-figuera-solicito-la-liberacion-de-militares-encarcelados-por-motivos-politicos/",
-      "published_date": "2026-11-08T14:00:55Z",
+      "title": "Cinco personas fallecidas por rabia en Zulia en lo que va de 2026",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/salud/cinco-personas-fallecidas-por-rabia-en-zulia-en-lo-que-va-de-2026/",
+      "published_date": "2026-11-08T23:07:24Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Dinorah Figuera aseguró que se está a las puertas de nuevas excarcelaciones de presos políticos",
+      "title": "El caso $LIBRA: del auge cripto a la crisis política de Milei",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/dinorah-figuera-solicito-la-liberacion-de-militares-encarcelados-por-motivos-politicos/",
-      "published_date": "2026-11-08T14:00:55Z",
+      "url": "https://www.elnacional.com/2026/11/el-caso-libra-del-auge-cripto-a-la-crisis-politica-de-milei/",
+      "published_date": "2026-11-08T22:51:15Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Venezuela y Países Bajos acordaron fortalecer cooperación bilateral contra el narcotráfico",
+      "title": "Cuatro personas mueren en incendio de una vivienda en Tumeremo: una planta eléctrica sería el posible punto de origen",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/venezuela-y-paises-bajos-acordaron-fortalecer-la-cooperacion-bilateral-contra-el-narcotrafico/",
-      "published_date": "2026-11-08T13:29:49Z",
+      "url": "https://www.elnacional.com/2026/11/cuatro-personas-mueren-en-incendio-de-una-vivienda-en-tumeremo-una-planta-electrica-seria-el-posible-punto-de-origen/",
+      "published_date": "2026-11-08T22:42:46Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Venezuela y Países Bajos acordaron fortalecer cooperación bilateral contra el narcotráfico",
+      "title": "Trump dice que es \"altamente improbable\" que la guerra con Irán se reanude",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/venezuela-y-paises-bajos-acordaron-fortalecer-la-cooperacion-bilateral-contra-el-narcotrafico/",
-      "published_date": "2026-11-08T13:29:49Z",
+      "url": "https://www.elnacional.com/2026/11/trump-dice-que-es-altamente-improbable-que-la-guerra-con-iran-se-reanude/",
+      "published_date": "2026-11-08T22:21:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez calificó de \"extraordinaria\" reunión de Oliver Blanco con Marco Rubio en Washington",
+      "title": "Príncipe Harry y la familia real celebran por separado el \"Domingo del Recuerdo\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/delcy-rodriguez-califico-de-extraordinaria-la-reunion-de-oliver-blanco-con-marco-rubio-en-washington/",
-      "published_date": "2026-11-08T13:09:35Z",
+      "url": "https://www.elnacional.com/2026/11/principe-harry-y-la-familia-real-celebran-por-separado-el-domingo-del-recuerdo/",
+      "published_date": "2026-11-08T22:08:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Delcy Rodríguez calificó de \"extraordinaria\" reunión de Oliver Blanco con Marco Rubio en Washington",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/delcy-rodriguez-califico-de-extraordinaria-la-reunion-de-oliver-blanco-con-marco-rubio-en-washington/",
-      "published_date": "2026-11-08T13:09:35Z",
+      "title": "Tiroteo entre grupo armado y policías dejó pánico en Barlovento",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/tiroteo-entre-grupo-armado-y-policias-dejo-panico-en-barlovento/",
+      "published_date": "2026-11-08T21:52:23Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Mujer damnificada por terremotos en La Guaira se encadenó para exigir devolución de su vivienda alquilada en Miranda",
+      "title": "Orquídea de “adamantio” para el adiós de Monsieur Periné en Venezuela",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/mujer-damnificada-por-los-terremotos-en-la-guaira-se-encadeno-para-exigir-la-devolucion-de-su-vivienda-alquilada-en-miranda/",
-      "published_date": "2026-11-08T12:50:21Z",
+      "url": "https://www.elnacional.com/2026/11/orquidea-de-adamantio-para-el-adios-de-monsieur-perine-en-venezuela/",
+      "published_date": "2026-11-08T21:00:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Mujer damnificada por terremotos en La Guaira se encadenó para exigir devolución de su vivienda alquilada en Miranda",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/mujer-damnificada-por-los-terremotos-en-la-guaira-se-encadeno-para-exigir-la-devolucion-de-su-vivienda-alquilada-en-miranda/",
-      "published_date": "2026-11-08T12:50:21Z",
+      "title": "Cicpc busca a un bebé de siete meses desaparecido en Carúpano",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/cicpc-busca-a-un-bebe-de-siete-meses-desaparecido-en-carupano/",
+      "published_date": "2026-11-08T20:26:27Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Fundaredes denunció secuestro de un comerciante en Apure y señalan al ELN como los responsables",
+      "title": "Frontera mexicana espera un cambio en política migratoria con nuevo Congreso en EE UU",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/fundaredes-denuncio-secuestro-de-un-comerciante-en-apure-y-senalo-al-eln-como-los-responsables/",
-      "published_date": "2026-11-08T12:34:43Z",
+      "url": "https://www.elnacional.com/2026/11/frontera-mexicana-espera-un-cambio-en-politica-migratoria-con-nuevo-congreso-en-ee-uu/",
+      "published_date": "2026-11-08T20:19:00Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Fundaredes denunció secuestro de un comerciante en Apure y señalan al ELN como los responsables",
+      "title": "Trump admite que su política de deportaciones fue \"demasiado dura\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/fundaredes-denuncio-secuestro-de-un-comerciante-en-apure-y-senalo-al-eln-como-los-responsables/",
-      "published_date": "2026-11-08T12:34:43Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/trump-admite-que-su-politica-de-deportaciones-fue-demasiado-dura/",
+      "published_date": "2026-11-08T21:49:00Z",
+      "category": "Military"
     },
     {
-      "title": "El Papa urge en Uruguay a que la educación escolar contribuya al buen uso de la IA",
+      "title": "Turquía anuncia su retirada gradual de una base militar del norte de Irak",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/el-papa-urge-en-uruguay-a-que-la-educacion-escolar-contribuya-al-buen-uso-de-la-ia/",
-      "published_date": "2026-11-08T12:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El Papa urge en Uruguay a que la educación escolar contribuya al buen uso de la IA",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/el-papa-urge-en-uruguay-a-que-la-educacion-escolar-contribuya-al-buen-uso-de-la-ia/",
-      "published_date": "2026-11-08T12:30:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colapso de cloaca dentro de tanque principal de Calicanto amenaza con crisis sanitaria a 17 sectores en Carora",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/colapso-de-cloaca-dentro-de-tanque-principal-de-calicanto-amenaza-con-crisis-sanitaria-a-17-sectores-en-carora/",
-      "published_date": "2026-11-08T12:01:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Colapso de cloaca dentro de tanque principal de Calicanto amenaza con crisis sanitaria a 17 sectores en Carora",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/colapso-de-cloaca-dentro-de-tanque-principal-de-calicanto-amenaza-con-crisis-sanitaria-a-17-sectores-en-carora/",
-      "published_date": "2026-11-08T12:01:26Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Detenidos cuatro hombres por asesinato de comerciante engañado con oferta de criptomonedas en Carabobo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/detenidos-cuatro-hombres-por-el-asesinato-de-un-comerciante-enganado-con-una-oferta-de-criptomonedas-en-carabobo/",
-      "published_date": "2026-11-08T11:52:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Detenidos cuatro hombres por asesinato de comerciante engañado con oferta de criptomonedas en Carabobo",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/detenidos-cuatro-hombres-por-el-asesinato-de-un-comerciante-enganado-con-una-oferta-de-criptomonedas-en-carabobo/",
-      "published_date": "2026-11-08T11:52:07Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Permitieron visitas de tres horas y contacto físico entre presos políticos de El Rodeo I y sus familiares",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/presos-politicos-de-el-rodeo-i-tuvieron-tres-horas-de-contacto-con-sus-familiares/",
-      "published_date": "2026-11-08T11:41:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Permitieron visitas de tres horas y contacto físico entre presos políticos de El Rodeo I y sus familiares",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/presos-politicos-de-el-rodeo-i-tuvieron-tres-horas-de-contacto-con-sus-familiares/",
-      "published_date": "2026-11-08T11:41:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela sumó su segunda victoria por nocaut en el Mundial de Béisbol U23 tras superar a Gran Bretaña",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/venezuela-sumo-su-segunda-victoria-por-nocaut-en-el-mundial-u23-y-supero-a-gran-bretana/",
-      "published_date": "2026-11-08T11:21:21Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/turquia-anuncia-su-retirada-gradual-de-una-base-militar-del-norte-de-irak/",
+      "published_date": "2026-11-08T18:55:50Z",
+      "category": "Military"
     },
     {
       "title": "ONG documenta 198 casos de violencia contra personas LGBTIQ+ en Venezuela en nueve meses",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Réplica de la Virgen de Chiquinquirá inició recorrido por los pueblos de agua en Zulia",
+      "title": "Venezuela ratificó el convenio iberoamericano de seguridad social",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/replica-de-la-virgen-de-chiquinquira-inicio-recorrido-por-los-pueblos-de-agua-en-zulia/",
-      "published_date": "2026-11-03T15:47:05Z",
-      "category": "Military"
-    },
-    {
-      "title": "Réplica de la Virgen de Chiquinquirá inició recorrido por los pueblos de agua en Zulia",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/replica-de-la-virgen-de-chiquinquira-inicio-recorrido-por-los-pueblos-de-agua-en-zulia/",
-      "published_date": "2026-11-03T15:47:05Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/11/venezuela-ratifico-el-convenio-iberoamericano-de-seguridad-social/",
+      "published_date": "2026-11-08T20:07:56Z",
+      "category": "Energy"
     },
     {
       "title": "Bebé de un año falleció por intoxicación tras ingerir gasoil accidentalmente en Monagas",
@@ -416,11 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Una academia dignifica el oficio del mesonero en Venezuela",
+      "title": "Fiscalía de Paraguay allanó lujosa vivienda de Santiago Peña por el caso Ueno bank",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/laga-aprender-a-ser-mesonero-en-un-pais-que-subestima-el-oficio/",
-      "published_date": "2026-11-06T05:03:00Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/11/fiscalia-de-paraguay-allano-lujosa-vivienda-de-santiago-pena-por-el-caso-ueno-bank/",
+      "published_date": "2026-11-08T23:42:21Z",
+      "category": "Economy"
+    },
+    {
+      "title": "Gustavo Petro es investigado en Colombia por escándalo sexual",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/gustavo-petro-es-investigado-en-colombia-por-escandalo-sexual/",
+      "published_date": "2026-11-08T22:41:00Z",
+      "category": "Economy"
     },
     {
       "title": "José Guerra sobre la inflación anualizada de 377 %: “Es desquiciante”",
@@ -549,157 +563,143 @@
       "category": "Economy"
     },
     {
-      "title": "Policía española abre investigación tras el fallecimiento del futbolista Jesús de Miguel",
+      "title": "Arias comandó con jonrón y dos remolcadas la ajustada victoria de Águilas ante Tiburones",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/policia-espanola-abre-investigacion-tras-el-fallecimiento-del-futbolista-jesus-de-miguel/",
-      "published_date": "2026-11-03T19:03:19Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/11/arias-brillo-con-jonron-y-dos-remolcadas-en-la-victoria-de-aguilas-ante-tiburones/",
+      "published_date": "2026-11-09T01:18:11Z",
+      "category": "Local Events"
     },
     {
-      "title": "Economista Pedro Palma explica las ventajas y los riesgos de una dolarización plena en Venezuela",
+      "title": "Elías Jaua sobre el 28 de julio: \"No se pudieron explicar ni argumentar finalmente los resultados\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/economista-pedro-palma-explica-las-ventajas-y-los-riesgos-de-una-dolarizacion-plena-en-venezuela/",
-      "published_date": "2026-11-03T18:26:17Z",
-      "category": "Economy"
+      "url": "https://www.elnacional.com/2026/11/elias-jaua-cuestiona-resultados-del-28-de-julio-de-2024-generan-muchas-dudas/",
+      "published_date": "2026-11-09T01:05:46Z",
+      "category": "Local Events"
     },
     {
-      "title": "Caso Gedeón: Preso político convulsiona en el Fuerte Guaicaipuro sin recibir asistencia médica especializada",
+      "title": "Localizan con vida a alcalde secuestrado en una carretera de México",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/localizan-con-vida-a-alcalde-secuestrado-en-una-carretera-de-mexico/",
+      "published_date": "2026-11-09T00:34:00Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Andrés Velásquez: ”La Tata quiere sepultar con infamias la lucha de los trabajadores”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/andres-velasquez-la-tata-quiere-sepultar-con-infamias-la-lucha-de-los-trabajadores/",
+      "published_date": "2026-11-08T23:27:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Barcelona mantiene el liderato tras vencer al Atlético de Madrid",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/barcelona-mantiene-el-liderato-tras-vencer-al-atletico-de-madrid/",
+      "published_date": "2026-11-08T23:05:17Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cuadrangular de Cedeño y oportuno sencillo de Antúnez le dieron a Leones su quinto triunfo al hilo en Maracay",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cuadrangular-de-cedeno-y-oportuno-sencillo-de-antunez-le-dieron-a-leones-su-quinto-triunfo-al-hilo-en-maracay/",
+      "published_date": "2026-11-08T22:38:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Cierran campamento de familiares de presos políticos en El Rodeo I: \"La lucha se transforma\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cierran-campamento-de-familiares-de-presos-politicos-en-el-rodeo-i-la-lucha-se-transforma/",
+      "published_date": "2026-11-08T21:35:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Bolívar | Mueren cuatro personas durante explosión e incendio de una casa en Tumeremo",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/caso-gedeon-preso-politico-convulsiona-en-el-fuerte-guaicaipuro-sin-recibir-asistencia-medica-especializada/",
-      "published_date": "2026-11-08T16:52:01Z",
+      "url": "https://elpitazo.net/regiones/guayana/explosion-en-casa-vinculada-a-una-pandilla-en-tumeremo-genera-alarma-en-bolivar/",
+      "published_date": "2026-11-08T21:21:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Lluvias torrenciales provocaron inundaciones, desbordamientos de ríos y caída de árboles en Carabobo",
+      "title": "Secuestraron a un alcalde mexicano en una carretera del norte del país",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/lluvias-torrenciales-provocaron-inundaciones-desbordamientos-de-rios-y-caida-de-arboles-en-carabobo/",
-      "published_date": "2026-11-08T16:50:55Z",
+      "url": "https://www.elnacional.com/2026/11/secuestraron-a-alcalde-mexicano-de-rio-bravo-en-una-carretera-del-norte-del-pais/",
+      "published_date": "2026-11-08T21:14:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Lluvias torrenciales provocaron inundaciones, desbordamientos de ríos y caída de árboles en Carabobo",
+      "title": "Sánchez busca el apoyo del estratega digital de Lula para impulsar la campaña del PSOE",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/lluvias-torrenciales-provocaron-inundaciones-desbordamientos-de-rios-y-caida-de-arboles-en-carabobo/",
-      "published_date": "2026-11-08T16:50:55Z",
+      "url": "https://www.elnacional.com/2026/11/sanchez-busca-el-apoyo-del-estratega-digital-de-lula-para-impulsar-la-campana-del-psoe/",
+      "published_date": "2026-11-08T21:06:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Tsunami será la mascota de los Juegos Juveniles 2026 por su valiente y noble labor tras los terremotos",
+      "title": "Emoción entre los fieles que asistieron a la última misa de León XIV en Uruguay",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/tsunami-sera-la-mascota-de-los-juegos-juveniles-2026-por-su-noble-labor-tras-los-terremotos/",
-      "published_date": "2026-11-08T16:32:46Z",
+      "url": "https://www.elnacional.com/2026/11/emocion-entre-los-fieles-que-asisten-a-la-ultima-misa-de-leon-xiv-en-uruguay/",
+      "published_date": "2026-11-08T20:52:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Tsunami será la mascota de los Juegos Juveniles 2026 por su valiente y noble labor tras los terremotos",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/tsunami-sera-la-mascota-de-los-juegos-juveniles-2026-por-su-noble-labor-tras-los-terremotos/",
-      "published_date": "2026-11-08T16:32:46Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lluvias y fuertes vientos destruyeron carpas de familias damnificadas por los terremotos en La Guaira",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/lluvias-y-vientos-huracanados-destruyeron-carpas-de-familias-damnificadas-por-los-terremotos-en-la-guaira/",
-      "published_date": "2026-11-08T15:53:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Lluvias y fuertes vientos destruyeron carpas de familias damnificadas por los terremotos en La Guaira",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/lluvias-y-vientos-huracanados-destruyeron-carpas-de-familias-damnificadas-por-los-terremotos-en-la-guaira/",
-      "published_date": "2026-11-08T15:53:26Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Miss Venezuela celebró su Gala de Bandas Especiales con participación de múltiples marcas",
+      "title": "María Corina Machado visita una de las zonas de Caracas más afectadas por el doblete sísmico",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/cultura/miss-venezuela-celebro-su-gala-de-bandas-especiales/",
-      "published_date": "2026-11-08T15:43:18Z",
+      "url": "https://elpitazo.net/politica/maria-corina-machado-visita-una-de-las-zonas-de-caracas-mas-afectadas-por-el-doblete-sismico/",
+      "published_date": "2026-11-08T20:49:46Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezolana Naryury Pérez conquistó la medalla de bronce en arrancada en el Mundial de Halterofilia",
+      "title": "ICE detuvo a dos hermanos venezolanos cuando regresaban a la universidad en Alabama",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/venezolana-naryury-perez-conquisto-la-medalla-de-bronce-en-arrancada-en-el-mundial-de-halterofilia/",
-      "published_date": "2026-11-08T15:35:46Z",
+      "url": "https://www.elnacional.com/2026/11/ice-detuvo-a-dos-hermanos-venezolanos-en-ee-uu-cuando-regresaban-a-la-universidad/",
+      "published_date": "2026-11-08T20:30:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Venezolana Naryury Pérez conquistó la medalla de bronce en arrancada en el Mundial de Halterofilia",
+      "title": "Norris gana en Brasil y Mercedes se asegura el título de constructores de F1",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/venezolana-naryury-perez-conquisto-la-medalla-de-bronce-en-arrancada-en-el-mundial-de-halterofilia/",
-      "published_date": "2026-11-08T15:35:46Z",
+      "url": "https://www.elnacional.com/2026/11/norris-gana-en-brasil-y-mercedes-se-asegura-el-titulo-de-constructores-de-f1/",
+      "published_date": "2026-11-08T20:09:26Z",
       "category": "Local Events"
     },
     {
-      "title": "Messi ganó su segundo Botín de Oro de la MLS y Nashville batió el récord de puntos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/messi-gano-su-segundo-botin-de-oro-de-la-mls-y-nashville-batio-el-record-de-puntos/",
-      "published_date": "2026-11-08T14:56:40Z",
+      "title": "Familiares de presos políticos cierran campamento en el Rodeo I",
+      "source": "Efecto Cocuyo",
+      "url": "https://efectococuyo.com/la-humanidad/familiares-de-presos-politicos-cierran-campamento-en-el-rodeo-i/",
+      "published_date": "2026-11-08T20:06:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Messi ganó su segundo Botín de Oro de la MLS y Nashville batió el récord de puntos",
+      "title": "Dos niños murieron tras derrumbe de su vivienda en Mamera",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/messi-gano-su-segundo-botin-de-oro-de-la-mls-y-nashville-batio-el-record-de-puntos/",
-      "published_date": "2026-11-08T14:56:40Z",
+      "url": "https://www.elnacional.com/2026/11/dos-ninos-murieron-tras-derrumbe-de-su-vivienda-en-mamera/",
+      "published_date": "2026-11-08T19:46:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Inameh pronosticó nubosidad parcial y lluvias dispersas en varias regiones de Venezuela",
+      "title": "Bezzecchi gana el GP de Qatar de MotoGP, el título de Márquez debe esperar",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/inameh-pronostico-nubosidad-parcial-y-lluvias-dispersas-en-varias-regiones-de-venezuela/",
-      "published_date": "2026-11-08T14:31:54Z",
+      "url": "https://www.elnacional.com/2026/11/bezzecchi-gana-el-gp-de-qatar-de-motogp-el-titulo-de-marquez-debe-esperar/",
+      "published_date": "2026-11-08T19:30:20Z",
       "category": "Local Events"
     },
     {
-      "title": "Inameh pronosticó nubosidad parcial y lluvias dispersas en varias regiones de Venezuela",
+      "title": "Thalía rinde tributo a Venezuela con su versión de \"El Burrito Sabanero\"",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/inameh-pronostico-nubosidad-parcial-y-lluvias-dispersas-en-varias-regiones-de-venezuela/",
-      "published_date": "2026-11-08T14:31:54Z",
+      "url": "https://www.elnacional.com/2026/11/thalia-rinde-tributo-a-venezuela-al-interpretar-el-villancico-el-burrito-sabanero-creci-escuchando-esta-cancion/",
+      "published_date": "2026-11-08T19:24:00Z",
       "category": "Local Events"
     },
     {
-      "title": "Murió Omar Rojas, referente de la guaracha y la cultura en la Costa Oriental del Lago",
+      "title": "León XIV lamenta profundamente el tiroteo en Cracovia y llama a la concordia en el país",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/murio-omar-rojas-referente-de-la-guaracha-y-la-cultura-en-la-costa-oriental-del-lago/",
-      "published_date": "2026-11-08T14:11:00Z",
+      "url": "https://www.elnacional.com/2026/11/leon-xiv-lamenta-profundamente-el-tiroteo-en-cracovia-y-llama-a-la-concordia-en-el-pais/",
+      "published_date": "2026-11-08T19:01:11Z",
       "category": "Local Events"
     },
     {
-      "title": "Murió Omar Rojas, referente de la guaracha y la cultura en la Costa Oriental del Lago",
+      "title": "Netflix resucita Stranger Things con una precuela ambientada en 1955",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/murio-omar-rojas-referente-de-la-guaracha-y-la-cultura-en-la-costa-oriental-del-lago/",
-      "published_date": "2026-11-08T14:11:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nueva Zelanda se alista para semanas de negociaciones tras elección sin ganador",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/nueva-zelanda-se-alista-para-semanas-de-negociaciones-tras-eleccion-sin-ganador/",
-      "published_date": "2026-11-08T13:56:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Nueva Zelanda se alista para semanas de negociaciones tras elección sin ganador",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/nueva-zelanda-se-alista-para-semanas-de-negociaciones-tras-eleccion-sin-ganador/",
-      "published_date": "2026-11-08T13:56:47Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asamblea Nacional aprobará el 10 de noviembre reforma de ley que permitirá inversión privada en sector eléctrico",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/asamblea-nacional-aprobara-el-10-de-noviembre-reforma-de-ley-que-permitira-inversion-privada-en-sector-electrico/",
-      "published_date": "2026-11-08T13:43:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Asamblea Nacional aprobará el 10 de noviembre reforma de ley que permitirá inversión privada en sector eléctrico",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/asamblea-nacional-aprobara-el-10-de-noviembre-reforma-de-ley-que-permitira-inversion-privada-en-sector-electrico/",
-      "published_date": "2026-11-08T13:43:00Z",
+      "url": "https://www.elnacional.com/2026/11/netflix-resucita-stranger-things-con-una-precuela-ambientada-en-1955/",
+      "published_date": "2026-11-08T18:57:00Z",
       "category": "Local Events"
     }
   ]
