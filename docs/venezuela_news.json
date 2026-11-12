@@ -1,7 +1,140 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-11-11T18:32:55Z",
+  "last_updated": "2026-11-12T03:47:08Z",
   "stories": [
+    {
+      "title": "Cardenales vino de atrás y derrotó a Tiburones con un rally de seis carreras en el octavo",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/cardenales-vino-de-atras-y-derroto-a-tiburones-con-un-rally-de-seis-carreras-en-el-octavo/",
+      "published_date": "2026-11-12T03:31:17Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Dinorah Figuera condena las restricciones de visitas en la residencia de Perkins Rocha y advierte que afectan el clima del diálogo político",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/dinorah-figuera-condena-las-restricciones-de-visitas-en-la-residencia-de-perkins-rocha-y-advierte-que-afectan-el-clima-del-dialogo-politico/",
+      "published_date": "2026-11-12T00:22:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Sindicatos y gremios en Lara protestan contra la crisis salarial y anuncian posible paro nacional para el 16 de noviembre",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/sindicatos-y-gremios-en-lara-protestan-contra-la-crisis-salarial-y-anuncian-posible-paro-nacional-para-el-16-de-noviembre/",
+      "published_date": "2026-11-12T00:19:48Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Otorgan libertad plena al anestesiólogo que intentó hacerle una cirugía capilar al Duke, hijo de Elvis Amoroso",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/otorgan-libertad-plena-al-anestesiologo-que-intento-hacerle-una-cirugia-capilar-al-duke-hijo-de-elvis-amoroso/",
+      "published_date": "2026-11-11T23:46:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Los campeones del Clásico Mundial de Béisbol celebrarán en Caracas: conoce la fecha y por dónde pasará la caravana",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/deportes/los-campeones-del-clasico-mundial-de-beisbol-celebraran-en-caracas-conoce-la-fecha-y-por-donde-pasara-la-caravana/",
+      "published_date": "2026-11-11T22:30:13Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Excarcelan a dos presos por el caso Paramacay: ¿qué se sabe de la sentencia del capitán Caguaripano?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/excarcelan-a-dos-presos-por-el-caso-paramacay-que-se-sabe-de-la-sentencia-del-capitan-caguaripano/",
+      "published_date": "2026-11-11T21:40:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Instalarán comisión para revisar casos de presos en situación de retardo procesal y agilizar su liberación",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/instalaran-este-jueves-comision-para-revisar-casos-de-presos-con-retardo-procesal-y-agilizar-su-liberacion/",
+      "published_date": "2026-11-11T21:09:16Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Daniel Farías sobre Carabobo: \"La adaptación fue lo que nos hizo crecer\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/daniel-farias-sobre-carabobo-la-adaptacion-fue-lo-que-nos-hizo-crecer/",
+      "published_date": "2026-11-11T20:52:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Lula y Delcy Rodríguez hablan de \"retomar\" la relación bilateral \"al más alto nivel\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/lula-y-delcy-rodriguez-hablan-de-retomar-la-relacion-bilateral-al-mas-alto-nivel/",
+      "published_date": "2026-11-11T20:37:24Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "PNB restringe visitas en la residencia de Perkins Rocha",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/inicio/625316/pnb-restringe-visitas-en-la-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-11T20:13:00Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Trump asegura que logró la salida de China y Rusia de Venezuela: \"Estaban tratando de sacar provecho de la situación\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/trump-asegura-que-logro-la-salida-de-china-y-rusia-de-venezuela-estaban-tratando-de-sacar-provecho-de-la-situacion/",
+      "published_date": "2026-11-11T19:57:19Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Reuters: vínculos de un comerciante de Vitol con JD Vance facilitaron contrato petrolero en Venezuela",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/reuters-vinculos-de-un-comerciante-de-vitol-con-jd-vance-facilitaron-contrato-petrolero-en-venezuela/",
+      "published_date": "2026-11-11T19:18:59Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Shift Latam abre operación en Venezuela",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/notas-corporativas/625288/shift-latam-abre-operacion-en-venezuela/",
+      "published_date": "2026-11-11T19:17:49Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "La Casa Blanca amenaza con investigaciones penales a demócratas que fiscalicen al gobierno",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/la-casa-blanca-amenaza-con-investigaciones-penales-a-democratas-que-fiscalicen-al-gobierno/",
+      "published_date": "2026-11-11T19:12:21Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "2.100 bolívares no alcanzan ni para el pabilo de las hallacas: gremios le responde a Delcy Rodríguez",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-llanos/2-100-bolivares-no-alcanzan-ni-para-el-pabilo-de-las-hallacas-gremios-le-responde-a-delcy-rodriguez/",
+      "published_date": "2026-11-11T19:10:55Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezolano enfrentará cargos federales por amenazas contra Donald Trump",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/venezolano-enfrentara-cargos-federales-por-amenazas-contra-donald-trump/",
+      "published_date": "2026-11-11T19:06:54Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela enviará equipos petroleros de Pdvsa a EE UU para su reparación por primera vez en más de una década",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/venezuela-enviara-equipos-petroleros-de-pdvsa-a-ee-uu-para-su-reparacion-por-primera-vez-en-mas-de-una-decada/",
+      "published_date": "2026-11-11T19:03:35Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "En imágenes: decenas de detenidos en la primera huelga general en España en 14 años",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/en-imagenes-decenas-de-detenidos-en-la-primera-huelga-general-en-espana-en-14-anos/",
+      "published_date": "2026-11-11T18:44:10Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Apagón afecta zona petrolera del estado Zulia: tres municipios quedaron a oscuras",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/occidente/apagon-afecta-zona-petrolera-del-estado-zulia-tres-municipios-quedaron-a-oscuras/",
+      "published_date": "2026-11-11T18:37:14Z",
+      "category": "Diplomacy"
+    },
     {
       "title": "Dos mujeres se suman a la huelga de hambre que mantienen 34 militares en Ramo Verde",
       "source": "El Pitazo",
@@ -10,137 +143,18 @@
       "category": "Diplomacy"
     },
     {
-      "title": "Denuncian que policías limitan visitas a Perkins Rocha en su vivienda",
+      "title": "Violencia guerrillera en el sur de Bolívar: denuncian enfrentamientos entre ELN y disidencias de las FARC, asesinatos y desplazamiento indígena",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/denuncian-que-policias-limitan-visitas-a-perkins-rocha-en-su-vivienda/",
-      "published_date": "2026-11-11T17:54:27Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/violencia-guerrillera-en-el-sur-de-bolivar-denuncian-enfrentamientos-entre-eln-y-disidencias-de-las-farc-asesinatos-y-desplazamiento-indigena/",
+      "published_date": "2026-11-11T23:41:00Z",
+      "category": "Military"
     },
     {
-      "title": "Marcha ‘El Guarazo’ cruza cordón policial para llegar a la Gobernación de Lara: reclaman salarios y servicios públicos",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/marcha-el-guarazo-cordon-policial-barquisimeto/",
-      "published_date": "2026-11-11T17:29:29Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "PNB restringe acceso de visitas a Perkins Rocha: su esposa denuncia que no hay prohibición del tribunal",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/pnb-restringe-acceso-de-visitas-a-perkins-rocha-su-esposa-denuncia-que-no-hay-prohibicion-del-tribunal/",
-      "published_date": "2026-11-11T17:05:38Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Femicidio en Miranda: hombre ataca a su expareja con una aguja de zapatero y la deja morir ahogada",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/sucesos/femicidio-en-miranda-hombre-ataca-a-su-expareja-con-una-aguja-de-zapatero-y-la-deja-morir-ahogada/",
-      "published_date": "2026-11-11T16:41:19Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Venezuela enfrenta a Australia, Puerto Rico y Taiwán en la Super Ronda del Mundial Sub-23",
+      "title": "Colombia y EE UU concluyen maniobras militares conjuntas de lucha contra el narcotráfico",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/venezuela-enfrenta-a-australia-puerto-rico-y-taiwan-en-la-super-ronda-del-mundial-sub-23/",
-      "published_date": "2026-11-11T16:37:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Quién es Wilson \"Lanmò San Jou\" Joseph, el poderoso líder pandillero cuya casa en Haití Bukele dice haber destruido",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/quien-es-wilson-lanmo-san-jou-joseph-el-poderoso-lider-pandillero-cuya-casa-en-haiti-bukele-dice-haber-destruido/",
-      "published_date": "2026-11-11T16:29:05Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Nabep se queda con pozos petroleros de Pdvsa y empresas chinas, según informe de Transparencia Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/nabep-se-queda-con-pozos-petroleros-de-pdvsa-y-empresas-chinas-segun-informe-de-transparencia-venezuela/",
-      "published_date": "2026-11-11T16:21:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Meghan Markle reaparece en su primer viaje tras el arresto de su padre",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/meghan-markle-reaparece-tras-el-arresto-de-su-padre/",
-      "published_date": "2026-11-11T16:08:02Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Sicim y Confurca firman convenio para el sector energético nacional",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/sicim-y-confurca-firman-convenio-para-el-sector-energetico-nacional/",
-      "published_date": "2026-11-11T16:05:45Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "NVIDIA, un romance extramarital y el espionaje chino",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/nvidia-un-romance-extramarital-y-el-espionaje-chino/",
-      "published_date": "2026-11-11T16:02:10Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "CLAVES | Cada 26 horas ocurre un abuso sexual contra niños y adolescentes en Venezuela",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/625183/claves-cada-26-horas-ocurre-un-abuso-sexual-contra-ninos-y-adolescentes-en-venezuela/",
-      "published_date": "2026-11-11T15:59:42Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Bukele asegura que fuerzas de El Salvador han destruido el cuartel de la banda 400 Mawozo en un ataque aéreo en Haití",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/bukele-asegura-que-fuerzas-de-el-salvador-han-destruido-el-cuartel-de-la-banda-400-mawozo-en-un-ataque-aereo-en-haiti/",
-      "published_date": "2026-11-11T15:39:56Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Las personas que solo necesitan dormir 4 horas y cómo lo explica la genética",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/las-personas-que-solo-necesitan-dormir-4-horas/",
-      "published_date": "2026-11-11T15:28:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Ataque de abejas dejó 18 estudiantes picados en un colegio de Prados del Este",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ataque-de-abejas-dejo-18-estudiantes-picados-en-un-colegio-de-prados-del-este/",
-      "published_date": "2026-11-11T15:21:31Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Secuestran a la esposa de alcalde colombiano en La Guajira: los delincuentes tratan de trasladarla a Venezuela",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/internacional/secuestran-a-la-esposa-de-alcalde-colombiano-en-la-guajira-los-delincuentes-tratan-de-trasladarla-a-venezuela/",
-      "published_date": "2026-11-11T14:34:14Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Alcaldía de Maracaibo instalará 400 paneles solares para encendido de Bella Vista mientras ciudadanos se quejan de los apagones",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/alcaldia-de-maracaibo-instalara-400-paneles-solares-para-encendido-de-bella-vista-mientras-ciudadanos-se-quejan-de-los-apagones/",
-      "published_date": "2026-11-11T14:01:40Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El maltrato infantil y el abuso sexual encabezan los casos de violencia atendidos por Cecodap",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/el-maltrato-infantil-y-el-abuso-sexual-encabezan-los-casos-de-violencia-atendidos-por-cecodap/",
-      "published_date": "2026-11-11T13:00:20Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Fujimori rechaza que su viaje a China, en plena visita del Papa a Perú, sea un desaire",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/fujimori-rechaza-que-su-viaje-a-china-en-plena-visita-del-papa-a-peru-sea-un-desaire/",
-      "published_date": "2026-11-11T11:05:37Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Comienza en Abu Dabi la segunda reunión entre Rusia, Ucrania y EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/comienza-en-abu-dabi-la-segunda-reunion-entre-rusia-ucrania-y-ee-uu/",
-      "published_date": "2026-11-11T10:04:00Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/colombia-y-ee-uu-concluyen-maniobras-militares-conjuntas-de-lucha-contra-el-narcotrafico/",
+      "published_date": "2026-11-11T22:58:43Z",
+      "category": "Military"
     },
     {
       "title": "Secuestran a esposa de alcalde en Colombia: temen que sea llevada a Venezuela",
@@ -269,18 +283,32 @@
       "category": "Military"
     },
     {
-      "title": "Arrestan en Florida al padre de Meghan Markle",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/arrestan-en-florida-al-padre-de-meghan-markle/",
-      "published_date": "2026-11-06T16:12:00Z",
-      "category": "Military"
+      "title": "La realidad de la reforma a la Ley de Servicio Eléctrico",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/opinion/la-realidad-de-la-reforma-a-la-ley-de-servicio-electrico/",
+      "published_date": "2026-11-12T00:47:55Z",
+      "category": "Energy"
     },
     {
-      "title": "Arrestan en Florida al padre de Meghan Markle",
+      "title": "Petróleo venezolano: ¿Quién recibió los 12.260 millones de dólares?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/petroleo-venezolano-quien-recibio-los-12-260-millones-de-dolares/",
+      "published_date": "2026-11-12T00:05:02Z",
+      "category": "Energy"
+    },
+    {
+      "title": "Sinafum propone fijar en 300 dólares el bono de aguinaldo docente y exige que los aumentos de 2027 se reflejen en el salario base",
       "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/arrestan-en-florida-al-padre-de-meghan-markle/",
-      "published_date": "2026-11-06T16:12:00Z",
-      "category": "Military"
+      "url": "https://www.elnacional.com/2026/11/sinafum-propone-fijar-en-300-dolares-el-bono-de-aguinaldo-docente-y-exige-que-los-aumentos-de-2027-se-reflejen-en-el-salario-base/",
+      "published_date": "2026-11-11T21:19:05Z",
+      "category": "Energy"
+    },
+    {
+      "title": "“La culpa no fue de la iguana”: Trabajadores de Corpoelec exigen ser escuchados y reivindicados",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625278/la-culpa-no-fue-de-la-iguana-trabajadores-de-corpoelec-exigen-ser-escuchados/",
+      "published_date": "2026-11-11T18:44:37Z",
+      "category": "Energy"
     },
     {
       "title": "Caracas l Explosión por fuga de gas en Las Mercedes deja una persona herida y dos apartamentos afectados",
@@ -395,34 +423,6 @@
       "category": "Energy"
     },
     {
-      "title": "Vientos y lluvias anegaron carpas de damnificados en campamentos de La Guaira",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/vientos-y-lluvias-anegaron-carpas-de-damnificados-en-campamentos-de-la-guaira/",
-      "published_date": "2026-11-09T16:12:09Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Venezuela ratificó el convenio iberoamericano de seguridad social",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/venezuela-ratifico-el-convenio-iberoamericano-de-seguridad-social/",
-      "published_date": "2026-11-08T20:07:56Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bebé de un año falleció por intoxicación tras ingerir gasoil accidentalmente en Monagas",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/bebe-de-un-ano-fallecio-por-intoxicacion-tras-ingerir-gasoil-accidentalmente-en-monagas/",
-      "published_date": "2026-11-08T16:19:53Z",
-      "category": "Energy"
-    },
-    {
-      "title": "Bebé de un año falleció por intoxicación tras ingerir gasoil accidentalmente en Monagas",
-      "source": "El Nacional",
-      "url": "https://bitlysdowssl-aws.com/2026/11/bebe-de-un-ano-fallecio-por-intoxicacion-tras-ingerir-gasoil-accidentalmente-en-monagas/",
-      "published_date": "2026-11-08T16:19:53Z",
-      "category": "Energy"
-    },
-    {
       "title": "Transparencia Venezuela alerta sobre redistribución opaca del mapa petrolero",
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/625283/transparencia-venezuela-alerta-sobre-redistribucion-opaca-del-mapa-petrolero/",
@@ -521,143 +521,143 @@
       "category": "Economy"
     },
     {
-      "title": "G7 respalda diálogo en Venezuela, pide elecciones libres y liberación de presos políticos",
+      "title": "Siguen crecidos: Tres jonrones en el primer inning impulsaron la décima victoria consecutiva del Magallanes",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/siguen-crecidos-tres-jonrones-en-el-primer-inning-impulsaron-la-decima-victoria-consecutiva-del-magallanes/",
+      "published_date": "2026-11-12T02:52:59Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Colombia solicita a EE UU mediar ante las autoridades de Venezuela para la localización de una militar secuestrada por el ELN",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/colombia-solicita-a-ee-uu-mediar-ante-las-autoridades-de-venezuela-para-la-localizacion-de-una-militar-secuestrada-por-el-eln/",
+      "published_date": "2026-11-12T00:56:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La fuerza de la fe frente al terror: El valor de no tener miedo",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/g7-respalda-dialogo-en-venezuela-pide-elecciones-libres-y-liberacion-de-presos-politicos/",
-      "published_date": "2026-11-11T17:57:44Z",
+      "url": "https://elpitazo.net/opinion/la-fuerza-de-la-fe-frente-al-terror-el-valor-de-no-tener-miedo-2/",
+      "published_date": "2026-11-12T00:34:12Z",
       "category": "Local Events"
     },
     {
-      "title": "Se quedó con la plata: la Vinotinto femenina de futsal cayó 3-4 en la final ante Ucrania",
+      "title": "Dinorah Figuera visita a Perkins Rocha tras cerco policial a su vivienda",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/dinorah-figuera-visita-a-perkins-rocha-tras-cerco-policial-a-su-vivienda/",
+      "published_date": "2026-11-12T00:28:50Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Incendio de comercio en Tumeremo devela precariedad de los Bomberos de Sifontes tras trágica semana en la localidad",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/se-quedo-con-la-plata-la-vinotinto-femenina-de-futsal-cayo-3-4-en-la-final-ante-ucrania/",
-      "published_date": "2026-11-11T17:50:54Z",
+      "url": "https://www.elnacional.com/2026/11/incendio-de-comercio-en-tumeremo-devela-precariedad-de-los-bomberos-de-sifontes-tras-tragica-semana-en-la-localidad/",
+      "published_date": "2026-11-12T00:11:36Z",
       "category": "Local Events"
     },
     {
-      "title": "Colegio de Enfermería de Caracas denuncia amenazas de despido a personal de salud por apoyar el paro",
+      "title": "Douglas Rodríguez vincula la crisis laboral venezolana con la falta de una transición política",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/colegio-de-enfermeria-de-caracas-denuncia-amenazas-de-despido-a-personal-de-salud-por-apoyar-el-paro/",
-      "published_date": "2026-11-11T17:06:46Z",
+      "url": "https://www.elnacional.com/2026/11/douglas-rodriguez-vincula-la-crisis-laboral-venezolana-con-la-falta-de-una-transicion-politica/",
+      "published_date": "2026-11-12T00:03:26Z",
       "category": "Local Events"
     },
     {
-      "title": "34 militares se declaran en huelga de hambre en Ramo Verde por paralización de sus juicios",
+      "title": "“Esto no muere aquí”: Trabajadores de Guayana mantendrán las protestas pese al acuerdo por utilidades",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/34-militares-se-declaran-en-huelga-de-hambre-en-ramo-verde-por-paralizacion-de-sus-juicios/",
-      "published_date": "2026-11-11T16:33:27Z",
+      "url": "https://www.elnacional.com/2026/11/esto-no-muere-aqui-trabajadores-de-guayana-mantendran-las-protestas-pese-al-acuerdo-por-utilidades/",
+      "published_date": "2026-11-11T23:55:56Z",
       "category": "Local Events"
     },
     {
-      "title": "Espacio Público documentó aumento de violaciones a la libertad de expresión en octubre",
+      "title": "La Federación Médica Venezolana desestima sumarse al paro nacional de salud del 16 de noviembre por considerarlo \"extemporáneo\"",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/espacio-publico-documento-aumento-de-violaciones-a-la-libertad-de-expresion-en-octubre/",
-      "published_date": "2026-11-11T16:06:58Z",
+      "url": "https://www.elnacional.com/2026/11/la-federacion-medica-venezolana-desestima-sumarse-al-paro-nacional-de-salud-del-16-de-noviembre-por-considerarlo-extemporaneo/",
+      "published_date": "2026-11-11T23:36:54Z",
       "category": "Local Events"
     },
     {
-      "title": "Reforma a ley del sistema eléctrico: Gobierno quiere inversiones, pero no suelta el enchufe",
+      "title": "Marc Anthony regresa a Caracas el 4 de febrero: estos son los precios de las entradas para su concierto",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/marc-anthony-regresa-a-caracas-el-4-de-febrero-estos-son-los-precios-de-las-entradas-para-su-concierto/",
+      "published_date": "2026-11-11T23:26:08Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "FIFA publica los 21 futbolistas convocados por la Vinotinto para el Mundial Sub-17",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/fifa-publica-los-21-futbolistas-convocados-por-la-vinotinto-para-el-mundial-sub-17/",
+      "published_date": "2026-11-11T22:59:20Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El Papa llegó a Perú, su país adoptivo, en la última etapa de su gira latinoamericana",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/papa-leon-xiv-llego-a-peru-su-pais-adoptivo-en-la-ultima-etapa-de-su-gira-latinoamericana/",
+      "published_date": "2026-11-11T22:46:53Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La crisis en Paraguay: \"Hubo una guerra política detrás de la caída de Ueno Bank y la salida de Santiago Peña\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/crisis-en-paraguay-hubo-una-guerra-politica-detras-de-la-caida-de-ueno-bank-y-la-salida-de-santiago-pena/",
+      "published_date": "2026-11-11T22:27:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Salomón Rondón afirma que se enteró por nota de voz que no estaba convocado por la Vinotinto",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/salomon-rondon-afirma-que-se-entero-por-nota-de-voz-que-no-estaba-convocado-por-la-vinotinto/",
+      "published_date": "2026-11-11T22:13:32Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "María Corina Machado: “Esta no será la transición de unos cuantos, será una transición a la venezolana”",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/625231/reforma-a-ley-del-sistema-electrico-gobierno-quiere-inversiones-pero-no-suelta-el-enchufe/",
-      "published_date": "2026-11-11T15:56:04Z",
+      "url": "https://runrun.es/noticias/625327/maria-corina-machado-esta-no-sera-la-transicion-de-unos-cuantos-sera-una-transicion-a-la-venezolana/",
+      "published_date": "2026-11-11T22:08:32Z",
       "category": "Local Events"
     },
     {
-      "title": "Pat Murphy consiguió otra manera de hacer historia: es Mánager del Año por tercera vez",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/pat-murphy-consiguio-otra-manera-de-hacer-historia-es-manager-del-ano-por-tercera-vez/",
-      "published_date": "2026-11-11T15:27:54Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "El G7 vincula la recuperación económica con la reconciliación política en Venezuela",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/el-g7-vincula-la-recuperacion-economica-con-la-reconciliacion-politica-en-venezuela/",
-      "published_date": "2026-11-11T15:12:48Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Emisarios de la Casa Blanca viajarán a Rusia para reunirse con Putin",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/emisarios-de-la-casa-blanca-viajaran-a-rusia-para-reunirse-con-putin/",
-      "published_date": "2026-11-11T15:04:32Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Ucrania y Rusia acuerdan canje de prisioneros \"a gran escala\" y seguir negociando",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/ucrania-y-rusia-acuerdan-canje-de-prisioneros-a-gran-escala-y-seguir-negociando/",
-      "published_date": "2026-11-11T14:43:12Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Tarifas del servicio eléctrico se calcularán a la moneda de mayor valor: gobierno otorgará subsidios a casos particulares",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/tarifas-del-servicio-electrico-se-calcularan-a-la-moneda-de-mayor-valor-gobierno-otorgara-subsidios-a-casos-particulares/",
-      "published_date": "2026-11-11T14:17:56Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jorge Rodríguez: Reforma de la Ley del Servicio Eléctrico no promueve privatizar",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/jorge-rodriguez-reforma-de-la-ley-del-servicio-electrico-no-promueve-privatizar/",
-      "published_date": "2026-11-11T13:43:18Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Dueño del Grupo Lamar llega a Maracaibo luego de ser excarcelado: tiene medidas cautelares",
+      "title": "Claves | Ley de Servicio Eléctrico: la norma promovida por los Rodríguez que impone tarifas en euro sin resolver los apagones",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/zulia-dueno-del-grupo-lamar-llega-a-maracaibo-luego-de-ser-excarcelado-tiene-medidas-cautelares/",
-      "published_date": "2026-11-11T13:42:17Z",
+      "url": "https://elpitazo.net/economia/claves-ley-de-servicio-electrico-la-norma-promovida-por-los-rodriguez-que-impone-tarifas-en-euro-sin-resolver-los-apagones/",
+      "published_date": "2026-11-11T21:52:01Z",
       "category": "Local Events"
     },
     {
-      "title": "Jayson Tatum le ganó el duelo a Jaylen Brown en Filadelfia",
+      "title": "Perkins Rocha califica de arbitrario el cerco policial a su residencia y alerta que la restricción de visitas vulnera el proceso de diálogo",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/jayson-tatum-le-gano-el-duelo-a-jaylen-brown-en-filadelfia/",
-      "published_date": "2026-11-11T13:15:46Z",
+      "url": "https://www.elnacional.com/2026/11/perkins-rocha-califica-de-arbitrario-el-cerco-policial-a-su-residencia-y-alerta-que-la-restriccion-de-visitas-vulnera-el-proceso-de-dialogo/",
+      "published_date": "2026-11-11T21:51:29Z",
       "category": "Local Events"
     },
     {
-      "title": "Falleció Ignacio Ávalos, exrector del CNE y columnista de El Nacional",
+      "title": "Cuarta baja para Francia: Mbappé no estará ante Italia por lesión",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/fallecio-ignacio-avalos-exrector-del-cne-y-columnista-de-el-nacional/",
-      "published_date": "2026-11-11T12:22:53Z",
+      "url": "https://www.elnacional.com/2026/11/cuarta-baja-para-francia-mbappe-no-estara-ante-italia-por-lesion/",
+      "published_date": "2026-11-11T21:50:24Z",
       "category": "Local Events"
     },
     {
-      "title": "Hoy se proyecta El nuevo pez que fuma en el Festival de Cine de Mar del Plata",
+      "title": "Dos eurodiputados de VOX viajan a Venezuela para reunirse con Machado",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/hoy-se-proyecta-el-nuevo-pez-que-fuma-en-mar-del-plata/",
-      "published_date": "2026-11-11T11:00:00Z",
+      "url": "https://www.elnacional.com/2026/11/dos-eurodiputados-de-vox-viajan-a-venezuela-para-reunirse-con-machado/",
+      "published_date": "2026-11-11T21:26:50Z",
       "category": "Local Events"
     },
     {
-      "title": "Delcy Rodríguez llega a Turquía para participar en la cumbre climática COP31",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/delcy-rodriguez-llega-a-turquia-para-participar-en-la-cumbre-climatica-cop31/",
-      "published_date": "2026-11-11T10:22:38Z",
+      "title": "CVG pagará $1.100 de utilidades: ¿cómo lo lograron los trabajadores?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/guayana/cvg-pagara-1-100-de-utilidades-como-lo-lograron-los-trabajadores/",
+      "published_date": "2026-11-11T21:04:55Z",
       "category": "Local Events"
     },
     {
-      "title": "Crisis presupuestaria provoca retroceso de las universidades venezolanas en rankings mundiales",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/caida-de-las-universidades-venezolanas-en-los-rankings-mundiales/",
-      "published_date": "2026-11-11T08:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Familias en La Guaira todavía buscan a 63 menores desaparecidos tras los terremotos",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/hasta-encontrarlos-familias-buscan-a-63-menores-en-la-guaira/",
-      "published_date": "2026-11-11T06:00:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Día del soltero en China se celebra con la IA como protagonista",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/dia-del-soltero-en-china-se-celebra-con-la-ia-como-protagonista/",
-      "published_date": "2026-11-11T05:41:00Z",
+      "title": "«Mi papá es el piloto del papa»: niña se emociona al descubrir que su padre piloteó el avión de León XIV",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/internacional/mi-papa-es-el-piloto-del-papa-nina-se-emociona-al-descubrir-que-su-padre-piloteo-el-avion-de-leon-xiv/",
+      "published_date": "2026-11-11T20:47:45Z",
       "category": "Local Events"
     }
   ]
