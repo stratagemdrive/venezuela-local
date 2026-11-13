@@ -1,146 +1,160 @@
 {
   "country": "venezuela",
-  "last_updated": "2026-11-12T18:49:03Z",
+  "last_updated": "2026-11-13T03:23:32Z",
   "stories": [
     {
-      "title": "Tras restricción de visitas redoblan cerco policial en residencia de Perkins Rocha",
+      "title": "Lenyn Sosa sentenció con jonrón ante Cardenales  la séptima victoria consecutiva de Leones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/lenyn-sosa-sentencio-con-jonron-la-victoria-de-leones-ante-cardenales/",
+      "published_date": "2026-11-13T03:03:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Tigres venció a Caribes con jonrón de Alberth Martínez y doble decisivo de Sibrian en Puerto La Cruz",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/tigres-de-aragua-vencio-a-caribes-con-jonron-de-alberth-martinez-y-doble-decisivo-de-jose-sibrian/",
+      "published_date": "2026-11-13T02:47:44Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Liderazgo inclusivo: descubrir el talento más allá de las diferencias",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/625398/tras-restriccion-de-visitas-redoblan-cerco-policial-en-residencia-de-perkins-rocha/",
-      "published_date": "2026-11-12T18:16:42Z",
+      "url": "https://runrun.es/opinion/625459/liderazgo-inclusivo/",
+      "published_date": "2026-11-13T02:47:10Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Venezuela busca coordinar acciones de seguridad fronteriza con Colombia",
+      "title": "\"Son los coletazos totalitarios de un régimen que agoniza\": eurodiputado Hermann Tertsch condena restricción policial en la residencia de Perkins Rocha",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/venezuela-busca-coordinar-acciones-de-seguridad-fronteriza-con-colombia/",
-      "published_date": "2026-11-12T17:22:44Z",
+      "url": "https://www.elnacional.com/2026/11/son-los-coletazos-totalitarios-de-un-regimen-que-agoniza-eurodiputado-hermann-tertsch-condena-restriccion-policial-en-la-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-13T01:15:48Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Quién es Alice Huang, la presunta espía china que tuvo una relación con el director de Nvidia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/quien-es-alice-huang-la-presunta-espia-china-que-tuvo-una-relacion-con-el-director-de-nvidia/",
-      "published_date": "2026-11-12T16:47:21Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Vente Venezuela denuncia refuerzo del cerco policial frente a la residencia de Perkins Rocha en Caracas",
+      "title": "Delcy Rodríguez dice que 99 % de ingresos por petróleo se destinó a salarios, pero el sueldo mínimo sigue en 130 bolívares",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/vente-venezuela-denuncia-refuerzo-del-cerco-policial-frente-a-la-residencia-de-perkins-rocha-en-caracas/",
-      "published_date": "2026-11-12T16:16:33Z",
+      "url": "https://elpitazo.net/economia/delcy-rodriguez-dice-que-99-de-ingresos-de-petroleo-se-destinaron-a-salarios-pero-el-sueldo-minimo-sigue-en-130-bolivares/",
+      "published_date": "2026-11-13T01:04:37Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Asamblea Nacional anuncia excarcelaciones y las atribuye al debate de la reforma penal",
+      "title": "Marc Anthony confirma su regreso a Venezuela: ¿cuánto cuestan las entradas?",
       "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/asamblea-nacional-anuncia-excarcelaciones-y-las-atribuye-al-debate-de-la-reforma-penal/",
-      "published_date": "2026-11-12T13:40:20Z",
+      "url": "https://elpitazo.net/cultura/marc-anthony-confirma-su-regreso-a-venezuela-cuanto-cuestan-las-entradas/",
+      "published_date": "2026-11-13T00:32:26Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Victor Wembanyama guio a los Spurs a su décimo triunfo seguido",
+      "title": "Al menos ocho muertos por el colapso de un edificio en Nueva York",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/victor-wembanyama-guio-a-los-spurs-a-su-decimo-triunfo-seguido/",
-      "published_date": "2026-11-12T13:25:23Z",
+      "url": "https://www.elnacional.com/2026/11/al-menos-ocho-muertos-por-el-colapso-de-un-edificio-en-nueva-york/",
+      "published_date": "2026-11-13T00:11:01Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Jensen Huang está al borde de ser destituido de Nvidia",
+      "title": "“Esto es un inaudito”: eurodiputados rechazan bloqueo policial en la residencia de Perkins Rocha",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/esto-es-un-inaudito-eurodiputados-rechazan-bloqueo-policial-en-la-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-13T00:08:52Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Enviado de EEUU dice que habrá otra reunión con Rusia y Ucrania con participación europea",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/jensen-huang-esta-al-borde-de-ser-destituido-de-nvidia/",
-      "published_date": "2026-11-12T12:25:54Z",
+      "url": "https://www.elnacional.com/2026/11/enviado-de-eeuu-dice-que-habra-otra-reunion-con-rusia-y-ucrania-con-participacion-europea/",
+      "published_date": "2026-11-12T23:57:45Z",
       "category": "Diplomacy"
     },
     {
-      "title": "El Mañanero del 12 de noviembre: María Corina Machado entrevistada en un medio de comunicación",
+      "title": "Monagas finaliza la Liga Futve con un triunfo sobre la hora ante Academia Puerto Cabello",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/monagas-finaliza-la-liga-futve-con-un-triunfo-sobre-la-hora-ante-academia-puerto-cabello/",
+      "published_date": "2026-11-12T23:55:51Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Eurodiputados de Vox: \"Con Santiago Abascal en el gobierno, el apoyo de España a la transición en Venezuela será mayor\"",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/eurodiputados-de-vox-con-santiago-abascal-en-el-gobierno-el-apoyo-de-espana-a-la-transicion-en-venezuela-sera-mayor/",
+      "published_date": "2026-11-12T23:45:18Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "Venezuela dio un paso importante en el Mundial sub-23 al vencer a Australia",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/venezuela-dio-un-paso-importante-en-el-mundial-sub-23-al-vencer-a-australia/",
+      "published_date": "2026-11-12T23:09:23Z",
+      "category": "Diplomacy"
+    },
+    {
+      "title": "“No más torturas”: el clamor de presos políticos de Ramo Verde en huelga de hambre",
       "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/625337/el-mananero-del-12-de-noviembre-maria-corina-machado-entrevistada-en-un-medio-de-comunicacion/",
-      "published_date": "2026-11-12T09:00:00Z",
+      "url": "https://runrun.es/noticias/625427/no-mas-torturas-el-clamor-de-presos-politicos-de-ramo-verde-en-huelga-de-hambre/",
+      "published_date": "2026-11-12T23:07:47Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Varias personas baleadas en tiroteo en Washington",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/varias-personas-baleadas-en-tiroteo-en-washington/",
-      "published_date": "2026-11-12T06:00:00Z",
+      "title": "Los Pitazos del Director | ¿Quiénes están detrás de las empresas que reciben millones del petróleo venezolano?",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/los-pitazos-del-director-quienes-estan-detras-de-las-empresas-que-reciben-millones-del-petroleo-venezolano/",
+      "published_date": "2026-11-12T22:59:50Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Foro Penal actualizó en 321 el número de presos políticos en Venezuela",
+      "title": "Trump asegura que busca \"dejar resuelto lo de Cuba\" antes de finalizar su mandato en 2029",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/foro-penal-actualizo-en-321-el-numero-de-presos-politicos/",
-      "published_date": "2026-11-12T06:00:00Z",
+      "url": "https://www.elnacional.com/2026/11/trump-asegura-que-busca-dejar-resuelto-lo-de-cuba-antes-de-finalizar-su-mandato-en-2029/",
+      "published_date": "2026-11-12T22:55:56Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Los demócratas podrían presionar a Trump para reforzar la transición democrática en Venezuela",
+      "title": "Colombia expulsó a 71 venezolanos acusados de cometer delitos en Bucaramanga",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/los-democratas-podrian-presionar-a-trump-para-reforzar-la-transicion-democratica-en-venezuela/",
-      "published_date": "2026-11-12T06:00:00Z",
+      "url": "https://www.elnacional.com/2026/11/colombia-expulso-a-71-venezolanos-acusados-de-cometer-delitos-en-bucaramanga/",
+      "published_date": "2026-11-12T22:40:55Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Rastrean el origen de la leucemia para predecir la enfermedad",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/rastrean-el-origen-de-la-leucemia-para-predecir-la-enfermedad/",
-      "published_date": "2026-11-12T05:15:00Z",
+      "title": "Bolívar | Trabajadores y jubilados de Minerven introducen amparo para frenar jubilaciones forzadas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/guayana-2/bolivar-trabajadores-y-jubilados-de-minerven-introducen-amparo-para-frenar-jubilaciones-forzadas/",
+      "published_date": "2026-11-12T22:12:32Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Netflix revisa el auge y caída del actor Russell Brand en un documental",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/netflix-revisa-el-auge-y-caida-del-actor-russell-brand-en-un-documental/",
-      "published_date": "2026-11-12T05:05:00Z",
+      "title": "Intoxicaciones escolares: Portuguesa suma un nuevo caso que afectó a siete liceístas",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/los-llanos/intoxicaciones-escolares-portuguesa-suma-un-nuevo-caso-que-afecto-a-siete-liceistas/",
+      "published_date": "2026-11-12T22:08:48Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Piden a la OMS revisar los límites de nitratos permitidos en el agua potable",
+      "title": "Familiares de militares detenidos protestan en Ramo Verde para exigir excarcelaciones y condiciones dignas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/piden-a-la-oms-revisar-los-limites-de-nitratos-permitidos-en-el-agua/",
-      "published_date": "2026-11-12T05:00:00Z",
+      "url": "https://www.elnacional.com/2026/11/familiares-de-militares-detenidos-protestan-en-ramo-verde-para-exigir-excarcelaciones-y-condiciones-dignas/",
+      "published_date": "2026-11-12T21:56:23Z",
       "category": "Diplomacy"
     },
     {
-      "title": "25 años del último encuentro entre Paul McCartney, Ringo Starr y George Harrison",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/25-anos-del-ultimo-encuentro-entre-paul-mccartney-ringo-starr-y-george-harrison/",
-      "published_date": "2026-11-12T05:00:00Z",
+      "title": "Bolívar | Se incendia local en Tumeremo por presunto cortocircuito: es el segundo en una semana",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/bolivar-se-incendia-local-en-tumeremo-por-presunto-cortocircuito-es-el-segundo-en-una-semana/",
+      "published_date": "2026-11-12T21:09:40Z",
       "category": "Diplomacy"
     },
     {
-      "title": "Constructores, la iniciativa de Vente Venezuela que preocupa a expertos en seguridad digital",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/constructores-la-iniciativa-de-vente-venezuela-que-preocupa-a-expertos-en-seguridad-digital/",
-      "published_date": "2026-11-12T05:00:00Z",
-      "category": "Diplomacy"
+      "title": "Gobierno de Rodríguez ofrece cooperación a Colombia, sin mencionar mediación por militar secuestrada por el ELN",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625406/gobierno-de-rodriguez-ofrece-cooperacion-a-colombia-sin-mencionar-mediacion-por-militar-secuestrada-por-el-eln/",
+      "published_date": "2026-11-12T20:09:44Z",
+      "category": "Military"
     },
     {
-      "title": "\"Un juez me ordenó por Zoom someterme a una cesárea mientras estaba pariendo en el hospital\"",
+      "title": "La FANB anuncia despliegue militar en Apure para desmantelar campamentos de irregulares y pistas clandestinas",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/un-juez-me-ordeno-por-zoom-someterme-a-una-cesarea/",
-      "published_date": "2026-11-12T04:59:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "El documental sobre Elizabeth Holmes convertido en fenómeno cultural en EE UU",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/el-documental-sobre-elizabeth-holmes-convertido-en-fenomeno-cultural-en-ee-uu/",
-      "published_date": "2026-11-12T04:55:00Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Cardenales vino de atrás y derrotó a Tiburones con un rally de seis carreras en el octavo",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/cardenales-vino-de-atras-y-derroto-a-tiburones-con-un-rally-de-seis-carreras-en-el-octavo/",
-      "published_date": "2026-11-12T03:31:17Z",
-      "category": "Diplomacy"
-    },
-    {
-      "title": "Dinorah Figuera condena las restricciones de visitas en la residencia de Perkins Rocha y advierte que afectan el clima del diálogo político",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/dinorah-figuera-condena-las-restricciones-de-visitas-en-la-residencia-de-perkins-rocha-y-advierte-que-afectan-el-clima-del-dialogo-politico/",
-      "published_date": "2026-11-12T00:22:19Z",
-      "category": "Diplomacy"
+      "url": "https://www.elnacional.com/2026/11/la-fanb-anuncia-despliegue-militar-en-apure-para-desmantelar-campamentos-de-irregulares-y-pistas-clandestinas/",
+      "published_date": "2026-11-12T19:04:13Z",
+      "category": "Military"
     },
     {
       "title": "Alcalde colombiano presume que secuestradores llevaron a su esposa a Venezuela: señaló al ELN como responsables",
@@ -150,7 +164,7 @@
       "category": "Military"
     },
     {
-      "title": "María Corina Machado se reúne con eurodiputados de VOX en Caracas y conversa por videollamada con Santiago Abascal",
+      "title": "María Corina Machado se reunió con eurodiputados de VOX en Caracas y conversó por videollamada con Santiago Abascal",
       "source": "El Nacional",
       "url": "https://www.elnacional.com/2026/11/maria-corina-machado-se-reune-con-eurodiputados-de-vox-en-caracas-y-conversa-por-videollamada-con-santiago-abascal/",
       "published_date": "2026-11-12T18:13:18Z",
@@ -269,18 +283,11 @@
       "category": "Military"
     },
     {
-      "title": "Condenan a Russell Brand a diez años de prisión por agresión sexual",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/condenan-a-russell-brand-a-diez-anos-de-prision-por-agresion-sexual/",
-      "published_date": "2026-11-09T04:59:00Z",
-      "category": "Military"
-    },
-    {
-      "title": "Trump admite que su política de deportaciones fue \"demasiado dura\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/trump-admite-que-su-politica-de-deportaciones-fue-demasiado-dura/",
-      "published_date": "2026-11-08T21:49:00Z",
-      "category": "Military"
+      "title": "Monagas | Exlegisladoras proponen dividir a Maturín en cinco municipios",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/regiones/monagas-exlegisladoras-proponen-dividir-a-maturin-en-cinco-municipios/",
+      "published_date": "2026-11-12T20:35:35Z",
+      "category": "Energy"
     },
     {
       "title": "Caso «el Duke»: tribunal otorga libertad plena al médico José Villegas y a la anestesióloga Eileen Yépez",
@@ -416,11 +423,18 @@
       "category": "Energy"
     },
     {
-      "title": "Jubilados petroleros bloquean entrada principal de Pdvsa en La Campiña para exigir el pago de una deuda millonaria",
+      "title": "Cifras récord en el año fiscal 2026: ICE registra 475.000 detenciones y 483.200 deportaciones",
       "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/jubilados-petroleros-bloquean-entrada-principal-de-pdvsa-en-la-campina-para-exigir-el-pago-de-una-deuda-millonaria/",
-      "published_date": "2026-11-10T16:53:06Z",
-      "category": "Energy"
+      "url": "https://www.elnacional.com/2026/11/cifras-record-en-el-ano-fiscal-2026-ice-registra-475-000-detenciones-y-483-200-deportaciones/",
+      "published_date": "2026-11-12T23:33:17Z",
+      "category": "Economy"
+    },
+    {
+      "title": "PNB impide que eurodiputados visiten a Perkins Rocha",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625398/tras-restriccion-de-visitas-redoblan-cerco-policial-en-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-12T22:16:00Z",
+      "category": "Economy"
     },
     {
       "title": "Bloomberg: Venezuela envía equipos petroleros a EE UU para su reparación",
@@ -493,11 +507,130 @@
       "category": "Economy"
     },
     {
-      "title": "BCV dice que Venezuela registra una inflación del 6,2 % en octubre",
-      "source": "Efecto Cocuyo",
-      "url": "https://efectococuyo.com/economia/bcv-dice-que-venezuela-registra-una-inflacion-del-62-en-octubre/",
-      "published_date": "2026-11-05T19:06:33Z",
-      "category": "Economy"
+      "title": "La UE llevará cortometrajes de jóvenes venezolanos a seis estados con la quinta edición de Cortoscopio",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/la-ue-llevara-cortometrajes-de-jovenes-venezolanos-a-seis-estados-con-la-quinta-edicion-de-cortoscopio/",
+      "published_date": "2026-11-13T01:20:05Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Plataforma Unitaria condena las restricciones policiales en la residencia de Perkins Rocha",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/plataforma-unitaria-condena-las-restricciones-policiales-en-la-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-13T00:57:27Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Perkins Rocha agradece desde su balcón la visita de eurodiputados españoles tras nuevo bloqueo policial a su residencia: “Seremos libres”",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/perkins-rocha-agradece-desde-su-balcon-la-visita-de-eurodiputados-espanoles-tras-nuevo-bloqueo-policial-a-su-residencia-seremos-libres/",
+      "published_date": "2026-11-13T00:51:36Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Oliver Blanco desmiente que la Cancillería prohibiera el acceso de eurodiputados a la residencia de Perkins Rocha",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/oliver-blanco-desmiente-que-la-cancilleria-prohibiera-el-acceso-de-eurodiputados-a-la-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-13T00:30:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Caracas | Hombre «cazaba» a adultos mayores solos para robarlos: fue detenido tras amordazar a una octogenaria en Macaracuay",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/sucesos/caracas-hombre-cazaba-a-adultos-mayores-solos-para-robarlos-fue-detenido-tras-amordazar-a-una-octogenaria-en-macaracuay/",
+      "published_date": "2026-11-13T00:06:56Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Fallas eléctricas se convierten en el primer obstáculo para la industria: costos se elevan a 34.000 dólares mensuales",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/economia/fallas-electricas-se-convierten-en-el-primer-obstaculo-para-la-industria-costos-se-elevan-a-34-000-dolares-mensuales/",
+      "published_date": "2026-11-12T22:38:04Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "¿Qué impacto ha tenido el pitcheo abridor en las rachas de Caracas y Magallanes?",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/que-impacto-ha-tenido-el-pitcheo-abridor-en-las-rachas-de-caracas-y-magallanes/",
+      "published_date": "2026-11-12T22:12:42Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Italia le remonta a Francia y España amplía su racha invicta a 43 partidos",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/italia-le-remonta-a-francia-y-espana-amplia-su-racha-invicta-a-43-partidos/",
+      "published_date": "2026-11-12T22:10:12Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "La Conversa | Juan Carlos Caldera exige renovación del TSJ y del CNE antes de febrero",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/noticias/625409/la-conversa-juan-carlos-caldera-exige-renovacion-del-tsj-y-del-cne-antes-de-febrero/",
+      "published_date": "2026-11-12T21:13:23Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Policías impiden a dos eurodiputados entrar a la residencia de Perkins Rocha",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/policias-impiden-a-dos-eurodiputados-entrar-a-la-residencia-de-perkins-rocha/",
+      "published_date": "2026-11-12T21:00:26Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "EE UU gestionó más de 12.000 millones de dólares de recursos venezolanos en 9 meses",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/ee-uu-gestiono-mas-de-12-000-millones-de-dolares-de-recursos-venezolanos-en-nueve-meses/",
+      "published_date": "2026-11-12T20:45:28Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "«Ya no nos están invadiendo, ahora nos están matando»: líderes indígenas venezolanos denuncian aumento de violencia",
+      "source": "Runrun.es",
+      "url": "https://runrun.es/rr-es-plus/625318/ya-no-nos-estan-invadiendo-ahora-nos-estan-matando-lideres-indigenas-denuncian-el-aumento-de-la-violencia-en-venezuela/",
+      "published_date": "2026-11-12T20:19:25Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "El SNTP solicita ante la Asamblea Nacional  derogar la Ley contra el Odio",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/el-sntp-solicita-ante-la-asamblea-nacional-la-derogacion-total-de-la-ley-contra-el-odio/",
+      "published_date": "2026-11-12T20:11:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Tomás Rincón afirma que quiere seguir ayudando a \"elevar los estándares\" de la Vinotinto",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/tomas-rincon-afirma-que-quiere-seguir-ayudando-a-elevar-los-estandares-de-la-vinotinto/",
+      "published_date": "2026-11-12T20:01:03Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Lionel Scaloni continuará al mando de Argentina hasta 2030",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/lionel-scaloni-continuara-al-mando-de-argentina-hasta-2030/",
+      "published_date": "2026-11-12T19:58:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Denuncian aumento del despliegue policial frente a la residencia de Perkins Rocha en Caracas",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/denuncian-aumento-del-despliegue-policial-frente-a-la-residencia-de-perkins-rocha-en-caracas/",
+      "published_date": "2026-11-12T19:34:16Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "TSJ | Comité de Postulaciones afirma que tendrán nuevos magistrados en diciembre pese a prórroga en convocatoria",
+      "source": "El Pitazo",
+      "url": "https://elpitazo.net/politica/tsj-comite-de-postulaciones-afirma-que-tendran-nuevos-magistrados-en-diciembre-pese-a-prorroga-en-convocatoria/",
+      "published_date": "2026-11-12T18:58:47Z",
+      "category": "Local Events"
+    },
+    {
+      "title": "Magallanero Ángel Reyes muestra su poder y es el líder indiscutido de los jonrones",
+      "source": "El Nacional",
+      "url": "https://www.elnacional.com/2026/11/magallanero-angel-reyes-muestra-su-poder-y-es-el-lider-indiscutido-de-los-jonrones/",
+      "published_date": "2026-11-12T18:54:43Z",
+      "category": "Local Events"
     },
     {
       "title": "Por qué la familia Kennedy demanda a Trump por la polémica construcción de su arco del triunfo",
@@ -511,132 +644,6 @@
       "source": "Runrun.es",
       "url": "https://runrun.es/noticias/625382/venezuela-en-la-berlin-freedom-conference-presos-politicos-y-transicion-en-el-centro-del-debate/",
       "published_date": "2026-11-12T17:53:30Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Álvaro Recoba, estratega de Táchira: \"Nos queda la estrella y vamos a ir a por ella\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/alvaro-recoba-estratega-de-tachira-nos-queda-la-estrella-y-vamos-a-ir-a-por-ella/",
-      "published_date": "2026-11-12T17:28:10Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La UCAB diseñó modelo para enfrentar la exclusión y el rezago en la primera infancia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/la-ucab-diseno-modelo-para-enfrentar-la-exclusion-y-el-rezago-en-la-primera-infancia/",
-      "published_date": "2026-11-12T17:09:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Canciller de Colombia se disculpa con demócratas estadounidenses por insultos del pasado",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/canciller-de-colombia-se-disculpa-con-democratas-estadounidenses-por-insultos-del-pasado/",
-      "published_date": "2026-11-12T17:03:23Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jackson Chourio y Gabriel Moreno comandan a los venezolanos en el equipo ideal de MLB",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/jackson-chourio-y-gabriel-moreno-comandan-a-los-venezolanos-en-el-equipo-ideal-de-mlb/",
-      "published_date": "2026-11-12T17:01:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Belli anuncia la convocatoria de la Vinotinto femenina con el regreso de Oriana Altuve",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/belli-anuncia-la-convocatoria-de-la-vinotinto-femenina-con-el-regreso-de-oriana-altuve/",
-      "published_date": "2026-11-12T16:44:01Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Padre de gemelos venezolanos detenidos por ICE: \"Tratan de mantenerse en pie, pero ya se han quebrado\"",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/padre-de-gemelos-venezolanos-detenidos-por-ice-tratan-de-mantenerse-en-pie-pero-ya-se-han-quebrado/",
-      "published_date": "2026-11-12T16:38:58Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Excarcelan a dos presos políticos condenados por el caso Paramacay",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/excarcelan-a-dos-presos-politicos-condenados-por-el-caso-paramacay/",
-      "published_date": "2026-11-12T16:16:25Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Crisis eléctrica | Denuncian racionamientos de hasta 72 horas seguidas en zonas rurales de Barinas",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/los-llanos/crisis-electrica-denuncian-racionamientos-de-hasta-72-horas-seguidas-en-zonas-rurales-de-barinas/",
-      "published_date": "2026-11-12T15:56:33Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Zulia | Autoridades prometen de nuevo incorporar 150 MW en Termozulia para mejorar el servicio eléctrico",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/regiones/occidente/zulia-autoridades-prometen-de-nuevo-incorporar-150-mw-en-termozulia-para-mejorar-el-servicio-electrico/",
-      "published_date": "2026-11-12T15:37:09Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "APLEX exigió ante la AN derogación de Ley contra el Odio, revisión de causas y reparación",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/625363/aplex-exigio-ante-la-an-derogacion-de-ley-contra-el-odio-revision-de-causas-y-reparacion/",
-      "published_date": "2026-11-12T15:10:35Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "La boxeadora Grenyelis García se llevó el oro en los Juegos Olímpicos Dakar 2026",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/la-boxeadora-grenyelis-garcia-se-llevo-el-oro-en-los-juegos-olimpicos-dakar-2026/",
-      "published_date": "2026-11-12T15:07:13Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Jensen Huang renuncia a su cargo como CEO de Nvidia",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/jensen-huang-renuncia-a-su-cargo-como-ceo-de-nvidia/",
-      "published_date": "2026-11-12T14:47:44Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Federación Médica Venezolana no participará en paro nacional del 16 de noviembre",
-      "source": "Runrun.es",
-      "url": "https://runrun.es/noticias/625373/federacion-medica-venezolana-no-participara-en-paro-nacional-del-16-de-noviembre/",
-      "published_date": "2026-11-12T14:39:00Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dominio absoluto: Jacob Misiorowski y Cam Schlittler ganaron unánime el Cy Young",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/dominio-absoluto-jacob-misiorowski-y-cam-schlittler-ganaron-unanime-el-cy-young/",
-      "published_date": "2026-11-12T14:06:43Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dos eurodiputados de VOX llegan a Venezuela para reunirse con María Corina Machado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/dos-eurodiputados-de-vox-llegan-a-venezuela-para-reunirse-con-maria-corina-machado/",
-      "published_date": "2026-11-12T14:02:34Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Dos presas políticas se unen a la huelga de hambre iniciada por 34 militares en Ramo Verde",
-      "source": "El Nacional",
-      "url": "https://www.elnacional.com/2026/11/dos-presas-politicas-se-unen-a-la-huelga-de-hambre-iniciada-por-34-militares-en-ramo-verde/",
-      "published_date": "2026-11-12T14:02:14Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Aguinaldos de 150 dólares: la propuesta de Delcy Rodríguez que rechazan sindicatos y trabajadores",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/economia/aguinaldos-de-150-dolares-la-propuesta-de-delcy-rodriguez-que-rechazan-sindicatos-y-trabajadores/",
-      "published_date": "2026-11-12T13:49:38Z",
-      "category": "Local Events"
-    },
-    {
-      "title": "Brian Naranjo: la administración Trump le teme a María Corina Machado",
-      "source": "El Pitazo",
-      "url": "https://elpitazo.net/politica/brian-naranjo-la-administracion-trump-le-teme-a-maria-corina-machado/",
-      "published_date": "2026-11-12T13:45:13Z",
       "category": "Local Events"
     }
   ]
